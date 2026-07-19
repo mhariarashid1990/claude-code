@@ -3,18 +3,18 @@
 Live map of every topic file and its current question count. Updated on every
 `Allocate`, `Move`, or restructuring event.
 
-**Total questions allocated: 15**
+**Total questions allocated: 30**
 
 ## Section 1 — The Decline of the Mughal Empire & the Establishment of British Rule
 
 | # | Topic | File | Count |
 |---|-------|------|-------|
-| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 0 |
-| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 1 |
-| 3 | Religious Reformers | `section-1-mughal-decline-british-rule/03-religious-reformers.md` | 1 |
-| 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 1 |
-| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 0 |
-| 6 | Urdu Language Controversy (Languages) | `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` | 0 |
+| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 1 |
+| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 2 |
+| 3 | Religious Reformers | `section-1-mughal-decline-british-rule/03-religious-reformers.md` | 2 |
+| 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 2 |
+| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 1 |
+| 6 | Urdu Language Controversy (Languages) | `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` | 1 |
 
 ## Section 2 — The Creation of Pakistan (1905–1947)
 
@@ -27,27 +27,28 @@ Live map of every topic file and its current question count. Updated on every
 | 5 | Morley–Minto Reforms (1909) | `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md` | 0 |
 | 6 | Reversal of the Partition of Bengal (1911) | `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md` | 0 |
 | 7 | Lucknow Pact & First World War | `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` | 0 |
-| 8 | Montagu–Chelmsford Reforms & Other Events of 1919 | `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` | 0 |
+| 8 | Montagu–Chelmsford Reforms & Other Events of 1919 | `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` | 1 |
 | 9 | Khilafat Movement | `section-2-creation-of-pakistan/09-khilafat-movement.md` | 1 |
 | 10 | Delhi Proposals & Simon Commission | `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md` | 0 |
-| 11 | Nehru Report | `section-2-creation-of-pakistan/11-nehru-report.md` | 0 |
+| 11 | Nehru Report | `section-2-creation-of-pakistan/11-nehru-report.md` | 1 |
 | 12 | Jinnah's Fourteen Points | `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md` | 1 |
 | 13 | Round Table Conferences | `section-2-creation-of-pakistan/13-round-table-conferences.md` | 1 |
-| 14 | Government of India Act (1935) | `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` | 0 |
+| 14 | Government of India Act (1935) | `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` | 1 |
 | 15 | Elections of 1937 | `section-2-creation-of-pakistan/15-elections-of-1937.md` | 0 |
 | 16 | Congress Rule (1937–1939) | `section-2-creation-of-pakistan/16-congress-rule-1937-1939.md` | 1 |
 | 17 | Day of Deliverance | `section-2-creation-of-pakistan/17-day-of-deliverance.md` | 0 |
 | 18 | Lahore Resolution (1940) | `section-2-creation-of-pakistan/18-lahore-resolution-1940.md` | 0 |
 | 19 | Cripps Mission | `section-2-creation-of-pakistan/19-cripps-mission.md` | 0 |
 | 20 | Quit India Movement | `section-2-creation-of-pakistan/20-quit-india-movement.md` | 0 |
-| 21 | Gandhi–Jinnah Talks | `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md` | 0 |
+| 21 | Gandhi–Jinnah Talks | `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md` | 1 |
 | 22 | Simla Conference | `section-2-creation-of-pakistan/22-simla-conference.md` | 0 |
 | 23 | Elections of 1945–46 | `section-2-creation-of-pakistan/23-elections-of-1945-46.md` | 0 |
 | 24 | Cabinet Mission Plan | `section-2-creation-of-pakistan/24-cabinet-mission-plan.md` | 0 |
 | 25 | Direct Action Day | `section-2-creation-of-pakistan/25-direct-action-day.md` | 1 |
 | 26 | 3rd June Plan | `section-2-creation-of-pakistan/26-3rd-june-plan.md` | 0 |
-| 27 | Multiple Topic Questions (1905–1926) | `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` | 0 |
+| 27 | Multiple Topic Questions (1905–1926) | `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` | 1 |
 | 28 | Multiple Topic Questions (1927–1947) | `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` | 0 |
+| 29 | Iqbal, Rehmat Ali & Jinnah for Pakistan | `section-2-creation-of-pakistan/29-iqbal-rehmat-ali-jinnah-for-pakistan.md` | 1 |
 
 ## Section 3A — Nationhood (1947–1999)
 
@@ -58,11 +59,11 @@ Live map of every topic file and its current question count. Updated on every
 | 3 | Malik Ghulam Muhammad | `section-3a-nationhood/03-malik-ghulam-muhammad.md` | 0 |
 | 4 | Iskander Mirza | `section-3a-nationhood/04-iskander-mirza.md` | 0 |
 | 5 | Ayub Khan | `section-3a-nationhood/05-ayub-khan.md` | 1 |
-| 6 | Yahya Khan | `section-3a-nationhood/06-yahya-khan.md` | 0 |
+| 6 | Yahya Khan | `section-3a-nationhood/06-yahya-khan.md` | 1 |
 | 7 | Zulfiqar Ali Bhutto | `section-3a-nationhood/07-zulfiqar-ali-bhutto.md` | 0 |
-| 8 | General Zia-ul-Haq | `section-3a-nationhood/08-general-zia-ul-haq.md` | 1 |
+| 8 | General Zia-ul-Haq | `section-3a-nationhood/08-general-zia-ul-haq.md` | 2 |
 | 9 | Benazir Bhutto | `section-3a-nationhood/09-benazir-bhutto.md` | 1 |
-| 10 | Nawaz Sharif | `section-3a-nationhood/10-nawaz-sharif.md` | 0 |
+| 10 | Nawaz Sharif | `section-3a-nationhood/10-nawaz-sharif.md` | 1 |
 | 11 | Multiple Regime Questions (1947–1999) | `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` | 0 |
 
 ## Section 3B — International Relations

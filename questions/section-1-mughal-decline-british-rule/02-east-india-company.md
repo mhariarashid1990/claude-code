@@ -30,3 +30,32 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2011-V1-Q1B
+
+- **Year:** 2011
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why Britain was so successful in extending its control of the sub-continent between 1750 and 1850. [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They were better fighters.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > They captured rich lands and had a better army.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > The battles of Plassey and Buxar gave the British the vast riches of Bengal and favourable trading rights with the local nawabs. This provided massive new resources which Britain could use to consolidate its control. The British also introduced governor-generals into the provinces who administered them along British lines and provided yet more control. The British army, using its vast local resources and superior weapons and skills, was increasingly taking control of more land.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 5
+- **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
+- **Cross References:** —

@@ -33,3 +33,29 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2011-V1-Q1A
+
+- **Year:** 2011
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > By the end of Aurangzeb's reign the authority of the Mughal emperors was declining. Hindus were not happy with his reign and after his death, Muslim power and influence over India, which had been so strong, began to disintegrate. At this time Shah Wali Ullah was growing up.
+  >
+  > (a) Describe the achievements of Shah Wali Ullah in reviving Islam. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Promoted his message through writings, translated the Holy Quran into Persian (1) which would enable more people read it(1), emphasised traditional values of their faith, stressed the importance of following teachings of Quran, future developments built upon his teachings.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Achievements, Legacy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 5
+- **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
+- **Cross References:** —

@@ -62,3 +62,26 @@ allocated. `00_SYSTEM/GOLDEN_RULES.md` (Rule 2) and `00_SYSTEM/COMMANDS.md`
 (Recommend, Allocate, Audit definitions and the per-paper workflow) updated
 accordingly.
 **Date:** 2026-07-19
+
+## Version 5 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2011-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 1 — "Iqbal, Rehmat Ali & Jinnah for Pakistan" added to Section 2
+as Primary Topic #29, at the user's explicit direction, for ideological-contribution
+questions about Iqbal, Rehmat Ali, and Jinnah with no existing named home.
+**Audit updates:** None — per the Version 4 process change, `02_AUDITS/` is not
+refreshed per paper; it will be run in full once the entire upload job is complete.
+`questions/INDEX.md`, `00_SYSTEM/CLASSIFICATION_FRAMEWORK.md`, and
+`01_PAPERS_TRACKER.md` (2059/01, 2011 marked Complete) updated.
+**Reason:** Second paper processed — Cambridge O Level 2059/01, Paper 1, May/June
+2011, single variant. Source was the official mark scheme only (no separate
+question paper supplied), as with Version 3. Per the Version 4 workflow change,
+every one of the 15 parts was presented with clickable topic options and allocated
+strictly per the user's picks — no auto-allocation was applied even where
+confidence would have been Very High. Two notable user decisions: Q3(c) ("Partition
+or reversal?") went to Multiple Topic Questions (1905–1926) rather than either
+single-event topic; Q5(c) (creation of Bangladesh, 1971) went to Yahya Khan rather
+than the recommended Bangladesh topic. All 15 parts required under the 2010–2014
+extraction pattern (Q1–Q5, parts a/b/c) were present and extracted; none skipped.
+**Date:** 2026-07-19

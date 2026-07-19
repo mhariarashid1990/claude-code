@@ -37,3 +37,29 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2011-V1-Q2A
+
+- **Year:** 2011
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > In 1857, a number of sepoys refused to use the new cartridges at Meerut, near Delhi. The sepoys were given long prison sentences and this led to a revolt in which their fellow sepoys marched on Delhi and massacred all the British they could find. Things got worse for the British at Kanpur.
+  >
+  > (a) What happened at the battle of Kanpur? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Troops joined revolt, killed their officers, led by Nana Sahib, British held out for 3 weeks, then surrendered, soldiers and 300 women and children slaughtered, remainder kept as prisoners, reinforcements arrived and prisoners killed, British carried out acts of revenge, Sahib escaped.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 5
+- **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
+- **Cross References:** —

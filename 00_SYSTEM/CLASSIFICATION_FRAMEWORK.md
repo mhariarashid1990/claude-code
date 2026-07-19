@@ -48,6 +48,7 @@ the live file map.
 26. 3rd June Plan
 27. Multiple Topic Questions (1905–1926)
 28. Multiple Topic Questions (1927–1947)
+29. Iqbal, Rehmat Ali & Jinnah for Pakistan
 
 ## Section 3 — Nationhood (1947–1999) & International Relations
 

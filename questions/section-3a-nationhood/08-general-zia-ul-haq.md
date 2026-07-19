@@ -37,3 +37,32 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2011-V1-Q5B
+
+- **Year:** 2011
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Zia-ul-Haq introduce his package of Islamic laws between 1979 and 1988? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > It was necessary.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Pakistan needed a strong government.
+  >
+  > LEVEL 3: Explains reasons [7]
+  > Zia introduced the Islamic laws in an attempt to produce a strong and stable government managed by people committed to Islamic values. He ignored the political process because he felt that Pakistan was weaker as a result of these. He therefore made the Islamic laws very strict in order to produce a strong government by imposing a strict legal code. He also wanted to implement laws which punished people for showing disrespect towards the Holy Prophet and ensured that Islamic education was implemented in schools so as to raise Islamic awareness amongst students. He also wanted to distribute some wealth to the poor and needy by introducing Islamic taxes.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Causes, Religious, Domestic Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 5
+- **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
+- **Cross References:** —
