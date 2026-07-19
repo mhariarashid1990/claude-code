@@ -68,3 +68,29 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V1-Q1A
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) The Mughal Empire took 150 years from the death of Aurangzeb in 1707 to break up. His empire was facing difficulties at the time of his death and following this, the tensions and problems only got worse. The most serious challenge to Mughal authority came from the Marathas.
+  >
+  > Describe what the Marathas did. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Lived in the Deccan, Aurangzeb had failed to crush them, known for skills as guerrilla fighters and devotion to Hinduism, 1737 defeated a Mughal army outside Delhi which they occupied in 1760, defeated by Afghans in 1761 at Panipat.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan; a separate resit paper (2059/41) was administered to candidates in Pakistan due to a security breach — see the 2059/41 entries for that distinct paper. Topic chosen by user from clickable options.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** —

@@ -37,3 +37,32 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V1-Q1B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why have regional languages been promoted by the Pakistan government since 1947?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They are spoken in Pakistan
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > To keep the languages alive
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > It was felt that the literature and work undertaken by authors in such areas as Sindh should be kept alive and so the government set up bodies to promote it such as the Sindhi Literary Board in 1948. Many languages have played an important role in the history of the region, e.g. Pushto literature had an important role in creating opposition to British rule and the movement for independence. Balochi had little development before 1947 and its literature was in decline. However the government felt that it should be kept alive and not lost forever. Hence the language was promoted.
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Causes, Cultural, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan. Topic chosen by user from clickable options.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** —

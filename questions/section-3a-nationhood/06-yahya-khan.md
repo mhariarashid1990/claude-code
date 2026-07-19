@@ -38,3 +38,32 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2013-V1-Q5B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why East Pakistan wished to become independent of West Pakistan.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > It saw no alternative
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > It was a long way from West Pakistan and was poorer.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > East Pakistan was resentful of the fact that it was under-represented in the Pakistani army and the Civil Service. Due to the distance from the West it felt under political repression and with an undemocratic government. Because it had a weaker industrial base than the West and suffered from floods it resented that it received little attention from the rest of Pakistan.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). User chose Yahya Khan over Bangladesh, consistent with the same decision made for a similar question in the 2011 paper. This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)

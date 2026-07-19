@@ -12,8 +12,7 @@ assumed in advance (Golden Rule 5).
 | 2010 | May/June, V1 | Complete |
 | 2011 | May/June, V1 | Complete |
 | 2012 | May/June, V1 | Complete |
-| 2012 | — | Not started |
-| 2013 | — | Not started |
+| 2013 | May/June, V1 (2059/01, original series) done; 2059/41 resit (Pakistan candidates, security-breach re-sit) pending | In progress |
 | 2014 | — | Not started |
 | 2015 | — | Not started |
 | 2016 | — | Not started |

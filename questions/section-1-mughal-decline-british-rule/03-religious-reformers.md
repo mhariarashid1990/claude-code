@@ -59,3 +59,42 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V1-Q1C
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Who of the following was the most important in the spread of Islam during the seventeenth and eighteenth centuries:
+  > (i) Shah Wali Ullah;
+  > (ii) Syed Ahmad Shaheed Barailvi;
+  > (iii) Hajji Shariat Ullah?
+  > Explain your answer with reference to all three of the above.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > Shah Wali Ullah was a great scholar
+  >
+  > LEVEL 2: Description of Shah Wali Ullah and/or others [3–6]
+  > Hajji Shariat Ullah established the Faraizi Movement. Shah Wali Ullah taught at the Madrassa in Delhi, spent some time in Medina and wrote a number of books. Syed Ahmad Shaheed Barailvi was a follower of Shah Abdul Aziz and founded the Jihad Movement.
+  >
+  > LEVEL 3: Explains the importance of the work of one person [7–10]
+  >
+  > LEVEL 4: Explains the importance of the work of 2 or more people. All 3 for max marks [9–13]
+  > Shah Wali Ullah felt that the Muslims faced many problems because of their ignorance about Islam and the Holy Quran. He encouraged them to concentrate on Quranic teachings and helped them by translating the Holy Quran into Persian which was the main language of the Muslims at that time. His books were designed to spread the principles of Islam amongst the Muslims.
+  > Syed Ahmad Shaheed Barailvi spread Islam through the Jihad Movement, which was to become an armed struggle to liberate the Punjab and the NWF from Sikh rule largely because Muslims were banned from prayer and had to undergo many humiliations, which made it difficult to practise their religion.
+  > Hajji Shariat Ullah spread Islam through the Faraizi Movement which insisted that Muslims should perform their faraiz (religious obligations). This alarmed the Hindu landlords who were unhappy with the Muslim practices. A huge group of followers grew which were called 'Faraizis'.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan. Topic chosen by user from clickable options.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** —

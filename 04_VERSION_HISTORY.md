@@ -109,3 +109,31 @@ as "[3–6]", both inconsistent with the syllabus's usual banding but reproduced
 exactly as printed. All 15 parts required under the 2010–2014 extraction pattern
 were present and extracted; none skipped.
 **Date:** 2026-07-19
+
+## Version 7 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2013-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Two topic files received their first-ever entry this
+version: `11-multiple-regime-questions-1947-1999.md` (Q4(c)) and
+`07-zulfiqar-ali-bhutto.md` (Q4(a)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2013 set to "In progress":
+this original 2059/01 series paper (sat by candidates outside Pakistan) is done,
+but a separate resit paper, 2059/41, was administered only to candidates inside
+Pakistan following a security breach and is tracked as a distinct component still
+pending.
+**Reason:** Fourth paper processed — Cambridge O Level 2059/01, Paper 1, May/June
+2013 series, the ORIGINAL paper (not the Pakistan-only resit — see next version
+for that). Source was the official mark scheme only. Every one of the 15 parts
+was presented with clickable topic options and allocated strictly per the user's
+picks. One part had no exact-name taxonomy topic: Q4(a) ("Describe the Simla
+Agreement," the 1972 Bhutto–Indira Gandhi accord, distinct from the existing 1945
+"Simla Conference" topic) went to Zulfiqar Ali Bhutto over India and the Kashmir
+Issue. Q4(c) (comparing Liaquat Ali Khan, Malik Ghulam Muhammad, and Iskander
+Mirza) went to Multiple Regime Questions (1947–1999) — its first-ever entry — over
+filing under a single leader. Q5(b) (East Pakistan's wish for independence) went
+to Yahya Khan, consistent with the equivalent decision in the 2011 paper. All 15
+parts required under the 2010–2014 extraction pattern were present and extracted;
+none skipped.
+**Date:** 2026-07-19

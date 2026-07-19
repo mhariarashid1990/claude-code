@@ -96,3 +96,28 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V1-Q2A
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Indians began to resent British control of the sub-continent, and in 1857 the British faced a serious challenge to their control of India. For the British it was a revolt against their authority but to the Indians it was a revolt to throw off foreign domination.
+  >
+  > Describe the events of the War of Independence, 1857-1858. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > March 1857 a sepoy Mangal Pandey executed, May sepoys in Meerut refused to touch cartridges, were imprisoned and broke out. Meerut sacked and British officers killed. Soldiers marched on Delhi and captured it, revolt spread and British lost control of a number of towns (Mathura, Kanpur, Jhansi and Allahabad). In September British took Delhi back, Bahadur Shah II surrendered and his sons murdered, Lucknow taken back. Jhansi held out until Rhani was killed in 1858.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan. Topic chosen by user from clickable options.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** —

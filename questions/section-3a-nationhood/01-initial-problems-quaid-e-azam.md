@@ -77,3 +77,33 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V1-Q4B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Pakistan faced with a refugee problem in 1947?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: [1]
+  > Simplistic answer
+  > Refugees wanted to live in Pakistan
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Muslims were being massacred by the Hindus and Sikhs.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > During 1947, violence between Hindus and Muslims increased dramatically. Muslims fearful of being killed were forced to leave all their possessions and cross into Pakistan to seek shelter. The Boundary Award had made the problems worse between the two. Since Pakistan had become independent so Muslims were leaving India for their homeland, often with little or no possessions. It was argued that India deliberately made difficulties for the new Pakistani government by forcing Muslims across the border. Hindus and Sikhs, perhaps fearful of reprisals and a genuine desire to live in a Hindu nation also contributed to the refugee problem by crossing from Pakistan to India.
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Causes, Social
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the original May/June 2013 series paper (2059/01) sat by candidates outside Pakistan. Topic chosen by user from clickable options.
+- **Version Number:** 7
+- **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
+- **Cross References:** —
