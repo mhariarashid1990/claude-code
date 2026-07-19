@@ -59,3 +59,29 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q1A
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > In 1756 the French encouraged the Nawab of Bengal, Siraj-ud-Daulah to attack the East India Company's base at Calcutta. He captured the city but was unable to keep control of it. Robert Clive decided to go to the city with a force of soldiers to re-take it. This led to the battle of Plassey.
+  >
+  > (a) Describe the battle of Plassey. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1757, French encouraged Siraj-ud-Daulah to attack EIC base at Calcutta. Captured city but couldn't keep hold of it, Clive arrived with EIC soldiers and bribed Jafar, one of Siraj's key men. Made him Nawab of Bengal as a reward for turning against Siraj who was defeated by Clive. Body found in a river after battle. As a result of battle, EIC controlled trade in Bengal, Clive made Governor of Bengal.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —

@@ -39,3 +39,32 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q1B
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why the Mughal Empire declined following the reign of Aurangzeb.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It was Aurangzeb's successors that were to blame.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Aurangzeb's successors were weak. There was no law of succession.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Aurangzeb's successors became lazy, weak and corrupt and left the administration to their ministers who often put their own interests first. There was no law of succession. Instead there was usually a struggle for succession which ended in war. Succession often depended upon the ability of the candidates and the support they could get. Fighting wars became expensive and the military was stretched and suffered much inefficiency. The successors failed to run the Empire effectively becoming very extravagant and so suffered from financial inefficiencies. The vastness of the Empire made it hard to defend and as such suffered several invasions. Eventually the British overran the Empire and were superior in such areas as military might.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Marks bracket not printed next to question stem in source; inferred as 7 from the three-level mark scheme structure (top band [5–7]), consistent with every other (b)-part question in this bank. Topic chosen by user from clickable options.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —

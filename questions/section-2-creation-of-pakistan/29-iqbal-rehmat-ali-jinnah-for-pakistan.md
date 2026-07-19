@@ -46,3 +46,29 @@ other named Section 2 topics._
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, into newly created topic #29 — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q3A
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Allama Iqbal was a politician who believed in the need for Muslims to struggle for the establishment of a separate country for themselves. He believed that Hindus and Muslims were two nations who should have separate states. Chaudri Rehmat Ali also rose to prominence at this time.
+  >
+  > (a) Who was Chaudri Rehmat Ali? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1930 left India to study law at Cambridge, attended conferences in London on Hindu-Muslim relationships. Believed in a separate Muslim homeland partition. 1933 a pamphlet 'Now or Never' – argued in favour of partition, gave the name Pakistan. Became popular amongst most Muslims during the 1930s. Considered less important than Allama Iqbal, Jinnah refused to meet him.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options — second question allocated into topic #29.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —

@@ -33,3 +33,37 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q2C
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) 'The Khilafat Movement failed by 1924 because Gandhi withdrew his support.' Do you agree? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > It led to the failure of the Movement.
+  >
+  > LEVEL 2: Identifies/describes the reasons for failure [3–6]
+  > Gandhi thought that events were getting too violent.
+  >
+  > LEVEL 3: Explains Gandhi and his withdrawal of support OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains Gandhi and his withdrawal of support AND other reasons [9–13]
+  > Gandhi had seen an opportunity for self rule by joining the Movement and the involvement of the Hindus was welcomed by many Muslims. However, by joining with the Hindus the objectives of the Movement were made less clear since the Hindus and Ghandi especially, were using it for their own ends and didn't have the interests of the Muslims at heart. Chauri Chaura was a village in the United Province where trouble started between the police and a mob. Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so called off his support.
+  > However, there were other reasons for its failure. Some of the leaders including Maulana Muhammad Ali were imprisoned in 1921 which made the organisation less effective. Thousands of Muslims migrated to Afghanistan in a religious protest against the British government. The Afghan government was hostile to the migrants and refused to allow all the refugees to settle. Many of those who returned to India died on the journey back or found themselves homeless and jobs occupied which dispirited the Muslims. Thus Muslim support for the Khilafat Movement fell away. Its failure was also brought about by the decision of the Muslim Mustafa Kamal Ataturk to form a nationalist government in Turkey but the end had been seen in the refusal of Lloyd George to accept the demands of the Movement.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Failures, Comparison, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —

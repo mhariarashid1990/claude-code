@@ -37,3 +37,32 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q2B
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was the Muslim League established in 1906?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They wanted their own political party.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The Muslims were not united. The Hindus had their own party.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Muslim rights would not be advanced if they continued to rely on the Indian National Congress. It was seen as an organisation which would only advance Hindu views. The Congress was demanding that India should be treated as a cultural whole and Hindi should be declared the official language. By not organising a Muslim group they would continue to be disorganised and disunited. Even more worrying was the growth of extreme Hindu nationalist groups who demanded that Muslims be forcibly converted to Hinduism. Therefore a number of prominent Muslim leaders founded the Muslim League.
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Marks bracket not printed next to question stem in source; inferred as 7 per the three-level mark scheme structure. Topic chosen by user from clickable options.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —

@@ -85,3 +85,27 @@ single-event topic; Q5(c) (creation of Bangladesh, 1971) went to Yahya Khan rath
 than the recommended Bangladesh topic. All 15 parts required under the 2010–2014
 extraction pattern (Q1–Q5, parts a/b/c) were present and extracted; none skipped.
 **Date:** 2026-07-19
+
+## Version 6 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2012-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0 — Q3(a) ("Who was Chaudri Rehmat Ali?") became the second
+question allocated into the Version-5-created topic #29 (Iqbal, Rehmat Ali &
+Jinnah for Pakistan).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` and `01_PAPERS_TRACKER.md` (2059/01, 2012 marked Complete)
+updated.
+**Reason:** Third paper processed — Cambridge O Level 2059/01, Paper 1, May/June
+2012, single variant. Source was the official mark scheme only, as with prior
+papers. Every one of the 15 parts was presented with clickable topic options and
+allocated strictly per the user's picks. Two parts had no exact-name taxonomy
+topic and were resolved by user decision: Q4(a) (constitutional crisis of 1954–55)
+went to Malik Ghulam Muhammad over Multiple Regime Questions; Q4(b) (Pakistani
+migration 1947–1999) went to United Kingdom & the Commonwealth over Gulf
+Countries. Two minor source-printing anomalies were preserved verbatim rather than
+corrected: Q1(c)'s LEVEL 4 band prints as "[9–10]" and Q5(b)'s LEVEL 3 band prints
+as "[3–6]", both inconsistent with the syllabus's usual banding but reproduced
+exactly as printed. All 15 parts required under the 2010–2014 extraction pattern
+were present and extracted; none skipped.
+**Date:** 2026-07-19

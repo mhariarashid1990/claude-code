@@ -63,3 +63,36 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2012-V1-Q1C
+
+- **Year:** 2012
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the greased cartridge incident the most important cause of the War of Independence of 1857? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > It was the most important reason
+  >
+  > LEVEL 2: Description /identification of reasons [3–6]
+  > A new cartridge was introduced by the British which was folded in both cow and pig fat. The cartridge had to be unfolded by chewing with teeth before using them in the guns.
+  >
+  > LEVEL 3: Explains the greased cartridge incident OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains the greased cartridge incident AND other reasons [9–10]
+  > A new cartridge was introduced by the British which was coated in both cow and pig fat. Because the soldiers had to chew the fat caused great resentment since pig fat was forbidden by the Muslims and the cow was a sacred animal in the eyes of the Hindus. However there were other reasons for the War. The replacement of Persian and Sanskrit by English as the official language in 1832 deeply upset both the Muslims and Hindus. In 1852 the 'Doctrine of Lapse' was introduced and caused great unrest because any local kingdom not having a direct male heir was taken over by the British. A number of social reforms had been imposed without consultation or care for local feeling which also caused unrest. Indians had to send their children to co-educational schools and were forced to abandon purdha.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Source mark scheme shows LEVEL 4 band as "[9–10]" (likely a printed typo for [9–13], consistent with every other (c)-part question in this syllabus) — reproduced exactly as printed, per verbatim rule. Topic chosen by user from clickable options.
+- **Version Number:** 6
+- **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
+- **Cross References:** —
