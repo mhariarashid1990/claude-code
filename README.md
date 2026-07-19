@@ -5,7 +5,7 @@ A publication-quality topical past-paper resource for:
 - **Cambridge O Level Pakistan Studies — History & Culture (2059/01)**
 - **Cambridge IGCSE Pakistan Studies — History & Culture (0448/01)**
 
-Built for **Learn with Haris**. Target coverage: every required question, 2009–2025.
+Built for **Learn with Haris**. Target coverage: every required question, 2010–2025.
 
 ## Status
 

@@ -1,6 +1,6 @@
 # Papers Tracker
 
-Tracks which past papers (2009–2025) have been uploaded and processed. A year is
+Tracks which past papers (2010–2025) have been uploaded and processed. A year is
 only marked complete once every session/variant issued for that year has been
 extracted — sessions and variants are filled in as papers actually arrive, never
 assumed in advance (Golden Rule 5).
@@ -9,7 +9,6 @@ assumed in advance (Golden Rule 5).
 
 | Year | Sessions/Variants Uploaded | Status |
 |---|---|---|
-| 2009 | — | Not started |
 | 2010 | — | Not started |
 | 2011 | — | Not started |
 | 2012 | — | Not started |
@@ -31,7 +30,6 @@ assumed in advance (Golden Rule 5).
 
 | Year | Sessions/Variants Uploaded | Status |
 |---|---|---|
-| 2009 | — | Not started |
 | 2010 | — | Not started |
 | 2011 | — | Not started |
 | 2012 | — | Not started |
