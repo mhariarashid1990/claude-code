@@ -5,4 +5,31 @@
 
 ---
 
-_No questions allocated yet. Entries follow the format in `00_SYSTEM/QUESTION_TEMPLATE.md`._
+### UQID: PK2059-MJ-2010-V1-Q1B
+
+- **Year:** 2010
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Shah Wali Ullah have such a major influence on the revival of Islam in the sub-continent? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement (1)
+  > He was a well known figure.
+  >
+  > LEVEL 2: Identifies reasons (2–4)
+  > He stopped the Muslim decline.
+  >
+  > LEVEL 3: Explains reasons (5–7)
+  > Muslims had deteriorated into being a helpless and disorganised group of people and if they were to regain their power then strong leadership was required. He believed they were ignorant about Islam and the teachings of the Holy Quran. Therefore an emphasis on Quranic teachings would not only improve their knowledge but produce a feeling of solidarity. He also believed that Muslims' knowledge of Islam was difficult to gain and so he felt that by translating the Holy Quran into Persian would enable more people read it. Books written influenced the revival of Islam (examples).
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Importance, Leadership
+- **Confidence Level:** Very High
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS per user confirmation)
+- **Version Number:** 3
+- **Allocation History:** Allocated on extraction, Version 3, no prior moves
+- **Cross References:** —

@@ -2,7 +2,7 @@
 
 Tracks questions with incomplete metadata against `00_SYSTEM/QUESTION_TEMPLATE.md`.
 
-_Last updated: Version 1 (scaffold creation, no papers processed)_
+_Last updated: Version 3 — 15 questions checked, all fields complete_
 
 | Missing field | Count |
 |---|---|
@@ -15,4 +15,4 @@ _Last updated: Version 1 (scaffold creation, no papers processed)_
 
 ## Log
 
-_None — no papers processed yet._
+_None — all 15 entries from PK2059-MJ-2010-V1 have complete metadata._

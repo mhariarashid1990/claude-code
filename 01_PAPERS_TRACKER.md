@@ -9,7 +9,7 @@ assumed in advance (Golden Rule 5).
 
 | Year | Sessions/Variants Uploaded | Status |
 |---|---|---|
-| 2010 | — | Not started |
+| 2010 | May/June, V1 | Complete |
 | 2011 | — | Not started |
 | 2012 | — | Not started |
 | 2013 | — | Not started |

@@ -24,3 +24,23 @@ pattern is unchanged). 2009 is dropped from project scope entirely — removed f
 audit updated to 2010–2025. No question content existed for 2009, so nothing was
 lost.
 **Date:** 2026-07-19
+
+## Version 3 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2010-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Audit updates:** All six audit layers updated — Extraction (1 paper, 15/15 parts),
+Allocation (15 Allocated, 0 pending), Metadata (0 missing fields), Coverage (15
+topics now populated), Final QA (per-paper checks pass, overall still NOT READY).
+`01_PAPERS_TRACKER.md` — 2059/01, 2010 marked Complete (May/June, V1).
+`questions/INDEX.md` counts updated for the 15 affected topics.
+**Reason:** First paper processed — Cambridge O Level 2059/01, Paper 1, May/June
+2010, single variant. Source was the official mark scheme only (no separate
+question paper supplied); question text extracted verbatim as reprinted in the MS,
+per explicit user confirmation. Two questions had genuine topic overlaps —
+Q2(a) "What was the Wardha Scheme?" (Congress Rule 1937–1939 vs Elections of 1937)
+and Q4(a) "What was the Canal Water Dispute?" (Initial Problems of Pakistan vs
+India and the Kashmir Issue) — both stopped for user decision per Golden Rule 2 and
+were resolved before allocation. All 15 parts required under the 2010–2014
+extraction pattern (Q1–Q5, parts a/b/c) were present and extracted; none skipped.
+**Date:** 2026-07-19
