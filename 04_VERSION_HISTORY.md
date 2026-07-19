@@ -44,3 +44,21 @@ India and the Kashmir Issue) — both stopped for user decision per Golden Rule 
 were resolved before allocation. All 15 parts required under the 2010–2014
 extraction pattern (Q1–Q5, parts a/b/c) were present and extracted; none skipped.
 **Date:** 2026-07-19
+
+## Version 4 — 2026-07-19
+
+**Questions added:** 0
+**Questions moved:** 0
+**Audit updates:** None — this version is a workflow/process change, not a content
+change.
+**Reason:** Standing operating procedure change per explicit user directive: (1)
+Recommend/Allocate never auto-classifies regardless of confidence — every extracted
+question part must be presented as clickable topic options and wait for the user's
+choice, superseding the previous "auto-allocate if Very High confidence" behaviour;
+(2) the six audit layers (`02_AUDITS/`) are no longer refreshed after each
+individual paper — they are run once, in full, only once the entire upload job
+(every required paper, 2010–2025, both 2059/01 and 0448/01) is 100% extracted and
+allocated. `00_SYSTEM/GOLDEN_RULES.md` (Rule 2) and `00_SYSTEM/COMMANDS.md`
+(Recommend, Allocate, Audit definitions and the per-paper workflow) updated
+accordingly.
+**Date:** 2026-07-19
