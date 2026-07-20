@@ -30,3 +30,31 @@
 - **Version Number:** 3
 - **Allocation History:** Allocated on extraction, Version 3, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q4A
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What happened on Direct Action Day?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Muslim League called for this to take place on 16th August 1946 as an attempt to stop the British giving in to Congress
+  > • Jinnah asked for peaceful protest to show Muslim solidarity and the strength of feeling against the British and Congress
+  > • Serious rioting with thousands of deaths, especially in Calcutta.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Direct Action Day
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to the May/June 2010 entry already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

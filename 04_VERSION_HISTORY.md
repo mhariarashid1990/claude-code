@@ -627,3 +627,49 @@ batch). Total: 235 questions across 16 papers. Remaining in this batch: 2017
 Oct/Nov, plus 2018–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-20
+
+## Version 20 — 2026-07-20
+
+**Questions added:** 14 (PK2059-ON-2017-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 235 → 249). `01_PAPERS_TRACKER.md` — 2017
+row updated to "May/June, V1 + Oct/Nov, V1" with status "Complete."
+**Reason:** Seventeenth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2017, single variant, and the second paper in this batch
+presented in Cambridge's newer tabular Question/Answer/Marks mark scheme
+format — reproduced faithfully in that structure throughout. Every one of
+the 14 parts required under the 2015–2025 extraction pattern (Section A/B
+split; Q1(a)/(b) source-based and excluded; Q1(d) capped at 10 marks) was
+presented with clickable topic options and allocated strictly per the
+user's picks. Notable decisions: Q1(d) (comparing the Nehru Report, Jinnah's
+14 Points, and the Government of India Act 1935) went to Multiple Topic
+Questions (1927–1947), the same bucket used for the equivalent May/June 2013
+(2059/41) three-factor comparison there substituting the Simon Commission
+for the Nehru Report; Q2(a) ("Who were the Thuggee?") went to East India
+Company, consistent with the "zamindars" precedent from the May/June 2017
+paper, since the EIC's 1830 suppression action is the MS's central focus;
+Q5(a) ("What happened at Pucca Qila?") went to Benazir Bhutto, matching the
+established precedent for this recurring massacre/dismissal event. Several
+entries in this paper are substantively near-duplicate content of earlier
+entries already in this bank, each reproduced separately and verbatim as
+its own distinct instance: Q2(b) (EIC's seventeenth-century involvement),
+Q2(c) (Haji Shariatullah's contribution), Q3(c) (Indian resistance to
+British expansion), Q4(a) (Direct Action Day), Q4(b) (Gandhi-Jinnah Talks),
+Q4(c) (Pakistan's world-organisation membership), Q5(b) (1947 refugee
+problem), and Q5(c) (Pakistan-USSR relations) all parallel earlier entries
+in their respective topic files. Minor source anomalies preserved verbatim:
+Q1(d)'s question stem prints "193" instead of "1935" for the Government of
+India Act; Q3(a)'s MS dates Warren Hastings's Governor-Generalship to 1782
+(historically 1773); Q5(a) spells "Muhajir Quami Movement" (elsewhere in
+this bank "Mohajir Qaumi Movement"); Q5(b)'s MS heading is printed as
+"Level 1: Simple stateme" (truncated). None corrected. All 14 parts were
+present and extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2017** (both May/June
+and Oct/Nov). Total: 249 questions across 17 papers. Remaining in this
+batch: 2018–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
+still to come.
+**Date:** 2026-07-20

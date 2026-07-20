@@ -134,3 +134,60 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q4C
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > How effective has Pakistan been as a member of world organisations between 1947 and 1999? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 with judgement / evaluation
+  >
+  > Level 4: Explains effective AND less effective [9–13]
+  > (Two explanations, one on an effective and one on a less effective membership worth 9 marks. Additional explanations awarded up to 13 marks)
+  > Effective:
+  > • It has supported the Palestinian cause
+  > • Contributed to a number of UN peacekeeping forces throughout the world. Pakistan became influential by raising the Kashmir question on several occasions and also became the spokesperson for many Asian states who had not gained independence during the 1950s.
+  > • Its membership of CENTO was treated enthusiastically because many fellow members were Muslim countries.
+  > • OIC provided interest free loans and grants and membership reinforced the image of Pakistan as one of the world's leading Muslim nations.
+  > • As a member of the Commonwealth Pakistan supported Britain with a workforce (depleted by World War 2), this brought the benefit of remittances.
+  > Less effective:
+  > • The Kashmir question is on-going.
+  > • Membership of SEATO did not secure aid for Pakistan, support in its difficulties with India or during the East Pakistan break away. As a result, Pakistan left in 1972.
+  > • CENTO dissolved in 1979 after failing to develop a permanent structure.
+  > • Pakistan left the Commonwealth in 1971 when Britain recognised Bangladesh.
+  >
+  > Level 3: Explains effectiveness OR other factors [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars on Level 4
+  >
+  > Level 2: Identifies / describes world organisations / Pakistan's membership [3–6]
+  > (One organisation / membership identified / described is worth 3 marks. Extra marks are awarded for additional organisations / memberships identified / described up to 6 marks)
+  > e.g.
+  > • Joined the United Nations in 1947
+  > • Joined SEATO in 1954
+  > • Joined CENTO in 1955
+  > • Left the Commonwealth in 1971
+  > • Re-joined the Commonwealth in 1989
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. A Level 1 answer with two or more simple statements is worth 2 marks)
+  > e.g.
+  > • Pakistan was an effective member
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to the May/June 2013 (2059/41) entry already filed here, reproduced separately and verbatim as its own distinct instance, this version adding several detailed bullets (Commonwealth remittances, specific membership-join years). Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

@@ -304,3 +304,51 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q2C
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Did Haji Shariatullah contribute more to the spread of Islam than anyone else in the subcontinent before 1850? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement / evaluation
+  >
+  > Level 4: Explains the contribution of Haji Shariatullah AND others [9–13]
+  > (Two explanations, one on the contribution of Haji Shariatullah and one on another are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > • Haji Shariatullah established the Faraizi Movement, which insisted that Muslims should perform their faraiz (religious obligations). The impact on Muslims was significant as Faraizi restored pride and alarmed the Hindu landlords who were unhappy with Muslim practices. Centred on Bengal.
+  > • Shah Waliullah felt that many Muslims faced problems because of their ignorance of Islam and the Quran. He encouraged them to concentrate on Quranic teachings translated the Quran into Persian, the main language of the Muslims at that time, so that they could read it. His books aimed to spread the principles of Islam amongst Muslims and provide inspiration to lead a pure life.
+  > • Syed Ahmad Barelvi founded the Jihad Movement, which later became an armed struggle to liberate the Punjab and the NWFP from Sikh rule. His work was a uniting force for Muslims to achieve a life based on Islam.
+  >
+  > Level 3: Explains the contribution of Haji Shariatullah OR others [7–10]
+  > (One explanation is worth 7 marks. Extra marks are awarded for additional explanations to 10 marks)
+  > See exemplars on Level 4
+  >
+  > Level 2: Identifies / describes Haji Shariatullah AND / OR others [3–6]
+  > (One contribution identified / described is worth 3 marks. Extra marks are awarded for additional contributions identified / described up to 6 marks)
+  > e.g.
+  > • Haji Shariatullah established the Faraizi Movement
+  > • Shah Waliullah taught at the Madrassa in Delhi, spent some time in Medina and wrote a number of books
+  > • Syed Ahmad Barelvi was a follower of Shah Abdul Aziz and founded the Jihad Movement
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. A Level 1 answer with two or more simple statements is worth 2 marks)
+  > e.g.
+  > • He was a scholar
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01. Compares Haji Shariatullah, Shah Waliullah, and Syed Ahmad Barelvi, all covered by this topic, near-identical content to the May/June 2013 Q1(c) and Oct/Nov 2011 Q2(c) entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

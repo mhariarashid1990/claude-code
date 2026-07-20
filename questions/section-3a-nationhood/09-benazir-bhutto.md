@@ -241,3 +241,31 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q5A
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What happened at Pucca Qila?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • May 1990, in Hyderabad, supporters of Muhajir Quami Movement (MQM) killed by police
+  > • Including women and children who held copies of the Quran over their heads as they faced the police
+  > • The violence led to the President (Ghulam Ishaq Khan) dismissing the government in August 1990
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Features, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to the May/June 2010 entry already in this file (there termed the "Pucca Qila massacre"), reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Source spells "Muhajir Quami Movement" (elsewhere in this bank "Mohajir Qaumi Movement") — reproduced exactly as printed, not reconciled. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

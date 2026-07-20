@@ -702,3 +702,157 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q2A
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who were the Thuggee?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • They were armed robbers, involved in ritual murder, who terrified people
+  > • Present in central and upper India
+  > • Claimed they were serving a goddess, Kali
+  > • East India Company (EIC) used force to destroy them in 1830 and stamped out the practice
+  > • Indians / Hindus and Muslims
+  > • Meaning concealment; a secret society
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01. The EIC's suppression of the Thuggee in 1830 is the MS's central action, consistent with the precedent set for "zamindars" in the May/June 2017 paper. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q2B
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did the East India Company become involved in the Indian subcontinent during the seventeenth century?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons (i.e. an understanding of impact / long term benefits) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Reports of immense wealth in the subcontinent led to the East India Company (EIC) establishing a trading base as they saw a profitable future
+  > • Availability of raw materials, silk, cotton, coal
+  > • The British wanted to establish their influence in the subcontinent and to oust the Dutch and Portuguese
+  > • The EIC also wanted to establish a strategic port in the subcontinent that would protect its trading interests in the East
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • To trade
+  > • Extend influence in the East
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for a simple statement)
+  > e.g.
+  > • They wanted to spend their time there
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to several prior "why did the EIC become involved" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q3A
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Warren Hastings?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • 1782, first Governor General / Viceroy of India
+  > • British / English statesman
+  > • Introduced a number of reforms in administration, revenue, finance, commerce and the judiciary
+  > • Developed policies relating to Oudh and Rohilla
+  > • Involved in several wars including the Anglo-Maratha and the Anglo-Mysore
+  > • A patron of the arts
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01. Direct match — Hastings was the first Governor-General under the EIC. Reproduced in Cambridge's newer tabular mark scheme format. Source anomaly preserved verbatim: MS dates Hastings's Governor-Generalship to "1782" (historically 1773) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q3C
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > How far was Indian resistance to British expansion in the subcontinent successful before 1850?
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement / evaluation
+  >
+  > Level 4: Explains early Indian AND later / eventual British success [9–13]
+  > (Two explanations, one on Indian and one on British success, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Indian success
+  > • Tipu the Sultan of Mysore held off British attempts to overthrow him towards the end of the eighteenth century, matching British weapons with rockets, cannons and muskets.
+  > • Titu Mir raised an army of 15 000 against the British. He built a bamboo fort at Narkelbaria in 1831 and defeated the British forces sent to destroy it.
+  > • The British were unwilling / unable to annex the Punjab in the lifetime of Ranjit Singh (the leader of the Sikhs who occupied the Punjab). He halted British expansion through treaties and agreements with them.
+  > British success
+  > • Conquests of the British against weaker opposition who were disunited with different religions and cultures and were unable to work together.
+  > • The strength of the British army was eventually overwhelming.
+  >
+  > Level 3: Explains Indian OR British success [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars on Level 4
+  >
+  > Level 2: Identifies / describes Indian AND / OR British success [3–6]
+  > (One contribution identified / described is worth 3 marks. Extra marks are awarded for additional contributions identified / described up to 6 marks)
+  > e.g.
+  > • Event(s) in Bengal, the Punjab, NWFP, Sindh
+  > • Success(es) such as Titu Mir had a big army, the British had cannons
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. A Level 1 answer with two or more simple statements is worth 2 marks)
+  > e.g.
+  > • Tipu was successful
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to several prior British-conquest/Indian-resistance entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

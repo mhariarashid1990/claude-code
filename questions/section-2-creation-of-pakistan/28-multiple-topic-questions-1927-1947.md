@@ -173,3 +173,62 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/22-simla-conference.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, not used as primary)
+
+### UQID: PK2059-ON-2017-V1-Q1D
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Which of the following was the most important in the development of the Pakistan Movement?
+  > (i) the Nehru Report, 1928
+  > (ii) Jinnah's 14 Points, 1929
+  > (iii) the Government of India Act, 193[5]
+  > Explain your answer with reference to all three of the above.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains and makes judgement / evaluation [10]
+  > As top of Level 4 plus judgement / evaluation
+  >
+  > Level 4: Explains at least two factors [6–9]
+  > (Two explanations are worth 6 or 7 marks. Additional explanations on the same two factors cannot be awarded more than 8 marks. Explanation of the contribution of all three factors is worth 9 marks)
+  > e.g.
+  > Nehru Report
+  > • There were perceived to be anti-Muslim sentiments in it and even though all parties present produced it, the views of Muslims appeared to have been ignored.
+  > • The outlook for Hindu-Muslim relations was uncertain since there were no separate electorate proposals and Hindi the official language
+  > Jinnah's 14 Points
+  > • Formed the basis of future negotiations with Congress or th British Government.
+  > • It also furthered the awareness that Hindus and Muslims should form separate nations and shaped the basis of a desire for a homeland.
+  > The Government of India Act
+  > • Introduced a federal system of government, which was disappointing for the Muslim League which had expected more concessions from the British.
+  > • Muslims felt their views were ignored and dependent on Congress, so ideas about the Pakistan Movement began to develop.
+  >
+  > Level 3: Explains one factor [5–7]
+  > (One explanation is worth 5 marks. Additional explanations on the same factor cannot be awarded more than 7 marks)
+  > See exemplars on Level 4
+  >
+  > Level 2: Identifies / describes one or more factor(s) [3–4]
+  > (One mark for each identification / description)
+  > e.g.
+  > • The Nehru Report was perceived to be anti-Muslim
+  > • Hindi was to be the official language
+  > • Jinnah's 14 Points was in response to the Nehru Report
+  > • The Government of India Act was still in place at Partition
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One mark for each simple statement)
+  > e.g.
+  > • Jinnah's 14 Points was the most important
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Political, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Compares three distinct named-topic events (Nehru Report, Jinnah's Fourteen Points, Government of India Act 1935) equally — the same question type already filed here for the May/June 2013 (2059/41) entry, there substituting the Simon Commission for the Nehru Report. Reproduced in Cambridge's newer tabular mark scheme format. Source anomaly preserved verbatim: question stem prints "193" instead of "1935" for the Government of India Act (year truncated, likely a printing error) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/11-nehru-report.md`, `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md`, `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` (single-event topics considered, not used)

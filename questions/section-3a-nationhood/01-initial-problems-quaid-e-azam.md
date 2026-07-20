@@ -215,3 +215,45 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q5B
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the subcontinent was faced with a refugee problem in 1947.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • In 1947, violence between Hindus and Muslims increased dramatically. Many Muslims in India feared being killed crossing into Pakistan to seek shelter, often with few or no possessions.
+  > • Partition left people of different religions in the country they felt would not support their freedoms.
+  > • The Boundary Award increased the problems between Pakistan and India. Many Muslims were forced across the border making it difficult for the new Pakistan government to manage such a large number of refugees.
+  > • Pakistan was a new country and lack of resources meant it struggled to cope.
+  > • Hindus and Sikhs, perhaps fearful of reprisals and with a genuine desire to live in a Hindu nation, also contributed to the refugee problem by crossing from Pakistan to India.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • There was a lot of violence between religious groups in India
+  > • Partition
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for a simple statement)
+  > e.g.
+  > • Refugees wanted to live in Pakistan
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Causes, Social
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — near-identical content to the May/June 2013 entry already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Source anomaly preserved verbatim: "Level 1: Simple stateme" (truncated word, likely a printing error for "statement") in the original MS heading — reproduced here as "Simple statement" for clarity but the truncation is noted. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

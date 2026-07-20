@@ -240,3 +240,45 @@ other named Section 2 topics._
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q1C
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why was Dr Allama Muhammad Iqbal asked to chair the Muslim League at Allahabad in 1930?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • He was a well-respected, authoritative figure and had the confidence of Muslims and the first important Muslim leader to advocate the partition of India and the creation of a separate Muslim state
+  > • He was opposed to British control of India – as the concept of conquest went against Muslim beliefs. This strengthened his view of the creation of a separate homeland, independent of the British
+  > • He persuaded many Muslims that the Muslim League had to build an effective mass political party to challenge the domination of the Congress. He had inspired and spoke for many in the Muslim League
+  > • He was suitable / educated and was the best leader as Jinnah was not yet ready to accept the Two Nation Theory
+  > • His poetry awakened a sense of nationhood among Muslims and he urged them to be active in making progress, so he was respected
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • He wanted an independent homeland
+  > • He was opposed to British control
+  > • He was an inspiration to others, especially through his poetry
+  >
+  > Level 1: Simple statement [1]
+  > e.g.
+  > • He was popular
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Causes, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01 — Section A Q1(c). Reproduced in Cambridge's newer tabular mark scheme format. Direct match — MS content is entirely about Iqbal's own qualifications and standing. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —

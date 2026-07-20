@@ -243,3 +243,43 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2017-V1-Q3B
+
+- **Year:** 2017
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why were the Marathas defeated after the decline of the Mughal Empire?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • The Marathas controlled vast lands that had been part of the Mughal Empire, but they found it difficult to control and administer. This led to problems in fighting off threats from other armies confirming that the empire was now too big for them to protect or defend.
+  > • Maratha families began to show more loyalty to local rulers rather than the Maratha leaders in the capital city of Pune. As a result, cracks began to show in Maratha unity and control. Their grip on the empire was weakened.
+  > • The invading Afghans defeated the Maratha army at Panipat in 1761, thousands of soldiers and important administrators were killed, ending Maratha control.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • They found difficulty in controlling such a vast Empire
+  > • They were defeated by the invading Afghans
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for a simple statement)
+  > e.g.
+  > • Loyalty to the Marathas declined
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2017 sitting of 2059/01. The Marathas' rise and fall is core content in this topic's existing entries. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 20
+- **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
+- **Cross References:** —
