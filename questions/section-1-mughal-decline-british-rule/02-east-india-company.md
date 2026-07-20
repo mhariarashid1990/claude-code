@@ -114,3 +114,28 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V41-Q1A
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) At the beginning of the nineteenth century, the British were continuing to take greater control of lands in the sub-continent. However, they were becoming increasingly concerned about Russian expansion. Britain entered into negotiations with Ranjit Singh.
+  >
+  > Who was Ranjit Singh? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > Ranjit Singh annexed Punjab, Kashmir and most of Afghanistan. In Sindh he signed a treaty with Great Britain in 1809. Great Britain worried about Russian expansion into Afghanistan, agreed with Ranjit Singh, ruler of Punjab, that A should be independent. Wanted a pro Great Britain ruler there. Ranjit Singh didn't support Great Britain and they went ahead anyway but in 1841 Great Britain troops were killed in Afghanistan. Great Britain decided to annex Sindh and later Punjab.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Political, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the 2059/41 Pakistan-only resit paper, administered following a security breach affecting the original 2059/01 May/June 2013 sitting — a distinct paper from 2059/01, with its own question set. No exact-name taxonomy topic exists for Ranjit Singh/British-Sikh relations; user chose East India Company over Decline of the Mughal Empire.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

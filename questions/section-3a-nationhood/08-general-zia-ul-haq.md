@@ -66,3 +66,32 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V41-Q5B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) What difficulties did Zia-ul-Haq find in ruling Pakistan during the late 1980s?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > Life became harder
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > There was an increase in violence and drug smuggling
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Zia-ul-Haq found difficulty in managing the breakdown of law and order. Pakistan became a more violent country with killings commonplace in cities such as Karachi. Drug trafficking grew and there was an increase in levels of corruption in society. The provinces became more difficult to administer. Sindh had regular outbreaks of violence and wanted to break away from Pakistan. It was beginning to be ungovernable. The NWFP was also becoming more critical of the government. The explosion at the arms dump at Camp Ojhri in 1988 led to PM Junejo setting up an inquiry which seemed to blame top army commanders, which Zia found untenable and so dismissed him and dissolved the National Assembly. This led to a political crisis for Zia and further difficulties.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the 2059/41 Pakistan-only resit paper for May/June 2013. Topic chosen by user from clickable options.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** —

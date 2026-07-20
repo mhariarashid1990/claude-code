@@ -98,3 +98,32 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V41-Q1B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why were there attempts to revive Islam in the sub-continent during the eighteenth and early nineteenth centuries?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It was needed
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > To halt the decline of Muslims and spread Islam
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Shah Wali Ullah believed that Muslims were ignorant about Islam and the teachings of the Holy Quran. Therefore an emphasis on Quranic teachings would not only improve their knowledge but produce a feeling of solidarity. He also believed that Muslims' knowledge of Islam was difficult to gain and so he felt that translating the Holy Quran into Persian would enable more people read it. Syed Ahmad Shaheed Barailvi wanted a jihad (Holy War) to restore the Muslim faith. The Punjab was under Sikh rule and the Punjabi Muslims found it difficult to practise their religion and were humiliated by the Sikhs. Haji Shariat Ullah wanted to spread Islam through the Faraizi Movement which insisted that Muslims should perform their faraiz (religious obligations). This alarmed the Hindu landlords who were unhappy with the Muslim practices.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the 2059/41 Pakistan-only resit paper for May/June 2013. Topic chosen by user from clickable options.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** —

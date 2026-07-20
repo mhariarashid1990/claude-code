@@ -42,3 +42,32 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves — first entry in this topic file
 - **Cross References:** See also `section-3a-nationhood/02-liaquat-ali-khan.md`, `section-3a-nationhood/03-malik-ghulam-muhammad.md`, `section-3a-nationhood/04-iskander-mirza.md` (single-leader topics considered, not used)
+
+### UQID: PK2059-MJ-2013-V41-Q4B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Pakistan face so many problems with the provision of education between 1947 and 1999?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > Education is poor
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > They have many illiterate people. Money is spent on the armed forces
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Some 70% of the population are illiterate and many children simply do not go to school at all. An illiterate society means a poor economy and a poorly educated workforce. The major problem is the lack of government investment. This is because the military expenditure is excessively high for a country such as Pakistan and therefore there is little room for spending on education. Education is expensive in Pakistan. Children are expected to buy their own books and many children drop out of schools.
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). No exact-name taxonomy topic exists for general education policy across the 1947–1999 span; user chose the Multiple Regime Questions bucket. This is the 2059/41 Pakistan-only resit paper for May/June 2013.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** —

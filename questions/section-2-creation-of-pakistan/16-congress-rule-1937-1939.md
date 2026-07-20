@@ -63,3 +63,32 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V41-Q3B
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Muslims object to the rule of the Congress party between 1937 and 1939?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > The Hindus were cruel
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The Muslims had to sing Bande Matram and observe the Widdia Mander Scheme
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Congress Rule was hated due to the atrocities committed against the Muslims. They were abused and killed by Hindus. Hindi was enforced as the official language and organised attacks were made on Muslim worshippers in mosques. Bande Matram, a song in which degrading remarks were used against Muslims, was adopted as the national anthem and had to be sung at the beginning of each day. The Widdia Mander Scheme was imposed on Muslims. Under this scheme, students had to bow before Gandhi's picture each day.
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). "Widdia Mander Scheme" reproduced exactly as printed in the source (elsewhere in this bank the equivalent scheme is named "Wardha Scheme") — not corrected, per verbatim rule. This is the 2059/41 Pakistan-only resit paper for May/June 2013. Topic chosen by user from clickable options.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** —

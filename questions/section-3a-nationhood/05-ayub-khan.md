@@ -66,3 +66,28 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2013-V41-Q4A
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) In the 1950s, Iskander Mirza's government was very unpopular and the political situation was in chaos. There had been five different Prime Ministers in three years who had unsuccessfully tried to establish a stable government. Pakistanis, meanwhile, were badly affected by food shortages and severe floods, and the seemingly corrupt government added to the feeling of hardship. At this time Ayub Khan came to power.
+  >
+  > How did Ayub Khan achieve power? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > 1958, martial law imposed by Iskander Mirza, Laws Order passed and constitution was repealed. Ayub Khan already a powerful figure as Commander in Chief of army, took role of Chief Martial Law Administrator and then removed Iskander Mirza from office. Power now totally with Ayub Khan and took role of President. Event known as 'Glorious Revolution'.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Political, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Stem opens with Iskander Mirza's context, but the question itself asks specifically how Ayub Khan achieved power; user chose Ayub Khan over Iskander Mirza. This is the 2059/41 Pakistan-only resit paper for May/June 2013.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)

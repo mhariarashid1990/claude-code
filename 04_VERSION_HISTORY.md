@@ -118,11 +118,11 @@ were present and extracted; none skipped.
 version: `11-multiple-regime-questions-1947-1999.md` (Q4(c)) and
 `07-zulfiqar-ali-bhutto.md` (Q4(a)).
 **Audit updates:** None — held for the full-job audit per the Version 4 process.
-`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2013 set to "In progress":
-this original 2059/01 series paper (sat by candidates outside Pakistan) is done,
-but a separate resit paper, 2059/41, was administered only to candidates inside
-Pakistan following a security breach and is tracked as a distinct component still
-pending.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2013 set to "In progress"
+at this point: this original 2059/01 series paper (sat by candidates outside
+Pakistan) is done, but a separate resit paper, 2059/41, was administered only to
+candidates inside Pakistan following a security breach and was still pending (see
+Version 8, which completes it and marks 2013 fully Complete).
 **Reason:** Fourth paper processed — Cambridge O Level 2059/01, Paper 1, May/June
 2013 series, the ORIGINAL paper (not the Pakistan-only resit — see next version
 for that). Source was the official mark scheme only. Every one of the 15 parts
@@ -136,4 +136,36 @@ filing under a single leader. Q5(b) (East Pakistan's wish for independence) went
 to Yahya Khan, consistent with the equivalent decision in the 2011 paper. All 15
 parts required under the 2010–2014 extraction pattern were present and extracted;
 none skipped.
+**Date:** 2026-07-19
+
+## Version 8 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2013-V41-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Two topic files received their first-ever entry this
+version: `02-simla-deputation-1906.md` (Q2(a)) and
+`05-morley-minto-reforms-1909.md` (Q2(b)); `28-multiple-topic-questions-1927-1947.md`
+went from empty to 2 entries in this version (Q2(c) and Q3(c)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2013 now marked Complete
+(both the original 2059/01 series and the 2059/41 resit are extracted).
+**Reason:** Fifth paper processed — Cambridge O Level **2059/41**, the Pakistan-only
+resit of the May/June 2013 series, administered after a security breach affecting
+the original 2059/01 sitting. This is a distinct paper with its own question set
+(not a re-issue of 2059/01's questions), tracked separately by component code per
+the front matter of the source mark scheme itself. Source was the official mark
+scheme only. Every one of the 15 parts was presented with clickable topic options
+and allocated strictly per the user's picks. Notable decisions: Q1(a) ("Who was
+Ranjit Singh?") went to East India Company, as no exact-name topic exists for
+Anglo-Sikh relations; Q2(c) (Simon Commission vs 14 Points vs GoI Act 1935) and
+Q3(c) (WWII-era independence negotiations, spanning five named topics) both went
+to Multiple Topic Questions (1927–1947); Q4(a) ("How did Ayub Khan achieve
+power?") went to Ayub Khan over Iskander Mirza despite the stem's Mirza-heavy
+context; Q4(b) (general education policy) went to Multiple Regime Questions
+(1947–1999); Q5(a) (Sheikh Mujib-ur-Rahman) went to Yahya Khan, consistent with
+prior Bangladesh-creation placements. One source anomaly preserved verbatim:
+Q3(b)'s mark scheme names "the Widdia Mander Scheme" where the equivalent scheme
+is called "the Wardha Scheme" elsewhere in this bank — reproduced exactly as
+printed, not corrected. All 15 parts required under the 2010–2014 extraction
+pattern were present and extracted; none skipped.
 **Date:** 2026-07-19

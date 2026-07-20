@@ -67,3 +67,28 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2013-V41-Q5A
+
+- **Year:** 2013
+- **Session:** May/June
+- **Variant:** 41 (Paper 41 — Pakistan-only resit component, distinct from Paper 01)
+- **Paper:** 2059/41
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) East Pakistan was much smaller than West Pakistan but it had a larger population. Many economic, social and language issues divided the two. The two provinces were separated by 1000 miles across India and there was widespread feeling in East Pakistan that the country was run with the best interests of West Pakistan in mind. By 1970, relations between West and East Pakistan had almost broken down. Sheikh Mujib-ur-Rahman was the hope of East Pakistan.
+  >
+  > Who was Sheikh Mujib-ur-Rahman? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > Believed in self government of East Pakistan, helped to found Awami League in 1949 and led it in 1960s, drafted Six Point Plan in 1966 which demanded separation in effect. 1970 elections meant that Awami League was largest party in Pakistan but not allowed to take power and Sheikh Mujib-ur-Rahman become PM. Military crackdown against Awami League supporters, Civil War, Sheikh Mujib-ur-Rahman first PM of Bangladesh. Murdered in 1975 in a military takeover.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Political, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). User chose Yahya Khan over Bangladesh, consistent with prior decisions on similar Bangladesh-creation questions. This is the 2059/41 Pakistan-only resit paper for May/June 2013.
+- **Version Number:** 8
+- **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
