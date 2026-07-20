@@ -160,3 +160,29 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q3A
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > The Khilafat Movement started because of the treatment of Turkey by the British after the First World War. Turkey was a Muslim country, and its ruler, the Sultan, was considered to be the Khalifa, the head of the worldwide Islamic community. When the British threatened to take territory away from the Khalifa, the Muslims of India were outraged and formed the Khilafat Movement to protect the Sultan and their religion. One of the events that took place during this Movement was the Chauri-Chaura incident.
+  >
+  > (a) Describe the Chauri-Chaura incident. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Pitched battles between locals and British soldiers in Nilambur 1921, at Tirur police station set on fire which was a precursor to C-C in Feb 1922 – 21 policemen killed after they fired on a political procession. Gandhi concerned about increasing level of violence and called off his civil disobedience campaign, which upset many Congress leaders and Muslims especially. It weakened H-M unity and also weakened support for the KM.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Features, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. MS uses abbreviations "C-C" (Chauri-Chaura), "H-M" (Hindu-Muslim), and "KM" (Khilafat Movement) — reproduced exactly as printed. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

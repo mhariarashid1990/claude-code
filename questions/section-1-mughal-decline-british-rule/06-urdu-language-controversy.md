@@ -156,3 +156,29 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q2A
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Language is extremely important in the development of any nation. A common language helps to build a shared understanding of what a nation believes in. Urdu became the national language of Pakistan but, due to the diversity of languages and culture across the country, many regional languages have been promoted by the government. One of these is Punjabi.
+  >
+  > (a) How has the Pakistan government promoted the development of Punjabi? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Punjabi is the local language of the Punjab. It was a popular language amongst the Sufi poets who used it for their romantic folk poetry- contributed to the popularity of Punjabi. After Independence, steps were taken for the promotion and development of the language in other parts of the province. The Government have ensured its development by giving support to those institutions that are using it. Radio, TV and film promoting classical and folk literature as a result. Punjabi theatre popular.
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Cultural, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

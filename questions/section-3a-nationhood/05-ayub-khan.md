@@ -150,3 +150,32 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q4B
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Martial Law declared by Ayub Khan in 1958? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > The government was corrupt.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > There were too many Prime Ministers between 1956 and 1958. The army wanted to take control.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > There were a number of Prime Ministers between 1956 and 1958 and it reached a stage when Ayub Khan achieved that status that he felt the army should take control until stability had been restored and questions answered. East Pakistan's politicians wanted more say in the running of the central government which increased tension. Iskander Mirza had lost the support of many of the leading politicians and was alarmed at a plan by Suharwardy to unite the political leadership of Bengal and Punjab against him. Therefore he turned to AK and the military for help.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Question stem names Ayub Khan as declaring martial law, though the MS's own final sentence describes Iskander Mirza turning to Ayub Khan and the military for help — user chose Ayub Khan (as named in the stem) over Iskander Mirza. MS uses abbreviation "AK" (Ayub Khan) — reproduced exactly as printed.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)

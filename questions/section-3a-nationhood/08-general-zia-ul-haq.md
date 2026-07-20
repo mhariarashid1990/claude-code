@@ -124,3 +124,37 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/07-zulfiqar-ali-bhutto.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2012-V1-Q5C
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) 'Economic reforms were the most important of Zia-ul-Haq's domestic policies between 1977 and 1988.' Do you agree? Give reasons for your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement
+  > Zia had a strict regime. [1–2]
+  >
+  > LEVEL 2: Description of his reforms
+  > Zia introduced Islamic laws which included the Hudood, Zina and Qafq Ordinances. [3–6]
+  >
+  > LEVEL 3: Explains economic reforms OR other domestic policies [7–10]
+  >
+  > LEVEL 4: Explains economic reforms AND other domestic policies [9–13]
+  > With regard to economic affairs, efforts to increase investment were met with some success since many of the previous nationalisation programmes were reversed and the private sector was encouraged to re-invest. Efforts were also made to increase the efficiency of government-run industries. However there were other important domestic policies. Zia introduced Islamic laws in an attempt to produce a strong and stable government managed by people committed to Islamic values. He ignored the political process and therefore the Islamic laws were very strict in order to produce a strong government.
+  > There was also a need for Zia to establish a measure of legitimacy to his presidency by declaring legal all the military actions since 1977. The passing of the Eighth Amendment in 1985 gave the President the power to dismiss the Prime Minister of the time. As a result of this martial law was lifted but Zia remained President, unchallenged.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Comparison, Reforms, Domestic Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. "Qafq Ordinances" reproduced exactly as printed, matching the identical wording and anomaly already noted in this file's 2010/01 entry — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

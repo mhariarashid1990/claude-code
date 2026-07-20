@@ -156,3 +156,32 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q5B
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Benazir Bhutto fall from office for a second time in 1996? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > She was sacked.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Because of allegations of corruption and violence.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > She was opposed by all sides, her own party the PPP and especially from her mother and brother who was eventually killed by police in Karachi. This was the last straw for the president as rumours blamed opposition and government involvement in the killing. Nawaz Sharif mounted a personal attack on Bhutto focussing on her business interests and political methods and also held rallies and demonstrations in several cities. There was much violence and killing as a result which reflected badly on her government. Her husband Zardari was rumoured to be involved in shady business dealings that undermined her position. Pakistan's economic problems led to a request for a loan from the IMF which led to strict financial controls that were blamed on the government. Finally the government refused to carry out the Supreme Court's decision to dismiss 20 judges appointed by the government which caused a political crisis. The dismissal of the Chief Minister in the Punjab after he had upset the PPP also attracted much criticism of Bhutto's handling of the matter.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

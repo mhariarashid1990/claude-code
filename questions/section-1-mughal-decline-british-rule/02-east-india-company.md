@@ -277,3 +277,72 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2012-V1-Q1B
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did the Indian sub-continent attract the British in the early seventeenth century? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They were interested in the country.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > To trade and extend their sphere of influence in the East.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Reports of immense wealth in the sub-continent led to the British establishing a trading base there as they saw a profitable future, especially in cotton, silk and sugar. They wanted to establish its influence in the sub-continent and to oust the Dutch and Portuguese. They also wanted to establish a strategic port in the sub-continent that would protect its trading interests there and in the Far East. They also found difficulty in breaking into the spice trade in the East Indies due to Dutch dominance and so India was a good alternative.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q1C
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was Indian resistance to British attempts to take control of lands in the sub-continent between 1750 and 1850? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > The British imposed their will on the sub-continent.
+  >
+  > LEVEL 2: Description of annexation [3–6]
+  > Outlines the events in Bengal, the Punjab, NWFP and Sindhi.
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains successes AND failures [9–13]
+  > Successes:
+  > power of local Nawabs
+  > early successes of Tipu Sultan
+  > Ranjit Singh
+  > Failures:
+  > strength of British army
+  > eventual failure of Tipu Sultan and Ranjit Singh
+  > conquests of British against weaker opposition
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Note: MS labels "power of local Nawabs," "early successes of Tipu Sultan," and "Ranjit Singh" as Successes and "strength of British army," "eventual failure of Tipu Sultan and Ranjit Singh," and "conquests of British against weaker opposition" as Failures — the inverse framing (Indian-resistance-perspective) of the equivalent Successes/Failures lists in the May/June 2010 and Oct/Nov 2010 papers' Q1(c), which frame the same content from the British perspective. Reproduced exactly as printed, not reconciled. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

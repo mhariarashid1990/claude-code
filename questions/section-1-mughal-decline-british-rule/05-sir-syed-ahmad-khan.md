@@ -127,3 +127,29 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q1A
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Sir Syed Ahmad Khan was determined to improve the status of Muslims. He had a desire to re-establish good relations with the British which, he hoped would lead to greater opportunities for Muslims. He also believed that Muslims should have good relations with Hindus. However, he was concerned about the 'Hindu-Urdu Controversy.'
+  >
+  > (a) Describe the 'Hindu-Urdu Controversy.' [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1867, Hindus demanded Hindi be the official language instead of Urdu, Sir Syed and Muslims shocked at attack on Urdu as it had a special meaning to them. Even Hindu members of his Scientific Society wanted their journal published in Hindi. Growing belief that Hindus working against the interests of Muslims and led to his Two Nation Theory.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Features, Religious, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. User chose Sir Syed Ahmad Khan over Urdu Language Controversy, since the stem and MS frame this through Sir Syed's reaction and its role in shaping his Two Nation Theory.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` (alternate topic considered, not used)

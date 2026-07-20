@@ -115,3 +115,36 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md`, `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` (single-topic files touched on, not used as primary)
+
+### UQID: PK2059-ON-2012-V1-Q2C
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) 'The Lucknow Pact of 1916 was the most important attempt by either the Muslims, Hindus or the British government in seeking a solution to the problems in the sub-continent between 1909 and 1919.' Do you agree? Give reasons for your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > They were the most important
+  >
+  > LEVEL 2: Description of reforms [3–6]
+  > The LP was an agreement between Muslims and Hindus
+  >
+  > LEVEL 3: Explains the Lucknow Pact OR other attempts [7–10]
+  >
+  > LEVEL 4: Explains the Lucknow Pact AND other attempts [9–13]
+  > The Lucknow Pact of 1916 was an agreement between the Muslims and Hindus which placed a number of political demands to the British government in an attempt to show a united front and produce common aims. For the first time Hindus acknowledged that Muslims had the right to a separate electorate and was therefore seen as a beacon of hope for the future. However there were other attempts to solve the problems in the sub-continent during these years. The Morley-Minto Reforms became law in 1909 as the Indian Councils Act. The importance of the Councils which were enlarged was to ensure that Indian legislators were given a chance to express their opinions. The British also accepted the right of Muslims to have a separate electorate. Little was done by the British government about the sub-continent during the First World War. The MC Reforms disappointed the Muslims and Hindus as they had hoped for greater concessions. Central government reserved sweeping powers for itself with only minor concessions for the locals. The Reforms did hold out concessions to political parties provided that they accepted the right of the British to remain in control. Following the MC reforms the Rowlatt Act of 1919 increased the resentment of the political parties by including the right of arrest without a warrant and detention without bail.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Multiple Topic Questions (1905–1926)
+- **Secondary Tags:** Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Spans Lucknow Pact, Morley-Minto Reforms, Montagu-Chelmsford Reforms, and the Rowlatt Act; filed in the Multiple Topic Questions bucket, consistent with the precedent set for this content type in the Oct/Nov 2011 paper's Q3(c).
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md`, `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` (single-topic files touched on, not used as primary)

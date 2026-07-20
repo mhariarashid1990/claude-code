@@ -88,3 +88,29 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q5A
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > In December 1971, Zulfikar Ali Bhutto became President and Chief Martial Law Administrator. His party had an overwhelming majority in the National Assembly and he was determined to introduce radical measures to bring about changes in Pakistan. He established a constitution and introduced a range of domestic measures relating to industry, agriculture, education and administrative, health and social reforms. However, he was unable to stay in power and fell from office before the end of the decade.
+  >
+  > (a) Describe Bhutto's downfall from power. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1977, rumours of armed government thugs disrupting PNA election rallies in 1977. PPP won election but protests over vote rigging from PNA who demanded fresh election. Bhutto refused and rioting followed. His FSF couldn't stop it and Bhutto had to negotiate with PNP offering concessions and some elections in disputed constituencies. Declared a state of emergency and Pakistan placed under Martial law at same time, PNP leadership arrested and 000s of supporters. Army saw weaknesses in Bhutto and carried out a coup called 'Operation Fairplay'. Bhutto arrested and Pakistan under army control with Zia in charge.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Failures, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. MS uses abbreviations "PNA"/"PNP" (Pakistan National Alliance, printed both ways in the same passage — reproduced exactly as printed, not reconciled) and "FSF" (Federal Security Force). Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

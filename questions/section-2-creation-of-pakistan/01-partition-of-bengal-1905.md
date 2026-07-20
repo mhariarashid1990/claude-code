@@ -28,3 +28,32 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2012-V1-Q2B
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Bengal partitioned in 1905? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It wanted to be free.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > It was too large and Hindus were in the majority.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Of the 54 million people in Bengal 42 million were Hindus. It seemed sensible to divide up the province on religious grounds and also because it was becoming very large and producing significant administrative problems. By doing this it was felt that the province would be easier to administer especially at the time of a new British government in power. The Hindus saw it as a policy of 'Divide and Rule', an attempt by the British to work against the Hindus. The Muslims felt that it was a British attempt to recognise the Muslims after years of mistrust and domination by the Hindus.
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Second-ever entry in this topic file. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

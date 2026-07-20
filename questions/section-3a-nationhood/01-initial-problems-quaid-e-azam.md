@@ -107,3 +107,29 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q4A
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > On 14 August 1947, Quaid-e-Azam was sworn in as Governor-General of Pakistan. He declared that 'Pakistan has come to exist for ever', but the new nation faced many problems before it could feel secure. The leaders of India had accepted the partition of the sub-continent in the expectation that Pakistan would not be able to survive. This was a challenge for the Quaid. He had to establish the country and hold it together, despite the many problems it faced. One of these was the refugee problem.
+  >
+  > (a) Describe the refugee problem [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Summer 1947 saw rioting and many deaths because of violence between Muslim and non-Muslim communities across India. After the Boundary Award, things got worse with millions of people in the 'wrong' country. The largest migration then took place with Muslims moving into Pakistan and non-Muslims moving into India. 10 m people were involved in this migration accompanied by violence and mass slaughter in some places. 1 m may have been killed and 20 m people made homeless. Karachi received 2 m refugees alone.
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Features, Consequences, Social
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —

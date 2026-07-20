@@ -96,3 +96,38 @@ other named Section 2 topics._
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q3C
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) 'The declaration of the Day of Deliverance in 1939 was Muhammad Ali Jinnah's greatest achievement in the years 1929 to 1947.' Do you agree? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > He was Pakistan's greatest leader.
+  >
+  > LEVEL 2: Description of his work [3–6]
+  > He formulated the Pakistan Resolution and had talks with Gandhi in 1944. He also presented the 14 Points as a result of the Nehru Report.
+  >
+  > LEVEL 3: Explains the declaration of the Day of Deliverance OR other achievements [7–10]
+  >
+  > LEVEL 4: Explains the declaration of the Day of Deliverance AND other achievements [9–13]
+  > Jinnah called on all Muslims to celebrate the end of Congress Rule in December 1939. He used this declaration as a signal to all Muslims that changes were ahead and that partition was still possible. He gained great support and his own standing with Muslims, Hindus and the British was enhanced. However he had many other achievements. One of these was his 14 Points of 1929 which set out the demands of any future negotiations with either Congress or the British Government. The demands were also to form the basis of the Muslims' demands for a separate homeland. It also convinced them that the Hindus and Muslims were two separate nations.
+  > After the 1937 elections he set out to reform the ML at grass root level and as a result membership grew significantly by mid 1938. Without this growth the League would have struggled to be recognised and hence the fortunes of the Pakistan Movement would have possibly failed to bear fruit when it did.
+  > He also opposed the proposals of the Cripps Mission that saw Dominion status for the sub-continent. In doing so he ensured the British realised the need to protect minority interests. Although the Gandhi-Jinnah Talks of 1944 broke up without agreement, Gandhi was left in no doubt that the ML was an important organisation that spoke with authority on behalf of Muslims. Due to continued pressure from the ML and Jinnah the 3 June Plan of 1947 announced that 2 states would be set up – India and Pakistan. This wouldn't have come about without the hard work of Jinnah.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Comparison, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. Spans six of Jinnah's achievements (Day of Deliverance, 14 Points, Muslim League reform, Cripps Mission, Gandhi-Jinnah Talks, 3rd June Plan) rather than one single event; user directed this into the Iqbal, Rehmat Ali & Jinnah for Pakistan topic (#29) — fourth entry in this file, and its first entry evaluating Jinnah's achievements specifically rather than a biographical or comparison question.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/17-day-of-deliverance.md` (alternate topic considered, not used)

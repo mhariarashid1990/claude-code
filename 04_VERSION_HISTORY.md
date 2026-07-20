@@ -280,3 +280,39 @@ preserved verbatim: Q5(c)'s LEVEL 4 band prints as "[11–13]" rather than the
 required under the 2010–2014 extraction pattern were present and extracted;
 none skipped.
 **Date:** 2026-07-20
+
+## Version 12 — 2026-07-20
+
+**Questions added:** 15 (PK2059-ON-2012-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. One topic file received its first-ever entry this
+version: `04-ussr-russia.md` (Q4(c)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2012 sessions/variants
+field corrected from "May/June, V1" to "May/June, V1 + Oct/Nov, V1" (status
+remains Complete).
+**Reason:** Ninth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2012, single variant. Source was the official mark scheme
+only. Every one of the 15 parts under the 2010–2014 extraction pattern was
+presented with clickable topic options and allocated strictly per the user's
+picks. Notable decisions: Q1(a) ("Hindu-Urdu Controversy") went to Sir Syed
+Ahmad Khan over Urdu Language Controversy, since the stem and MS frame it
+through Sir Syed's reaction and its role in shaping his Two Nation Theory;
+Q2(c) (Lucknow Pact vs other 1909–1919 attempts) went to Multiple Topic
+Questions (1905–1926), consistent with the Version 11 precedent; Q3(c) ("Day
+of Deliverance... Jinnah's greatest achievement 1929–1947", spanning six of
+Jinnah's achievements) went to **Iqbal, Rehmat Ali & Jinnah for Pakistan**
+(topic #29) per explicit user instruction, its first entry evaluating Jinnah's
+achievements rather than a biography or leader-comparison question; Q4(b)
+("Why was Martial Law declared by Ayub Khan in 1958?") went to Ayub Khan, as
+named in the question stem, despite the MS's own content centering partly on
+Iskander Mirza's motives. One notable source-content anomaly (not a printing
+error, an internal MS inconsistency) preserved verbatim: Q1(c)'s Successes/
+Failures lists are framed from the Indian-resistance perspective (power of
+local Nawabs, Tipu Sultan/Ranjit Singh's early successes listed as
+"Successes"; British army strength and eventual conquest listed as
+"Failures") — the inverse of how the same content is framed in this bank's
+May/June 2010 and Oct/Nov 2010 Q1(c) entries — reproduced exactly as printed,
+not reconciled. All 15 parts required under the 2010–2014 extraction pattern
+were present and extracted; none skipped.
+**Date:** 2026-07-20

@@ -33,3 +33,32 @@
 - **Version Number:** 5
 - **Allocation History:** Allocated on extraction, Version 5, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2012-V1-Q3B
+
+- **Year:** 2012
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was there so much opposition to the Government of India Act of 1935? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It governed India.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The British kept most of the power.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Although it seemed that the Indians were given more control over their affairs, key decisions relating to external relations and defence were retained by the British which were drawbacks. The GG remained head of the Federation and had special powers in external relations and defence. Although it appeared to give Indians a say in running their country the property qualification for voting meant that only 25% of the population could vote. All sides in India opposed it, the princes resented the loss of power, the Hindus likened it to slavery with so many safeguards and the Muslims thought it was totally unacceptable especially due to the retention of special powers by the British.
+- **Suggested Primary Topic:** Government of India Act (1935)
+- **Secondary Tags:** Causes, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2012 sitting of 2059/01. MS uses abbreviation "GG" (Governor-General) — reproduced exactly as printed. Topic chosen by user from clickable options.
+- **Version Number:** 12
+- **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
+- **Cross References:** —
