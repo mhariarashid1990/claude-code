@@ -95,3 +95,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q5B
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Zulfiqar Ali Bhutto executed in 1979?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1:Simplistic answer [1]
+  > He was corrupt
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Bhutto had too much political power and he was accused of murder.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > One of the main weaknesses of his government was that the focal point of political power lay with the party leadership and Bhutto in particular. When things went wrong the blame was clearly laid at his feet. Bhutto was accused of conspiracy to murder a political opponent by sending the FSF to kill him and was found guilty. He refused to plead for clemency to the President. Zia wanted to get rid of Bhutto to demonstrate his growing power and his lack of weakness to the army in particular.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Question is framed around Bhutto's downfall, but the mark scheme's final point centers on Zia's motive for removing him; user chose General Zia-ul-Haq over Zulfiqar Ali Bhutto.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/07-zulfiqar-ali-bhutto.md` (alternate topic considered, not used)

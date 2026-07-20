@@ -121,3 +121,37 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q1C
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the introduction of the 'Doctrine of Lapse' in 1852 the most important reason for the War of Independence in 1857? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > The War was the fault of the British
+  >
+  > LEVEL 2: Description of / identifies reasons [3–6]
+  > The Doctrine of Lapse occurred when any local kingdom not having a direct heir was to be taken over by the British.
+  > A new rifle cartridge, which was coated in both cow and pig fat, was introduced.
+  >
+  > LEVEL 3: Explains Doctrine of Lapse or other reasons [7–10]
+  >
+  > LEVEL 4: Explains Doctrine of lapse and other reasons [9–13]
+  > The Doctrine of Lapse, under which any local kingdom not having a direct heir was to be taken over by the British, had been introduced without any consultation or care for local feeling. It caused great unrest. Other reforms had also been introduced similarly. The replacement of Persian and Sanskrit by English as the official language in 1832 deeply upset both the Muslims and Hindus who were concerned about the loss of their culture through a change of language. A number of social reforms had been imposed without consultation or care for local feeling which also caused unrest. Indians had to send their children to co-educational schools and were forced to abandon purdah, which again was seen as a threat to their culture. The British introduced a new cartridge, which was coated in both cow and pig fat. Because the soldiers had to chew the fat it caused great resentment since the Muslims forbade pig fat and the cow was a sacred animal in the eyes of the Hindus.
+  >
+  > LEVEL 5: As Level 4 - also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

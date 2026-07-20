@@ -55,3 +55,28 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q4A
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > 4 (a) Benazir Bhutto's government had to deal with accusations of encouraging corruption when she was in office in the late 1980s. Faced with increasing opposition to her rule, she was dismissed from office in 1990 by the President Ghulam Ishaq Khan. Nawaz Sharif became Prime Minister. He believed he could solve Pakistan's problems and move away from the corruption accusations of the previous government. However, he did encounter a number of problems, one of which was regarding the Co-operative societies.
+  >
+  > What was the Co-operative societies scandal? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > Co-operative Societies accepted money from members and could make loans for purposes that were to the benefit of the society and its members. Mismanagement of these led to a major collapse in which millions of Pakistanis lost money by 1992. In Nawaz Sharif's state of Punjab, 700000 poor people lost all their savings when the societies went bankrupt. The societies had loaned billions of rupees to Nawaz Sharif's family business. He repaid the loans but his reputation was damaged and was one of the reasons why he lost office the following year 1993.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Political, Failures, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

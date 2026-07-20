@@ -92,3 +92,39 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2014-V1-Q5C
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Were political concerns more important than economic ones in the creation of Bangladesh in 1971? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They wanted independence
+  >
+  > LEVEL 2: Description of/identification of concerns [3–6]
+  > The Awami League wanted a federal government East Pakistan was a long way from West Pakistan and it was poorer and had many floods
+  >
+  > LEVEL 3: Explains political or economic concerns [7–10]
+  >
+  > LEVEL 4: Explains both. [9–13]
+  > Political:
+  > The general election of 1970 saw the Awami League win a majority in East Pakistan. The League wanted a federal form of government, which would leave East Pakistan to control everything except defence and foreign policy. It wanted a separate currency and fiscal policy with its own taxation. It wanted to negotiate its own trade agreements with other countries and have its own armed forces. In effect they wanted separation from Pakistan, which was becoming more evident due to the perceived differences between the two. Political parties who emerged in both parts believed in regionalism rather than national sovereignty. However Ayub Khan rejected the demands of the Six Points of the Awami League. Its leader Mujib-ur-Rehman was imprisoned. This caused further discontent and separation began to look inevitable.
+  > Economic:
+  > East Pakistan was a long way from the western half and most of the wealth of Pakistan was concentrated in the west not only of individuals but also in terms of government expenditure. This caused great resentment in East Pakistan. A weaker industrial base and a climate ravaged by regular floods led to even more depression in this area, which caused further discontent. Also the eastern province saw little return for the wealth created by the growing of jute in the area. Again all the benefits went to the west.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Political, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). User chose Yahya Khan over Bangladesh, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)

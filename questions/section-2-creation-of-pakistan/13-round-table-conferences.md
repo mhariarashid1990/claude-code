@@ -95,3 +95,32 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q3B
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why were three Round Table Conferences held between 1930 and 1932?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > More than one meeting was necessary
+  >
+  > LEVEL 2: Identifies reasons / describes RTCs and/or why they failed [2–4]
+  > Congress didn't attend the first one and there was stalemate in the second.
+  >
+  > LEVEL 3:Explains reasons [5–7]
+  > The Indians had opposed the Simon Commission but a report was still produced. The British decided that a RTC should be held in order to discuss the Commission's recommendations on the future government of India. It was realised that without the attendance of the Congress in the first RTC little progress on the future of the sub-Continent could be achieved. Lord Irwin met Gandhi and made progress so that anther Round Table Conference could be held. In this Gandhi took a hard line refusing to recognise the problem of the minorities and also claiming to represent the Congress alone which he said spoke for the whole of India. The Conference broke up amidst threats that the British would impose a solution if agreement couldn't be reached. It was then agreed that a third Conference would be held.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

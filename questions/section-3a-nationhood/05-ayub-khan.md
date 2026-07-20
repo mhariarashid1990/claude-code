@@ -91,3 +91,36 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2014-V1-Q4C
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Were the social reforms of Ayub Khan the most important of his domestic policies during the 'Decade of Progress' between 1958 and 1969? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1–2]
+  > Reforms that affected the people were very important
+  >
+  > LEVEL 2: Describes Ayub Khan's domestic policies [3–6]
+  > He built houses for refugees and marriages had to be registered.
+  >
+  > LEVEL 3: Explains social reforms or other reasons [7–10]
+  >
+  > LEVEL 4: Explains social reforms and other reasons [9–13]
+  > Ayub Khan took action to prevent people from hoarding goods and selling them on the black market at inflated prices. Profiteers had their goods confiscated and many were arrested. As a result this action brought down the prices of many goods. He also fixed the price of milk and other goods to stop profiteering, which also helped families to manage their weekly budget better. The government set about improving housing for refugees. A massive new housing development provided new homes for refugees in Karachi, which clearly had a beneficial effect on the lives of these people. Women's rights benefited too from reforms affecting divorce and marriage. Marriages and divorces now had to be registered and further marriage approved by a court. The minimum age of marriage for females became 16. However there were other domestic policies that were important. In 1959 Basic Democracies were introduced which was a 4 tier structure of government, allowing elections at various levels. The success of these councils, which were set up, was such that martial law was lifted. However there were other factors, which were important aspects of his domestic policies. Land was redistributed to farmers with medium sized farms and agriculture was revitalised to such an extent that crop outputs were at record levels. In 1962 an oil refinery was established in Karachi and a Mineral Development Corporation was set up for the exploration of mineral deposits. An Export Bonus Scheme was set up offering incentives to industrialists who increased exports. As a result of these policies economic growth rose sharply. National growth rate rose more than 7% and the economy grew three times faster than any other South East Asian country. However the new wealth was concentrated in the hands of a few and the general population didn't benefit.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Domestic Policy, Comparison, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

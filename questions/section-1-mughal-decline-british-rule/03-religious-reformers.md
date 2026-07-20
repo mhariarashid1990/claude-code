@@ -127,3 +127,28 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q1A
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > 1 (a) The authority of the Mughal emperors was declining by the end of Aurangzeb's reign in 1707. The Hindus were unhappy with aspects of his reign and after his death, began to exercise greater control over parts of the sub-continent. As a result Muslim power and influence over India, which had been so strong, began to disintegrate. Many Muslims began to feel strongly about reviving Islam including Haji Shariat Ullah.
+  >
+  > Describe the achievements of Haji Shariat Ullah in reviving Islam. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > Dar-Ul-Harb – miserable condition of Muslims, had moved away from Islamic practices and so wanted them to observe them again – faraiz. He wanted to restore pride of Muslims, remove Hindu practices in worship, emphasis on praying for past sins, promising to lead a righteous life in future, alarmed Hindus, work carried on by son. Work carried on in East Bengal amongst Muslims who had been oppressed by Hindus and British. Supported jihad.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Achievements
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

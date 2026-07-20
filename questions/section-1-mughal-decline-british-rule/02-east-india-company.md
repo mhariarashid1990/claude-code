@@ -139,3 +139,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2014-V1-Q1B
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why the East India Company became involved in the sub-continent during the seventeenth century.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They were interested in the country
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > To trade and extend their sphere of influence in the East
+  >
+  > LEVEL 3: Explains reasons [5-7]
+  > Traders reported evidence of immense wealth in the sub-Continent, which led to the EIC establishing a trading base there since they saw a profitable future in the trade of spices, cotton and silk. It also wanted to establish its influence in the sub-Continent and to oust the Dutch and Portuguese, especially since the East Indies was already out of reach with the Dutch in control of the Spice trade. The EIC also wanted to establish a strategic port in the sub-continent that would protect its trading interests there and the warm waters were especially attractive to all year trading.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

@@ -33,3 +33,28 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/06-yahya-khan.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2014-V1-Q5A
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) During the 1980s, relations between India and Pakistan were fraught with difficulties. The situation in Kashmir was far from resolved and both sides were developing nuclear weapons. Neither side was willing to sign the Nuclear Proliferation Treaty. By the 1990s tension was increasing again regarding nuclear weapons and Kashmir. Eventually an attempt was made to reduce tensions between the two countries by ending nuclear testing and then the Kargil Conflict happened.
+  >
+  > What was the Kargil Conflict? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  > 1999, Muslim Kashmiri guerrillas crossed the Line of Control and captured the Indian occupied towns of Kargil and Drass. Pakistan government denied any involvement (but later admitted). India launched counter attack and 2 of its aircraft crossed into Pakistani airspace. One was shot down. Pakistani forces pushed back and was eventually persuaded by USA to withdraw behind Line of Control. A major blow to Pakistan-India relations.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Stem does not name a specific Prime Minister; user chose India and the Kashmir Issue over Nawaz Sharif (whose second term the Kargil Conflict falls under, per the equivalent question in the 2013/01 paper).
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/10-nawaz-sharif.md` (alternate topic considered, not used)

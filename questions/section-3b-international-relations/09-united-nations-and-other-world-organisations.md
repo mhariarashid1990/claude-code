@@ -72,3 +72,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q4B
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Pakistan seek membership of the United Nations in 1947?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > The United Nations was founded in 1945
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Because of Kashmir
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Pakistan felt that membership of the United Nations would help their conflict with India over Kashmir by drawing the international community's attention to it. Also Pakistan took it upon itself to become a spokesman of many Asian States and movements especially Muslim countries. Other issues included the World Bank and the Canal Water Dispute.
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Causes, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

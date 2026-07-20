@@ -67,3 +67,37 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2014-V1-Q3C
+
+- **Year:** 2014
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the migration to Afghanistan (Hijrat) the most important reason why the Khilafat Movement failed? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1:Simplistic statement [1–2]
+  > It led to the failure of the Movement
+  >
+  > LEVEL 2: Description of / identifies reasons for failure
+  > The hijrat failed as they were turned away. Gandhi thought that events were getting too violent. [3–6]
+  >
+  > LEVEL 3: Explains the Hijrat or other reasons [7–10]
+  >
+  > LEVEL 4: Explains the Hijrat and other reasons [9–13]
+  > Thousands of Muslims migrated to Afghanistan in a religious protest against the British government. The Afghan government was hostile to the migrants and refused to allow all the refugees to settle. Many of those who returned to India died on the journey back or found themselves homeless and jobs occupied, which dispirited the Muslims. As a result Muslim support for the Khilafat Movement fell away. However there were other reasons for its failure. Gandhi had seen an opportunity for self-rule by joining the Movement and the involvement of the Hindus was welcomed by many Muslims. However by joining with the Hindus the objectives of the Movement were made less clear since the Hindus and Ghandi especially, were using it for their own ends and didn't have the interests of the Muslims at heart. Chauri Chaura was a village in the United Province where trouble started between the police and a mob. Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so called off his support. This was a massive blow to the chance of success for the Movement as a large proportion of the support for the cause fell quickly away.
+  > Some of the leaders including Maulana Muhammad Ali were imprisoned in 1921which made the organisation less effective since the Movement's leadership was missing at a crucial time. The Movement's ultimate failure was brought about by the decision of the Muslim Mustafa Kamal Ataturk to form a nationalist government in Turkey but the end had been seen in the refusal of Lloyd George to accept the demands of the Movement. Muslims now had to cause to support and support quickly vanished.
+  >
+  > LEVEL 5: As Level 4: also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 9
+- **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
+- **Cross References:** —

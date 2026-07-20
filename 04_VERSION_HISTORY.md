@@ -169,3 +169,35 @@ is called "the Wardha Scheme" elsewhere in this bank — reproduced exactly as
 printed, not corrected. All 15 parts required under the 2010–2014 extraction
 pattern were present and extracted; none skipped.
 **Date:** 2026-07-19
+
+## Version 9 — 2026-07-19
+
+**Questions added:** 15 (PK2059-MJ-2014-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Three topic files received their first-ever entry this
+version: `15-elections-of-1937.md` (Q2(a)), `06-reversal-of-partition-of-bengal-1911.md`
+(Q2(b)), and `24-cabinet-mission-plan.md` (Q3(a)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2014 marked Complete.
+**Reason:** Sixth paper processed — Cambridge O Level 2059/01, Paper 1, May/June
+2014, single variant, and the fourth of the four papers uploaded together in this
+batch. Source was the official mark scheme only. Every one of the 15 parts was
+presented with clickable topic options and allocated strictly per the user's
+picks. Q2(c) (political developments 1909–1919, spanning Lucknow Pact,
+Morley–Minto, Montagu–Chelmsford, and the Rowlatt Act) went to Multiple Topic
+Questions (1905–1926). Three overlap decisions on Section 3 content: Q5(a)
+("What was the Kargil Conflict?") went to India and the Kashmir Issue over Nawaz
+Sharif, despite the equivalent 2013/01 question going to Nawaz Sharif — this
+stem does not name a Prime Minister, unlike that one; Q5(b) (Zulfiqar Ali
+Bhutto's execution) went to General Zia-ul-Haq over Zulfiqar Ali Bhutto, since
+the mark scheme's final point centers on Zia's motive; Q5(c) (Bangladesh
+creation, 1971) went to Yahya Khan, consistent with every prior equivalent
+decision in this bank. All 15 parts required under the 2010–2014 extraction
+pattern were present and extracted; none skipped.
+
+**This completes the 2010–2014 extraction-pattern era for 2059/01**: 2010, 2011,
+2012, 2013 (both components), and 2014 are all now marked Complete in
+`01_PAPERS_TRACKER.md` — 90 questions total across 6 papers. Remaining work:
+2059/01 2015–2025 (the reduced Q1(c)/(d) + Q2–5(a/b/c) pattern), and all of
+0448/01 (IGCSE) 2010–2025.
+**Date:** 2026-07-19
