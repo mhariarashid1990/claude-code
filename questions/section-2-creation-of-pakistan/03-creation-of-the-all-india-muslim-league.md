@@ -128,3 +128,45 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q3C
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the partition of Bengal the main reason for the formation of the Muslim League in 1906? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1–2]
+  >
+  > LEVEL 2: Identifies reasons for partition [3–6]
+  > The partition caused resentment amongst the Hindus
+  >
+  > LEVEL 3: Explains the partition of Bengal reason OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains the partition of Bengal reason AND other reasons [9–13]
+  > Partition of Bengal
+  > • Hindus protested against the partition of Bengal - Muslims saw this as a sign of the influence the Hindus had over the British
+  > • The Muslims started to think about their own survival and political representation
+  > • Muslims were also increasingly aware that their political rights would not be advanced if they continued to rely on the Indian National Congress
+  > • By not organising a Muslim group they would continue to be disorganised and disunited over the partition.
+  > Other reasons
+  > • The growth of a better understanding between the British and Muslims that was reflected in the Simla Declaration in 1905
+  > • In 1905, a new Liberal government had taken office that seemed likely to make changes in political representation, so Muslims felt that they needed their own political party
+  > • The Congress was seen as an organisation which would only advance Hindu views as it demanded that India should be treated as a cultural and political whole and Hindi should be declared the official language
+  > • They did not feel they had the same influence as Congress with the British
+  > • The growth of extreme Hindu nationalist groups which demanded that Muslims be forcibly converted to Hinduism.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01. Near-identical content to the May/June 2010 Q2(c) and Oct/Nov 2013 Q2(c) entries already in this file, reproduced separately and verbatim as its own distinct instance. MS again refers to the "Simla Declaration in 1905" (this bank's dedicated topic is titled "Simla Deputation") — reproduced exactly as printed, not corrected. Source anomaly preserved verbatim: LEVEL 1 band carries no printed example statement — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

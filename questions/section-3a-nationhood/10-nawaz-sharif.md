@@ -211,3 +211,32 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q5A
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Describe General Pervez Musharraf's rise to power in 1999. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to the following:
+  >
+  > • Nawaz Sharif tried to blame the Kashmir retreat on Pervez Musharraf but this was not accepted.
+  > • Nawaz Sharif tried unsuccessfully to replace him as the chief of army when he was visiting Sri Lanka.
+  > • Nawaz Sharif would not give permission for his plane to land in Pakistan.
+  > • Pervez Musharraf's army staff overthrew Nawaz Sharif, allowing his plane to land.
+  > • He then put Pakistan under military rule.
+  > • It was a bloodless coup which allowed life to go on as normal.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Features, Political, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2013 Q5(a) entry already in this file, reproduced separately and verbatim as its own distinct instance. User chose Nawaz Sharif, consistent with all prior decisions on equivalent Musharraf's-rise questions across this bank (no dedicated Musharraf topic exists in the taxonomy).
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

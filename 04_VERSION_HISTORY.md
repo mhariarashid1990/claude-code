@@ -528,3 +528,57 @@ batch). Total: 207 questions across 14 papers. Remaining in this batch: 2016
 Oct/Nov, plus 2017–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-20
+
+## Version 18 — 2026-07-20
+
+**Questions added:** 14 (PK2059-ON-2016-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No brand-new topic files were created, but the
+previously-empty 3rd June Plan topic file received its first-ever entry
+this version (Q4(a)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 207 → 221). `01_PAPERS_TRACKER.md` — 2016
+row updated to "May/June, V1 + Oct/Nov, V1" with status "Complete."
+**Reason:** Fifteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2016, single variant, and the second paper processed for
+2016 under the 2015–2025 extraction pattern (Section A/B split; Q1(a)/(b)
+source-based and excluded; Q1(d) capped at 10 marks). Every one of the 14
+parts was presented with clickable topic options and allocated strictly per
+the user's picks. Notable decisions: Q3(c) ("Was the partition of Bengal the
+main reason for the formation of the Muslim League in 1906?") went to
+**Creation of the All-India Muslim League** over Partition of Bengal (1905),
+since the question is fundamentally about the League's formation, weighing
+Partition of Bengal against other causes; Q4(a) ("What was the 3 June
+Plan?") went to the **3rd June Plan** topic — its first-ever entry; Q5(a)
+(Musharraf's rise to power) went to **Nawaz Sharif**, consistent with every
+prior decision on equivalent questions; Q5(b) ("Why was there a
+constitutional crisis between 1954 and 1955?") went to **Malik Ghulam
+Muhammad**, since although the MS content also touches Jinnah, Liaquat Ali
+Khan, Nazimuddin, and Bogra, its central active figure is Ghulam Muhammad's
+own decisions (dissolving the Assembly, declaring emergency, prevailing in
+court) — consistent with the May/June 2012 Q4(a) precedent already in that
+topic file. Several entries in this paper are substantively near-duplicate
+content of earlier entries already in this bank, each reproduced separately
+and verbatim as its own distinct instance: Q2(a) (Nana Sahib) parallels the
+May/June 2016 "Cawnpore" entry; Q2(b) (Britain's success 1750–1850)
+parallels several prior EIC entries; Q2(c) (Sir Syed's western-education
+achievement) parallels the May/June 2013 and May/June 2015 entries; Q3(a)
+(Lucknow Pact) parallels the May/June 2012 entry; Q3(c) (Muslim League
+formation) parallels the May/June 2010 and Oct/Nov 2013 entries; Q4(c)
+(Iqbal vs. Rahmat Ali) parallels the May/June 2011 entry; Q5(a) (Musharraf's
+rise) parallels the May/June 2013 entry; Q5(c) (UK/Commonwealth relations)
+parallels the May/June 2013 entry, here with several additional aid/trade
+figures not present there. This paper's mark scheme consistently uses
+bullet-point formatting rather than the continuous-prose style of earlier
+papers — reproduced as printed throughout. Minor source anomalies preserved
+verbatim: several LEVEL 1 bands in this paper carry no printed example
+statement (Q2(c), Q3(c), Q5(c)); Q5(b) refers to "Khan Liaquat Ali Khan"
+(name order reversed); Q4(c)'s question stem spells "Rahmat Ali" rather than
+this bank's usual "Rehmat Ali." None corrected. All 14 parts required under
+the 2015–2025 extraction pattern were present and extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2016** (both May/June
+and Oct/Nov). Total: 221 questions across 15 papers. Remaining in this
+batch: 2017–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
+still to come.
+**Date:** 2026-07-20

@@ -501,6 +501,38 @@
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
 
+### UQID: PK2059-ON-2016-V1-Q2B
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Britain so successful in expanding its control of the sub-continent between 1750 and 1850?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1]
+  > They were stronger
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > They captured rich lands and had an experienced army
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > • The battles of Plassey and Buxar gave the British the riches of Bengal and favourable trading rights with the local nawabs
+  > • This provided massive new resources, which the British could use to consolidate control
+  > • The British also introduced governor-generals into the provinces who administered them on British lines and provided yet more control.
+  > • The British army using its vast local resources and modern weapons and military skill were taking control of even more land.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to several prior "why was Britain successful" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —
+
 ### UQID: PK2059-ON-2015-V1-Q2A
 
 - **Year:** 2015

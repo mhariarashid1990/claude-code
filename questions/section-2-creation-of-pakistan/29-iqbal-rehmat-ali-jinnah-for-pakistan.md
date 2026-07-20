@@ -160,3 +160,51 @@ other named Section 2 topics._
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q4C
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Did Allama Iqbal contribute more to the Pakistan Movement than Rahmat Ali? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1–2]
+  > They both went to university
+  >
+  > LEVEL 2: Describes the relationship/identifies successes or failures [3–6]
+  > • Allama Iqbal was a poet, knighted by the British.
+  > • Rahmat Ali named Pakistan
+  >
+  > LEVEL 3: Explains Allama Iqbal's OR Rahmat Ali's contributions to the Pakistan Movement [7–10]
+  >
+  > LEVEL 4: Explains Allama Iqbal's AND Rahmat Ali's contributions to the Pakistan Movement [9–13]
+  > Allama Iqbal
+  > • He was the first Muslim leader to advocate the partition of India and the creation of a separate Muslim state.
+  > • After his Allahabad address in 1930 when he put forward this view, many Muslims seriously considered separatism during the 1930s.
+  > • He was opposed to British control of India – conquest of others was wrong and went against the Muslim faith, this strengthened his view of a separate homeland, independent of the British.
+  > • He persuaded many Muslims that the Muslim League had to build an effective mass political party to challenge the domination of the Congress.
+  > • Jinnah took up many of his ideas and went on to lead the Muslim League as a highly effective political party.
+  > • Iqbal's poetry awakened a sense of nationhood among Muslims and he urged them to be active in making progress along a distinctive Islamic path and not capitalist in nature.
+  > • Many Muslims adopted this vision as a view of the future.
+  > Rahmat Ali
+  > • In 1933 he and some fellow students produced a pamphlet called 'Now or Never' in which he argued in favour of partition and gave the name Pakistan to this new Muslim state that would be formed.
+  > • This became popular amongst most Muslims during the 1930s.
+  > • He wanted a separate independent state.
+  > • He criticised plans to abandon Muslim communities in such places as Delhi as well as accepting a divided Bengal.
+  > • Jinnah refused to meet him.
+  > • Ali's vision of the future was adopted in the longer term.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Comparison, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01. Near-identical content to the May/June 2011 Q4(c) entry already in this file, reproduced separately and verbatim as its own distinct instance. Question stem spells "Rahmat Ali" (this bank's topic title and other entries mostly use "Rehmat Ali"/"Rehmat" or "Ali (RA)") — reproduced exactly as printed, not reconciled. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

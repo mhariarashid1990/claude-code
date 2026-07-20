@@ -62,3 +62,37 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q1C
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (c) Explain the importance of the Government of India Act of 1935 to the future of the sub-continent.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1]
+  > It was used to govern India
+  >
+  > LEVEL 2: Identifies importance [2–4]
+  > More people could vote and there was some provincial autonomy
+  >
+  > LEVEL 3: Explains importance [5–7]
+  > • Some provincial autonomy was granted which meant that every provincial government was allowed to devise and carry out their own programmes and be responsible to their own legislature.
+  > • This was the first time that this had been allowed and was seen as an important step forward.
+  > • Ministers in the provinces could have control over all departments except when governors chose to intervene in cases of public order or to veto a bill
+  > • It provided additional rights for the local population to vote – some 5 times the previous numbers at 35 million in total.
+  > • Provisions for a federal government were established for the first time, which meant that princely states could decide to participate politically in affairs concerning the sub-continent.
+  > • However, key decisions relating to external relations and defence were retained by the British, and opposed by the Indians.
+- **Suggested Primary Topic:** Government of India Act (1935)
+- **Secondary Tags:** Importance, Constitution, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — Section A Q1(c), near-identical content to the May/June 2011 Q3(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Source uses bullet-point formatting rather than the continuous-prose style of earlier papers' mark schemes — reproduced as printed. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

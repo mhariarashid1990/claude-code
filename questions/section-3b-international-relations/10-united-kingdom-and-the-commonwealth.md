@@ -72,3 +72,48 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q5C
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was Pakistan's relationship with the UK and the Commonwealth in the years 1947 to 1999? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1–2]
+  >
+  > LEVEL 2: Identifies/describes successes [3–6]
+  > Both countries have been members of CENTO and SEATO as well as the UN
+  >
+  > LEVEL 3: Explains the successes OR less success [7–10]
+  >
+  > LEVEL 4: Explains the successes AND less success [9–13]
+  > Success
+  > • British personnel remained in Pakistan post 1947
+  > • Britain helped to broker a peace deal in 1965
+  > • Margaret Thatcher visited in 1981
+  > • £46m aid for Afghan refugees in Pakistan, an important trading partner
+  > • Commonwealth member until 1971, aid given to Pakistan by other Commonwealth countries
+  > • Britain supported Pakistan's support of Afghanistan during conflict with Russia and gave £30m aid in support of Afghan refugees in Pakistan
+  > • By 1986, there was some £376m worth of trade between Pakistan and the UK Pakistan re-joined the Commonwealth in 1989.
+  > Less success
+  > • Britain refused to interfere in Kashmir problem
+  > • Pakistan criticism over Suez crisis
+  > • Britain abstained at United Nations over Bangladesh issues
+  > • Pakistan withdrew from the Commonwealth in 1971
+  > • Pakistan was suspended from the Commonwealth in 1999 due to the military coup.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** United Kingdom & the Commonwealth
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2013 Q5(c) entry already in this file, reproduced separately and verbatim as its own distinct instance, this version adding several detailed bullets not present there (£46m/£30m Afghan refugee aid figures, £376m trade figure, 1989 Commonwealth re-joining, 1999 suspension). Source anomaly preserved verbatim: LEVEL 1 band carries no printed example statement — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

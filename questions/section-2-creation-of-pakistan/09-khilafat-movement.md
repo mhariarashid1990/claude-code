@@ -272,3 +272,35 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q3B
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did the Khilafat Movement emerge?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1]
+  > Because of WW1
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The Muslims thought Turkey would be split up
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > • Muslims held the Caliphate of Turkey in high regard and were not prepared to see Turkey split up after the war.
+  > • They expressed their views to the British government during the war who promised that no harm would be done to the Caliphate.
+  > • After the war ended, reports from Europe suggested that the British and French wanted to punish the Turks for their support of the Germans.
+  > • As a result, the Khilafat Movement was founded.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2010 Q2(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

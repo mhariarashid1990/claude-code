@@ -59,3 +59,29 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q3A
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Describe what happened at Lucknow in 1916. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > • Congress agreed to concessions with Muslim League – right to separate electorates, 1/3 of seats in Councils
+  > • Both wanted more seats in Councils, protection of minorities, provinces to have autonomy, proposals to be binding on British
+  > • First time joint agreement, Congress accepted some form of partition needed, Home Rule seemed a possibility and Muslim League realised they needed to work with Congress.
+- **Suggested Primary Topic:** Lucknow Pact & First World War
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2012 Q2(a) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

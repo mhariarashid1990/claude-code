@@ -242,3 +242,47 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q2C
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the development of a western education system the greatest achievement of Sir Syed Ahmad Khan? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1–2]
+  >
+  > LEVEL 2: Identifies/describes achievements [3–6]
+  > He wrote a number of books and opened a school and a university
+  >
+  > LEVEL 3: Explains development of a western education system OR other factors [7–10]
+  >
+  > LEVEL 4: Explains development of a western education system AND other factors [9–13]
+  > Western education system
+  > • In 1863, he founded the Scientific Society at Ghazipore this made scientific writings available to Muslims by translating them from English into Urdu.
+  > • He established a Muslim college, which led to the Muslim-Anglo Oriental College in 1876 and then the University of Aligarh, which is important in Pakistani history as it educated many of its future leaders.
+  > • In 1886 he set up the Mohammedan Educational Conference with the aim of raising educational standards amongst all Muslims.
+  > • He devoted his time to improving the position of Muslims through education.
+  > Other factors
+  > He suggested that the British should try to understand Muslims better
+  > • He gave explanation of the word 'Nadarath' in an attempt to remove the misunderstanding of the British about Muslims.
+  > • He was also aware that the British knew little about Islam and was offended by a book he read in Britain on the life of the Prophet and, as a result, wrote his own work correcting the many errors he had read.
+  > • He believed that relations with the British also could be improved by improving the understanding of Christianity by Muslims. He tried to overcome this by writing Tabyin-ul-Kalam, which pointed out the similarities between Islam and Christianity.
+  > • He wrote a number of books following the War of Independence showing the British that the Muslims were only partly to blame and that there were Muslims who were supporters of the British government.
+  > • He felt that the British should treat the Muslims and Hindus differently since they lived separate and different lives from one another and so were really like separate nations.
+  > • He was the first person to express this point of view and it became known as the Two Nation Theory that gave hope to Muslims of a separate homeland.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Comparison, Educational, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01. Near-identical content to the May/June 2013 Q2(c) and May/June 2015 Q2(c) entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: LEVEL 1 band carries no printed example statement (unlike this file's other LEVEL 1 bands) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

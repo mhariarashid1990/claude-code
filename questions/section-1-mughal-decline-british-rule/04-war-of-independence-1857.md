@@ -271,3 +271,31 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2016-V1-Q2A
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Who was Nana Sahib? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to the following:
+  >
+  > • During the War of Independence at Kanpur he led the revolt that killed British officers and other Europeans
+  > • He had a personal grievance against the British for stopping his pension
+  > • A British force surrendered to him and his force, having been given a promise of safe passage out of the area
+  > • Nana Sahib fired on the British on barges killing 300 women and children and the soldiers
+  > • He escaped and was never captured.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2016 Q2(a) entry already in this file (there framed as "What happened at Cawnpore in 1857?"), reproduced separately and verbatim as its own distinct instance, this time framed as a biographical question about Nana Sahib himself. Topic chosen by user from clickable options.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** —

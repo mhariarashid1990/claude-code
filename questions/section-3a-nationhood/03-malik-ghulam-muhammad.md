@@ -30,3 +30,40 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2016-V1-Q5B
+
+- **Year:** 2016
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was there a constitutional crisis between 1954 and 1955?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simple statement [1]
+  > Pakistan had been only recently established.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > • Jinnah had died and there were major problems in running the new country.
+  > • Politicians were inexperienced.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > • Jinnah had died in 1948 and Khan Liaquat Ali Khan was assassinated in 1951.
+  > • The country was struggling to establish itself without these two figures.
+  > • The problems of running a new country were very difficult to overcome and joint assets had not been shared.
+  > • There was a lack of stability which led to many different governments being formed during these years.
+  > • In 1953 Nazimuddin's government was dismissed and replaced with Bogra who lacked experience.
+  > • An example was in the passing of the amendment to Government of India Act in 1954 while Ghulam Muhammad was abroad to limit his powers causing a crisis. When he returned he dissolved the Assembly and declared a state of emergency stating that Bogra had lost the confidence of the people.
+  > • This was challenged in court but Ghulam Muhammad prevailed.
+  > • The One Unit Policy was also unpopular, causing unrest.
+- **Suggested Primary Topic:** Malik Ghulam Muhammad
+- **Secondary Tags:** Causes, Political, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2016 sitting of 2059/01 — near-identical content to the May/June 2012 Q4(a) entry already in this file, reproduced separately and verbatim as its own distinct instance, this version naming Nazimuddin and dating the amendment to 1954 more explicitly. MS refers to "Khan Liaquat Ali Khan" (name order reversed from the usual "Liaquat Ali Khan" used elsewhere in this bank) — reproduced exactly as printed, not corrected. User chose Malik Ghulam Muhammad over Multiple Regime Questions, consistent with the established precedent for this exact recurring question.
+- **Version Number:** 18
+- **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
