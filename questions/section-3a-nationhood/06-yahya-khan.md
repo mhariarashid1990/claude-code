@@ -128,3 +128,27 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2015-V1-Q4A
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What was Operation Searchlight? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > A planned military operation carried out by the Pakistan Army to put down the Bengali nationalist movement in East Pakistan in March 1971. Ordered by the central government in West Pakistan, this was seen as the sequel to "Operation Blitz" which had been launched in November 1970. The original plan envisioned taking control of the major cities on March 26, and then eliminating all opposition, political or military within one month. Bengali resistance was not expected by the Pakistani army and led to many atrocities taking place that caused some 10 million refugees to flee to India. These atrocities enraged the Bengalis, who declared independence from Pakistan, and led to the creation of Bangladesh
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Features, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Content covers the Yahya Khan regime's own military action leading to the creation of Bangladesh; user chose Yahya Khan over the recommended Bangladesh topic, per explicit override, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)

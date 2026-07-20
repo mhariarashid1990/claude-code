@@ -100,3 +100,46 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/02-liaquat-ali-khan.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2015-V1-Q4C
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was Pakistan in establishing a new constitution between 1947 and 1973? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > It was very successful
+  >
+  > LEVEL 2: Describes the constitutions/identifies successes or failures [3–6]
+  > There were 3 constitutions implemented in 1956, 1962 and 1973
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains both. [9–13]
+  > Successes:
+  > The first attempt to set up a constitution came in 1949 with the Objectives Resolution which tried to pave the way towards a new constitution. It attempted to set out a plan to enshrine Islamic principles in an eventual constitution.
+  > In 1952 a revised Basic Principles Committee presented a report which made firm steps towards an Islamic constitution by stating that the Head of State should be Muslim and that he would appoint a committee of Islamic specialists to ensure that all legislation conformed to Islamic law
+  > In 1956 the long awaited constitution emerged with the important declaration that Pakistan was to be an Islamic Republic and that Urdu and Bengali would be the official languages, which was an attempt to placate the people of East Pakistan.
+  > In 1959 Basic Democracies were introduced by Ayub Khan which was a 4 tier structure of government, allowing elections at various levels. The success of these councils which were set up was such that martial law was lifted in 1962 after a new constitution was introduced.
+  > The 1973 Constitution revived the power of the National Assembly and as a result political parties became more important.
+  >
+  > Failures:
+  > The Objectives Resolution of 1949 was criticised especially by East Pakistan who resented the fact that Urdu, not Bengali was to be the official language despite the much larger population. It also resented the idea of equal representation in the National Assembly, again due to the size of its population. The death of Liaquat Ali Khan meant that constitutional change had to wait until a new leader could be found and had time to settle in
+  > The Basic Principles Committee's report was criticised because the official language issue was still not settled and East Pakistan was determined to oppose the selection of Urdu. Political uncertainties and change meant that further discussions towards establishing a new constitution were put on hold for a few years until 1956.
+  > The 1956 constitution was heavily criticised since it didn't solve the political problems of Pakistan. The constitution promised a parliamentary system of government but whilst the President held the power to intervene or even suspend the Assembly. East Pakistan was very unhappy at not having a majority in the Assembly that it believed its vast population deserved. The 1962 constitution increased the powers of the ruling elite which happened because the major landlords dominated the elections to the Basic Democracies and often used force or bribery to influence the results .The constitution also upset the people of East Pakistan as they felt they were going to have little part in the governing of Pakistan and that the power was held by the military and civil officials of West Pakistan
+  >
+  > LEVEL 5: As Level 4: also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Comparison, Constitution, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Spans the Objectives Resolution, Basic Principles Committee, and three separate constitutions (1956, 1962, 1973) under multiple leaders (Liaquat Ali Khan, Ayub Khan, and others) rather than one regime's story; user chose the Multiple Regime Questions bucket.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md`, `section-3a-nationhood/02-liaquat-ali-khan.md` (single-leader topics touched on, not used as primary)

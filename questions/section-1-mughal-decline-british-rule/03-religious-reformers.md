@@ -237,3 +237,32 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q2B
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Shah Waliullah have such a major influence on the revival of Islam in the sub-continent?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > He was well known
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > He wanted to stop the Muslim decline
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Muslims had deteriorated into being a helpless and disorganised group of people and if they were to regain their power then strong leadership was required. He believed they were ignorant about Islam and the teachings of the Holy Quran. Therefore an emphasis on Quranic teachings would not only improve their knowledge but produce a feeling of solidarity. He also believed that Muslims' knowledge of Islam was difficult to gain and so he felt that by translating the Holy Quran into Persian would enable more people read it. Books written influenced the revival of Islam (examples).
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Importance, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Source spells "Shah Waliullah" (one word, no space) here, versus "Shah Wali Ullah" (three words) used elsewhere in this bank — reproduced exactly as printed, not reconciled. Near-identical content to the May/June 2010 Q1(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

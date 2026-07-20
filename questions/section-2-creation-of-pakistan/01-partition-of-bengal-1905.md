@@ -83,3 +83,42 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q3C
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was the Partition of Bengal in 1905? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Bengal wanted freedom.
+  >
+  > LEVEL 2: Describes Partition/Reversal or identifies successes/failures [3–6]
+  > It was too large and Hindus were in the majority and they didn't want it
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains successes AND failures [9–13]
+  > Successes
+  > Of the 54 million people in Bengal 42 million were Hindus. It seemed sensible to divide up the province on religious grounds and also because it was becoming very large and producing significant administrative problems. By doing this the British felt that the province would be easier to administer especially at the time of a new British government in power.
+  > The Muslims believed that partition would bring an end to Hindu oppression and that they would enjoy true recognition in a province in which they were in a majority.
+  >
+  > Failures
+  > The Hindus believed that the partition would come about as part of the British 'divide and rule' policy which would weaken Hindu unity and its influence in the new East Bengal
+  > The Hindus objection to Partition was so great that it caused the British to reconsider it. The Hindus opposed it by holding meetings and mass rallies which put pressure on the British government. They thought it was a deliberate attempt to 'divide and rule' on the part of the British. The Hindus were so angry that they attempted to assassinate Lord Minto and started their boycott of British goods under the 'Swadeshi Movement'. There was also an outbreak of terrorist activities.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Successes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

@@ -57,3 +57,27 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q5A
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What is the Karakoram Highway? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1966 joint China-Pakistan project to construct an 800 mile highway, opened in 1978. Known as the Friendship Highway in China .Financed with Chinese money and built by its engineers. Very difficult and dangerous road to build and claimed many lives. Follows the Silk Road route from China.
+- **Suggested Primary Topic:** China
+- **Secondary Tags:** Features, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Topic chosen by user from clickable options. Source anomaly preserved verbatim: missing space in ".Financed" — not corrected.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

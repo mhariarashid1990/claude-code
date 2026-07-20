@@ -472,6 +472,30 @@
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
 
+### UQID: PK2059-ON-2015-V1-Q2A
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Who was Robert Clive? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Became a general in EIC armed forces in India, defeated the French, Plassey 1757 showed qualities as a soldier and leader by defeating Nawab of Bengal. Made Governor of Bengal and enabled British supremacy there, increased power of merchants and established Oudh as a buffer state between Bengal and the Marathas. Introduced a number of reforms – dual system government, civil reforms, abolition of private trade system, Society of Trade, military reforms etc. Made Lord Clive, accused 'plundering India' but found not guilty. Became addicted to opium and in 1773 committed suicide
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —
+
 ### UQID: PK2059-MJ-2015-V1-Q2A
 
 - **Year:** 2015

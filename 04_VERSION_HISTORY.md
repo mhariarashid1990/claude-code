@@ -441,3 +441,45 @@ closely parallel their May/June 2010 and Oct/Nov 2011 counterparts
 respectively. All 14 parts required under the 2015–2025 extraction pattern
 were present and extracted; none skipped.
 **Date:** 2026-07-20
+
+## Version 16 — 2026-07-20
+
+**Questions added:** 14 (PK2059-ON-2015-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No brand-new topic files were created, but two
+previously-empty topic files received their first-ever entries this version:
+Delhi Proposals & Simon Commission (Q3(a)) and Gulf Countries (Q4(b)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 179 → 193). `01_PAPERS_TRACKER.md` — 2015
+row updated to "May/June, V1 + Oct/Nov, V1" with status "Complete."
+**Reason:** Thirteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2015, single variant, and the second paper processed under
+the 2015–2025 extraction pattern (Section A/B split; Q1(a)/(b) source-based
+and excluded; Q1(d) capped at 10 marks). Every one of the 14 parts was
+presented with clickable topic options and allocated strictly per the user's
+picks. Notable decisions: Q4(a) ("What was Operation Searchlight?") went to
+**Yahya Khan**, consistent with every prior decision on equivalent
+Bangladesh-creation questions in this bank; Q4(b) ("Why did Pakistan support
+the Palestinian cause between 1947 and 1999?") went to **Gulf Countries** per
+explicit user override, over the recommended United Nations & Other World
+Organisations topic — the first-ever entry in this topic file; Q3(a) ("What
+was the Simon Report?") is the first-ever entry in the Delhi Proposals &
+Simon Commission topic file. Two entries in this paper are substantively
+near-duplicate content of earlier entries already in this bank, each
+reproduced separately and verbatim as its own distinct instance: Q1(c)
+(Cripps Mission opposition) closely parallels the May/June 2012 Q3(b); Q5(b)
+(Benazir Bhutto's second dismissal) and Q5(c) (Kashmir issue) closely
+parallel their Oct/Nov 2012 and Oct/Nov 2011 counterparts respectively.
+Minor source anomalies preserved verbatim: Q2(b) spells "Shah Waliullah" (one
+word) versus "Shah Wali Ullah" (three words) used elsewhere in this bank;
+Q2(c) spells "Auranzeb" (missing "g"); Q1(d) has a stray full stop mid-phrase
+("the 3 June Plan. of 1947"); Q5(a) has a missing space (".Financed"); Q5(c)'s
+LEVEL 5 band carries no printed mark value. None corrected. All 14 parts
+required under the 2015–2025 extraction pattern were present and extracted;
+none skipped.
+
+**This completes all sessions/variants uploaded for 2015** (both May/June and
+Oct/Nov). Total: 193 questions across 13 papers. Remaining in this batch:
+2016–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern), still to
+come.
+**Date:** 2026-07-20

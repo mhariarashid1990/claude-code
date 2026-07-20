@@ -191,3 +191,40 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q5C
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful have India and Pakistan been in finding a solution to the Kashmir issue between 1947 and 1999? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They haven't been successful
+  >
+  > LEVEL 2: Identifies/describes the issues/success/failure [3–6]
+  > The Kashmir issue became a problem on partition because it had a Hindu ruler of a population which was mainly Muslim.
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains both [9–13]
+  > Successes:
+  > A cease-fire was arranged in January 1948 leaving Kashmir divided between India and Pakistan. From 1949 an official cease-fire line was agreed between India and Pakistan and was to be patrolled by UN troops. Pakistan kept up pressure on India by appealing to the UN whenever Indian moves tried to integrate Indian-occupied Kashmir into India. In 1957 the UN reconfirmed that Kashmir was a disputed territory and that a final solution should be settled by a UN supervised plebiscite. India promised to hold a plebiscite in Kashmir to determine its future.
+  >
+  > Failures:
+  > War has broken out on at least 2 occasions between the 2 countries. Plebiscite still not been held. In 1987 elections were rigged by India in an attempt to show popular support for its occupation. 1999 Kargil crisis brings threat of nuclear war between the 2 sides. Continues to be a source of conflict between the two nations.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01 — near-identical content to the Oct/Nov 2011 Q4(c) entry already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: LEVEL 5 band has no printed mark value (elsewhere in this bank shown as "[14]") — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

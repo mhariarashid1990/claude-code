@@ -212,3 +212,32 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q5B
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Benazir Bhutto dismissed from office a second time in 1996?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > She was unpopular
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > There were allegations of corruption
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Opposition from Nawaz Sharif tried to undermine her government with some success, organising strikes, marches and critical speeches. Opposition increased when these leaders were arrested. Family feuds over control of the PPP also highlighted the problems she faced especially as these were well publicised. The killing of her brother Mir Murtaza in a police ambush raised suspicions of government involvement especially when none of the police involved were arrested and some were promoted. Her husband Asif Ali Zardari was accused of receiving money from government deals and being involved in political murders and although the allegations were never proved, the inference was that the government was tarred with corruption.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01 — near-identical content to the Oct/Nov 2012 Q5(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

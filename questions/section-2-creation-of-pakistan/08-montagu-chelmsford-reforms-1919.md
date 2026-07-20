@@ -90,3 +90,32 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2015-V1-Q3B
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why were the Montagu-Chelmsford reforms opposed by Indians in 1919?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement/describes reforms [1]
+  > They didn't like them
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The reforms were limited and kept power in British hands
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > The reforms kept power in British hands in respect of law and order, finance, justice and administration and the civil service. The Indians only received minimal powers and even then the Viceroy (appointed by the British government) could veto any decision made and introduce any law that was deemed necessary. Congress in particular were bitterly against the proposals since they felt they had supported Britain during the war had lost 000s of men but was being short changed in receiving anything resembling real power in their government. Although separate electorates had been given to Muslims, other minorities such as Sikhs were not and thus these began to demand access to power
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Political, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

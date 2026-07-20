@@ -152,3 +152,40 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q2C
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Were the invasions by the Persians and Afghans the main reason for the decline of the Mughal Empire? Explain your answer
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > They were too strong
+  >
+  > LEVEL 2: Description /identification of reasons [3–6]
+  > Aurangzeb's successors had a decadent lifestyle and the invaders were able to defeat the Mughal soldiers
+  >
+  > LEVEL 3: Explains the invasions of the Persians and Afghans OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains the invasions of the Persians and Afghans AND other reasons [9–13]
+  > There were a number of reasons for the Empire's decline. As the Empire started to decline; it found itself at risk from invasion. The Afghans under the leadership of Ahmad Shah Abdali defeated the Marathas at Panipat. They had been in control of much of the Empire for some time. The Afghans however were unable to make the most of their victory and returned to Kabul. However they were able to invade the Empire a number of times during the 18th Century. The Persians under Nadir Shah captured much of the Empire's wealth and returned home with gold, jewels and the Peacock throne from Delhi.
+  >
+  > However there were other reasons for the decline. Auranzeb had an intolerant attitude to non-Muslims. He introduced a tax on non-Muslims called the Jizya. He destroyed Hindu temples and tried to ban Hindu practices. Taxation was high as he had to pay for the cost of military campaigns such as the Deccan Wars and he spent highly on luxurious palaces. Because of these he became an unpopular rule.
+  >
+  > After his death Mughal Emperors were renowned for living an extravagant lifestyle and spending money with little thought to the effect it had on the economy of the Empire. This led to inefficiencies and a lack of interest in the running of the Empire. The absence of a definite line of succession led to a significant amount of in-fighting amongst his successors which, also led to instability and the downfall of the Empire. The Marathas were skilful Hindu guerrilla fighters who defeated a Mughal army in 1737 and took control of Delhi and eastwards towards Bengal. By 1760 they were the most powerful people in India and nothing could the Mughals do to stop it. The British expansion into the sub-continent was rapid and their forces and equipment was no match for the Mughals who fell into rapid decline as a result.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01. Spelling "Auranzeb" (missing "g") preserved exactly as printed, not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —

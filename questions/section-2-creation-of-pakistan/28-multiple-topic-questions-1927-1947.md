@@ -136,3 +136,40 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/19-cripps-mission.md`, `section-2-creation-of-pakistan/20-quit-india-movement.md`, `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md`, `section-2-creation-of-pakistan/22-simla-conference.md` (single-event topics touched on, not used as primary)
+
+### UQID: PK2059-ON-2015-V1-Q1D
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > (d) Was the success of the Labour Party in winning the British General Election in 1945 the most important reason why the subcontinent of India was partitioned in 1947? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They converted people
+  >
+  > LEVEL 2: Description /identification of reasons [3–4]
+  > Labour were in favour of partition
+  >
+  > LEVEL 3: Explains the success of the Labour Party victory OR other reasons [5–7]
+  >
+  > LEVEL 4: Explains the success of the Labour Party victory AND other reasons [6–9]
+  > The Labour Party won a massive and unexpected victory in the 1945 General Election. The party was opposed to imperialism and eager to promote independence for India following the election. Thus the signs for an independent state of some kind looked very positive. However there was a problem, since the new government were pro-Congress and Gandhi, so Partition was most unlikely and instead the favoured route was for a federal India rather than two separate states.
+  >
+  > However there were other reasons partition took place in 1947. Following the Simla Conference in 1945, Lord Wavell announced new elections. The results demonstrated that the Congress had control of the non-Muslim votes but that the League had equally gained control of the Muslim vote. It was clear that the League was an equal player to the Congress and that the demand for Partition could no longer be ignored by the Congress or the British Government. However in March 1946, members of the British Cabinet Mission arrived in India to work out a plan for achieving independence for India as a federation. The Mission met with some 470 Indian leaders but Jinnah stuck firm to his stance that partition was the only way forward as far as the Muslims were concerned. Once the plans for grouping the provinces together were known, the ML accepted the plan as long as the groupings were to be compulsory. Congress however refused to accept the groupings and that they would not be bound by any British plan. The British government decided to form an Interim Government headed by Nehru of Congress. Eventually members of the ML joined it too.
+  >
+  > The ML grew more concerned that the British would leave India without organising a settlement and didn't want Congress to be left in charge of organising a new country. Thus the ML organised a Direct Action Day in the summer of 1946 in an attempt to stop the British government giving in to Congress. Rioting on a massive scale took place and 000s died. The British grew increasingly worried that civil war would ensue and gradually a change of mind grew over Partition. In February 1947 came the announcement by Attlee that the British would leave the sub-continent by 1948 and the subsequent violence in the Punjab in March 1947 that convinced Nehru that Partition should take place quickly. This was formalised in the 3 June Plan. of 1947 in which Mountbatten, the new Viceroy brought about Partition in August 1947.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [10]
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Political, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Content spans the 1945 British General Election, Simla Conference, Cabinet Mission Plan, Direct Action Day, and the 3rd June Plan — five distinct named topics plus the Labour victory itself — so filed in the multi-topic bucket rather than any single one. Source anomaly preserved verbatim: "the 3 June Plan. of 1947" (stray full stop mid-phrase) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/22-simla-conference.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, not used as primary)

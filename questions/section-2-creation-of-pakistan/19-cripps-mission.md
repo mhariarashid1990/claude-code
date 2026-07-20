@@ -58,3 +58,32 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2015-V1-Q1C
+
+- **Year:** 2015
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (c) Why did Congress and the Muslim League oppose the Cripps Mission in 1942?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > The Cripps Mission had no success/Describes the Mission.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The Muslim League wanted a separate state and Congress wanted immediate power.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > The Muslims rejected the plan because the British would not agree to Partition and the Congress Party wanted immediate and full control over the central government. The British were also negotiating from a weak position which the Congress Party exploited by demanding Britain leave the sub-continent immediately. The ML insisted on a firm promise of an independent state of Pakistan. Anything else would lead to an Hindu majority which they thought would deny Muslim rights.
+- **Suggested Primary Topic:** Cripps Mission
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2015 sitting of 2059/01 — Section A Q1(c), near-identical content to the May/June 2012 Q3(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 16
+- **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
+- **Cross References:** —
