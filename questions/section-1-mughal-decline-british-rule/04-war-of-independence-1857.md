@@ -247,3 +247,27 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q2A
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What happened at Cawnpore in 1857? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Indian troops, led by Nana Sahib, rose up against the British, trapping their forces who surrendered after 3 weeks. As they left, the British soldiers and 300 women and children were killed the remainder were kept as prisoners and later killed. Later the British carried out acts of revenge. Nana Sahib escaped.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — near-identical content to the May/June 2011 Q2(a) entry already in this file (there termed "the battle of Kanpur"), reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

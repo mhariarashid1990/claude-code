@@ -30,3 +30,27 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q4A
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What was the 'One Unit' Scheme? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Iskander Mirza (Acting Governor-General) introduced it in 1955 to unify all of West Pakistan. He claimed it would bring about greater efficiency and enable more rapid development. West Pakistan politicians and administrators feared their influence may be challengedif they did not do this, especially as there were 10 million more people in East Pakistan. By unifying West Pakistan and making West Pakistan and East Pakistan official with equal representation in the Assembly, the One Unit Scheme prevented East Pakistan from gaining a majority in the Assembly. This was very unpopular in East Pakistan.
+- **Suggested Primary Topic:** Iskander Mirza
+- **Secondary Tags:** Features, Political, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01. MS credits Iskander Mirza (Acting Governor-General) as introducing the scheme in 1955; user chose Iskander Mirza as the direct-leader match — second entry in this topic file. Source anomaly preserved verbatim: missing space in "challengedif" — not corrected.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

@@ -266,3 +266,41 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q2C
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Did Shah Waliullah contribute more to the spread of Islam than anyone else in the sub-continent before 1850? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Shah Waliullah was a great scholar.
+  >
+  > LEVEL 2: Description/identification of contributions [3–6]
+  > Shah Waliullah taught at the Madrassa in Delhi, spent some time in Medina and helped to found the Jihad Movement. Haji Shariatullah established the Faraizi Movement.
+  >
+  > LEVEL 3: Explains the contribution of Shah Waliullah OR contribution of others [7–10]
+  >
+  > LEVEL 4: Explains the contribution of Shah Waliullah AND contribution of others [9–13]
+  > Shah Waliullah
+  > He felt that the Muslims faced many problems because of their level of knowledge about Islam and the Holy Quran. He encouraged them to concentrate on Quranic teachings and helped them by translating the Holy Quran into Persian which was the main language of the Muslims at that time. His books were designed to spread the principles of Islam amongst Muslims.
+  > Syed Ahmad
+  > Spread Islam through the Jihad Movement, which was to become an armed struggle to liberate the Punjab and the North West Frontier. It grew largely because Muslims were banned from prayer and found it difficult to practise their religion.
+  > Haji Shariatullah
+  > Spread Islam through the Faraizi Movement which encouraged Muslims to perform their faraiz (religious obligations). This restored the pride in the community. A huge group of followers grew called 'Faraizis'.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01. Near-identical content to the May/June 2013 Q1(c) and Oct/Nov 2011 Q2(c) entries already in this file, reproduced separately and verbatim as its own distinct instance. Source spells "Shah Waliullah" (one word) and "Haji Shariatullah" (one word), consistent with the Oct/Nov 2015 entry's spelling rather than the multi-word forms used in earlier papers — reproduced exactly as printed, not reconciled. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

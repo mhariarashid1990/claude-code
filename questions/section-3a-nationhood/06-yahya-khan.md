@@ -152,3 +152,33 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2016-V1-Q1C
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (c) Why did the victory of the Awami League in the 1970 elections in Pakistan cause a constitutional crisis?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > It was a popular party.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The politicians of West Pakistan were worried about the consequences of East Pakistan running the National Assembly.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > President Yahya Khan was not willing to allow the Awami League to take over the National Assembly by forming a government. The Awami League had won a landslide victory in East Pakistan and the National Assembly and was in a position to form a government on its own. The future Prime Minister and the entire cabinet could be formed from the Awami League. Even though Zulfikar Ali Bhutto and the Pakistan People's Party had won an overwhelming victory in West Pakistan, it was likely it would have no role in the future government.
+  > The Awami League had won the election on a programme limiting the power of central government over the provinces. The different areas of the country wanted to have control over their foreign exchange earned from trade which would subsequently reduce the funds to the central government in West Pakistan.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — Section A Q1(c), the first paper processed in this batch under the 2015–2025 pattern for this year. User chose Yahya Khan over Bangladesh, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)

@@ -180,3 +180,27 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q5A
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Describe Zulfikar Ali Bhutto's health reforms of 1972. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Zulfikar Ali Bhutto introduced a health scheme in 1972 in which Rural Health Centres and Basic Health Units in urban areas were to provide widespread healthcare. It expected to set up 1 Rural Health Centre for every 60000 people and 1 Basic Health Unit for every 20000 people. Training colleges for doctors and nurses were expected to admit students on merit and on qualification (after first year) they could be placed anywhere by the government. The sale of branded medicines was banned in an attempt to reduce the cost of these and could be purchased without prescription. However, the reforms were expensive and there was a shortage of doctors and nurses. International drug companies closed down their operations in Pakistan due to a lack of profits from unbranded medicines.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Domestic Policy, Features, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01. Direct match — his own policy initiative. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

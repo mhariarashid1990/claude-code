@@ -179,3 +179,39 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q4C
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was Pakistan in solving the problems of Partition during 1947 and 1948? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Quaid-e-Azam became the Governor-General in 1947.
+  >
+  > LEVEL 2: Identifies solutions or describes the problems [3–6]
+  > Refugees were helped.
+  >
+  > LEVEL 3: Explains successes OR explains failures in terms of solutions [7–10]
+  >
+  > LEVEL 4: Explains successes AND failures in terms of solutions [9–13]
+  > Successes:
+  > The Quaid-e-Azam Relief Fund was created to help refugees. Quaid-e-Azam toured the provinces encouraging and motivating the people. He appealed to the people to help the refugees. He declared himself 'Protector-General' of religious minorities. The State Bank of Pakistan was set up. Karachi was made capital of Pakistan. The Civil Services were re-organised. Pakistan joined the United Nations and attempted to draw their attention to Kashmir issue.
+  > Failures:
+  > The Kashmir and other Princely States issues were not resolved. The Canal Water Dispute was not resolved until 1959. Millions were made homeless or died as a result of partition.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — near-identical content to the May/June 2012 and Oct/Nov 2013 entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

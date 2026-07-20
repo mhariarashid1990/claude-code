@@ -242,3 +242,32 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/06-afghanistan.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2016-V1-Q5B
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Zia-ul-Haq find it difficult to rule Pakistan during the late 1980s?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > Law and order broke down
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > There was an increase in violence and drug trading.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Zia-ul-Haq found difficulty in managing the breakdown of law and order. Violence grew throughout the country with killings commonplace in cities such as Karachi. Drug trafficking grew and there was an increase in levels of corruption in society. The provinces became more difficult to administer. Sindh had regular outbreaks of violence and there was a movement to break away from Pakistan. The NWFP was also becoming more critical of the government. The explosion at the arms dump at Camp Ojhri in 1988 led to Prime Minister Junejo setting up an inquiry. Zia-ul-Haq could not tolerate this, so dismissed him and dissolved the National Assembly. This led to a political crisis for Zia-ul-Haq.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — near-identical content to the May/June 2013 (2059/41) Q5(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

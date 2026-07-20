@@ -167,3 +167,47 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q5C
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the Co-operative Societies scandal the most important reason why Nawaz Sharif fell from office in 1993? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > There were many reasons.
+  >
+  > LEVEL 2: Identifies/describes the reasons for his downfall [3–6]
+  > The government mismanaged the economy and was accused of corruption.
+  >
+  > LEVEL 3: Explains the Co-operative Societies Scandal OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains the Co-operative Societies Scandal AND other reasons [9–13]
+  > Cooperative Societies scandal
+  > Mismanagement of the Societies led to loss of savings by millions of people. Many of the Societies had granted huge loans to the Ittefaq Group this damaged Nawaz Sharif's reputation.
+  > Kalashnikov culture
+  > There was easy availability of guns. There was crime, terrorism, kidnappings and murder. There were issues associated with refugees from the Soviet-Afghan war. Drug addiction increased.
+  > Economic measures
+  > Nawaz Sharif increased investment to provide jobs but few loans were repaid. US aid ceased at the end of the Soviet-Afghan war.
+  > BCCI scandal
+  > The collapse of BCCI bank in 1991 due to concerns about the bank's lending practices. Investors lost huge sums of money.
+  > Shariat Bill
+  > There was some opposition to the increased role of religion in government.
+  > Relations with President
+  > Nawaz Sharif disagreed with the President over the appointment of a new army chief of staff and Eighth Amendment.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01. Direct match — his own fall from office, consistent with all prior Nawaz Sharif downfall entries in this bank. This entry gives the fullest breakdown of his 1993 downfall in this file, naming six distinct contributing factors. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

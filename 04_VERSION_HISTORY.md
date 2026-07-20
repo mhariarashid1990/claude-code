@@ -483,3 +483,48 @@ Oct/Nov). Total: 193 questions across 13 papers. Remaining in this batch:
 2016–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern), still to
 come.
 **Date:** 2026-07-20
+
+## Version 17 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2016-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No brand-new topic files were created, but the
+previously-empty Bangladesh topic file received its first-ever entry this
+version (Q1(d)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 193 → 207). `01_PAPERS_TRACKER.md` — 2016
+row added as "May/June, V1" with status "In progress" (Oct/Nov 2016 still
+pending in this batch).
+**Reason:** Fourteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+May/June 2016, single variant, and the first paper processed for 2016 under
+the 2015–2025 extraction pattern (Section A/B split; Q1(a)/(b) source-based
+and excluded; Q1(d) capped at 10 marks). Every one of the 14 parts was
+presented with clickable topic options and allocated strictly per the user's
+picks. Notable decisions: Q1(c) ("Why did the victory of the Awami League in
+the 1970 elections in Pakistan cause a constitutional crisis?") went to
+**Yahya Khan**, consistent with every prior decision on equivalent
+Bangladesh-creation questions in this bank; Q1(d) ("How successful have
+relations between Pakistan and Bangladesh been from 1971 to 1999?") went to
+**Bangladesh** — the first-ever entry in this topic file, since its scope
+(post-1971 diplomatic relations) is distinct from the Bangladesh-creation
+content consistently filed under Yahya Khan; Q4(a) ("What was the 'One Unit'
+Scheme?") went to Iskander Mirza, its second entry, since the MS credits him
+directly as the scheme's author. Several entries in this paper are
+substantively near-duplicate content of earlier entries already in this
+bank, each reproduced separately and verbatim as its own distinct instance:
+Q2(a) (Cawnpore) parallels the May/June 2011 "battle of Kanpur" entry; Q2(b)
+(EIC appeal) parallels several prior "why did the EIC become involved"
+entries; Q2(c) (Shah Waliullah's contribution) parallels the May/June 2013
+and Oct/Nov 2011 entries; Q3(b) (Partition of Bengal causes) parallels the
+Oct/Nov 2012 entry; Q4(b) (Ayub Khan's Martial Law) parallels the Oct/Nov
+2012 and Oct/Nov 2013 entries; Q5(b) (Zia-ul-Haq's late-1980s difficulties)
+parallels the May/June 2013 (2059/41) entry. Minor source anomaly preserved
+verbatim: Q4(a)'s MS has a missing space ("challengedif"). None corrected.
+All 14 parts required under the 2015–2025 extraction pattern were present and
+extracted; none skipped.
+
+**2016 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 207 questions across 14 papers. Remaining in this batch: 2016
+Oct/Nov, plus 2017–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-20

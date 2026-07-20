@@ -119,3 +119,41 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q3C
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the introduction of the Rowlatt Act in 1919 the sole cause of violence in India during 1919 and 1920? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Yes it was.
+  >
+  > LEVEL 2: Identifies reasons for violence [3–6]
+  > Yes because the Rowlatt Act introduced trial without a jury and detention without bail. Another reason for violence was the Amritsar massacre.
+  >
+  > LEVEL 3: Explains Rowlatt Act reason OR other reasons [7–10]
+  >
+  > LEVEL 4: Explains Rowlatt Act reason AND other reasons [9–13]
+  > The Rowlatt Act
+  > This caused uproar in India because it appeared to go against the central principles of British justice: trial by jury and safeguards against illegal imprisonment. The measures were seen as being repressive, especially as people could be made to live in a particular place and were stopped from attending meetings. Strikes and demonstrations took place and the British made matters worse by introducing further measures such as banning anti-British publications.
+  > The Amritsar massacre
+  > This occurred in 1919 when a large group of Indians were shot dead and injured, including women and children, for holding an illegal meeting. Although General Dyer was reprimanded for ordering the shooting, his standing in the British media was enhanced which offended Indians and resulted in further violence.
+  > The Government of India Act
+  > This implemented the Montagu-Chelmsford reforms in 1919, retaining most of the power in India with central government, at a time when Indians following their efforts in the First World War had been expecting greater delegation of power. These measures were opposed, in some cases violently, and a deep mistrust of the British government grew. Fundamentalist groups grew during the early 1920s increasing communal violence between Hindus and Muslims.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Comparison, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01. MS content spans the Rowlatt Act, Amritsar massacre, and Government of India Act (Montagu-Chelmsford reforms) — all filed under this topic per the established precedent for 1919-cluster events. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —

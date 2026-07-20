@@ -472,6 +472,35 @@
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
 
+### UQID: PK2059-MJ-2016-V1-Q2B
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain the appeal of India to the East India Company during the early seventeenth century.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They were interested in India.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > For trade. To extend their sphere of influence in the East.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Traders reported evidence of immense wealth in the subcontinent. This led to the East India Company establishing a trading base there since they saw a profitable future. It also wanted to establish its influence in the subcontinent and to oust the Dutch and Portuguese. The East India Company also wanted to establish a strategic port in the subcontinent that would protect its trading interests there.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — near-identical content to several prior "why did the EIC become involved" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —
+
 ### UQID: PK2059-ON-2015-V1-Q2A
 
 - **Year:** 2015

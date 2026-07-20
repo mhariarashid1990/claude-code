@@ -122,3 +122,32 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2016-V1-Q3B
+
+- **Year:** 2016
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why the British partitioned Bengal in 1905.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It wanted to be free.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Bengal was too large to govern as one province.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Of the 54 million people in Bengal, 42 million were Hindus. It seemed sensible to divide up the province on religious grounds. It was a very large province that created significant administrative difficulties. The British felt that partition of the province would make it easier to administer, especially at the time of a new British government in power. The Hindu community saw it as a policy of 'Divide and Rule', an attempt by the British to work against them.
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2016 sitting of 2059/01 — near-identical content to the Oct/Nov 2012 Q2(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 17
+- **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
+- **Cross References:** —
