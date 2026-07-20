@@ -127,3 +127,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q5B
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Benazir Bhutto fall from office in 1990? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > She was sacked. (1)
+  >
+  > LEVEL 2: Identifies reasons.
+  > Because of corruption and violence. (2–4)
+  >
+  > LEVEL 3: Explains reasons:
+  > She was criticised by many for the alleged corruption of her husband Asif Ali Zardari and PPP leaders were suspected of being involved; this tainted her own reputation. She came into confrontation with provincial governments especially as she had to work in a coalition with the MQM which was a party that represented Muslims who had migrated from India to Pakistan and settled in Sindh. This angered many PPP members in Sindh. Violent protests throughout Pakistan led to the MQM leaving the coalition and joining with the opposition which meant that her majority was gone. Further violence and deaths led to her dismissal because she and her government were blamed for the breakdown of law and order. (5–7)
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

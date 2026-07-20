@@ -67,3 +67,37 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q2C
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 13
+- **Question (Verbatim):**
+  > (c) Were the religious views of Sir Syed Ahmad Khan his most important contribution in developing the cause of Muslims during the nineteenth century? Explain your answer. [13]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > He was a great figure in Muslim history. (1–2)
+  >
+  > LEVEL 2: Description of beliefs/writings.
+  > He wrote a number of books and opened a school and university. (3–6)
+  >
+  > LEVEL 3: Explains at least one factor. (7–10)
+  >
+  > LEVEL 4: Explains at least two factors including religion.
+  > He believed that relations with the British could be improved by improving the understanding of Christianity by Muslims. He tried to overcome this by writing Tabyin-ul-Kalam, in which he pointed out the similarities between Islam and Christianity. He was also aware that the British knew little about Islam and was offended by a book he read in Britain on the life of the Prophet and as a result he wrote his own work correcting the many errors he had read.
+  > However he contributed many other things. He attempted to improve the position of Muslims through education. In 1863 he founded the Scientific Society at Ghazipore. He wanted to make scientific writings available to Muslims by translating them from English into Urdu. He established a Muslim college which led to the Muslim-Anglo Oriental College in 1876. This became the University of Aligarh which became important in Pakistani history as providing an education for many of its future leaders. He also made a contribution in politics. He believed that Muslims would never win any election because of the Hindu majority population. He therefore advocated separate seats and a separate electorate which was the forerunner of the future demand for a separate homeland. He wrote a number of books following the War of Independence in which he tried to show the British that the Muslims were only partly to blame and that there were many who were supporters of the British government. He suggested that the British should try to understand Muslims better. He gave an explanation of the word 'Nadarath' in an attempt to remove the misunderstanding of the British about the Muslims. (9–13)
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. (14)
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Religious, Importance, Educational
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Source anomaly preserved verbatim: question is printed as worth [13] marks while the mark scheme's own top LEVEL 5 band reaches (14) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

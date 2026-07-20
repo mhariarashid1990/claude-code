@@ -168,3 +168,78 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q1B
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did the East India Company become involved in the Indian sub-continent during the seventeenth century? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > They wanted to spend their time there. (1)
+  >
+  > LEVEL 2: Identifies reasons.
+  > To trade and extend their influence in the East. (2–4)
+  >
+  > LEVEL 3: Explains reasons.
+  > Reports of immense wealth in the sub-continent led to the Company establishing a trading base there as they saw a profitable future. The English wanted to establish its influence in the sub-continent and to oust the Dutch and Portuguese. The EIC also wanted to establish a strategic port in the sub-continent that would protect its trading interests there and in the Far East. (9–13)
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Topic chosen by user from clickable options. Note: the printed mark band for LEVEL 3 reads "(9–13)" though the question is worth only 7 marks total — reproduced exactly as printed (source anomaly, not corrected).
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q1C
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful were the British attempts to take control of lands in the sub-continent between 1750 and 1856? [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > The British imposed their will on the sub-continent. (1–2)
+  >
+  > LEVEL 2: Description of British conquests.
+  > Outlines the events in Bengal, the Punjab, NWFP and Sindh. (3–6)
+  >
+  > LEVEL 3: Explains successes
+  > OR
+  > Failures (7–10)
+  >
+  > LEVEL 4: Explains both: (9–13)
+  >
+  > Successes
+  > Strength of British Army.
+  > Eventual failure of Tipu Sultan and Ranjit Singh.
+  > Identifies successful conquests of British against weaker opposition.
+  > Annexation of Oudh under the Doctrine of Lapse.
+  >
+  > Failures
+  > Power of local Nawabs.
+  > Early successes of Tipu Sultan.
+  > Ranjit Singh.
+  > Afghanistan campaign. (9–13)
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. (14)
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Successes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. User chose East India Company over Decline of the Mughal Empire for this British-conquest-focused question.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

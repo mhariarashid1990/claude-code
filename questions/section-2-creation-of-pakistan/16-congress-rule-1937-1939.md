@@ -92,3 +92,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q4B
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Muslims object to 'Congress Rule' between 1937 and 1939? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer.
+  > Hindus persecuted Muslims. (1)
+  >
+  > LEVEL 2: Identifies reasons.
+  > The Muslims had to sing Bande Mattram and observe the Wardha Scheme. (2–4)
+  >
+  > LEVEL 3: Explains reasons:
+  > Congress Rule was hated due to the atrocities committed against the Muslims. Some were abused and killed. Hindi was enforced as the official language and organised attacks were made on Muslim worshippers in mosques. Bande Mattram, was adopted as the national anthem and had to be sung at the beginning of each day, but Muslims found some of its words offensive. The Wardha Scheme was imposed on the whole population. Under this scheme, students had to bow before Gandhi's picture each day, which Muslims found offensive. (5–7)
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Source spells it "Bande Mattram" here (double-t), versus "Bande Matram" (single-t) in the 2012/01 and 2013/41 entries in this same file — reproduced exactly as printed in each source, not standardised (verbatim rule). Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

@@ -152,3 +152,27 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q1A
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What was the Faraizi Movement? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Founded by Haji Shariat Ullah, to restore pride of Muslims, revive Islam, remove Hindu practices in worship, emphasis on praying for past sins, promising to lead a righteous life in future, alarmed Hindus, work carried on by son.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Founding, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01 — the first Oct/Nov paper processed in this project, filling a gap in a year previously marked "Complete" on May/June coverage alone. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

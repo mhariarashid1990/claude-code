@@ -88,3 +88,51 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/19-cripps-mission.md`, `section-2-creation-of-pakistan/20-quit-india-movement.md`, `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md`, `section-2-creation-of-pakistan/22-simla-conference.md` (single-event topics touched on, not used as primary)
+
+### UQID: PK2059-ON-2010-V1-Q4C
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful were negotiations aimed at Independence during the Second World War? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > They weren't because there was a war going on. (1–2)
+  >
+  > LEVEL 2: Description of negotiations.
+  > A number of negotiations took place during these years. The Cripps Mission offered Dominion Status after the War if the sub-Continent would acknowledge the threat from the Japanese and support the war effort. This was rejected and Gandhi proposed a 'Quit India' Resolution which called for the immediate withdrawal of the British from India. Gandhi and Jinnah also held talks in 1944 with regard to the future of India. (3–6)
+  >
+  > LEVEL 3: Explains successes
+  > OR
+  > Failures (7–10)
+  >
+  > LEVEL 4: Explains both.
+  >
+  > Successes
+  > Muslim League's own progress in Day of Deliverance/Lahore Resolution.
+  > Unity in rejecting Cripps Mission/demands for a separate homeland.
+  > Muslim political gains in J-G talks.
+  > Muslim stance at Simla Conference – necessity for new elections.
+  >
+  > Failures
+  > Breakdown of relations between Congress and Muslim.
+  > Rejection of Cripps Mission's proposals.
+  > Imprisonment following 'Quit India' protests.
+  > Failure to reach agreement from Jinnah-Gandhi talks 1944.
+  > Failure to reach agreement from Simla Conference 1945.
+  > Failure to persuade Jinnah to agree to safeguards for Muslims in a united India. (9–13)
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. (14)
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01 — near-identical question and MS content to the 2013/41 entry already in this file, reproduced separately and verbatim as its own distinct instance. Content spans Cripps Mission, Quit India Movement, Gandhi–Jinnah Talks, Day of Deliverance/Lahore Resolution, and the Simla Conference. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/19-cripps-mission.md`, `section-2-creation-of-pakistan/20-quit-india-movement.md`, `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md`, `section-2-creation-of-pakistan/22-simla-conference.md` (single-event topics touched on, not used as primary)

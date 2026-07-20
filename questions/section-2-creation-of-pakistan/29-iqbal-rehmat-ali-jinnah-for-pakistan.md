@@ -72,3 +72,27 @@ other named Section 2 topics._
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q4A
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Who was Dr Allama Iqbal? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > A philosopher, politician and poet who practised law in England. Knighted by the British in 1922 in recognition of his poetry. He believed in the need for Muslims to have a separate country and that Hindus and Muslims were 2 nations. In 1927 appointed General Secretary of Muslim League, and made his Allahabad speech in 1930. Buried outside Badshahi Mosque in Lahore.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Topic chosen by user from clickable options — third entry allocated into topic #29.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

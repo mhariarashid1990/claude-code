@@ -29,3 +29,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q3B
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was the Simla Deputation of 1906 an important event for the Muslims of the sub-continent? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > They got on better with the British. (1)
+  >
+  > LEVEL 2: Identifies reasons.
+  > It led to a separate electorate for Muslims and the formation of the Muslim League. (2–4)
+  >
+  > LEVEL 3: Explains reasons.
+  > The Muslim demands for separate representation, election by only Muslim voters and weightage in all elected bodies were accepted by the British. This resulted in a sudden upturn in Muslim-British relations and helped to remove the previous bad feelings between the 2 sides. It also paved the way for demands for a separate homeland with the granting of a separate electorate. It also guaranteed Muslims an independent role in the political process and as a result led to the formation of the All-Indian Muslim League later in the year. (5–7)
+- **Suggested Primary Topic:** Simla Deputation (1906)
+- **Secondary Tags:** Importance, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

@@ -201,3 +201,42 @@ pattern were present and extracted; none skipped.
 2059/01 2015–2025 (the reduced Q1(c)/(d) + Q2–5(a/b/c) pattern), and all of
 0448/01 (IGCSE) 2010–2025.
 **Date:** 2026-07-19
+
+## Version 10 — 2026-07-20
+
+**Questions added:** 15 (PK2059-ON-2010-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Two topic files received their first-ever entry this
+version: `01-partition-of-bengal-1905.md` (Q3(a)) and
+`02-china.md` (Q5(c)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2010 sessions/variants
+field corrected from "May/June, V1" to "May/June, V1 + Oct/Nov, V1" (status
+remains Complete).
+**Reason:** Seventh paper processed, and the first of a new 27-paper batch —
+Cambridge O Level 2059/01, Paper 1, **October/November 2010**, single variant.
+This is the first Oct/Nov-session paper processed in this project, resolving
+Open Question #1 from the prior handoff document: yes, Oct/Nov sittings exist
+for 2059/01 (this batch includes Oct/Nov papers for 2010 through 2025). Because
+2010 had previously been marked "Complete" based on May/June coverage alone, its
+tracker status is retroactively understood to have only ever reflected the
+May/June sitting; it is corrected here to record both sessions now that Oct/Nov
+2010 is also extracted. Source was the official mark scheme only. Every one of
+the 15 parts under the 2010–2014 (15-part) extraction pattern was presented with
+clickable topic options and allocated strictly per the user's picks — content is
+closely parallel to the May/June 2010 paper already in this bank (same five
+question themes: Faraizi Movement, EIC, Balochi language promotion, Mughal
+decline, Sir Syed, Swadeshi Movement, Simla Deputation, Khilafat Movement, Iqbal,
+Congress Rule, WWII negotiations, Simla Agreement, Benazir Bhutto, China) but
+extracted and logged as its own fully distinct paper, never merged or treated as
+a duplicate. No topic overlaps required tie-breaking beyond established
+precedent (Q1(c) → East India Company over Decline of the Mughal Empire; Q3(a)
+→ Partition of Bengal (1905) over the Multiple Topic Questions bucket; Q4(c) and
+Q5(a) followed the same precedents set in the May/June 2010 and 2013 papers).
+Minor source-printing anomalies preserved verbatim rather than corrected: Q1(b)'s
+LEVEL 3 band prints as "(9–13)" despite the question being worth only 7 marks;
+Q2(c) is printed as worth [13] marks while its own mark scheme's top band reaches
+(14); Q4(b) spells "Bande Mattram" (double-t) versus "Bande Matram" (single-t) in
+other papers in this bank. All 15 parts required under the 2010–2014 extraction
+pattern were present and extracted; none skipped.
+**Date:** 2026-07-20

@@ -94,3 +94,32 @@
 - **Version Number:** 7
 - **Allocation History:** Allocated on extraction, Version 7, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q2B
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why the Mughal Empire declined following the death of Aurangzeb. [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > There weren't any good rulers after his death. (1)
+  >
+  > LEVEL 2: Identifies reasons.
+  > Aurangzeb's successors were weak. There was no law of succession. (2–4)
+  >
+  > LEVEL 3: Explains reasons:
+  > Aurangzeb's successors became lazy, weak and corrupt and left the administration to their ministers who often put their own interests first. There was no law of succession. Instead there was usually a struggle for succession which ended in war. Succession often depended upon the ability of the candidates and the support they could get. Fighting wars became expensive and the military was stretched and suffered much inefficiency. The successors failed to run the Empire effectively, becoming very extravagant and so suffered from financial inefficiencies. The vastness of the Empire made it hard to defend and as such suffered several invasions. Eventually the British overran the Empire and were superior in such areas as military might. (5–7)
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —

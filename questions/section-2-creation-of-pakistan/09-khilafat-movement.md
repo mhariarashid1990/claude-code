@@ -101,3 +101,36 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2010-V1-Q3C
+
+- **Year:** 2010
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the migration to Afghanistan the most important reason why the Khilafat Movement failed? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement.
+  > It led to the failure of the Movement. (1–2)
+  >
+  > LEVEL 2: Identifies/describes the reasons for failure.
+  > Thousands of Muslims migrated to Afghanistan. They had been told that the Afghan government would welcome them. (3–6)
+  >
+  > LEVEL 3: Explains one factor. (7–10)
+  >
+  > LEVEL 4: Explains at least two factors including Afghanistan.
+  > Thousands of Muslims migrated to Afghanistan in a religious protest against the British government. The Afghan government was hostile to the migrants and refused to allow all the refugees to settle. Many of those who returned to India died on the journey back or found themselves homeless and jobs occupied which dispirited the Muslims. Thus Muslim support for the Khilafat Movement fell away. However there were other reasons for its failure. Some of the leaders including Maulana Muhammad Ali were imprisoned in 1921 which made the organisation less effective. Also by joining with the Hindus the objectives of the Movement were made less clear since the Hindus and Gandhi especially, were using it for their own ends and didn't have the interests of the Muslims at heart. Chauri Chaura was a village in the United Province where trouble started between the police and a mob. Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so called off his support. Its failure was also brought about by the decision of the Muslim Mustafa Kamal Ataturk to form a nationalist government in Turkey but the end had been seen in the refusal of Lloyd George to accept the demands of the Movement. (9–13)
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. (14)
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2010 sitting of 2059/01. Nearly identical stem and mark scheme to the 2014/01 May/June paper's Q3(c) (already in this file) — reproduced separately and verbatim as its own distinct instance, not merged. Topic chosen by user from clickable options.
+- **Version Number:** 10
+- **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
+- **Cross References:** —
