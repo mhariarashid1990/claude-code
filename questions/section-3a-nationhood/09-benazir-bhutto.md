@@ -185,3 +185,30 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q5A
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Benazir Bhutto described her time as Prime Minister as problematic:
+  > 'I found that people opposed me simply on the grounds that I was a woman. The clerics took to the mosque saying that Pakistan had thrown itself outside the Muslim world by voting for a woman, that a woman had taken a man's place in an Islamic society. My opponents reduced themselves to verbal abuse rather than discuss issues simply because I was a woman.'
+  >
+  > (a) Describe the problems caused by family feuds that faced the Benazir Bhutto governments. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Quarrelled with her mother Begum Nusrat Bhutto over control of the PPP, with Begum favouring Benazir's brother Mir Murtaza as leader. Begum removed from a leading role in the PPP. Murtaza went into exile and founded the Al-Zulfikar Organisation. He used this to criticise Benazir. He also opposed her husband's involvement in the PPP because of the allegations of corruption against him. Zardani accused of paybacks on property and government deals and being involved in political murders. Known as Mr 10%. Murtaza arrested on his return to Pakistan on charges of terrorism in 1993. In 1996 he was killed in a police ambush and a judicial review of the incident found government involvement in it.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Features, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Source spells "Zardani" (rather than "Zardari," used elsewhere in this bank) — reproduced exactly as printed, not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

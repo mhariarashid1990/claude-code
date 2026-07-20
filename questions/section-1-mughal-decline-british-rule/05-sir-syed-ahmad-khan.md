@@ -179,3 +179,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q1B
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Sir Syed Ahmad Khan try to improve relations between the Muslims and the British?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > He believed in them.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > He wanted to see Muslims prosper and improve their conditions.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > If they were to improve their poor status, then the Muslims had to accept more British ideas and take advantage of British education. He wanted to improve their social and economic conditions by taking up posts in the civil service and the army. If they didn't do these things, then they would see the Hindus prosper at their expense.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

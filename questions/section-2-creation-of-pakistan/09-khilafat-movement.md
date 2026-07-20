@@ -215,3 +215,36 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q3C
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Were concerns about British policies towards Muslims the most important reason for the foundation of the Khilafat Movement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  >
+  > LEVEL 2: Identifies reasons for foundation of the Khilafat Movement or describes the Movement [3–6]
+  > Muslims distrusted the British. Muslims were worried about the break-up of the Ottoman Empire. They met with Lloyd George, the British Prime Minister, during the War.
+  >
+  > LEVEL 3: Explains concerns about British policies towards Muslims or other reasons [7–10]
+  >
+  > LEVEL 4: Explains concerns about British policies towards Muslims and other reasons [9–13]
+  > Muslims distrusted British policies, especially after the First World War and the Rowlatt Act and other legislation. They were concerned that the British were encouraging Muslims to fear the Hindus so that Muslims would cooperate more with the British. They were also worried about how British rule in Afghanistan and Persia had paid little attention to the views of Muslims there and were worried that the same was happening in India.
+  > Muslims held the Caliphate of Turkey in high regard and were not prepared to see Turkey split up after the War and thus the Caliph abolished. They feared this would happen when the British government promised that the status of the Caliph would be respected in order to get the Muslims to fight alongside the Allies during WW1. The Muslims expressed their views to the British government during the war and it promised that no harm would be done to the Caliphate. However, this promise was not kept at the end of the war since the Turkish Empire was broken up. Also, the institution of the Caliphate was to be abolished. After the war ended, reports from Europe suggested that the British and French wanted to punish the Turks for their support of the Germans. The imprisonment of several Indian Muslims during the war also contributed to the anger felt. As a result, the Khalifat Movement was founded.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Comparison, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Note: source MS prints no mark-band value for LEVEL 1 (all other LEVEL 1 bands in this bank's questions carry a printed range) — reproduced exactly as printed, not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

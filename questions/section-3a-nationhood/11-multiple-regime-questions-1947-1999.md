@@ -71,3 +71,32 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q4B
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why were there so many governments between 1951 and 1958?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > Pakistan was weak.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Jinnah had died and there were major problems in running the new country. Politicians were inexperienced.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Jinnah had died in 1948 and Liaquat Ali Khan was assassinated in 1951. The country was struggling to establish itself without these two experienced figures. The problems of running a new country were very difficult to overcome and India had not been forthcoming in sharing out the joint assets. The problems associated with managing the Kashmir issue and relations with India over it were very difficult with no agreement on its future. The formation of East Pakistan brought with it problems relating to the capital being located in West Pakistan, and the refusal to have Bengali as the main language was a source of discontent and conflict. Together with a plethora of assassinations of leading figures, inexperienced politicians were having great difficulty running the country, and as a result there was a lack of stability in governing and this led to many different governments being formed during these years.
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Spans the general political instability of 1951–1958 across several unnamed governments rather than one leader's story; user chose the Multiple Regime Questions bucket over Liaquat Ali Khan, whose 1951 assassination is only the MS's opening trigger point.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/02-liaquat-ali-khan.md` (alternate topic considered, not used)

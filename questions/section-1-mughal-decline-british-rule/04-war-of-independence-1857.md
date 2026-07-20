@@ -213,3 +213,37 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q1C
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) "The strength of the British army was the sole reason for the failure of the War of Independence by 1858." Do you agree? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > The British were better.
+  >
+  > LEVEL 2: Description of/identifies reasons [3–6]
+  > The opposition to the British was too weak.
+  >
+  > LEVEL 3: Explains the strength of the British or other reasons [7–10]
+  >
+  > LEVEL 4: Explains the strength of the British and other reasons [9–13]
+  > The British had more modern methods of fighting and the army was better disciplined as well as being supplied by some of the local rulers. The British were also skilled diplomats so they were able to keep other areas of India under their control.
+  > There was also a lack of unity and common cause amongst the Indian population. The Punjab was uninterested in helping the rebellion and actually sent men and supplies to help the British. Some of the Indian princes were only interested in restoring their own powers and this often depended upon the support of the British. This explains why the ruler of Kashmir sent troops to help the British. Muslims were more likely to oppose the British in the war but there was no sense of unity with Sikhs and Hindus who were less likely to support them in their cause. Although there were a series of uprisings against the British, the Indians lacked coordination and strength in depth. As a result they were overcome by the British.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

@@ -55,3 +55,38 @@
 - **Version Number:** 8
 - **Allocation History:** Allocated on extraction, Version 8, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q2C
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Were the Montague–Chelmsford Reforms the main reason for the outbreak of violence across India in 1919? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > The reforms were hated.
+  >
+  > LEVEL 2: Describes or identifies reasons [3–6]
+  > MC Reforms were proposed in 1918 and wanted a national parliament with two Houses and a Legislative Assembly.
+  > The British fired on a crowd in Amritsar.
+  >
+  > LEVEL 3: Explains Montague–Chelmsford reforms or other reasons [7–10]
+  >
+  > LEVEL 4: Explains Montague–Chelmsford reforms and other reasons [9–13]
+  > These Reforms that became the Government of India Act in 1919 disappointed the Muslims and Hindus as they had hoped for greater concessions. Central government reserved sweeping powers for itself with only minor concessions for the locals. The Reforms did hold out concessions to political parties provided that they accepted the right of the British to remain in control. The Indians, led by Gandhi, bitterly attacked the proposals and this led to anger and frustration, although Gandhi warned against a violent response.
+  > Indians who had supported Britain in World War One were looking forward to the principle of self-determination, which the Allies had promised nations after the war, being implemented. However, this was not to be the case with India. British politicians, especially in the Labour Party, were sympathetic to Indian self-government and it was this frustration that nothing was being done after the war despite apparent British support in some quarters that led to further frustration in the sub-continent. The Rowlatt Act of the same year increased the resentment of Indians by including the right of arrest without a warrant and detention without bail. Increasingly, there were waves of violent protest across India and the British were worried that there would be a repeat of 1857. A peaceful protest in Amritsar led to many hundreds of Indians being killed by General Dyer's troops. The British were determined to keep a firm hold on India.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Comparison, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. User chose the direct-match topic over Multiple Topic Questions (1905–1926), since the question centers specifically on the MC Reforms with the Rowlatt Act/Amritsar as supporting context, not a broad multi-decade comparison. Source anomaly preserved verbatim: MS states MC Reforms "were proposed in 1918" (elsewhere in this bank consistently dated 1919) — not corrected.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)

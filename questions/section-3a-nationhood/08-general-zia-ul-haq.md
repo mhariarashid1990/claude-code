@@ -184,3 +184,37 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q4C
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the promotion of Islamic values the most important achievement of General Zia-ul-Haq's domestic policies between 1977 and 1988? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Zia had a strict regime.
+  >
+  > LEVEL 2: Describes the Islamic laws or identifies achievements [3–6]
+  > Zia introduced Islamic laws which included the Hudood, Zina, and Zakat Ordinances.
+  >
+  > LEVEL 3: Explains promotion of Islamic values or other domestic policies [7–10]
+  >
+  > LEVEL 4: Explains promotion of Islamic values and other domestic policies [9–13]
+  > Zia introduced Islamic laws in an attempt to produce a strong and stable government managed by people committed to Islamic values. He ignored the political process and therefore the Islamic laws were very strict in order to produce a strong government.
+  > With regard to economic affairs, efforts to increase investment were met with some success since many of the previous nationalisation programmes were reversed and the private sector was encouraged to re-invest. Between 1977 and 1986, the average growth rate was 6.2%, amongst the highest in the world at that time. Pakistanis working overseas contributed to this growth by sending money home to their families. Zia tried to build up investors. Confidence in Pakistani industry was increased by de-nationalising many firms. This aimed to increase local and foreign investment in industries. Efforts were also made to increase the efficiency of government-run industries. There was a need by Zia to establish a measure of legitimacy to his presidency by declaring legal all the military actions since 1977. The passing of the Eighth Amendment in 1985 gave the President the power to dismiss the Prime Minister of the time. As a result of this, martial law was lifted but Zia remained President, unchallenged.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Religious, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Unlike this file's other entries, the LEVEL 2 band here lists "Hudood, Zina, and Zakat Ordinances" (omitting "Qafq") — reproduced exactly as printed. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

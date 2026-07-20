@@ -114,3 +114,29 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q4A
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > In 1962, Ayub Khan introduced a new constitution that was largely made up of his own proposals. The new constitution was aimed at making Ayub Khan's position more secure and guaranteed far-reaching powers for the President. It was disliked by many people, especially those in East Pakistan who felt that they would have little part in governing Pakistan. As a result within a decade there was a need to introduce a new constitution.
+  >
+  > (a) Describe the terms of the 1973 Constitution. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Introduced by Bhutto. Pakistan to become a federal republic with parliamentary system of government. PM to be head of government. Pakistan an Islamic Republic with Islam the state religion. PM and President to be Muslims. Fundamental human rights to be recognised with Supreme and High Courts to enforce these. PM agrees to President's orders but advises President. Upper House (Senate) to be elected and must not be dissolved. Emergency powers for government. Armed forces not to take part in political activities.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Constitution, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

@@ -131,3 +131,32 @@ other named Section 2 topics._
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/17-day-of-deliverance.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2014-V1-Q3B
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Dr Allama Iqbal an important influence on the struggle for a separate homeland for Pakistan?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > He was the greatest poet and philosopher of Pakistan.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > He said there should be a separate state for Muslims.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Iqbal was the first Muslim politician to demand a separate state for Pakistan which he advocated in 1930. This was important since it provided a focus for the Muslims to work towards during the next 15 years. As a poet and philosopher he advocated the need for a solid foundation for Muslims in Islam and the Holy Quran and provided the intellectual basis for the debate for a separate homeland. Finally, he recognised the talent in Jinnah as the natural leader of the Muslims in their demands for a separate homeland.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Importance, Leadership, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

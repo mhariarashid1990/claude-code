@@ -138,3 +138,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q5B
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Pakistan distrust India so much between 1971 and 1988?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > India was Pakistan's enemy.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Because of Simla and the nuclear testing programme.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Pakistan was unhappy with the Simla agreement signed with India following the war. In return for the release of 90000 prisoners of war, Pakistan agreed not to pursue a solution to the Kashmir problem in international forums. This annoyed Pakistan which had sought a solution through the United Nations. Pakistan was also shocked at India's nuclear test programme in 1974. It raised real fears that its neighbour had a nuclear capability. Relations became even worse when India suspected that Pakistan was training Sikh extremists and when Indira Gandhi was assassinated by a Sikh in 1984.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Causes, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

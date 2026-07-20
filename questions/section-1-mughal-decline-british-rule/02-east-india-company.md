@@ -382,3 +382,29 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q1A
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > At first the East India Company had a neutral point of view towards religion in India. However, with the work of missionaries in the sub-continent, the Christian faith of British people living in India was strengthened. As a result people became more intolerant of Indian traditions and behaviour and the British began to impose changes on the way Indians lived, which caused resentment and anxiety.
+  >
+  > (a) What was suttee? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > A Hindu tradition, ritual burning of widows on funeral pyre of husbands. British tended to ignore the practice because of the fear of offending high-caste Hindus serving in the British army and civil service. In 1813 stated it was voluntary and would only be banned if Hindu religion opposed it, the widow was under 16 or intoxicated or pregnant. Practice outlawed by EIC in Bengal in 1829 and later in rest of India by Governor General Lord Bentinck. Suttee remained legal in some princely states. Isolated instances occurred in 20th century.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Religious, Social
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

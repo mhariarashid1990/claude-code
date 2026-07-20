@@ -99,3 +99,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2014-V1-Q2B
+
+- **Year:** 2014
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why the Muslim League was formed in 1906.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They wanted their own party.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The Muslims were not united. The Hindus had their own party.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Muslim rights would not be advanced if they continued to rely on the Indian National Congress. It was seen as an organisation which would only advance Hindu views. The Congress was demanding that India should be treated as a cultural whole and Hindi should be declared the official language. By not organising a Muslim group they would continue to be disorganised and disunited. Even more worrying was the growth of extreme Hindu nationalist groups who demanded that Muslims be forcibly converted to Hinduism. Therefore a number of prominent Muslim leaders founded the Muslim League.
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2014 sitting of 2059/01. Near-identical MS content to the May/June 2012 Q2(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 14
+- **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
+- **Cross References:** —

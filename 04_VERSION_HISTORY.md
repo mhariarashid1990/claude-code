@@ -351,3 +351,51 @@ Oct/Nov 2010 entry's "Bande Mattram" (double-t) — neither corrected. All 15
 parts required under the 2010–2014 extraction pattern were present and
 extracted; none skipped.
 **Date:** 2026-07-20
+
+## Version 14 — 2026-07-20
+
+**Questions added:** 15 (PK2059-ON-2014-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 15 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2014 sessions/variants
+field corrected from "May/June, V1" to "May/June, V1 + Oct/Nov, V1" (status
+remains Complete).
+**Reason:** Eleventh paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2014, single variant, and the fifth Oct/Nov-session paper
+processed in this batch (completing the Oct/Nov coverage for 2010–2014).
+Source was the official mark scheme only. Every one of the 15 parts under
+the 2010–2014 extraction pattern was presented with clickable topic options
+and allocated strictly per the user's picks. Notable decisions: Q2(c)
+("Were the Montague–Chelmsford Reforms the main reason for the outbreak of
+violence across India in 1919?") went to the direct-match Montagu–Chelmsford
+Reforms & Other Events of 1919 topic rather than the Multiple Topic Questions
+(1905–1926) bucket, since the question centers specifically on the MC
+Reforms with the Rowlatt Act/Amritsar as supporting context, not a broad
+multi-decade comparison; Q4(a) (terms of the 1973 Constitution) went to
+Zulfiqar Ali Bhutto, since it was his own initiative; Q4(b) ("Why were there
+so many governments between 1951 and 1958?") went to Multiple Regime
+Questions (1947–1999) over Liaquat Ali Khan, since the content spans general
+political instability across several unnamed governments rather than one
+leader's story. Two entries in this paper are substantively near-duplicate
+content of earlier entries already in this bank, each reproduced separately
+and verbatim as its own distinct paper instance rather than merged: Q2(b)
+(Muslim League 1906) closely parallels the May/June 2012 Q2(b); Q5(c)
+(Pakistan-Afghanistan relations 1947–1999) is near word-for-word identical
+to the May/June 2010 Q5(c). Minor source anomalies preserved verbatim: Q2(c)'s
+MS states the MC Reforms "were proposed in 1918" (dated 1919 everywhere else
+in this bank); Q3(c)'s LEVEL 1 band carries no printed mark range (every
+other LEVEL 1 band in this bank does); Q4(c)'s LEVEL 2 band lists "Hudood,
+Zina, and Zakat Ordinances" (omitting "Qafq," present in this file's other
+entries); Q5(a) spells "Zardani" rather than "Zardari." None corrected. All
+15 parts required under the 2010–2014 extraction pattern were present and
+extracted; none skipped.
+
+**This completes Oct/Nov coverage for the entire 2010–2014 extraction-pattern
+era for 2059/01**, alongside the already-complete May/June coverage: every
+year 2010–2014 now has both May/June and Oct/Nov sittings extracted (2013
+additionally has the 2059/41 security-breach resit). Total: 165 questions
+across 11 papers. Remaining in this batch: 2015–2025 May/June and Oct/Nov
+papers for 2059/01 (14-part pattern), still to come.
+**Date:** 2026-07-20
