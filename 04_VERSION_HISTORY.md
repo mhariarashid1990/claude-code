@@ -399,3 +399,45 @@ additionally has the 2059/41 security-breach resit). Total: 165 questions
 across 11 papers. Remaining in this batch: 2015–2025 May/June and Oct/Nov
 papers for 2059/01 (14-part pattern), still to come.
 **Date:** 2026-07-20
+
+## Version 15 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2015-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2015 added as
+"May/June, V1" with status "In progress" (Oct/Nov 2015 still pending in this
+batch).
+**Reason:** Twelfth paper processed — Cambridge O Level 2059/01, Paper 1,
+May/June 2015, single variant, and the **first paper processed under the
+2015–2025 extraction pattern**. This paper introduced a structural change not
+previously seen in this bank: a Section A / Section B split, with Section A
+(Q1) now containing four parts. Q1(a) and Q1(b) are source-based questions
+(referencing "Source A" and "Source B" — an image/document insert not
+included in the mark scheme) and were excluded per `EXTRACTION_RULES.md`,
+which had already anticipated this exact structure. Only Q1(c) and Q1(d) were
+extracted from Q1, plus the full three-part Q2–Q5 as before, for 14 parts
+total. A second structural change: Section A's essay question, Q1(d), caps at
+**10 marks** rather than the usual 14 (LEVEL 5 tops out at [10]) — reproduced
+exactly as printed, including an internal overlap between LEVEL 3 [5–7] and
+LEVEL 4 [6–9]. Every one of the 14 parts was presented with clickable topic
+options and allocated strictly per the user's picks. Notable decisions: Q2(a)
+("Who was Tipu Sultan?") went to East India Company, as no dedicated topic
+exists for Tipu Sultan; Q3(b) ("Why did Jinnah produce his 14 Points in
+1929?") went to Jinnah's Fourteen Points — its second-ever entry, and the
+first time a question was allocated to this topic purely on a direct-match
+basis since the original Version 3 entry; Q4(a) ("What was the 'Afghan
+Miracle'?") went to **General Zia-ul-Haq** per explicit user instruction,
+overriding the recommended Afghanistan country-relationship topic; Q4(b)
+("Why was Islamabad chosen as the new capital of Pakistan?") went to Ayub
+Khan, since the MS explains the decision as his. Three entries in this paper
+are substantively near-duplicate content of earlier entries already in this
+bank, each reproduced separately and verbatim as its own distinct instance:
+Q2(b) (Urdu as national language) closely parallels the Oct/Nov 2011 entry;
+Q3(c) (Round Table Conferences) and Q5(b) (Musharraf's 1999 rise) both
+closely parallel their May/June 2010 and Oct/Nov 2011 counterparts
+respectively. All 14 parts required under the 2015–2025 extraction pattern
+were present and extracted; none skipped.
+**Date:** 2026-07-20

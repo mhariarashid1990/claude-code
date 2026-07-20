@@ -208,3 +208,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q4B
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Islamabad chosen as the new capital of Pakistan?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It was time to change.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Islamabad had a better climate than Karachi.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Government officials would be moved well away from the commercial districts of Karachi that might have some unwanted influences on them. It was also seen as an appropriate movement of the power base from the industrially and commercially developed south to the underdeveloped Punjab region in the north. Ayub Khan wanted to be closer to the army's command headquarters in the north which he saw as vital in times of martial law. Karachi had a very warm and humid climate and, as a port, it wasn't felt that it represented the needs of a capital city as the existing buildings were not adequate in number or up to the standards required by a capital. The layout and structure of the existing port city did not allow it to take on the functions of a modern capital. With its position on the coast, it was considered vulnerable to attacks from the Arabian Sea. The vast influx of refugees intensified the existing problems and created new ones.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. No exact-name taxonomy topic exists for the choice of Islamabad as capital; user chose Ayub Khan, since the MS explains it as his decision.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

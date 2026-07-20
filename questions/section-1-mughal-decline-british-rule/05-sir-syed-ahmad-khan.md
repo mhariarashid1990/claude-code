@@ -208,3 +208,37 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q2C
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the attempt to achieve a better understanding with the British the most important contribution that Sir Syed Ahmad Khan made to the Muslim cause during the nineteenth century? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Sir Syed helped the Muslims.
+  >
+  > LEVEL 2: Description/identification of reasons [3–6]
+  > He wrote a number of books and opened a school and university.
+  >
+  > LEVEL 3: Explains the attempt to achieve a better understanding OR other contributions [7–10]
+  >
+  > LEVEL 4: Explains the attempt to achieve a better understanding AND other contributions [9–13]
+  > He suggested that the British should try to understand Muslims better. He gave an explanation of the word 'Nadarath' in an attempt to remove the misunderstanding of the British about the Muslims. He believed that relations with the British could be improved by improving the understanding of Christianity by Muslims. He tried to overcome this by writing Tabyin-ul-Kalam, in which he pointed out the similarities between Islam and Christianity. He wrote a number of books following the War of Independence in which he tried to show the British that the Muslims were only partly to blame and that there were many who were supporters of the British government. He was also aware that the British knew little about Islam and was offended by a book he read in Britain on the life of the Prophet and, as a result, he wrote his own work correcting the many errors he had read.
+  > However, he contributed many other things. Sir Syed wanted democratic rights in India but believed that this would only disadvantage Muslims since Hindus were in the majority and would win all the elections. He therefore felt that the British should treat the Muslims and Hindus differently since they lived separate and different lives from one another and so were really like separate nations. Sir Syed was the first person to express this point of view and it became known as the Two Nation Theory that gave hope to Muslims of a separate homeland. He attempted to improve the position of Muslims through education. In 1863 he founded the Scientific Society at Ghazipore. He wanted to make scientific writings available to Muslims by translating them from English into Urdu. He established a Muslim college which led to the Muslim-Anglo Oriental College in 1876. This became the University of Aligarh which became important in Pakistani history as providing an education for many of its future leaders.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Comparison, Importance, Educational
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

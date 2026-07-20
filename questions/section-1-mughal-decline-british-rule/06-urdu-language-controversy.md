@@ -208,3 +208,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q2B
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why was Urdu chosen as the national language in Pakistan in 1947?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It was the best language.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > It's understood by all Pakistanis.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > It carries immense importance for all Pakistanis since it has been considered to be the language of all Muslims for 300 years. It was the language associated with the Pakistani Movement throughout its struggle with the British and the Hindus. After Independence, it was felt that the language was the uniting force behind the nation and the government is committed to using it at all levels in society.
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Causes, Cultural
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Near-identical MS content to the Oct/Nov 2011 entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

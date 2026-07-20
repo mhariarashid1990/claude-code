@@ -248,3 +248,27 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q3A
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What was the All India Khilafat Conference? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Held in Delhi in November 1919, led by Ali brothers who hoped to try and persuade the British to keep their promises about maintaining the Turkish Empire. Maulana Abul Kalam Azad and Gandhi represented Congress. Gandhi hoped to unite Hindus and Muslims in his non-violent campaign against the British. Azad warned the Conference that David Lloyd George intended to punish Turkey for fighting against Britain in the war. The Conference passed a resolution agreeing to send a delegation to Britain, making sure they were aware of the strength of Muslim support for the Khalifa.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

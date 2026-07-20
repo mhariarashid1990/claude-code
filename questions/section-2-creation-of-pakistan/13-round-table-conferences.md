@@ -153,3 +153,50 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q3C
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful were the three Round Table Conferences of 1930-1932? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They were all successful.
+  >
+  > LEVEL 2: Describes RTCs or identifies successes/failures [3–6]
+  > There were 3 Round Table Conferences held in London. Both Gandhi and Jinnah attended them.
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains successes AND failures [9–13]
+  > Successes 1st Federal system for India approved
+  > Sind to be given a separate identity and a govt.
+  > 2nd Congress attended
+  > Minorities entered into an agreement on their demands
+  > Failures 1st Congress boycotted it
+  > Deadlock on federal system
+  > Minorities sub-committee couldn't reach a conclusion
+  > 2nd Gandhi took a hard line and refused to recognise
+  > the problems of the minorities
+  > Muslims took a hard line against Congress to
+  > protect their position. The new British National
+  > government were less keen to reach a compromise
+  > in India
+  > 3rd Congress absent again
+  > Gulf too great between two
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Near-identical MS content to the May/June 2010 entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

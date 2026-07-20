@@ -167,3 +167,27 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q5A
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What has been the importance of the Siachen Glacier to both India and Pakistan? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1977 Indian colonel Kumar first climbed the glacier. Returned in 1981. Pakistan discovered that Indians had been there and decided to defend its interests before India claimed the glacier, especially as the border in that part of Kashmir had never been drawn properly. When Pakistan soldiers moved up to the glacier they discovered 300 Indian troops there. This meant that both sets of troops had to stay there as the glacier was an important symbol to both sides. Pakistan tried several times to remove the Indian troops from there without success. In 1987 Musharraf led one of these assaults. In 1989 Bhutto visited the glacier to reinforce Pakistan's view of it. No official figures exist of the death toll on the glacier with estimates between 3000 and 5000, but many of these have probably been due to avalanches and falls. No settlement has been reached, even though several meetings have been held to discuss the situation since 1989.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Importance, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

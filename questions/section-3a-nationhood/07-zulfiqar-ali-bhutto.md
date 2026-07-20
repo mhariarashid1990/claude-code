@@ -140,3 +140,43 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q5C
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful were Zulfiqar Ali Bhutto's domestic policies between 1971 and 1977? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They were all successful.
+  >
+  > LEVEL 2: Identifies/describes the policies [3–6]
+  > There was a new Islamic constitution drawn up in 1973.
+  >
+  > LEVEL 3: Explains successes OR failures [7–10]
+  >
+  > LEVEL 4: Explains both [9–13]
+  > Successes
+  > A new constitution drawn up in 1973 established a Senate which offered the opportunity for professionals, academics and specialists to work together. It also safeguarded the interests of minority provinces which now had equal status in the Senate. He produced the 1973 Constitution in an attempt to return to a form of parliamentary democracy and it was important since it is the basis upon which Pakistan has been governed to the end of the 20th century, apart from when it was suspended due to martial law.
+  > He also tried to improve the infant mortality and age expectancy rates by introducing Rural Health Centres and Basic Health Units. Pharmaceutical companies were banned from charging for a particular medical brand name and so medicines became cheaper.
+  > Amongst Bhutto's education reforms, free primary education was introduced. New schools were to be built and all private sector schools were nationalised. The aim was to increase the literacy rate and raise academic standards.
+  > Failures
+  > One of the main weaknesses of the new constitution was that the focal point of political power lay with the party leadership and Bhutto in particular. When things went wrong, Bhutto was blamed.
+  > Banning pharmaceutical companies from charging for a medical brand and making medicines cheaper did see the profits of chemists fall drastically and as a result many international drug companies closed down their operations in Pakistan.
+  > The changes in education led to overcrowding in existing schools while new ones were built. The reforms were not very successful since the building of new schools and the recruitment of new teachers could not be achieved quickly and was also very expensive. Many families resented the reforms since it meant a loss of earnings for them.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Near-identical content to the Oct/Nov 2011 entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

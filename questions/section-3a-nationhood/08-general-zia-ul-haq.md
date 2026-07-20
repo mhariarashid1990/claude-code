@@ -218,3 +218,27 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q4A
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) What was the 'Afghan Miracle'? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > USSR's invasion of Afghanistan in 1979 led to an immediate impact on Pakistan's relationship with other countries. Zia was seen as leader of a Muslim nation on the frontline against communist forces. Economic and military support came from the West and Pakistan became an important base against the Soviets. Pakistan became a leading country in world politics and this led to huge sums of money coming into the country to pay for the care of refugees and the armed forces. Zia was able to use some of the funds to make economic progress and reform the economy.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Foreign Policy, Successes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Question could equally be filed under the Afghanistan country-relationship topic (the MS content is dominated by Pakistan's international standing from the USSR-Afghanistan conflict); user chose General Zia-ul-Haq instead.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/06-afghanistan.md` (alternate topic considered, not used)

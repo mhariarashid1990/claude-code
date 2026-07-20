@@ -138,3 +138,32 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q5B
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Explain why General Musharraf was able to gain power in 1999.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > He was in the army.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Sharif had many problems so the army decided to take over.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Sharif was giving support for the Taliban in Afghanistan and this damaged relations with USA as they refused to hand over Osama bin Laden, suspected of bombing of US embassy in Kenya. Pakistan also tested nuclear weapons which angered a number of countries which then halted aid to Pakistan and brought Sharif much criticism. He also blamed Musharraf for the embarrassing retreat from the fighting in Kashmir. The army refused to accept this criticism. Sharif tried to sack Musharraf whilst he was visiting Sri Lanka and as a result the army decided to intervene in the government and overthrew Sharif.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Political, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Near-identical MS content to the Oct/Nov 2011 entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —

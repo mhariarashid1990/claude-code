@@ -408,3 +408,90 @@
 - **Version Number:** 14
 - **Allocation History:** Allocated on extraction, Version 14, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q1C
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (c) Why were the British able to take control of India by 1850?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > They were better.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > They built roads and railways and had a good army.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > The British built a huge network of roads and later railways that meant that communication and transport links between cities became better, soldiers could travel much more easily from trouble spot to trouble spot. It also benefitted British trading links which in turn produced more wealth. The battles of Plassey and Buxar also gave the British the vast riches of Bengal and favourable trading rights with the local nawabs. This provided massive new resources which Britain could use to consolidate its control. The British also introduced governor-generals into the provinces who administered them on British lines and provided yet more control. The British army using its vast local resources and superior weapons and skills were increasingly taking control of more land.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01 — the first paper processed in this project under the 2015–2025 extraction pattern (Section A/B split; Q1(a)/(b) are source-based and excluded per `EXTRACTION_RULES.md`; only Q1(c)/(d) collected from Q1). Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q1D
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > (d) Was the work of the Christian missionaries the most important reason why the Indians opposed British attempts to westernise them between 1750 and 1850? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They converted people.
+  >
+  > LEVEL 2: Description/identification of reasons [3–4]
+  > Christianity was taught in schools.
+  >
+  > LEVEL 3: Explains the work of Christian missionaries OR other reasons [5–7]
+  >
+  > LEVEL 4: Explains the work of Christian missionaries AND other reasons [6–9]
+  > Christian missionaries came to India to convert the local population as well as to set up schools. In these schools the missionaries taught Christianity and expected local religions to be given up which was resented by Muslims, Hindus and Sikhs alike.
+  > However, there were other reasons why the Indians opposed the British attempts to westernise them. The replacement of Persian and Sanskrit by English as the official language in the 1830s deeply upset both the Muslims and Hindus. This had the potential to threaten their languages. A number of social reforms had been imposed by the British without consultation or care for local feeling which caused much unrest. Indians had to send their children to co-educational schools which was hated since it appeared to impose the British system on the Indians without due regard to their religious and cultural feelings. Thomas Macaulay believed that European ideas of education were vastly superior to anything coming out of India and, as a result, the British imposed a system of education that promoted western values on a people who resented this interference. They were also forced to abandon purdha which had been an Indian custom for centuries. In 1795 the killing of baby daughters was declared to be murder, but the British found difficulty in enforcing this as it was again a tradition practised in many parts of India. Suttee, the ritual burning of Indian women on the funeral pyres of their husbands was also banned by the British, first in Bengal and then in the rest of the country. Although the British had been reluctant to get involved in banning this practice, there was little opposition to the outlawing of it.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [10]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Religious, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. Notable pattern change for this era: the Section A essay question (Q1(d)) caps at 10 marks rather than the usual 14 — reproduced exactly as printed (LEVEL 4 band even overlaps LEVEL 3's range, [6–9] vs [5–7], not corrected). Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2015-V1-Q2A
+
+- **Year:** 2015
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > (a) Who was Tipu Sultan? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Son of Haider Ali of Mysore, both of whom resisted British rule. Tipu received support from the French and the British were concerned about this. He was known as the Tiger of Mysore and ruled there from 1782 to 1799. He won important victories against the British in the Second Anglo-Mysore War, and negotiated the 1784 Treaty of Mangalore with them after his father died the previous year. His treatment of his conquered non-Muslim subjects and British prisoners of war is controversial. He remained an enemy of the British, bringing them into renewed conflict with an attack on Travancore in 1789. In the Third Anglo-Mysore War, Tipu was forced into a humiliating treaty, losing a number of previously conquered territories, including Malabar and Mangalore. In the Fourth Anglo-Mysore War, the combined forces of the British and the Nizam of Hyderabad defeated Tipu and he was killed on 4 May 1799, while defending his fort of Srirangapatna.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2015 sitting of 2059/01. No dedicated taxonomy topic exists for Tipu Sultan specifically; user chose East India Company. Topic chosen by user from clickable options.
+- **Version Number:** 15
+- **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
+- **Cross References:** —
