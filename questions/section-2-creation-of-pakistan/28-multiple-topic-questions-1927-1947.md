@@ -232,3 +232,62 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/11-nehru-report.md`, `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md`, `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` (single-event topics considered, not used)
+
+### UQID: PK2059-MJ-2018-V1-Q4C
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were the Gandhi–Jinnah talks the most important factor during the 1940s that led to the partition of the subcontinent in 1947? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement or evaluation
+  >
+  > Level 4: Explains the Gandhi–Jinnah talks AND other factors [9–13]
+  > (Two explanations, one on the talks and one on another factor, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Gandhi–Jinnah talks
+  > • It was an important meeting as Gandhi had been forced to negotiate with the Muslim League on an equal footing for the first time regarding the future of India.
+  > • Gandhi wanted to achieve independence first – partition discussions could follow later – whereas Jinnah wanted to settle the issue of partition first and before the British left. He knew that his bargaining position would be much weaker if he went along with Gandhi's plan.
+  > Other factors
+  > • The Lahore Resolution, 1940 drafted by the 25-man All-India Muslim League asked for greater Muslim autonomy within India; this was seen as a demand for a separate Muslim state. From then on, the aims of the Muslim League were clear: an independent nation state.
+  > • The results of the 1945–46 elections demonstrated that Congress had control of the non-Muslim votes but that the League had gained control of the Muslim vote. The Muslim League was now an equal player to Congress so the demand for Partition could no longer be ignored by Congress or the British government.
+  > • In March 1946, members of the British Cabinet Mission arrived in India to work out a plan for achieving independence for India as a federation which the Muslim League accepted but Congress refused to accept the province groupings and stated that they would not be bound by any British plan. The British government decided to form an interim government headed by Nehru joined by members of the Muslim League.
+  > • As the Muslim League were concerned that the British would leave India without organising a settlement and that Congress would be left to organise a new country, they organised a Direct Action Day in the summer of 1946 with the aim of stopping the British government giving in to Congress. The disruption worried the British, so gradually they shifted their position on Partition.
+  >
+  > Level 3: Explains the Gandhi–Jinnah talks OR other factors [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes negotiations [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Gandhi and Jinnah held talks about the future of India but could not agree
+  > • The Lahore Resolution 1940
+  > • The Cripps Mission led to the Quit India Movement
+  > • The Simla Conference 1945
+  > • The emergence of the Muslim league as an equal player to Congress following the 1945-46 elections
+  > • The British Cabinet Commission and the federal plan for an independent India
+  > • Congress rejects the plan
+  > • Direct Action Day in 1946 organised by the Muslim League
+  > • 3 June Plan of 1947 following unrest in the Punjab
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • There were lots of negotiations that were held during these years
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Political, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — Section B Q4(c). Content spans the Gandhi–Jinnah Talks, the Lahore Resolution, the 1945–46 elections, the Cabinet Mission Plan, Direct Action Day, and the 3rd June Plan — six distinct named topics — so filed in the multi-topic bucket rather than under Gandhi–Jinnah Talks alone (the recommended single-topic option). Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md` (recommended single-topic option, not used), `section-2-creation-of-pakistan/18-lahore-resolution-1940.md`, `section-2-creation-of-pakistan/23-elections-of-1945-46.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, not used as primary)

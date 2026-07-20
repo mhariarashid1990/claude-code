@@ -269,3 +269,58 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q5C
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were the challenges facing Benazir Bhutto in Sindh the main reason why she left office in 1990? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement or evaluation
+  >
+  > Level 4: Explains challenges in Sindh AND other reasons [9–13]
+  > (Two explanations, one on the challenges in Sindh and one on another reason are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Sindh
+  > • Well educated muhajirs opposed the special rights for Sindhis introduced by Benazir Bhutto and increasingly supported the Muhajir Quami Movement (MQM).
+  > • Sindh was an area of growing opposition to the Pakistan People's Party (PPP) and growing support for the MQM.
+  > • Benazir Bhutto tried in vain to gain the support of the MQM to form a coalition government by promising to protect the interests of all the people of Sindh.
+  > Other challenges
+  > • Her government was damaged by an unsuccessful no-confidence motion tabled by opposition parties including Islami Jamhuri Ittehad (IJI) led by Nawaz Sharif.
+  > • President Ghulam Ishaq Khan refused to appoint the judges and military personnel she wished, making it difficult for her to govern Pakistan effectively.
+  > • Promised economic development programmes and social and health reforms did not produce the effects hoped for. The government lost support as unemployment, inflation and population grew rapidly making progress difficult.
+  > • Accusations from political opponents regarding mismanagement leading to the arrest and jailing of her husband Asif Ali Zardari. Further rumours weakened the government enabling President Ghulam Ishaq Khan to use the Eighth Amendment to dismiss the government in 1990.
+  >
+  > Level 3: Explains challenges in Sindh OR other challenges [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes challenge(s) [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Support for the MQM was growing in Sindh
+  > • growing opposition to the PPP in Sindh
+  > • Benazir Bhutto did not win MQM support for a coalition government
+  > • It was difficult for Benazir Bhutto to deliver economic reforms
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • There were many difficult challenges for Benazir Bhutto
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Failures, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01. MS spells "Muhajir Quami Movement" here, consistent with this file's Oct/Nov 2017 entry, versus "Mohajir Qaumi Movement" used in this file's May/June 2010 entry — reproduced exactly as printed, not reconciled. This entry spells her husband's name "Zardari" (matching most of this file, not the "Zardani" typo in the Oct/Nov 2014 entry) — reproduced exactly as printed. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

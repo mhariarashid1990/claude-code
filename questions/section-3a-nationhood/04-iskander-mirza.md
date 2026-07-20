@@ -54,3 +54,44 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q5B
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there was a constitutional crisis in 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • There were a number of Prime Ministers between 1956 and 1958 and it reached a stage where Ayub Khan felt the army should take control until stability had been restored.
+  > • Previous governments endured a number of problems that hampered development such as food shortages and a drought, which led to demonstrations of discontent. As successive governments found difficulty in dealing with these matters, there were many personnel changes to try to find a solution. As a result, little constitutional development could take place.
+  > • Iskander Mirza lost the support of many of the leading politicians and was alarmed at a plan by Prime Minister Suhrawardy to unite the political leadership of Bengal and Punjab against him.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • There were many Prime Ministers between 1956 and 1958 / the government was unstable
+  > • Drought and food shortages presented a challenge to development
+  > • Iskander Mirza lost support
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The politicians could not agree
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iskander Mirza
+- **Secondary Tags:** Causes, Political, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01. MS's Level 3 exemplars centre on Iskander Mirza losing political support and his alarm at Suhrawardy's Bengal-Punjab plan, though Ayub Khan's view that the army should take control is also featured; user chose Iskander Mirza over Ayub Khan and the Multiple Regime Questions bucket. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md` (alternate topic considered, not used)

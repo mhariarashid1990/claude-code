@@ -286,3 +286,44 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q2B
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Sir Syed Ahmad Khan tried to improve relations between the Muslim community and the British.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons (i.e. an understanding of impact / long term benefits) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Sir Syed Ahmad Khan wanted to improve their social and economic conditions by taking up posts in the civil service and the army. In order to do this, the Muslim community needed to embrace the British-styled education system, which would open the door to these roles.
+  > • If the Muslim community did not do these things and foster good relations with the British, then they may see the Hindu community prosper at their expense.
+  > • He wrote The Loyal Mohammadens of India to prove to the British that the Muslim community could be trusted after the War of Independence.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Sir Syed Ahmad Khan wanted to improve the social and economic conditions of the Muslim community
+  > • He did not wish other communities to prosper at the expense of the Muslim community
+  > • He wrote The Loyal Mohammadens of India
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • It was beneficial to have good relations
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — near-identical content to the Oct/Nov 2014 Q1(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Source spells "The Loyal Mohammadens of India" here, versus "The Loyal Mohammedans of India" used in this file's Oct/Nov 2011 entry — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

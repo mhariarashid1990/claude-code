@@ -354,3 +354,59 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q2C
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was religion the most important reason for the War of Independence in 1857? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains religious AND other reasons [9–13]
+  > (Two explanations, one on religious and one on other reasons, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Religious reasons
+  > • Christian missionaries came to India to convert the local population and set up schools. In these schools, the missionaries taught Christianity and expected local religions to be given up which was resented by the Muslim, Hindu and Sikh communities.
+  > • The British introduced a new gun that used cartridges coated in grease made from cow and pig fat. The soldiers had to rip open the cartridges with their teeth before loading. This caused great resentment as it was contrary to religious beliefs for both Muslim and Hindu communities and united them against the British.
+  > Other reasons
+  > • The replacement of Persian and Sanskrit by English as the official language in the 1830s deeply upset both the Muslims and Hindus as they felt that their culture was being threatened.
+  > • The British imposed reforms on the Indian population such as abandoning purdah / suttee without consultation. This caused much unrest as it appeared that the British were trying to impose their culture on centuries of Indian customs, which was resented. (Purdah / suttee may also be seen as religious reasons.)
+  > • In 1852 the 'Doctrine of Lapse' was introduced and caused great unrest because any local kingdom not having a direct male heir had their lands taken over by the British.
+  >
+  > Level 3: Explains the religious OR other reasons [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Christianity was taught in missionary schools
+  > • Missionaries came to covert people to Christianity and give up local religions
+  > • English replaced Sanskrit and Persian as the official language in the 1830s
+  > • The 'greased cartridge' incident
+  > • Suttee / purdah was abolished
+  > • Indian children educated in co-educational schools
+  > • Introduction of the 'Doctrine of Lapse'
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • The resentment of the British
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Religious, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01. Source anomaly preserved verbatim: "Missionaries came to covert people to Christianity" (likely a printed typo for "convert") — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

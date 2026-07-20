@@ -240,3 +240,71 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q3C
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the First Round Table Conference of 1930 more successful than the two that followed in 1931 and 1932? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation
+  > As top of Level 4 plus judgement or evaluation [14]
+  >
+  > Level 4: Explains success AND less success [9–13]
+  > (Two explanations, one on success and one on less success, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Success
+  > 1st
+  > • Federal system for India approved as the Princes declared they would join a future federation as long as their rights were recognised.
+  > 2nd
+  > • Congress attended which was a step forward, although this had been made possible only through talks between Gandhi and the Viceroy Lord Irwin.
+  > Less success
+  > 1st
+  > • Congress boycotted the talks and without them representing the majority of Indians, progress could not be made.
+  > 2nd
+  > • Gandhi was seen as being stubborn, taking a hard line in the talks, and refusing to recognise the problems of the minorities. He advanced the argument that he spoke for all Indians with which Jinnah disagreed.
+  > 3rd
+  > • Congress was absent again as Gandhi and Nehru had been imprisoned due to the renewal of the non-cooperation movement, so Congress boycotted the talks.
+  >
+  > Level 3: Explains success OR less success [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes Round Table Conferences [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • There were three Round Table Conferences (RTC) held in London
+  > • Both Gandhi and Jinnah attended some of the RTC's but not necessarily at the same time
+  > • Congress did not attend the first RTC and began non-cooperation programme
+  > • The Muslim community felt the first RTC was a success
+  > • At the first RTC the Princely States declared they would join a future federal system for India
+  > • The British agreed at the first RTC that representative government should be introduced at provincial level
+  > • Congress attended the second RTC
+  > • Agreement that the NWFP and Sindh should be made provinces was made at the second RTC
+  > • Gandhi was seen as refusing to recognise the problems of the minorities.
+  > • Congress boycotted the third RTC
+  > • The Princes also boycotted the third RTC
+  > • Jinnah went into voluntary exile
+  > • Nothing of importance was agreed at the third RTC
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • They were all successful
+  > • They made little progress
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — near-identical content to the May/June 2010 and May/June 2015 entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

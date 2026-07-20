@@ -673,3 +673,59 @@ and Oct/Nov). Total: 249 questions across 17 papers. Remaining in this
 batch: 2018–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
 still to come.
 **Date:** 2026-07-20
+
+## Version 21 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2018-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 249 → 263). `01_PAPERS_TRACKER.md` — 2018
+row updated to "May/June, V1" with status "In progress."
+**Reason:** Eighteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+May/June 2018, single variant, presented in Cambridge's newer tabular
+Question/Answer/Marks mark scheme format (plus an initial "Generic Marking
+Principles" boilerplate page correctly recognised as non-content and
+skipped). Every one of the 14 parts required under the 2015–2025 extraction
+pattern (Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d)
+capped at 10 marks) was presented with clickable topic options and
+allocated strictly per the user's picks. Notable decisions: Q4(a) ("What was
+the Radcliffe Award?") went to Initial Problems of Pakistan &
+Quaid-e-Azam as Governor-General, an unprompted user override of both
+offered options (the recommended "3rd June Plan" and the alternate
+"Multiple Topic Questions (1927–1947)"), on the reasoning that the
+boundary award fed directly into Pakistan's founding-era territorial
+problems; Q4(b) ("Explain why Pakistan has given continued support to the
+Palestinian cause") went to Gulf Countries, again matching the established
+Oct/Nov 2015 precedent for this recurring question over the recommended
+United Nations & Other World Organisations option; Q4(c) (Gandhi-Jinnah
+talks vs other 1940s partition factors) went to Multiple Topic Questions
+(1927–1947) rather than the recommended Gandhi–Jinnah Talks single-topic
+file, since the MS content spans six distinct named events (the talks,
+Lahore Resolution, 1945–46 elections, Cabinet Mission Plan, Direct Action
+Day, 3rd June Plan); Q5(b) (1958 constitutional crisis) went to Iskander
+Mirza, matching the MS's central focus on his loss of political support.
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(a) (Titu Mir), Q2(b) (Sir Syed
+Ahmad Khan improving Muslim-British relations), Q3(a) (Swadeshi Movement),
+and Q3(c) (Round Table Conferences comparison) all parallel earlier entries
+in their respective topic files. Minor source anomalies preserved verbatim:
+Q1(d)'s MS states Pakistan-Bangladesh trade negotiations "brought an extra
+$40 billion a year into Pakistan by 1986" (plausibly a printed error for a
+smaller figure); Q2(a)'s MS names Titu Mir "Syed Mir Nisar" (commonly
+rendered "Mir Nisar Ali" elsewhere); Q2(b) spells "The Loyal Mohammadens of
+India" (elsewhere in this bank "The Loyal Mohammedans of India"); Q2(c)'s
+MS reads "Missionaries came to covert people to Christianity" (likely a
+typo for "convert"); Q3(b)'s MS refers to the "Simla Agreement" (elsewhere
+in this bank "Simla Declaration"; this bank's dedicated topic is titled
+"Simla Deputation"); Q5(c) spells "Muhajir Quami Movement" (elsewhere in
+this bank "Mohajir Qaumi Movement"). None corrected. All 14 parts were
+present and extracted; none skipped.
+
+**2018 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 263 questions across 18 papers. Remaining in this batch: 2018
+Oct/Nov, plus 2019–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-20

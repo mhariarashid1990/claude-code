@@ -352,3 +352,35 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q2A
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Titu Mir?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Syed Mir Nisar was a Bengali
+  > • He reinforced traditional Muslim values
+  > • He was determined to free Bengal from British rule
+  > • He organised a stand against zamindars
+  > • He set up his own rule near Calcutta with a small army
+  > • He built a bamboo fort at Narkelbaria in 1831 and defeated the British troops sent to destroy it
+  > • He was killed in battle in 1831.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Leadership, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — near-identical content to the Oct/Nov 2011 Q1(a) entry already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: MS names him "Syed Mir Nisar" here (elsewhere this bank's Oct/Nov 2011 entry gives no full name); real name commonly rendered "Mir Nisar Ali" — not corrected, per verbatim rule. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

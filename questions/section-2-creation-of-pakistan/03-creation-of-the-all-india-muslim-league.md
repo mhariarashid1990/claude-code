@@ -170,3 +170,48 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q3B
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Muslim community felt it necessary to form their own political party in 1906.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • They felt that Muslim rights would not be advanced if they continued to rely on the Indian National Congress (Congress) which was seen as an organisation that promoted views of the Hindu community.
+  > • Congress was demanding that India should be treated as a cultural whole and Hindi should be declared the official language.
+  > • Congress opposed the Partition of Bengal and the Muslim community realised that Hindus would achieve its reversal, so wanted their own political party to safeguard their interests as Congress was not doing this.
+  > • The growth of Hindu nationalist groups demanding that Muslims be forcibly converted to Hinduism.
+  > • The Simla Agreement showed that Muslims were a separate community and needed their own political party.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • The Muslim community wanted a political organisation to promote their views
+  > • To advance Muslim rights
+  > • The growth of Hindu nationalist groups
+  > • Increasing violence against the Muslim community
+  > • The Simla Agreement
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The Hindu community had a political party
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — near-identical content to several entries already in this file. MS refers to the "Simla Agreement" here (this file's Oct/Nov 2013 and Oct/Nov 2016 entries instead say "Simla Declaration"; this bank's dedicated topic for the 1906 event is titled "Simla Deputation") — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

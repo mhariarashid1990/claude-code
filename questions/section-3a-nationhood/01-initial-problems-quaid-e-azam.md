@@ -257,3 +257,32 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q4A
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What was the Radcliffe Award?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Sir Cyril Radcliffe chaired the Radcliffe Award and gave his name to it
+  > • It established the new borders of India and Pakistan in 1947, particularly in Bengal and the Punjab
+  > • He had four assistants, two nominated by the Muslim League and two by Congress
+  > • The results were announced on 16 August 1947
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Features, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01. No exact-name taxonomy topic exists for the Radcliffe Award itself; user chose Initial Problems of Pakistan & Quaid-e-Azam as Governor-General over the "3rd June Plan" recommendation and the "Multiple Topic Questions (1927–1947)" alternate, since the boundary award directly fed into Pakistan's founding-era territorial problems. Reproduced in Cambridge's newer tabular mark scheme format.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/26-3rd-june-plan.md` (recommended topic, not used)

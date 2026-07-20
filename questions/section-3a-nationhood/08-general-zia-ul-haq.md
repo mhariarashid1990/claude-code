@@ -271,3 +271,99 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q1C
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did Zia-ul-Haq introduce his Islamisation reforms?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • To produce a strong and stable government managed by people committed to Islamic values.
+  > • He wanted to provide a counter to Zulfiqar Ali Bhutto's socialist government which he saw as liberal / westernised.
+  > • He made the Islamic laws strict in order to produce a strong government by imposing a strict legal code.
+  > • He wanted to implement laws which punished people for showing disrespect towards the Prophet and ensured that Islamic education was implemented in schools to raise Islamic awareness.
+  > • He wanted to distribute some wealth to the poor and needy by introducing Islamic taxes following Islamic principles.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • To strengthen the government
+  > • To raise Islamic awareness
+  > • To punish people showing disrespect towards the Prophet
+  > • To redistribute wealth to the poor
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Zia-ul-Haq felt that it was necessary after coming to power
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Causes, Religious, Domestic Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — Section B Q1(c). Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q1D
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > How successful was Zia-ul-Haq's foreign policy between 1978 and 1988? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains and makes judgement / evaluation [10]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains success AND less success [6–9]
+  > (Two explanations, one on success and one on less success, are worth 6 or 7 marks. Additional explanations on the same two factors cannot be awarded more than 8 marks. Explanation of all success and less success is worth 9 marks)
+  > e.g.
+  > Success
+  > • Pakistan's relationship with China was strengthened in 1978 with the opening of the Karakoram Highway between the two countries, opening up huge areas of both countries to trade and tourism.
+  > • Pakistan received support from the West to assist Afghan fighters in their conflict with Russia in 1979. The USA gave Pakistan $3.2 billion over six years to help cope with the influx of refugees from Afghanistan (the Afghan Miracle).
+  > • Negotiations between Pakistan and Bangladesh on tourism, culture and trade, brought an extra $40 billion a year into Pakistan by 1986.
+  > Less success
+  > • Pakistan became a target of Russia as a result of supplying Afghans with arms. Border villages were bombed and a series of explosions happened across the country.
+  > • Threats to law and order as a consequence of the Afghan Miracle.
+  >
+  > Level 3: Explains success OR less success [5–7]
+  > (One explanation is worth 5 marks. Additional explanations on the same factor awarded up to 7 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes aspects of foreign policy [3–4]
+  > (One identification / description is worth 3 marks. An answer with additional identification / descriptions is worth 4 marks)
+  > e.g.
+  > • Gained financial support from the USA
+  > • Good relations with China
+  > • Became a Russian target
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • Zia-ul-Haq's policy was very successful
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Foreign Policy, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Source figure "$40 billion a year" for Pakistan–Bangladesh trade/tourism/culture negotiations reproduced exactly as printed (plausibly a printed error for a smaller figure, given period and context) — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —

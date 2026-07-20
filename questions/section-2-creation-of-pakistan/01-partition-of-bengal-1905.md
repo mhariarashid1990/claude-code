@@ -151,3 +151,32 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2018-V1-Q3A
+
+- **Year:** 2018
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What was the Swadeshi Movement?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • A boycott of British goods by Hindus during / because of the Partition of Bengal, 1905–11
+  > • British cloth was thrown onto bonfires
+  > • The Hindu community wore locally produced clothes
+  > • There were a series of strikes by Indian workers, e.g. in Calcutta
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2018 sitting of 2059/01 — near-identical content to the Oct/Nov 2010 Q3(a) and Oct/Nov 2014 Q2(a) entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options, consistent with established precedent for Swadeshi Movement questions.
+- **Version Number:** 21
+- **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
+- **Cross References:** —
