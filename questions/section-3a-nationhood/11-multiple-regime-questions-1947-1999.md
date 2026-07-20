@@ -290,3 +290,59 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q5C
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent did Pakistan achieve a new constitution between 1949 and 1973? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus a judgement or evaluation)
+  >
+  > Level 4: Explains ability AND inability to achieve a new constitution [9–13]
+  > (Two explanations, one on the achievements and one on another reason, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Able to achieve
+  > • The first attempt to set up a constitution was the Objectives Resolution in 1949, which set out a plan to enshrine Islamic principles in an eventual constitution;
+  > • In 1952 a revised Basic Principles Committee made steps towards an Islamic constitution, stating that the Head of State should be Muslim and appoint a committee of Islamic specialists ensuring all legislation conformed to Islamic law;
+  > • In 1956 the constitution emerged with the declaration that Pakistan was to be an Islamic Republic and that Urdu and Bengali would be the official languages, a conciliatory move towards the people of East Pakistan;
+  > • In 1959 Basic Democracies were introduced by Ayub Khan which was a 4 tier structure of government, allowing elections at various levels. The success of these councils was such that martial law was lifted in 1962 after a new constitution was introduced;
+  > • The 1973 Constitution revived the power of the National Assembly and as a result political parties became more important.
+  > Unable to achieve
+  > • The Objectives Resolution of 1949 was criticised by East Pakistan as Urdu, not Bengali was to be the official language despite its larger population. The death of Liaquat Ali Khan meant that constitutional change had to wait until a new leader could be found and had time to settle in;
+  > • The Basic Principles Committee's report was criticised because the official language issue was not settled and East Pakistan was determined to oppose the selection of Urdu. Political change meant that further discussions on a new constitution were put on hold until 1956;
+  > • The constitution promised a parliamentary system of government but the President held the power to intervene or even suspend the Assembly;
+  > • The 1962 constitution increased the powers of the ruling elite as the major landlords dominated the elections to the Basic Democracies.
+  >
+  > Level 3: Explains ability OR inability to achieve a new constitution [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes achievement of a new constitution [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • There were three constitutions in 1956, 1962 and 1973;
+  > • Head of State to be a Muslim;
+  > • Urdu became the national language;
+  > • Basic Democracies were introduced.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > e.g.
+  > • It was challenging to establish a constitution during this time.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Constitution, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the Oct/Nov 2015 entry already in this file, reproduced separately and verbatim as its own distinct instance, spanning the Objectives Resolution and three separate constitutions (1956, 1962, 1973) under multiple leaders rather than one regime's story. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md` (single-leader topic touched on, not used as primary)

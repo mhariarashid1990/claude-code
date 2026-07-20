@@ -87,3 +87,45 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q4B
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why was the Cripps Mission of 1942 unsuccessful?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • It was rejected by the Congress Party because they wanted immediate and full control over central government;
+  > • The Muslim League rejected the plan because it contained no reference to the establishment of an independent Pakistan;
+  > • The British were negotiating from a weak position, which the Congress Party recognised, demanding that Britain left the subcontinent immediately.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Congress rejected it;
+  > • The Muslim League opposed it;
+  > • Britain was concentrating on the Second World War;
+  > • There was widespread resistance to the plan.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • A compromise could not be reached.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Cripps Mission
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the May/June 2012 and Oct/Nov 2015 "why did the Cripps Mission fail" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

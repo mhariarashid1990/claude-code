@@ -142,3 +142,32 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q5A
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What is the Karakoram Highway?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > • Built between 1966 and 1978 / took 12 years to build;
+  > • The first major road built between China and Pakistan;
+  > • Largely financed by Chinese money and built by Chinese engineers;
+  > • Lots of construction workers lost their lives in its building due to the dangerous terrain;
+  > • It follows the old Silk Road;
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** China
+- **Secondary Tags:** Features, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the Oct/Nov 2015 entry already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

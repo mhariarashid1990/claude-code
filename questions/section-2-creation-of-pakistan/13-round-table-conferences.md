@@ -342,3 +342,46 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q3B
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there were three Round Table Conferences between 1930 and 1932.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • To discuss and to agree the development of the subcontinent. It was realised that without the attendance of Congress little progress on the future of the subcontinent could be achieved and so another meeting was needed;
+  > • Congress did not attend the first conference, the Indian representatives attending struggled to reach agreement themselves contributing to its breakdown;
+  > • Lord Irwin met Gandhi and made progress so that another Round Table Conference could be held. In this Gandhi took a hard line refusing to recognise the issue of the minorities and also claiming that Congress spoke for the whole of India. Thus this conference made limited headway;
+  > • The second conference broke up amidst concerns that the British would impose a solution if agreement couldn't be reached. It was then agreed that a third Conference should be held.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Congress did not attend the first one;
+  > • Gandhi took a hard line;
+  > • There was stalemate in the second;
+  > • Britain wanted to impose a settlement.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • As the sides could not agree more than one meeting was necessary.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the May/June 2014 and Oct/Nov 2011 "why were there three RTCs" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

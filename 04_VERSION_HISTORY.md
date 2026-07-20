@@ -849,3 +849,58 @@ batch). Total: 291 questions across 20 papers. Remaining in this batch:
 2019 Oct/Nov, plus 2020–2025 May/June and Oct/Nov papers for 2059/01
 (14-part pattern), still to come.
 **Date:** 2026-07-20
+
+## Version 24 — 2026-07-20
+
+**Questions added:** 14 (PK2059-ON-2019-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 291 → 305, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2019 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Twenty-first paper processed — Cambridge O Level 2059/01, Paper
+1, October/November 2019, single variant, presented in Cambridge's newer
+tabular Question/Answer/Marks mark scheme format (plus an initial "Generic
+Marking Principles" boilerplate page correctly recognised as non-content
+and skipped). Every one of the 14 parts required under the 2015–2025
+extraction pattern (Section A/B split; Q1(a)/(b) source-based and excluded;
+Q1(d) capped at 10 marks) was presented with clickable topic options and
+allocated strictly per the user's picks. Notable decisions: Q1(c) ("Explain
+how Jinnah transformed the Muslim League between 1937 and 1939") went to
+Elections of 1937 by explicit user override of both offered options (Iqbal,
+Rehmat Ali & Jinnah for Pakistan and Creation of the All-India Muslim
+League), pairing it with this same paper's Q1(d) on the 1937 election
+result itself; Q3(a) ("What was Satyagraha?") went to Montagu–Chelmsford
+Reforms & Other Events of 1919, since the MS dates Gandhi's idea to 1919,
+the cluster year this topic covers — its first entry on Satyagraha
+specifically; Q3(c) (Simla Deputation 1906 vs other reasons for the Muslim
+League's formation) went to Creation of the All-India Muslim League, the
+first entry there to use the "Simla Deputation" wording rather than "Simla
+Declaration"/"Simla Agreement" seen elsewhere in that file; Q4(c) (Jinnah's
+14 Points vs Iqbal's Allahabad Address, Rahmat Ali's pamphlet, the
+Government of India Act 1935, and the Lahore Resolution) went to Iqbal,
+Rehmat Ali & Jinnah for Pakistan by explicit user choice, consistent with
+that topic's role as the home for cross-figure Pakistan Movement
+comparisons. Several entries in this paper are substantively near-duplicate
+content of earlier entries already in this bank, each reproduced separately
+and verbatim as its own distinct instance: Q2(a) (Sir Syed's "Loyal
+Mohammedans of India"), Q2(b) (Mughal decline after Aurangzeb), Q2(c)
+(educational reforms vs other British changes), Q3(b) (why three RTCs were
+held), Q4(a) (Cabinet Mission Plan), Q4(b) (Cripps Mission failure), Q5(a)
+(Karakoram Highway), Q5(b) (Pakistan's UN membership), and Q5(c) (Pakistan's
+1949–1973 constitutional efforts) all parallel earlier entries in their
+respective topic files. Minor source anomalies preserved verbatim: Q1(d)
+gives "104/489" Muslim seats won by the Muslim League in the 1937
+elections, versus "109" used elsewhere in this bank; Q4(c)'s MS spells the
+same person "Rahmat Ali" in its Level 4 exemplars but "Rehmat Ali" in its
+Level 2 exemplars, within the same mark scheme. None corrected. All 14
+parts were present and extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2019** (both May/June
+and Oct/Nov). Total: 305 questions across 21 papers. Remaining in this
+batch: 2020–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
+still to come.
+**Date:** 2026-07-20

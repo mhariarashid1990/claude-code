@@ -221,3 +221,44 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q5B
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did Pakistan apply for membership of the United Nations in 1947?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Pakistan wanted to become a spokesperson of many Asian States and movements especially Muslim nations;
+  > • To obtain assistance to solve the Canal Water Dispute. Subsequently the President of the World Bank recommended that the UN should provide financial and technical support to resolve the Canal Water Dispute.
+  > • Pakistan felt that membership of the United Nations (UN) might help their differences with India as it would draw the international community's attention to the issues;
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • To support other Muslim nations.
+  > • To solve the Canal Water Dispute;
+  > • To raise awareness of differences with India;
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Pakistan would get benefits out of joining / it was good for Pakistan to join.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Causes, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the May/June 2010 and May/June 2014 "why did Pakistan join the UN" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

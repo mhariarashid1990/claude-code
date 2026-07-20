@@ -81,3 +81,105 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q1C
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how Jinnah transformed the Muslim League between 1937 and 1939.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains method(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Jinnah persuaded the Muslim League that it needed to build up support from the grass roots as in the elections victory had come from local branches of the party established before 1937;
+  > • Jinnah persuaded the party to be more egalitarian and began to mobilise the Muslim community and make the League more attractive to so that they would support it / take part in its activities;
+  > • Jinnah persuaded the chief ministers of Assam, Bengal and Punjab to join the party and as a result by 1938 membership of the League rapidly increased;
+  > • Jinnah repeatedly warned the Muslim community that they must organise themselves to resist Congress' idea to establish Hindustan in the subcontinent.
+  >
+  > Level 2: Identifies method(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • the Muslim League needed to build up support in local areas;
+  > • Jinnah made the League more accessible to all Muslim groups;
+  > • Jinnah increased the membership of the party.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Jinnah made speeches and met people.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Elections of 1937
+- **Secondary Tags:** Political, Leadership, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — Section B Q1(c). User chose Elections of 1937 over both offered options (Iqbal, Rehmat Ali & Jinnah for Pakistan and Creation of the All-India Muslim League), since Jinnah's reorganisation of the League here is framed as the direct consequence of the 1937 election result, alongside this paper's Q1(d) on the same election. Reproduced in Cambridge's newer tabular mark scheme format.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/29-iqbal-rehmat-ali-jinnah-for-pakistan.md`, `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topics considered, not used)
+
+### UQID: PK2059-ON-2019-V1-Q1D
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > How successful were the 1937 elections? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains and makes judgement / evaluation [10]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains reasons for success AND less success [6–9]
+  > (Two explanations, one on success and one on less success, are worth six or seven marks. Additional explanations on the same two reasons cannot be awarded more than eight marks. Explanation of all reasons is worth nine marks)
+  > e.g.
+  > Success
+  > For Muslim community / Muslim League
+  > • First major election fought which helped to unify the Muslim League;
+  > • Saw that their support laid in areas where the Muslim community was in minority rather than in majority, enabling more informed future planning;
+  > • Recognition of a need to 'make over' the Muslim League to progress.
+  > For Hindu community / Congress
+  > • Congress gained an overall victory by winning majorities in five provinces and being the largest single party in four others;
+  > • This victory confirmed their view that they were the sole party representing Indians;
+  > • Led to formation of cabinets in eight provinces which confirmed the victory.
+  > Less success
+  > For Hindu community / Congress
+  > • The Muslim League distanced themselves from Congress following by their treatment by Congress post-election;
+  > • This created difficulties for Congress during negotiations for the future over the next ten years;
+  > • The attitude of Congress and Nehru strengthened Muslim views in support of a separate nation.
+  > For Muslim community / Muslim League:
+  > • 104/489 Muslim seats were secured by the Muslim League in the elections;
+  > • In the Punjab, the Muslim League won 1/ 86 Muslim seats the remainder being taken by the Punjab Unionist Party.
+  >
+  > Level 3: Explains Success OR less success [5–7]
+  > (One explanation is worth five marks. Additional explanations on the same reason can be awarded up to seven marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies aspects of / describes events [3–4]
+  > (One identification / description is worth three marks. An answer with additional identification / descriptions is worth four marks)
+  > e.g.
+  > • Congress won most seats in the elections;
+  > • It strengthened support for a separate nation.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > e.g.
+  > • The elections were useful for both communities.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Elections of 1937
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Source anomaly preserved verbatim: MS gives "104/489" Muslim seats won by the Muslim League here, versus "109" used in this file's May/June 2014 and Oct/Nov 2016 entries — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

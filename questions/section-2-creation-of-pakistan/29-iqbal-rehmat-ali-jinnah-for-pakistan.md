@@ -314,3 +314,56 @@ other named Section 2 topics._
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q4C
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were Jinnah's 14 Points the most important development in the Pakistan Movement between 1929 and 1940? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains Jinnah's 14 Points AND other development(s) [9–13]
+  > (Two explanations, one 14 Points and one on other developments, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > 14 Points
+  > • Set out the demands of any future negotiations with either Congress or the British Government. It was apparent that any Hindu-Muslim cooperation had now come to an end;
+  > • Formed the basis of demands for a separate homeland. It also convinced the movement that Hindu and Muslim communities should form separate nations. Muslim groups were united in support of these demands, which became their ultimate goal.
+  > Other developments
+  > • Allama Iqbal further developed the concept of two separate nations in 1930 with the Allahabad Address in which he became the first Muslim leader to suggest partition in keeping with the Two-Nation Theory; his views became an inspiration to Muslims;
+  > • Rahmat Ali also developed the Pakistan Movement in 1933 with his 'Now or Never' pamphlet in which he stated that the Muslim community should have their own homeland called Pakistan;
+  > • The Government of India Act of 1935 introduced a federal system of government, but the Muslim League had expected more concessions from the British. However it was important to the development of the Pakistan Movement as it was in place at partition and became the instrument by which Pakistan was first governed;
+  > • The Pakistan Resolution (Lahore Resolution) in 1940 set out the path towards independence in the 1940s, the Muslim League became the driving force of this process by committing to the establishment of an independent Muslim state.
+  >
+  > Level 3: Explains Jinnah's 14 Points OR other development(s) [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes development(s) in the Pakistan Movement [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • The 14 Points were the basis of demands for a separate homeland;
+  > • Allama Iqbal spoke at the Allahabad Conference;
+  > • Rehmat Ali wrote his 'Now or Never' pamphlet;
+  > • The Pakistan Resolution was addressed by Jinnah.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • The 14 points were important because they set out the Muslim community's demands.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Comparison, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01. Spans five distinct developments (Jinnah's 14 Points, Iqbal's Allahabad Address, Rahmat Ali's "Now or Never" pamphlet, the Government of India Act 1935, and the Lahore Resolution); user directed this into topic #29 rather than "Jinnah's Fourteen Points" alone, consistent with this file's role as the home for cross-figure Pakistan Movement comparisons. Source anomaly preserved verbatim: MS spells him "Rahmat Ali" in the Level 4 exemplars but "Rehmat Ali" in the Level 2 exemplars, within the same mark scheme — not reconciled. Reproduced in Cambridge's newer tabular mark scheme format.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md`, `section-2-creation-of-pakistan/14-government-of-india-act-1935.md`, `section-2-creation-of-pakistan/18-lahore-resolution-1940.md` (single-topic files touched on, not used as primary)

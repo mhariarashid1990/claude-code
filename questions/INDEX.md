@@ -3,17 +3,17 @@
 Live map of every topic file and its current question count. Updated on every
 `Allocate`, `Move`, or restructuring event.
 
-**Total questions allocated: 291**
+**Total questions allocated: 305**
 
 ## Section 1 — The Decline of the Mughal Empire & the Establishment of British Rule
 
 | # | Topic | File | Count |
 |---|-------|------|-------|
-| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 10 |
-| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 30 |
+| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 11 |
+| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 31 |
 | 3 | Religious Reformers | `section-1-mughal-decline-british-rule/03-religious-reformers.md` | 14 |
 | 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 14 |
-| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 11 |
+| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 12 |
 | 6 | Urdu Language Controversy (Languages) | `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` | 9 |
 
 ## Section 2 — The Creation of Pakistan (1905–1947)
@@ -22,33 +22,33 @@ Live map of every topic file and its current question count. Updated on every
 |---|-------|------|-------|
 | 1 | Partition of Bengal (1905) | `section-2-creation-of-pakistan/01-partition-of-bengal-1905.md` | 7 |
 | 2 | Simla Deputation (1906) | `section-2-creation-of-pakistan/02-simla-deputation-1906.md` | 2 |
-| 3 | Creation of the All-India Muslim League | `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` | 6 |
+| 3 | Creation of the All-India Muslim League | `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` | 7 |
 | 4 | Muslim League (1906–1908) | `section-2-creation-of-pakistan/04-muslim-league-1906-1908.md` | 0 |
 | 5 | Morley–Minto Reforms (1909) | `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md` | 2 |
 | 6 | Reversal of the Partition of Bengal (1911) | `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md` | 1 |
 | 7 | Lucknow Pact & First World War | `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` | 3 |
-| 8 | Montagu–Chelmsford Reforms & Other Events of 1919 | `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` | 6 |
+| 8 | Montagu–Chelmsford Reforms & Other Events of 1919 | `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` | 7 |
 | 9 | Khilafat Movement | `section-2-creation-of-pakistan/09-khilafat-movement.md` | 12 |
 | 10 | Delhi Proposals & Simon Commission | `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md` | 1 |
 | 11 | Nehru Report | `section-2-creation-of-pakistan/11-nehru-report.md` | 3 |
 | 12 | Jinnah's Fourteen Points | `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md` | 2 |
-| 13 | Round Table Conferences | `section-2-creation-of-pakistan/13-round-table-conferences.md` | 8 |
+| 13 | Round Table Conferences | `section-2-creation-of-pakistan/13-round-table-conferences.md` | 9 |
 | 14 | Government of India Act (1935) | `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` | 3 |
-| 15 | Elections of 1937 | `section-2-creation-of-pakistan/15-elections-of-1937.md` | 2 |
+| 15 | Elections of 1937 | `section-2-creation-of-pakistan/15-elections-of-1937.md` | 4 |
 | 16 | Congress Rule (1937–1939) | `section-2-creation-of-pakistan/16-congress-rule-1937-1939.md` | 7 |
 | 17 | Day of Deliverance | `section-2-creation-of-pakistan/17-day-of-deliverance.md` | 0 |
 | 18 | Lahore Resolution (1940) | `section-2-creation-of-pakistan/18-lahore-resolution-1940.md` | 0 |
-| 19 | Cripps Mission | `section-2-creation-of-pakistan/19-cripps-mission.md` | 3 |
+| 19 | Cripps Mission | `section-2-creation-of-pakistan/19-cripps-mission.md` | 4 |
 | 20 | Quit India Movement | `section-2-creation-of-pakistan/20-quit-india-movement.md` | 1 |
 | 21 | Gandhi–Jinnah Talks | `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md` | 2 |
 | 22 | Simla Conference | `section-2-creation-of-pakistan/22-simla-conference.md` | 0 |
 | 23 | Elections of 1945–46 | `section-2-creation-of-pakistan/23-elections-of-1945-46.md` | 0 |
-| 24 | Cabinet Mission Plan | `section-2-creation-of-pakistan/24-cabinet-mission-plan.md` | 1 |
+| 24 | Cabinet Mission Plan | `section-2-creation-of-pakistan/24-cabinet-mission-plan.md` | 2 |
 | 25 | Direct Action Day | `section-2-creation-of-pakistan/25-direct-action-day.md` | 2 |
 | 26 | 3rd June Plan | `section-2-creation-of-pakistan/26-3rd-june-plan.md` | 1 |
 | 27 | Multiple Topic Questions (1905–1926) | `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` | 5 |
 | 28 | Multiple Topic Questions (1927–1947) | `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` | 6 |
-| 29 | Iqbal, Rehmat Ali & Jinnah for Pakistan | `section-2-creation-of-pakistan/29-iqbal-rehmat-ali-jinnah-for-pakistan.md` | 9 |
+| 29 | Iqbal, Rehmat Ali & Jinnah for Pakistan | `section-2-creation-of-pakistan/29-iqbal-rehmat-ali-jinnah-for-pakistan.md` | 10 |
 
 ## Section 3A — Nationhood (1947–1999)
 
@@ -64,20 +64,20 @@ Live map of every topic file and its current question count. Updated on every
 | 8 | General Zia-ul-Haq | `section-3a-nationhood/08-general-zia-ul-haq.md` | 13 |
 | 9 | Benazir Bhutto | `section-3a-nationhood/09-benazir-bhutto.md` | 9 |
 | 10 | Nawaz Sharif | `section-3a-nationhood/10-nawaz-sharif.md` | 8 |
-| 11 | Multiple Regime Questions (1947–1999) | `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` | 7 |
+| 11 | Multiple Regime Questions (1947–1999) | `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` | 8 |
 
 ## Section 3B — International Relations
 
 | # | Topic | File | Count |
 |---|-------|------|-------|
 | 1 | India and the Kashmir Issue | `section-3b-international-relations/01-india-and-the-kashmir-issue.md` | 7 |
-| 2 | China | `section-3b-international-relations/02-china.md` | 3 |
+| 2 | China | `section-3b-international-relations/02-china.md` | 4 |
 | 3 | United States of America (USA) | `section-3b-international-relations/03-united-states-of-america.md` | 3 |
 | 4 | USSR / Russia | `section-3b-international-relations/04-ussr-russia.md` | 2 |
 | 5 | Iran and Turkey | `section-3b-international-relations/05-iran-and-turkey.md` | 0 |
 | 6 | Afghanistan | `section-3b-international-relations/06-afghanistan.md` | 3 |
 | 7 | Bangladesh | `section-3b-international-relations/07-bangladesh.md` | 1 |
 | 8 | Gulf Countries | `section-3b-international-relations/08-gulf-countries.md` | 2 |
-| 9 | United Nations & Other World Organisations | `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` | 6 |
+| 9 | United Nations & Other World Organisations | `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` | 7 |
 | 10 | United Kingdom & the Commonwealth | `section-3b-international-relations/10-united-kingdom-and-the-commonwealth.md` | 3 |
 | 11 | Multiple Topic Questions (International Relations) | `section-3b-international-relations/11-multiple-topic-questions-international-relations.md` | 0 |

@@ -1020,3 +1020,58 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q2C
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Did educational reforms have a greater effect on the Indian people than any other changes introduced by the British between 1773 and 1856? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains the impact of education reforms AND other factors on the lives of Indians [9–13]
+  > (Two explanations, one on success and one on less success, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Education reforms
+  > • Macauley introduced the teaching of western values using the English language in schools across the country believing that this would help the British to govern India more effectively;
+  > • The Indian people were made to enrol their children in co-educational schools which was disliked as it appeared to impose the British system without due regard to Indian religious and cultural feelings;
+  > • Christian missionaries came to India to convert the local population as well as set up schools. In these schools the missionaries taught Christianity and expected local religions to be given up which was not liked by the Muslim, Hindu and Sikh communities.
+  > Other factors
+  > • Although a common language was intended to unite India the replacement of Persian and Sanskrit by English as the official language in the 1830s affronted both Muslim and Hindu communities;
+  > • Women were forced to abandon purdah, which had been an Indian custom for centuries. Purdah observance was strictly adhered to and widespread on the subcontinent – consequently this action by the British was widely resented and opposed;
+  > • In 1852 the 'Doctrine of Lapse' was introduced without any consultation. It caused unrest because the lands of any local kingdom not having a direct male heir were taken over by the British;
+  > • The introduction of the railway in India transformed the country. For example it allowed easier transportation of food in time of famine. However the railways were often regarded as a symbol of western culture and of giving the British another means of extending their power.
+  >
+  > Level 3: Explains the education reforms OR other factors [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes factor(s) [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • English was taught in schools;
+  > • Purdah was banned;
+  > • The Doctrine of Lapse was introduced;
+  > • Railways were built;
+  > • Christian missionaries came to India.
+  >
+  > Level 1: Simple statement [1–2]
+  > e.g.
+  > • All groups of Indian people were affected by the reforms.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Comparison, Educational, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to the Oct/Nov 2011 and May/June 2015 entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

@@ -366,3 +366,47 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q2B
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Mughal Empire declined following the death of Aurangzeb.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Aurangzeb's successors left the administration to their ministers meaning there was no direct, firm leadership of the empire;
+  > • The lack of a law of succession meant there was sometimes a struggle for succession, costly in human lives and other resources. Fighting battles was expensive and weakened the empire's military, which they depended on for defence;
+  > • Succession often depended upon the ability of the candidates to gain support, such rulers may have been popular but they did not necessarily have the skills to run a large empire;
+  > • The successors become extravagant – large sums of money, which could have been spent on defence or government were lost;
+  > • The size of the Empire made it hard to defend and the army was already overstretched as a result of internal conflicts. Several invasions weakened it further so eventually the British were able to take control.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Aurangzeb's successors were extravagant;
+  > • There was no law of succession;
+  > • The army was overstretched;
+  > • The Empire was large.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Aurangzeb's successors found it difficult to maintain control.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to several prior "why did the Mughal Empire decline after Aurangzeb" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** —

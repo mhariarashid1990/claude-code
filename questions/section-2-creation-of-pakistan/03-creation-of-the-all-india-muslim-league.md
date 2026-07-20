@@ -215,3 +215,59 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2019-V1-Q3C
+
+- **Year:** 2019
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the Simla Deputation of 1906 the most important reason for the formation of the Muslim League later that same year? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains the Simla Deputation reason(s) AND other reason(s) [9–13]
+  > (Two explanations, one on the Simla Deputation and one on other reason, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Simla Deputation
+  > • The acceptance of demands from Muslim groups proved that there was a better understanding between the British and the Muslim community as a result of the work of leaders like Sir Syed Ahmed Khan;
+  > • Many Muslims now recognised that they were a separate community who should be treated differently to Hindu groups.
+  > Other reasons
+  > • In 1905 a new Liberal government had taken office that seemed likely to make changes in political representation. Thus the Muslim community felt they needed their own political party to protect their own interests;
+  > • Congress was demanding that India should be treated as a cultural and political whole and Hindi should be declared the official language and therefore was seen by Muslim groups as an organisation which would primarily advance the views of the Hindu community leading Muslim groups to conclude that their own political party was needed;
+  > • The growth of Hindu nationalist groups demanding that Muslims be forcibly converted to Hinduism led to a number of prominent Muslim leaders founding the Muslim League as a means of promoting and safeguarding Muslim identity;
+  > • When the Hindu community started to protest against the partition of Bengal, Muslim groups saw this as a sign of Hindu influence and became concerned about their own interests – and began to consider their own survival and political representation;
+  > • The Muslim community became increasingly concerned that their political rights would not be advanced if they continued to rely on the Indian National Congress and that by organising a single Muslim political group they would be organised and united.
+  >
+  > Level 3: Explains the Simla Deputation reason(s) OR other reason(s) [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons for the formation of the Muslim League [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • The Simla Deputation happened because of the British reaction to the Muslim community;
+  > • The partition of Bengal was a problem for the Hindu community;
+  > • There was a growth of Hindu nationalist groups;
+  > • The Muslim community could no longer rely on Congress.
+  > • The Muslim community recognised they should be treated in a different way from Hindu groups.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • The Simla Deputation was an important step towards the formation of a political party for Muslim groups.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2019 sitting of 2059/01 — near-identical content to several prior "why was the Muslim League established" entries already in this file, reproduced separately and verbatim as its own distinct instance; this is the first entry to name the "Simla Deputation" explicitly rather than the "Simla Declaration"/"Simla Agreement" wording used elsewhere in this file. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 24
+- **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/02-simla-deputation-1906.md` (alternate topic considered, not used)
