@@ -133,3 +133,49 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q4C
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was the government of Pakistan in solving the problems of Partition during 1947 and 1948? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1–2]
+  > They were very successful.
+  >
+  > LEVEL 2: Describes/Identifies solutions or describes the problems [3–6]
+  > Refugees were looked after.
+  >
+  > LEVEL 3: Explains success or failures [7–10]
+  >
+  > LEVEL 4: Explains success and failures [9–13]
+  > Successes:
+  > Quaid-e-Azam Relief Fund created to help refugees. He appealed to the people to help the refugees
+  > He toured the provinces encouraging and motivating the people. Declared himself 'Protector-General' of religious minorities
+  > State Bank of Pakistan set up
+  > Karachi made capital of Pakistan
+  > Civil Services re-organised
+  > Joined United Nations and attempted to draw their attention to Kashmir problem.
+  > Failures:
+  > Kashmir and other Princely States issues not resolved
+  > Canal Water Dispute not resolved until 1959
+  > Millions made homeless or died as a result of partition
+  > Only 200 million rupees received at first instead of 750 million under the final settlement
+  > There was a shortage of properly qualified and experienced personnel
+  > Much of the military assets awarded were obsolete or out of order.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Near-identical content to the May/June 2012 Q4(c) entry already in this file, but adds three additional Failures bullets not present there (financial settlement shortfall, personnel shortage, obsolete military assets) — reproduced as its own distinct instance, not merged. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

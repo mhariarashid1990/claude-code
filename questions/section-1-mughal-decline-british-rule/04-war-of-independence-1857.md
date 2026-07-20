@@ -184,3 +184,32 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q2B
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did the War of Independence fail to meet its aims in 1857?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > The Indians lost the war.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > The opposition to the British was too weak.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > There was a lack of unity and common cause amongst the Indian population. The Punjab was uninterested in helping the rebellion and actually sent men and supplies to help the British. This also happened in Kashmir. The British had more modern methods of fighting and the army was better disciplined as well as being supplied by some of the local rulers.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Nearly identical MS content to the Oct/Nov 2011 entry already in this file. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

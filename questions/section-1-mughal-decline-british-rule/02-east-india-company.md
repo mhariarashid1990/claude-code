@@ -346,3 +346,39 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q1C
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the Industrial Revolution in Britain the most important reason why the British were able to take control of India between 1750 and 1850? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > The British imposed their will on the sub-continent.
+  >
+  > LEVEL 2: Description of/identifies reasons [3–6]
+  > The Industrial Revolution provided guns for the British army.
+  >
+  > LEVEL 3: Explains the Industrial Revolution or other reasons [7–10]
+  >
+  > LEVEL 4: Explains the Industrial Revolution and other reasons [9–13]
+  > The Industrial Revolution provided vast wealth ad profit but depended upon the import of raw materials. Raw cotton was imported from India and no imports of finished cotton goods were allowed. This had a terrible effect on the cotton industry in India and as a result it collapsed. Britain now controlled the cotton trade making vast profits but none was invested in India. A network of roads and later railways served to reinforce Britain's control of India which was essential to assist trade and control the land.
+  > In order to further reinforce its control, Britain established an administrative system that took over all duties and responsibilities of the East India Company and imposed government control through an efficient administrative system, that featured such personalities as Lord Wellesley, Robert Clive and Warren Hastings as Governors Generals, who through their administrative skills were further able to exert greater control of India.
+  > The conquest of large areas of India further strengthened British control of India. India was not a united nation and the British army did not meet much resistance. The manufacture of weapons in Britain aided this control.
+  > Candidates may also consider such factors as education, religious and social reforms during this time, the Doctrine of Lapse etc. However any of these factors must relate to the notion of control as in the question, in order to reach level 3 or 4.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Source anomaly preserved verbatim: "vast wealth ad profit" (likely a printed typo for "and profit") — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

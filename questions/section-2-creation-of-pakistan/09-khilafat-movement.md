@@ -186,3 +186,32 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q3B
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did the Khilafat Movement fail by 1924?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > It wasn't very good.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Gandhi withdrew his support and because of the Chauri Chaura incident.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so called off his support. In 1920 the Muslim migration (hijrat) to Afghanistan took place. The Muslim League opposed this as they wanted them to stay and fight for their cause. The migration was a failure. The Afghan government was hostile to the migrants who on their return found their homes and jobs occupied which dispirited the Muslims. Finally the new Turkish government under Kemal Ataturk abolished the institution of the Caliph in 1924 so ending the Movement.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

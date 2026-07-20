@@ -109,3 +109,32 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2013-V1-Q5B
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did Nawaz Sharif fall from office in 1993?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer [1]
+  > He wasn't liked.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > He lost out on American aid.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > He attempted to solve Pakistan's unemployment problem by providing cheap loans to men to buy taxis that he had imported. Few of the loans were repaid which put a strain on the economy. This was made worse when he tried to finance major investment projects that depended upon foreign aid especially from the USA. This aid was in decline and placed a severe strain on Pakistan's finances. The closure of a major bank also made matters worse. As a result of these policies Sharif and his government were blamed. The mismanagement of the Cooperative societies led to millions of Pakistanis losing their money and again the government was blamed. In particular his family's association with loans that were made led to his image being harmed. Violence in Pakistan that related to drugs and the use of guns led to a strong response from Sharif but his actions were criticised by the opposition parties for being too repressive. Sharif came into conflict with the President over the appointment of an army chief of staff and also with the Eighth Amendment. Sharif was dismissed on charges of corruption.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

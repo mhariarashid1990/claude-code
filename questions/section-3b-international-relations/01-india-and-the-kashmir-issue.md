@@ -96,3 +96,45 @@
 - **Version Number:** 11
 - **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q5C
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) How successful was Pakistan in its relationship with India between 1947 and 1999? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > Relations between the two nations have been poor.
+  >
+  > LEVEL 2: Description of relationship [3–6]
+  > May outline the Kashmir Crisis and the Wars in 1965 and 1971. Nuclear tests in 1974 etc.
+  >
+  > LEVEL 3 Explains successes or failures [7–10]
+  >
+  > LEVEL 4: Explains successes and failures [9–13]
+  > Successes:
+  > Agreement regarding border between east Bengal and Assam 1948
+  > Minorities Agreement 1950
+  > Simla Accord 1972.
+  > Failures:
+  > Kashmir
+  > 1965 and 1971 Wars
+  > Nuclear arms race
+  > Aftermath of Indira Gandhi's assassination
+  > Kargil conflict 1999
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Topic chosen by user from clickable options, consistent with the equivalent May/June 2012 Q5(b) entry already in this file.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

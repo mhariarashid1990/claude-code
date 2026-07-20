@@ -66,3 +66,36 @@
 - **Version Number:** 6
 - **Allocation History:** Allocated on extraction, Version 6, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q2C
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the need for their own political party the most important reason why the Muslim League was established in 1906? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > They needed their own party.
+  >
+  > LEVEL 2: Description/identification of reasons [3–6]
+  > The Hindus had the Congress party which represented Hindu views only.
+  >
+  > LEVEL 3: Explains the need for own party or other reasons [7–10]
+  >
+  > LEVEL 4: Explains the need for own party and other reasons [9–13]
+  > Muslims were increasingly aware that their political rights would not be advanced if they continued to rely on the Indian National Congress. By not organising a Muslim group they would continue to be disorganised and disunited. It was also set up because of the growth of a better understanding between the British and Muslims that was reflected in the Simla Declaration in 1905. In 1905 a new Liberal government had taken office that seemed likely to make changes in political representation and Muslims felt that they needed their own political party. The Congress was demanding that India should be treated as a cultural and political whole and Hindi should be declared the official language. It was seen as an organisation which would only advance Hindu views. They did not feel that had the same influence as Congress with the British. Also the Hindus were beginning to protest against the partition of Bengal and the Muslims saw this as a sign of the influence the Hindus had and they were worried about their own interests. Even more worrying was the growth of extreme Hindu nationalist groups who demanded that Muslims be forcibly converted to Hinduism. Therefore a number of prominent Muslim leaders founded the Muslim League.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation [14]
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. MS refers to the "Simla Declaration in 1905" — reproduced exactly as printed; this bank's dedicated topic for the 1906 event is titled "Simla Deputation," so no correction was made but the wording discrepancy is noted here. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

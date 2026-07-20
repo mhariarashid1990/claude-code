@@ -12,7 +12,7 @@ assumed in advance (Golden Rule 5).
 | 2010 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2011 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2012 | May/June, V1 + Oct/Nov, V1 | Complete |
-| 2013 | May/June, V1 (2059/01, original series) + 2059/41 (Pakistan-only security-breach resit) | Complete |
+| 2013 | May/June, V1 (2059/01, original series) + 2059/41 (Pakistan-only security-breach resit) + Oct/Nov, V1 | Complete |
 | 2014 | May/June, V1 | Complete |
 | 2015 | — | Not started |
 | 2016 | — | Not started |

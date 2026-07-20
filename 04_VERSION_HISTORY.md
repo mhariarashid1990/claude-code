@@ -316,3 +316,38 @@ May/June 2010 and Oct/Nov 2010 Q1(c) entries — reproduced exactly as printed,
 not reconciled. All 15 parts required under the 2010–2014 extraction pattern
 were present and extracted; none skipped.
 **Date:** 2026-07-20
+
+## Version 13 — 2026-07-20
+
+**Questions added:** 15 (PK2059-ON-2013-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Two topic files received their first-ever entry this
+version: `20-quit-india-movement.md` (Q3(a)) and `04-iskander-mirza.md`
+(Q4(a)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2013 sessions/variants
+field extended to add "+ Oct/Nov, V1" alongside the existing May/June, V1
+(original series) and 2059/41 resit entries (status remains Complete).
+**Reason:** Tenth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2013, single variant. This is a standard single sitting for
+this session, distinct from the May/June 2013 series which required both an
+original paper (2059/01) and a Pakistan-only security-breach resit (2059/41).
+Source was the official mark scheme only. Every one of the 15 parts under the
+2010–2014 extraction pattern was presented with clickable topic options and
+allocated strictly per the user's picks. Notable decisions: Q2(c) (Muslim
+League founding 1906) went to Creation of the All-India Muslim League; Q4(a)
+("Describe the 1956 Constitution?") went to Iskander Mirza — its first-ever
+entry — since the 1956 Constitution installed him as President, and no
+exact-name topic exists for the constitution itself; Q4(c) (problems of
+Partition 1947–1948) went to Initial Problems of Pakistan & Quaid-e-Azam,
+near-identical to the existing May/June 2012 entry but with three additional
+Failures bullets not present there, reproduced as its own distinct instance;
+Q5(c) (Pakistan-India relations 1947–1999) went to India and the Kashmir
+Issue, consistent with the May/June 2012 precedent. Minor source anomalies
+preserved verbatim: Q1(c)'s MS reads "vast wealth ad profit" (likely a
+printed typo for "and profit"); Q3(c) spells "Bande Matram" (single-t),
+matching the 2012/01 and 2013/41 entries in this bank rather than the
+Oct/Nov 2010 entry's "Bande Mattram" (double-t) — neither corrected. All 15
+parts required under the 2010–2014 extraction pattern were present and
+extracted; none skipped.
+**Date:** 2026-07-20

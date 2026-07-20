@@ -182,3 +182,29 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q1A
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > After Independence, Urdu became the national language as it was a unifying force in the new country. It was seen as the link language for all the provinces to provide for the cultural and educational needs of the people. However, it was also recognised that regional languages had an important role to play in the newly formed country. One of these was Sindhi.
+  >
+  > (a) How has Pakistan promoted the development of Sindhi since 1947?
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Goes back to 12th Century, 1948 Sindhi Literary Board set up. Folk literature books written, 1954 Bazm-e-Talib-ul-Muala set up, Sarmast academy established in memory of Sachal Sarmast, Sindhiology department set up at Sindh University Jamshoro. After riots of 1972 government guaranteed special importance of the language.
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Cultural, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01 (a standard single sitting, distinct from the May/June 2013 series which had both an original paper and a Pakistan-only 2059/41 resit). Marks bracket not printed next to question stem in source; inferred as 4 from the "reward each correct statement" answer format, consistent with every other (a)-part question in this bank. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

@@ -121,3 +121,36 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q3C
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Was the main reason why Congress rule (1937–1939) was hated so much because of the introduction of Bande Matram? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1–2]
+  > The Hindus were cruel.
+  >
+  > LEVEL 2: Description/identifies reasons [3–6]
+  > The Muslims had to sing Bande Matram and observe the Wardha Scheme.
+  >
+  > LEVEL 3: Explains Bande Matram or other reasons [7–10]
+  >
+  > LEVEL 4: Explains Bande Matram and other reasons [9–13]
+  > Congress Rule was hated due to the atrocities committed against the Muslims. Bande Matram, a song in which degrading remarks were used against Muslims, was adopted as the national anthem and had to be sung at the beginning of each day. Muslims were abused and killed by Hindus. Hindi was enforced as the official language and organised attacks were made on Muslim worshippers in mosques. The Wardha Scheme was imposed on Muslims. Under this scheme, students had to bow before Gandhi's picture each day. Muslims saw this as an attempt to convert them to Hinduism.
+  >
+  > LEVEL 5: As Level 4: also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Spells it "Bande Matram" (single-t), matching the 2012/01 and 2013/41 entries in this file, versus "Bande Mattram" (double-t) in the Oct/Nov 2010 entry — reproduced exactly as printed in each source, not standardised. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

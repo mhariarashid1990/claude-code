@@ -153,3 +153,29 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2013-V1-Q2A
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Sir Syed Ahmad Khan decided to change Muslim attitudes towards receiving a British education. He travelled to England to study the university system there. He believed in setting up a university for Muslims in the subcontinent and was impressed by the universities of Oxford and Cambridge. However, on his return home he found that his plans were met with suspicion from some people. Nevertheless he wanted to pursue the idea of providing better education for Muslims.
+  >
+  > (a) What was the Mohammaden Anglo-Oriental School?
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Set up in 1875 on May 24th in Aligarh on pattern of English public school system. The British refused to allow it to be affiliated with a Muslim university outside British territory so it couldn't become the Muslim university that Sir Syed wanted. The school offered western some Islamic and Indian education and became a symbol of Muslim unity. Many of future Pakistan leaders educated there e.g. Liaquat Ali Khan and Ayub Khan.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Educational, Founding, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

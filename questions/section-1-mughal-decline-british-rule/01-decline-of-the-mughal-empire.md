@@ -123,3 +123,32 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q1B
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) How did the successors of Aurangzeb contribute to the downfall of the Mughal Empire?
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement [1]
+  > They were up to no good.
+  >
+  > LEVEL 2: Identifies reasons [2–4]
+  > Aurangzeb's successors were weak. There was no law of succession.
+  >
+  > LEVEL 3: Explains reasons [5–7]
+  > Aurangzeb's successors became lazy, weak and corrupt and left the administration to their ministers who often put their own interests first. As a result the Empire was badly ruled. There was no law of succession. Instead there was usually a struggle for succession which ended in war. Succession often depended upon the ability of the candidates and the support they could get. As a result the Empire suffered. Fighting wars became expensive and the military was stretched and suffered much inefficiency especially as the successors were very extravagant and so suffered from financial inefficiencies which affected their ability to defend the Empire.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. Marks bracket not printed next to question stem in source; inferred as 7 from the three-level mark scheme structure, consistent with every other (b)-part question in this bank. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —

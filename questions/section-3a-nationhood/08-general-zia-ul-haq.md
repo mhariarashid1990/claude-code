@@ -158,3 +158,29 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2013-V1-Q5A
+
+- **Year:** 2013
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Zia-ul-Haq wanted to run Pakistan with a strong government based on Islamic values countering the socialist reforms that Bhutto introduced. This would help win the support of the religious elements within Pakistan's political parties. He also felt that by portraying a strong Islamic country facing up to the invasion of Afghanistan by Russia, he would win support from the West. As a result he embarked on an Islamisation programme.
+  >
+  > (a) What were the Hudood Ordinances? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > Part of his Islamisation programme, 1977 onwards, including Offences against Property, Zina, Qafq and Prohibition Ordinances. Islamic punishments for gambling, drinking, theft and adultery, e.g. amputation of right hand for theft and 80 stripes of the cane for drinking alcohol. 1980 Zakat Ordinance imposed a 2.5% wealth tax to be given to the poor, Ushr Ordinance 5% tax on agricultural income which supported Zakat.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Religious, Reforms, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2013 sitting of 2059/01. "Qafq" reproduced exactly as printed, matching the identical spelling already noted elsewhere in this file (likely refers to the Qazf Ordinance) — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 13
+- **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
+- **Cross References:** —
