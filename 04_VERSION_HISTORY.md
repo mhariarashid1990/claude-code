@@ -240,3 +240,43 @@ Q2(c) is printed as worth [13] marks while its own mark scheme's top band reache
 other papers in this bank. All 15 parts required under the 2010–2014 extraction
 pattern were present and extracted; none skipped.
 **Date:** 2026-07-20
+
+## Version 11 — 2026-07-20
+
+**Questions added:** 15 (PK2059-ON-2011-V1-Q1A through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. Two topic files received their first-ever entry this
+version: `02-liaquat-ali-khan.md` (Q4(b)) and
+`03-united-states-of-america.md` (Q5(a)).
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated. `01_PAPERS_TRACKER.md` — 2011 sessions/variants
+field corrected from "May/June, V1" to "May/June, V1 + Oct/Nov, V1" (status
+remains Complete).
+**Reason:** Eighth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2011, single variant. Source was the official mark scheme
+only. Every one of the 15 parts under the 2010–2014 extraction pattern was
+presented with clickable topic options and allocated strictly per the user's
+picks. Notable decisions: Q1(a) ("Who was Titu Mir?") and Q2(c) (Hajji Shariat
+Ullah's contribution) both went to Religious Reformers; Q1(c) (educational vs
+other British reforms 1773–1856) went to East India Company over Decline of
+the Mughal Empire; Q3(c) ("Montague-Chelmsford reforms... 1909 and 1919")
+went to **Multiple Topic Questions (1905–1926)** per explicit user instruction,
+overriding the recommended "Montagu–Chelmsford Reforms & Other Events of 1919"
+topic — establishing a new precedent that this multi-event 1909–1919 content
+type defaults to the bucket topic rather than the Montagu-Chelmsford-named one
+(the 2014/01 Q2(c) equivalent had already independently landed in this same
+bucket); Q4(b) (difficulty agreeing the 1950 Constitution) went to Liaquat Ali
+Khan — its first-ever entry — over Initial Problems of Pakistan, since the
+draft-constitution dispute falls within his premiership; Q5(a) (Pakistan's
+role in the 1960 U2 crisis) went to United States of America — its first-ever
+entry — over Ayub Khan, establishing that leader-era foreign-policy events can
+be filed under the country-relationship topic instead of the leader when the
+user so chooses; Q5(b) ("Why did General Musharraf come to power in 1999?")
+went to Nawaz Sharif over Multiple Regime Questions, consistent with the
+existing 2013/01 entry in the same file (no dedicated Musharraf topic exists,
+as Section 3A's Nationhood scope is framed as 1947–1999). One source anomaly
+preserved verbatim: Q5(c)'s LEVEL 4 band prints as "[11–13]" rather than the
+"[9–13]" pattern used elsewhere in this bank — not corrected. All 15 parts
+required under the 2010–2014 extraction pattern were present and extracted;
+none skipped.
+**Date:** 2026-07-20

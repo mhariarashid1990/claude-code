@@ -124,3 +124,32 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q3B
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why were the three Round Table Conferences held between 1930 and 1932? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1]
+  > Three meetings were necessary.
+  >
+  > LEVEL 2: Identifies reasons. [2–4]
+  > The British didn't know what to do about India.
+  >
+  > LEVEL 3: Explains reasons. [5–7]
+  > There was a lack of unity amongst the Hindus and Muslims about the future of India; the British didn't know what to do next and so decided upon holding conference to discuss it with all parties. The rejection of the Simon Commission's findings by the Indians also persuaded the British to go ahead with the conference. The new Labour government, which had consistently supported Indian nationalism in the past, gave fresh hope for a solution. However, there were problems in the First Conference. It was realised that without the attendance of the Congress little progress on the future of the sub-Continent could be achieved. Lord Irwin met Gandhi and made progress so that another Round Table Conference could be held. In this, Gandhi took a hard line, refusing to recognise the problem of the minorities, and also claiming to represent the Congress alone, which he said spoke for the whole of India. The Conference broke up amidst threats that the British would impose a solution if agreement couldn't be reached. It was then agreed that a third Conference would be held.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. Nearly identical MS content to the 2014/01 Q3(b) already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —

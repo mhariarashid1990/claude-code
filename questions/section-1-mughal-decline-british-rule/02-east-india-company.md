@@ -243,3 +243,37 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2011-V1-Q1C
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Did educational reforms have a more important effect on the Indians than the social, religious and economic ones introduced by the British during the years 1773 to 1856? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1–2]
+  > They affected all Indians.
+  >
+  > LEVEL 2: Description of reforms. [3–6]
+  > English was taught in schools and suttee was banned.
+  >
+  > LEVEL 3: Explains one factor. [7–10]
+  >
+  > LEVEL 4: Explains more than one factor, including educational reforms. [9–13]
+  > Macauley introduced schools across the country to teach Western ideas using the English language. He believed that British ideas were far better than anything that came from India and that it would impose Western values and help the British to govern India more effectively. Although a common language would help to unite India, imposing a European culture on the Indians would alienate many of them. Indians had to send their children to co-educational schools, which was unpopular, since it appeared to impose the British system on the Indians without due regard to their religious and cultural feelings. Christian missionaries came to India to convert the local population as well as to set up schools. In these schools the missionaries taught Christianity and expected local religions to be given up, which was resented by Muslims, Hindus and Sikhs alike.
+  > The replacement of Persian and Sanskrit by English as the official language in the 1830s deeply upset both the Muslims and Hindus. A number of social reforms had been imposed by the British without consultation or care for local feeling, which caused much unrest. The banning of female infanticide and suttee, whilst seen by the British as inappropriate, did go against many traditional feelings Hindus especially held. They were also forced to abandon purdha, which had been an Indian custom for centuries. In 1852, the 'Doctrine of Lapse' was introduced and this caused great unrest because any local kingdom not having a direct male heir was taken over by the British. The introduction of the railway in India revolutionised communication and transformed the country. For Britain, it meant that there was another means of extending their power and helped industry to profit by transporting raw materials to the ports. For the Indians, there were many advantages, especially in times of famine when food could be transported more easily.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Comparison, Educational, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. User chose East India Company over Decline of the Mughal Empire for this British-reforms question.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

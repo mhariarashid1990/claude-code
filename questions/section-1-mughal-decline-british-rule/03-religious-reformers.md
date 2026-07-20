@@ -176,3 +176,64 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q1A
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > As the morale and commitment of Muslims increased it was inevitable that with the right leadership some Muslims would take part in more agitation against the British. It was clear that the Muslim identity in India would continue to gain strength. One such man was Titu Mir.
+  >
+  > (a) Who was Titu Mir? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > A disciple of Syed Ahmed, horrified by sufferings of Muslim farmers in West Bengal during 1830s, organised a stand against zamindars, set up his own rule near Calcutta with small army, provoked British and killed in battle 1831.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Leadership, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. No prior entry in this bank covers Titu Mir specifically; topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q2C
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > (c) Did Hajji Shariat Ullah contribute more to the spread of Islam than anyone else in the sub-continent before 1850? Explain your answer. [14]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic statement. [1]
+  > HSU was a great scholar.
+  >
+  > LEVEL 2: Description of SWU or other factors. [3–6]
+  > HSU established the Faraizi Movement. SWU taught at the Madrassa in Delhi, spent some time in Medina and wrote a number of books. SA was a follower of Shah Abdul Aziz and founded the Jihad Movement.
+  >
+  > LEVEL 3: Explains at least one factor. [7–10]
+  >
+  > LEVEL 4: Explains 2 or more factors including HSU. [9–13]
+  > HSU spread Islam through the Faraizi Movement which insisted that Muslims should perform their faraiz (religious obligations). This alarmed the Hindu landlords who were unhappy with the Muslim practices. A huge group of followers grew, who were called 'Faraizis'.
+  > SWU felt that the Muslims faced many problems because of their ignorance about Islam and the Holy Quran. He encouraged them to concentrate on Quranic teachings and helped them by translating the Holy Quran into Persian, which was the main language of the Muslims at that time. His books were designed to spread the principles of Islam amongst the Muslims.
+  > SASB spread Islam through the Jihad Movement, which was to become an armed struggle to liberate the Punjab and the NWF from Sikh rule, largely because Muslims were banned from prayer and had to undergo many humiliations, which made it difficult to practise their religion.
+  >
+  > LEVEL 5: As Level 4 – also produces a judgement or evaluation. [14]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. MS uses abbreviations "HSU" (Hajji Shariat Ullah), "SWU" (Shah Wali Ullah), "SASB" (Syed Ahmad Shaheed Barailvi), and "SA" — reproduced exactly as printed, not expanded. Topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —

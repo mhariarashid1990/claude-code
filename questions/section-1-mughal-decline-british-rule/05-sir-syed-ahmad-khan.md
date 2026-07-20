@@ -101,3 +101,29 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q2A
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Sir Syed Ahmed Khan admired many British ways of doing things. At the same time he had a great faith in the Muslim religion. He was convinced that if the British ever left India the Muslims would be dominated by the overwhelming Hindu majority. He decided to do something about this. He published a pamphlet called 'The Loyal Mohammedans of India.'
+  >
+  > (a) What was 'The Loyal Mohammedans of India?' [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > To bring about better relations between British and Muslims, told British that Muslims were not opposed to them, British shouldn't discriminate against them as Muslims were wrongly blamed for violence, try to understand and respect Muslim beliefs, should consult with Indians.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —

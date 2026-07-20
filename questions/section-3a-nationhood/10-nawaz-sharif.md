@@ -80,3 +80,32 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q5B
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > (b) Why did General Musharraf come to power in 1999? [7]
+- **Official Mark Scheme (Verbatim):**
+  > LEVEL 1: Simplistic answer. [1]
+  > He was in the army.
+  >
+  > LEVEL 2: Identifies reasons. [2–4]
+  > Sharif was so beset with problems that the army decided to take over.
+  >
+  > LEVEL 3: Explains reasons. [5–7]
+  > Sharif was giving support for the Taliban in Afghanistan and this damaged relations with USA, as they refused to hand over Osama bin Laden, suspected of bombing the US embassy in Kenya. Pakistan also tested nuclear weapons, which angered a number of countries who then halted aid to Pakistan and brought Sharif much criticism. He also blamed Musharraf for the embarrassing retreat from the fighting in Kashmir. The army refused to accept this criticism. Sharif tried to sack Musharraf whilst he was visiting Sri Lanka and, as a result, the army decided to intervene in the government and overthrew Sharif.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Political, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. No dedicated "Musharraf" topic exists in the taxonomy (Section 3A's Nationhood scope ends at 1999 with Nawaz Sharif as the last named leader); user chose Nawaz Sharif over Multiple Regime Questions, since the MS content centers on Sharif's own decisions that triggered the takeover, consistent with this file's existing 2013/01 entry (Musharraf's coup) already filed under Nawaz Sharif.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

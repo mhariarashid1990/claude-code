@@ -124,3 +124,29 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q4A
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Ayub Khan seized power because he had no faith in the democratic parliamentary process, but he wanted to show that he had the support of the people. He felt it important that all national decisions were made by the president but believed in controlled democracy. On the first anniversary of his takeover he introduced the Basic Democracies.
+  >
+  > (a) What were the Basic Democracies? [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1959, local committees named Basic Democrats, 80000, no political parties to take place in the elections held Dec 59 to Jan 60, newly elected BDs able to vote in referendum as to whether he should remain President, 95% voted yes.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Features, Political, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —

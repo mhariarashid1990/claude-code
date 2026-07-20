@@ -134,3 +134,29 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2011-V1-Q3A
+
+- **Year:** 2011
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > A number of events that happened during the years of the Khilafat Movement led to its failure. During the years when the Movement was at its strongest, western dress and hair styles became less popular and the idea grew that disregard of the law of Islam by the British made India a dar-ul-harb (enemy territory). Thus thousands of Muslims set off on their hijrat.
+  >
+  > (a) Describe the hijrat. [4]
+- **Official Mark Scheme (Verbatim):**
+  > Reward each correct statement with 1 mark. 2 marks can be awarded for a developed statement. Candidates might refer to:
+  >
+  > 1920 to Afghanistan, reminiscent of journey of Holy Prophet from Makkah to Madina, told to leave a foreign run state and move to an Islamic one, refused entry to Afghanistan, returned to villages penniless, unable to buy back their homes and land sold, difficult to get jobs.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Features, Failures, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2011 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 11
+- **Allocation History:** Allocated on extraction, Version 11, per user selection — no prior moves
+- **Cross References:** —
