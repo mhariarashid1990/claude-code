@@ -282,3 +282,35 @@ other named Section 2 topics._
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q4A
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Rahmat Ali?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • In 1930 he left India to study law at Cambridge.
+  > • Attended conferences in London on the position of the Hindu and Muslim communities in India.
+  > • Believed in a separate Muslim homeland.
+  > • In 1933 he produced a pamphlet, 'Now or Never', which argued in favour of partition.
+  > • Became popular amongst most Muslim groups during the 1930s.
+  > • Formed the Pakistan National Movement.
+  > • Developed the name of Pakistan.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to the May/June 2012 entry already in this file, reproduced separately and verbatim as its own distinct instance. MS spells him "Rahmat Ali" here, consistent with the Oct/Nov 2016 entry's stem spelling, versus "Chaudri Rehmat Ali"/"Chaudhry Rehmat Ali" used elsewhere in this file (and in this topic's own title) — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

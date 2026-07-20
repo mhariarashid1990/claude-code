@@ -338,3 +338,31 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q2A
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Ahmad Shah Durrani?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Known also as Ahmad Shah Abdali, an Afghan leader, a military genius who had excellent tactical skills.
+  > • He beat the Marathas at the battle of Panipat in 1761, which ended the ambitions of the Marathas.
+  > • Durrani was unable to make the most of his victory; as his followers mutinied he gave up his idea of an Indian empire and returned to Kabul.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01. First entry in this file naming Ahmad Shah Durrani (Abdali) directly; his 1761 defeat of the Marathas at Panipat was already referenced within this file's Oct/Nov 2015 entry as background. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

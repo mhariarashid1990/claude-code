@@ -248,3 +248,45 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q5B
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there were many governments between 1951 and 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Jinnah died in 1948 and Liaquat Ali Khan was assassinated in 1951 without these experienced figures it was more difficult to establish a stable government.
+  > • The problems of running a new country were very difficult to overcome, especially as some of the joint assets were withheld after partition.
+  > • Relations with India were strained with no agreement on Kashmir.
+  > • Food shortages followed a drought 1951-53. This, combined with an economic slump, led to rioting which forced changes in the cabinet.
+  > • Resistance to the One Unit Policy from East Pakistan contributed to a loss of support for Iskander Mirza's government.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Jinnah died in 1948
+  > • Governments that followed after Jinnah were inexperienced
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • It was a challenge to build a new country.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to the Oct/Nov 2014 Q4(b) entry already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the 1951–53 drought/economic slump and the One Unit Policy resistance under Iskander Mirza. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

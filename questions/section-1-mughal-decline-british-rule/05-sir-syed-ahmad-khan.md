@@ -327,3 +327,63 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q3C
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were Sir Syed Ahmad Khan's religious views his most important contribution to the Muslim cause after 1857? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains his religious views AND other contributions [9–13]
+  > (Two explanations, one on success and one on less success, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Religious views
+  > • He believed relations with the British could be improved by improving the understanding of Christianity by Muslim groups. He tried to overcome this by writing Tabyin-ul-Kalam, in which he pointed out the similarities between Islam and Christianity.
+  > • He was also aware that the British knew little about Islam. After reading a book in Britain on the life of the Prophet, he wrote his own work correcting the many errors he had read.
+  > Education
+  > • In 1863 he founded the Scientific Society at Ghazipore. He wanted to make scientific writings available to Muslims by translating them from English into Urdu.
+  > • He established a Muslim college, which led to the Muslim-Anglo Oriental College in 1876. This became the University of Aligarh, which became important as it educated many future leaders.
+  > • Improving the position of the Muslim community in society through encouraging a Western education.
+  > Politics
+  > • He recognised that the Muslim community could not win any election because of the Hindu majority population, so he advocated separate seats and a separate electorate, which was the forerunner of the future demand for a separate homeland.
+  > • His books following the War of Independence attempted to restore British understanding about the Muslim community. He showed that there were Muslim supporters of the British government. He gave explanation of the word 'Nadarath' and suggested that the British should try to understand Muslim groups better.
+  > Language
+  > • Sir Syed was concerned that the Hindu community demanded that Hindi should be made the official language in 1867 in place of Urdu. He became opposed to the way that Congress was working for the interests of Hindus in a way that was detrimental to the Muslim community. This led to the formation of the United Patriotic Alliance.
+  > • Sir Syed emphasised this threat to the Muslim community and developed his Two Nation Theory, as a result many Muslim groups called him the 'Father of the Pakistan Movement'.
+  >
+  > Level 3: Explains his religious views OR other contributions [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes his contributions [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • He wrote a number of books
+  > • He opened a school and a university
+  > • He was interested in science writings
+  > • He believed in the Two Nation Theory
+  > • He was opposed to the Hindi language taking over from Urdu
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • His religious views were important
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to several prior "most important contribution" entries already in this file (May/June 2013, Oct/Nov 2010, May/June 2015, Oct/Nov 2016), reproduced separately and verbatim as its own distinct instance, this version adding a fourth "Language" strand naming the United Patriotic Alliance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

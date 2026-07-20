@@ -297,3 +297,62 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q5C
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were the economic reforms of Ayub Khan the most important of his domestic policies in the 'Decade of Progress' between 1958 and 1969? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus a judgement or evaluation)
+  >
+  > Level 4: Explains the economic reforms AND other reforms [9–13]
+  > (Two explanations, one on the challenges in Sindh and one on another reason, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Economic
+  > • The land of smaller farmers was redistributed to farmers with medium sized farms and agriculture was revitalised to such an extent that crop outputs were at record levels.
+  > • In 1962, an oil refinery was established in Karachi and a Mineral Development Corporation was set up for the exploration of mineral deposits which contributed significantly to the economy.
+  > • An Export Bonus Scheme was set up offering incentives to industrialists who increased exports.
+  > • The national economic annual growth rate was 7% and the economy grew three times faster than that of other South Asian countries.
+  > • However, the new wealth was concentrated in the hands of a few and did not bring widespread benefits.
+  > Other
+  > • The government set about improving housing for refugees. A massive new housing development provided new homes for refugees in Karachi, which had a beneficial effect on the lives of these people.
+  > • Family Planning Programme used the media to persuade people to limit family size to slow population growth rates.
+  > • In 1959, Basic Democracies were introduced. This was a four tier structure of government, allowing elections at various levels. The success of these councils was such that martial law was lifted.
+  > • People were prevented from hoarding goods and selling them on at inflated prices. Profiteers had their goods confiscated and many were arrested. As a result, this action brought prices of many goods down and that benefitted people.
+  > • The price of milk and other goods were fixed to stop profiteering which helped families to manage their weekly budget better.
+  >
+  > Level 3: Explains the economic reforms OR other reforms [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars on L4
+  >
+  > Level 2: Identifies / describes aspects of his reforms [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • An oil refinery was established in Karachi
+  > • A Mineral Development Corporation was set up
+  > • Family Planning Programme was set up
+  > • Basic Democracies were introduced
+  > • Profiteers and hoarders were prosecuted
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • Reforms that affected the economy were very important
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Economic, Domestic Policy, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to the May/June 2012 Q5(c) entry already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: the Level 4 descriptor reads "one on the challenges in Sindh and one on another reason," apparently copy-pasted from a Benazir Bhutto-style question rather than rewritten for this Ayub Khan economic-reforms question — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

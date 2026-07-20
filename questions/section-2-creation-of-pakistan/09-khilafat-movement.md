@@ -358,3 +358,56 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q4C
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the Moplah uprising in 1921 the main reason for the end of the Khilafat Movement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains the Moplah uprising of 1921 AND other reasons [9–13]
+  > (Two explanations, one Moplah and one on other reasons, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > Uprising
+  > • Moplahs were deeply religious Muslims who rose up against their Hindu landlords and the British in South India. Their activities destroyed a police station and Hindu property. This action divided Hindus and Muslims and put in doubt Hindu cooperation in the Khilafat Movement.
+  > Other reasons
+  > • 18 000 Muslim people migrated to Afghanistan (hijrat) to protect and foster Islam after a promise of homes and land. However the Afghan government did not welcome the hijrats and refused many of them entry. Many of those returning to India died on the journey back or they found themselves homeless and their jobs occupied. This was dispiriting for the Muslim community and support for the Khilafat Movement was lost.
+  > • Some of the leaders including Maulana and Muhammad Ali were imprisoned in 1921, which made the organisation less effective.
+  > • Gandhi had seen an opportunity for self-rule by joining the Movement and the involvement of the Hindu community was initially welcomed by many Muslims. However, this made the objectives of the Movement less clear since it was felt that Hindu groups and Gandhi were using it to advance their own interests, not those of the Muslim community.
+  > • The Chauri Chaura incident of violence between protesters and the police led Gandhi to withdraw his support from the Khilafat Movement. This left Muslim groups to continue the work of the Movement alone which, combined with the imprisonment of their leaders and the Hijrat, was challenging.
+  > • The end of the Movement was also brought about by the decision of the Muslim Mustafa Kamal Ataturk to form a nationalist government in Turkey. Muslim groups now had no cause to follow.
+  >
+  > Level 3: Explains the Moplah uprising of 1921 OR other reasons [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • Kamal Ataturk's new government in Turkey abolished it
+  > • The impact of the Hijrat
+  > • Gandhi called off his support
+  > • Leaders were put in prison
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • The uprising took place in South India
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01. First entry in this file naming the Moplah uprising specifically as a reason for the Movement's decline (the Mopla/Moplah violence was previously only referenced in passing within the May/June 2017 entry's bullet list). MS gives a specific figure of "18 000" Muslim migrants for the hijrat, versus the vaguer "thousands" used in this file's other hijrat entries — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

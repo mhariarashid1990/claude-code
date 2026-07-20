@@ -441,3 +441,45 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q3B
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did the War of Independence of 1857 not succeed?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • The Indian population were not united in a common cause.
+  > • The Punjab was uninterested in helping the rebellion and actually sent men and supplies to help the British as they did not want imperial power restored.
+  > • This also happened in Kashmir where the ruler sent 2000 troops to help the British as this benefitted his own feudal powers.
+  > • The British had modern methods of fighting and the army was well organised as well as being supplied by some of the local rulers.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • There was no plan
+  > • There was a lack of unity
+  > • The British had more firepower
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The uprisings were unsuccessful
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to several prior "why did the War fail" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

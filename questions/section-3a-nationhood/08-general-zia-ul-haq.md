@@ -347,6 +347,35 @@
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
 
+### UQID: PK2059-MJ-2019-V1-Q5A
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Zakat Ordinance.
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • In 1980, Zia-ul-Haq imposed a 2.5% wealth tax on savings over a certain amount.
+  > • Money raised was given to Zakat committees in villages and towns for the poor.
+  > • Some Muslim groups protested against this since their view of Islamic law was that giving should be voluntary.
+  > • In 1984, these groups held demonstrations in Islamabad forcing Zia-ul-Haq to accept their objections and exempt them from paying the tax.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Religious, Features, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01. The Zakat Ordinance was already referenced within this file's Oct/Nov 2013 Q5(a) entry as part of the broader Islamisation package; this is its first entry as the sole subject of a question. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —
+
 ### UQID: PK2059-MJ-2018-V1-Q1D
 
 - **Year:** 2018

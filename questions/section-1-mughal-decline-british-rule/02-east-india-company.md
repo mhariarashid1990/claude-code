@@ -856,3 +856,167 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q1C
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Robert Clive was successful in the Battle of Plassey in 1757.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Clive persuaded one of the Nawab's key men, Mir Jafar, to side with the British. Jafar's defection weakened the Nawab's army, which Clive was able to use to his advantage.
+  > • Clive ordered his men to cover their cannon when it rained. So, the dry cannons of Clive's army outfired the Nawab's cannons.
+  > • Clive was an experienced soldier as he had fought the French in southern India. He was used to the tactics of warfare, this helped to defeat the Nawab.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Mir Jafar defected.
+  > • Clive kept his cannons dry
+  > • Clive was an experienced soldier
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Clive was a leader
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01. Clive's role at Plassey and Mir Jafar's defection are already established content in this file's May/June 2012 entry. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q1D
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Was the India Act of 1784 the main reason why the British were able to expand beyond Bengal between 1784 and 1850? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains and makes judgement / evaluation [10]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains WHY the India Act AND other factors were important in the British expanding beyond Bengal between 1784 and 1850 [6–9]
+  > (Two explanations, one on the India Act and one on other factors, are worth six or seven marks. Additional explanations on the same two factors cannot be awarded more than eight marks. Explanation of all factors is worth nine marks)
+  > e.g.
+  > India Act of 1784
+  > • This made the position of Governor General a royal appointment. Lord Cornwallis was appointed to this position in 1786.
+  > • A Board of Control replaced the East India Company's Board of Directors, changing it from a trading concern to a sovereign body in which the Crown had direct control of Bengal.
+  > • A police system was developed to help in the administering of justice and maintaining law and order.
+  > Other reasons
+  > • Lord Cornwallis introduced the Permanent Settlement in 1793 making zamindars of Bengal landowners, subject to their payment of a fixed sum to the British. In 1793 this amounted to some 10% of the total sum collected by the zamindars. The Permanent Settlement secured the financial interest of the East India Company and helped Bengal to become the wealthiest province in India, allowing the British to extend their control.
+  > • Local rulers were persuaded to sign subsidiary alliances by Lord Wellesley who became Governor General in 1798. The local ruler continued to run their affairs while British soldiers offered protection. In return for this protection the ruler paid towards the cost of the soldiers and accepted a British resident adviser. This consolidated Britain's power in India at little cost and extended British control.
+  > • The annexation of land. Hyderabad and Oudh accepted British protection with a subsidiary alliance. Mysore, Oudh, Delhi and the Marathas came under British control by the early nineteenth century, followed shortly afterwards by Sindh and the Punjab.
+  >
+  > Level 3: Explains ONE event [5–7]
+  > (One explanation is worth five marks. Additional explanations on the same factor can be awarded up to seven marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies aspects of / describes events [3–4]
+  > (One identification / description is worth three marks. An answer with additional identification / descriptions is worth four marks)
+  > e.g.
+  > • Pitt introduced the India Act
+  > • The British had more weapons
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • It was an Act of Parliament
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Source anomaly preserved verbatim: Level 4's printed band [6–9] overlaps Level 3's [5–7], the same overlap pattern already flagged in this file's May/June 2015 Q1(d) entry — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q2B
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the British wanted to trade in India from 1600.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Reports of immense wealth in the subcontinent led to the British establishing a trading base there as they saw a profitable future.
+  > • The British wanted to establish their influence in the subcontinent and to oust the Dutch and Portuguese.
+  > • The British also wanted to establish a strategic port in the subcontinent that would protect its trading interests there and in the Far East.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Because of the wealth in the subcontinent
+  > • Because other European countries were there
+  > • The British wanted a strategic port / base there
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The British wanted to trade there
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to several prior "why did the EIC become involved" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q3A
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Lord Wellesley?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Governor General of India in 1798.
+  > • Wellesley persuaded local princes / rulers to sign subsidiary alliances.
+  > • Local rulers were also forbidden to make any other alliances.
+  > • In 1799 Wellesley invaded Mysore killing Tipu Sultan and gaining control of his lands.
+  > • Wellesley also defeated the Nawabs of Oudh and took control of their territory.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01. Wellesley's subsidiary-alliance policy and defeat of Tipu Sultan/the Nawabs of Oudh are already referenced within this file's Q1(d) entry from this same paper; this is his first entry as the sole subject of a question. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

@@ -205,3 +205,45 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q4B
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Muslim community objected to the rule of the Congress party between 1937 and 1939.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • The erosion of Muslim identity and culture. Muslims were forbidden to eat beef and received harsh punishments if they slaughtered cows.
+  > • Hindi was enforced as the official language and organised attacks were made on mosques. This made the Muslim community feel that their language and religion were being made worthless.
+  > • Bande Matram, a nationalistic Hindu song, was adopted. It encouraged Hindus to expel Muslims from 'Hindustan'. Singing of the song was made compulsory before the start of business every day in the provincial assemblies.
+  > • Another scheme, the Widdia Mandar scheme, indirectly aimed to convert all non-Hindus to Hinduism. It was introduced in all schools and colleges. It promoted Hindu myths and heroes, adopting them as national icons. Muslim groups felt it was an attempt to subvert their faith.
+  > • The Wardha scheme was a new educational policy that required students to bow before Gandhi's picture each day. Spinning cotton by hand was introduced into the school curriculum. Teaching was in Hindi with no religious education, which meant that Muslim students were at a disadvantage and again they felt this was a covert attempt at conversion by Congress.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > • The Widdia Mandar scheme was introduced
+  > • The Bande Matram was adopted
+  > • Hindi enforced as the official language.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The Muslim community were worried by the measures introduced during Congress rule.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to several prior entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding beef-slaughter punishment and the "Widdia Mandar scheme" (this file's Oct/Nov 2018 entry spells it "Wardha Scheme" alone, without a separate "Widdia Mandar" name; the May/June 2013 (2059/41) entry uses "Widdia Mander Scheme" for the Wardha equivalent) as a distinct additional scheme alongside the Wardha scheme itself — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

@@ -426,3 +426,61 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2019-V1-Q2C
+
+- **Year:** 2019
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Did Syed Ahmad Barelvi contribute more to the spread of Islam than anyone else in the subcontinent before 1840? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains the contribution of Syed Ahmad Barelvi AND others [9–13]
+  > (Two explanations, one on success and one on less success, are worth nine marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Syed Ahmad Barelvi
+  > • Spread Islam through the Jihad Movement, which became an armed struggle to liberate the Punjab and the NWF from non-Muslim oppression and was the first example of a movement to restore Muslim power.
+  > • As at this time the Muslim community were not allowed freedom of worship, the mujahideen fought campaigns to achieve religious and spiritual freedoms.
+  > • His work was a uniting force for Muslim groups and an inspiration.
+  > Haji Shariatullah
+  > • Spread Islam through the Faraizi Movement, which removed Hindu practices from worship and called on Muslim groups to perform their proper observation of Islamic duties (faraiz).
+  > • Aimed to restore the pride of the Muslim community. A huge group of followers grew called 'Faraizis'.
+  > • The movement alarmed the Hindu landlords of East Bengal, as the Faraizis in Bengal united against the treatment they had received.
+  > Shah Waliullah
+  > • Believed the Muslims faced problems because of their incomplete knowledge of Islam and the Holy Quran. To reverse the decline in Muslim power he taught that there needed to be spiritual and moral regeneration based upon the principles of Islam.
+  > • He encouraged the Muslim community to concentrate on Quranic teachings and translated the Holy Quran into Persian, which was the main language of Muslim groups at that time.
+  > • He wrote many books, which were designed to spread the principles of Islam amongst the Muslim community in order to unite them. He aimed to provide the inspiration for Muslims to lead a pure life.
+  >
+  > Level 3: Explains the contribution of Syed Ahmad Barelvi OR others [7–10]
+  > (One explanation is worth seven marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes the contribution of Syed Ahmad Barelvi AND / OR others [3–6]
+  > (One identification / description is worth three marks. Extra marks are awarded for additional identification / descriptions up to six marks)
+  > e.g.
+  > • Syed Ahmad Barelvi founded the Jihad Movement
+  > • Haji Shariatullah established the Faraizi Movement
+  > • Shah Waliullah's writings in Persian made Islamic teaching available to non-Arabic speakers
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth one mark. An answer with additional simple statements is worth two marks)
+  > e.g.
+  > • Syed Ahmad Barelvi had soldiers
+  > • Shah Waliullah wrote books
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2019 sitting of 2059/01 — near-identical content to several prior three-way reformer-comparison entries already in this file (May/June 2013, Oct/Nov 2011, May/June 2016, Oct/Nov 2017), reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 23
+- **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
+- **Cross References:** —

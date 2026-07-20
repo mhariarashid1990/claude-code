@@ -789,3 +789,63 @@ and Oct/Nov). Total: 277 questions across 19 papers. Remaining in this
 batch: 2019–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
 still to come.
 **Date:** 2026-07-20
+
+## Version 23 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2019-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None held for the full-job audit per the Version 4
+process — except for one correction made this version: `questions/INDEX.md`'s
+Khilafat Movement row was found to be undercounting by 2 (listed as 9,
+later 10, against an actual 11-then-12 UQID entries in the file itself) —
+a pre-existing arithmetic error from an earlier version, not introduced
+this session. Corrected to the true count (12) after cross-checking every
+topic file's actual UQID count against the INDEX total (291), which now
+reconciles exactly.
+`questions/INDEX.md` updated (total 277 → 291, plus the Khilafat Movement
+correction above). `01_PAPERS_TRACKER.md` — 2019 row updated to "May/June,
+V1" with status "In progress."
+**Reason:** Twentieth paper processed — Cambridge O Level 2059/01, Paper 1,
+May/June 2019, single variant, presented in Cambridge's newer tabular
+Question/Answer/Marks mark scheme format (plus an initial "Generic Marking
+Principles" boilerplate page correctly recognised as non-content and
+skipped). Every one of the 14 parts required under the 2015–2025 extraction
+pattern (Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d)
+capped at 10 marks) was presented with clickable topic options and
+allocated strictly per the user's picks. Notable decisions: Q1(c) (Robert
+Clive's success at Plassey) and Q1(d) (India Act of 1784 vs other
+expansion factors) both went to East India Company, consistent with this
+topic's established scope for EIC conquest/administration content; Q2(a)
+(Ahmad Shah Durrani) went to Decline of the Mughal Empire, matching the
+established Afghan/Persian-invasions precedent; Q3(a) (Lord Wellesley) went
+to East India Company, his subsidiary-alliance policy already referenced in
+this same paper's Q1(d) entry; Q4(a) ("Who was Rahmat Ali?") went to Iqbal,
+Rehmat Ali & Jinnah for Pakistan, this topic's dedicated home despite the
+MS's alternate "Rahmat Ali" spelling; Q5(b) (many governments 1951–1958)
+went to Multiple Regime Questions (1947–1999), near-identical to the
+Oct/Nov 2014 entry already there. Several entries in this paper are
+substantively near-duplicate content of earlier entries already in this
+bank, each reproduced separately and verbatim as its own distinct instance:
+Q2(b) (why the British wanted to trade in India), Q2(c) (three-way
+religious-reformer comparison), Q3(b) (why 1857 failed), Q3(c) (Sir Syed's
+most important contribution), Q4(b) (Congress rule 1937–1939 grievances),
+and Q5(c) (Ayub Khan's Decade of Progress reforms) all parallel earlier
+entries in their respective topic files. Minor source anomalies preserved
+verbatim: Q1(d)'s Level 4 band [6–9] overlaps Level 3's [5–7], the same
+overlap pattern already flagged in this file's May/June 2015 entry; Q4(b)
+names a "Widdia Mandar scheme" as distinct from the Wardha Scheme (elsewhere
+in this bank these are used interchangeably for the same policy); Q4(c)
+gives a specific "18 000" figure for Khilafat-era hijrat migrants versus
+the vaguer "thousands" used elsewhere in this bank; Q5(c)'s Level 4
+descriptor mistakenly reads "one on the challenges in Sindh and one on
+another reason" — an apparent copy-paste artifact from a Benazir Bhutto
+question, left uncorrected in this Ayub Khan entry. None corrected. All 14
+parts were present and extracted; none skipped.
+
+**2019 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 291 questions across 20 papers. Remaining in this batch:
+2019 Oct/Nov, plus 2020–2025 May/June and Oct/Nov papers for 2059/01
+(14-part pattern), still to come.
+**Date:** 2026-07-20
