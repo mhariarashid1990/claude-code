@@ -101,3 +101,36 @@
 - **Version Number:** 9
 - **Allocation History:** Allocated on extraction, Version 9, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q5A
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What was SEATO?
+- **Official Mark Scheme (Verbatim):**
+  > [4]
+  > e.g.
+  > • 1955 South East Asia Treaty Organisation.
+  > • Also included USA and Britain.
+  > • Sometimes called Manila Pact in Pakistan.
+  > • Joined in 1955. Withdrew in 1972.
+  > • Aimed to resist Communist expansion.
+  > • Pakistan surprised other Muslim countries by being so closely allied with USA.
+  > Note: Allow a second mark for a developed statement.
+  > 1–4
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Features, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. SEATO is an international/regional organisation Pakistan joined, fitting this topic's scope of Pakistan's memberships in world bodies (SEATO already discussed within this file's 2059/41 2013 entry). Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

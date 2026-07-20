@@ -582,3 +582,48 @@ and Oct/Nov). Total: 221 questions across 15 papers. Remaining in this
 batch: 2017–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
 still to come.
 **Date:** 2026-07-20
+
+## Version 19 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2017-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No new or previously-empty topic files were touched
+this version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 221 → 235). `01_PAPERS_TRACKER.md` — 2017
+row added as "May/June, V1" with status "In progress" (Oct/Nov 2017 still
+pending in this batch).
+**Reason:** Sixteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+May/June 2017, single variant, and the first paper in this batch presented
+in Cambridge's newer tabular Question/Answer/Marks mark scheme format
+(rather than the earlier LEVEL-band prose style used in 2010–2016 papers) —
+reproduced faithfully in that structure throughout. Every one of the 14
+parts required under the 2015–2025 extraction pattern (Section A/B split;
+Q1(a)/(b) source-based and excluded; Q1(d) capped at 10 marks) was presented
+with clickable topic options and allocated strictly per the user's picks.
+Notable decisions: Q2(a) ("Who were zamindars?") went to **East India
+Company** per explicit user override of the recommended Decline of the
+Mughal Empire, since the MS content also covers zamindars' later oppression
+of Muslims in British-era East Bengal; Q4(c) (comparing Khwaja Nazimuddin,
+Malik Ghulam Muhammad, and Iskander Mirza's domestic-policy contributions)
+went to Multiple Regime Questions (1947–1999), the same bucket used for the
+equivalent May/June 2013 three-leader comparison (there featuring Liaquat
+Ali Khan instead of Nazimuddin); Q5(a) ("What was SEATO?") went to United
+Nations & Other World Organisations, as an international/regional body
+Pakistan joined. Several entries in this paper are substantively
+near-duplicate content of earlier entries already in this bank, each
+reproduced separately and verbatim as its own distinct instance: Q4(a)
+(Basic Democracies) parallels the Oct/Nov 2011 entry; Q5(c)
+(Pakistan-Afghanistan relations) parallels the May/June 2010 and Oct/Nov
+2014 entries, here adding several new bullets (Zahir Shah's 1965 neutrality,
+Bhutto/Zia/Daud visits, Taliban-era militancy). Minor source anomaly
+preserved verbatim: Q2(c)'s MS spells "Paniplat" (elsewhere in this bank
+"Panipat"); Q3(c)'s LEVEL 1 example ("They were always fighting each other")
+is a generic template line unrelated to the Khilafat Movement. None
+corrected. All 14 parts were present and extracted; none skipped.
+
+**2017 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 235 questions across 16 papers. Remaining in this batch: 2017
+Oct/Nov, plus 2018–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-20

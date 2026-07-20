@@ -580,3 +580,125 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q1C
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did the British build railways in India during the nineteenth century?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > Explains one reason for 5 marks and two (+) reasons up to a maximum of 7 marks.
+  > e.g.
+  > • Railways transported raw materials easily/cheaply to the ports for export/manufactured goods to be sold throughout India, increasing British profits.
+  > • Railways carried troops swiftly around India (helping the British to maintain law and order and extend power). Note: not for First War of Independence.
+  > • British could travel the country and spread their ideas / culture, gaining support / to govern effectively.
+  > • In times of famine food could be transported quickly to affected areas.
+  > • To win support of Indians who found them useful for travel as families were able to travel to visit relatives in other parts of India.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > Identifies one reason for 2 marks and two (+) reasons up to a maximum of 4 marks.
+  > e.g.
+  > • Trains transported raw materials.
+  > • Trains carried troops.
+  > • To modernise India.
+  > • Railways were a symbol of power / demonstrated dominance.
+  > • To spread ideas / culture.
+  > • To gain support / govern effectively.
+  > • To westernise / make India more like Britain.
+  >
+  > Level 1: Simple statement(s) [1]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • The British needed railways.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01 — Section A Q1(c), the first paper in this batch presented in Cambridge's newer tabular Question/Answer/Marks mark scheme format (rather than the earlier LEVEL-band prose style); reproduced faithfully in that structure. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q2A
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who were zamindars?
+- **Official Mark Scheme (Verbatim):**
+  > [4]
+  > e.g.
+  > • Landlords/tax collectors.
+  > • Wealthy and influential, some had private armies.
+  > • After death of Aurangzeb they were increasingly unwilling to accept rule of any new emperor or to make payments to government in Delhi.
+  > • Beard tax imposed which annoyed Muslims.
+  > • Muslims were oppressed by zamindars from the 1800's onwards, especially in East Bengal.
+  > Note: Allow a second mark for a developed statement.
+  > 1–4
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Content spans zamindars' independence from central Mughal authority after Aurangzeb's death through to their later oppression of Muslims in British-era East Bengal; user chose East India Company over the recommended Decline of the Mughal Empire, per explicit override.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (recommended topic, not used)
+
+### UQID: PK2059-MJ-2017-V1-Q2B
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why was Robert Clive appointed the first Governor of Bengal?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > Explains one reason for 5 marks and two (+) reasons to up to a maximum of 7 marks.
+  > e.g.
+  > • Clive commanded the British army to victory at the battle of Plassey in 1757 and established relations with Mir Jafar.
+  > • The battle increased Clive's reputation and his importance to the East India Company (EIC) because he became the foremost commander of British forces in India.
+  > • The battle was also a success for the EIC because they now controlled the profitable trade in Bengal.
+  > • As a reward for being considered responsible for the EIC amassing immense fortunes, especially in Bengal
+  > • Clive's reputation and importance was further enhanced by his success at the battle of Buxar in 1764 which increased British control of eastern India.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > Identifies one reason for 2 marks and two (+) reasons up to a maximum of 4 marks.
+  > e.g.
+  > • He won two battles.
+  > • The battle was also a success for the EIC.
+  >
+  > Level 1: Simple statement(s) [1]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • Clive commanded the British army.
+  > • He was a good leader.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Political, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

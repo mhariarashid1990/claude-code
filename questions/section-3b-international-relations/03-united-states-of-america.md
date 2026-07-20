@@ -83,3 +83,42 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q5B
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did being a nuclear power create difficulties for Pakistan in the 1980s and 1990s?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > Explains one reason for 5 marks and two (+) reasons up to a maximum of 7 marks.
+  > e.g.
+  > • US diplomats expressed concern that Pakistan may have nuclear weapons, and would not give aid to Pakistan, stating Pakistan was in contravention of the 1985 Pressler Amendment. The USA had promised $4 million in an economic package to help Pakistan to refurbish their military forces.
+  > • The reduction in aid seriously affected Pakistan. In particular, the delivery of 28 F-16 fighter jets in which weakened Pakistan's relationship with USA.
+  > • The Pakistan government expressed concerns about the status of India as a nuclear power.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > Identifies one reason for 2 marks and two (+) reasons up to a maximum of 4 marks.
+  > e.g.
+  > • USA would not give financial aid to Pakistan.
+  >
+  > Level 1: Simple statement(s) [1]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • Pakistan had nuclear weapons.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Causes, Foreign Policy, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. MS content is dominated by US policy responses (Pressler Amendment, aid, F-16s) to Pakistan's nuclear status. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

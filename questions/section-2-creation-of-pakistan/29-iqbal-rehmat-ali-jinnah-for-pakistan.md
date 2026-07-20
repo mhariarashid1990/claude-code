@@ -208,3 +208,35 @@ other named Section 2 topics._
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q3A
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > How did the name 'Pakistan' originate?
+- **Official Mark Scheme (Verbatim):**
+  > [4]
+  > e.g.
+  > • Chaudhry Rehmat Ali devised the name.
+  > • Stated in pamphlet 'Now or Never' in 1933.
+  > • By end of the year most Muslims within India knew the name and its importance.
+  > • Punjab, Afghania (NWFP), Kashmir, Sindh and Balochistan.
+  > • Muslim League thought his ideas were impractical and ignored by Jinnah.
+  > Note: Allow a second mark for a developed statement.
+  > 1–4
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Features, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Direct match — MS content is entirely about Rehmat Ali's naming of Pakistan. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

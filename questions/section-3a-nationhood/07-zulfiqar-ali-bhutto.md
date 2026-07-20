@@ -204,3 +204,46 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q4B
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zulfikar Ali Bhutto's rule ended in 1977.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > Explains one reason for 5 marks and two (+) reasons up to a maximum of 7 marks.
+  > e.g.
+  > • The focal point of political power lay with the party leadership and with Bhutto in particular, so when things went wrong he was blamed.
+  > • The changes in education were criticised as they led to overcrowding in existing schools whilst new ones were built/the building of new schools/the recruitment of new teachers could not be achieved quickly/was very expensive.
+  > • Many families resented the educational reforms because it meant a loss of earnings for them.
+  > • Opponents alleged that Bhutto and his party manipulated the election in March 1977, which led to protests that were put down by the police.
+  > • Martial law was imposed in Karachi, Lahore and Hyderabad and strikes by bus and truck drivers in Karachi (Operation Wheel Jam), caused further problems for Bhutto.
+  > • During Bhutto's time in office the economy declined which contributed to unrest and reduced support for his government.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > Identifies one reason for 2 marks and two (+) reasons up to a maximum of 4 marks.
+  > e.g.
+  > • His education reforms were criticised.
+  > • A military coup by Zia-ul-Haq ended Bhutto's time in office.
+  >
+  > Level 1: Simple statement(s) [1]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • He was powerful.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Direct match — his own downfall. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

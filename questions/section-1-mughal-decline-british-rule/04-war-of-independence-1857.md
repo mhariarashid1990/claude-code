@@ -299,3 +299,58 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q1D
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Was an absence of leadership the main reason why the War of Independence in 1857 failed? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [10]
+  > As top of Level 4 – also produces a judgement or evaluation.
+  >
+  > Level 4: Explains absence of leadership AND other reasons [6–9]
+  > Explains one reason for absence of leadership AND one other reason for 6 marks. Additional explanation(s) up to a maximum of 9 marks.
+  >
+  > Level 3: Explains absence of leadership OR other reasons [5–7]
+  > Explains one reason for absence of leadership OR other reason for 5 marks. Additional explanation(s) for the same line of reasoning up to a maximum of 7 marks.
+  > e.g.
+  > Absence of leadership
+  > • No single leader e.g. Bhadur Shah was not accepted by most Hindus.
+  > • Many people at the time thought Bhadur Shah did not have strong leadership skills and that he was more of a figurehead.
+  > • Bhadur Shah and the Rani of Jhansi worked alone, and neither would support the other.
+  > Other reasons
+  > • Lack of unity and common cause amongst the Indian population.
+  > • The Punjab was uninterested in helping the rebellion, sending men and supplies to help the British.
+  > • Some of the Indian princes were more interested in restoring their own powers and this often depended upon the support of the British.
+  > • Muslims were more likely to oppose the British in the war but there was not a sense of unity with Sikhs and Hindus who were less likely to support them in their cause.
+  > • A series of uprisings against the British, the Indians were not as coordinated or strong so the British overcame them.
+  > • The British had modern methods of fighting.
+  > • The British army was well disciplined and supplied by some of the local rulers.
+  > • The British used diplomatic as well as military mechanisms to limit the extent of the conflict.
+  >
+  > Level 2: Identifies/describes absence of leadership AND/OR other reason(s) [3–4]
+  > Identifies/describes one reason for absence of leadership AND/OR other reason for 3 marks. Additional identification/description(s) up to a maximum of 4 marks.
+  > e.g.
+  > • No one wanted to take charge of the rebels.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • There were no leaders.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Reproduced in Cambridge's newer tabular mark scheme format (Question/Answer/Marks columns) rather than the earlier LEVEL-band prose style used in 2010–2016 papers. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

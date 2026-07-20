@@ -16,7 +16,7 @@ assumed in advance (Golden Rule 5).
 | 2014 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2015 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2016 | May/June, V1 + Oct/Nov, V1 | Complete |
-| 2017 | — | Not started |
+| 2017 | May/June, V1 | In progress |
 | 2018 | — | Not started |
 | 2019 | — | Not started |
 | 2020 | — | Not started |

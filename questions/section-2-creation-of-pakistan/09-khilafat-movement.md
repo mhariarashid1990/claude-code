@@ -304,3 +304,57 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q3C
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the withdrawal of Gandhi's support the most important reason for the decline of the Khilafat Movement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 – also produces a judgement or evaluation.
+  >
+  > Level 4: Explains the withdrawal of Gandhi's support AND other reasons [9–13]
+  > Explains one reason for the withdrawal of Ghandi's support AND one other reason for 9 marks. Additional explanation(s) up to a maximum of 13 marks.
+  >
+  > Level 3: Explains the withdrawal of Gandhi's support OR other reasons [7–10]
+  > Explains one reason for the withdrawal of Gandhi's support OR one other reason for 7 marks. Additional explanation(s) for the same line of reasoning up to a maximum of 10 marks.
+  > e.g.
+  > Withdrawal of Gandhi's support
+  > • Gandhi saw an opportunity for self-rule by joining the Movement, the involvement of a Hindu-majority grouping was welcomed by many Muslims.
+  > • By joining with a Hindu-majority grouping the objectives of the Movement were made less clear. Some perceived that Gandhi and some Hindus and used it for their own political reasons.
+  > • Chauri Chaura was a village in the United Province where trouble started between the police and a mob. Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so withdrew his support.
+  > Other reasons
+  > • Thousands of Muslims migrated to Afghanistan in a religious protest against the British government. The Afghan government was hostile to the migrants and refused to allow all the refugees to settle.
+  > • Many of the refugees who returned to India died on the journey back or found themselves homeless and their jobs occupied which dispirited them.
+  > • Some of the leaders including Maulana and Muhammad Ali were imprisoned in 1921 which made the organisation less effective.
+  > • The refusal of Britain to accept the demands of the Movement.
+  > • The decision of the Mustafa Kamal Ataturk to form a nationalist government in Turkey ended most of the impetus for the Khalifat movement, which had previously served as a unifying force for Muslims.
+  > • Mopla violence divided Muslims.
+  >
+  > Level 2: Identifies/describes the withdrawal of Gandhi's support AND/OR other reasons [3–6]
+  > Identifies/describes the withdrawal of Gandhi's support AND/OR other reason for 3 marks. Additional identification/description(s) up to a maximum of 6 marks.
+  > e.g.
+  > • Chauri Chaura caused the Movement to decline.
+  > • Ataturk caused the Movement to decline.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • They were always fighting each other.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Comparison, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Reproduced in Cambridge's newer tabular mark scheme format. Source anomaly preserved verbatim: LEVEL 1 example ("They were always fighting each other") is generic and unrelated to the Khilafat Movement — likely a reused template line — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

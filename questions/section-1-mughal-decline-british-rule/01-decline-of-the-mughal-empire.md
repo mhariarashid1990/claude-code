@@ -189,3 +189,57 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q2C
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the in-fighting between Aurangzeb's successors the most important reason for the break-up of the Mughal Empire? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 – also produces a judgement or evaluation.
+  >
+  > Level 4: Explains the in-fighting AND other reasons [9–13]
+  > Explains one reason for in-fighting AND one other reason for 9 marks. Additional explanation(s) up to a maximum of 13 marks.
+  >
+  > Level 3: Explains the in-fighting OR other reasons [7–10]
+  > Explains one reason for in-fighting OR one other reason for 7 marks. Additional explanation(s) for the same line of reasoning up to a maximum of 10 marks.
+  > e.g.
+  > In-fighting
+  > • The absence of a definite line of succession led to in-fighting, instability and the downfall of the Mughal Empire.
+  > • Led to inefficiencies and a lack of interest in the running of the Mughal Empire.
+  > Other reasons
+  > • As the Mughal Empire started to decline it became at risk from invasion.
+  > • After Aurangzeb's death, Mughal emperors were renowned for living an extravagant lifestyle and spending money without considering the effect on the economy of the Empire.
+  > • The Afghans under the leadership of Ahmad Shah Abdali defeated the Marathas at Paniplat. The Afghans had been in control of much of the Empire for some time but were unable to make the most of their victory and returned to Kabul. However they did invade the Empire a number of times during the 18th Century.
+  > • The Persians under Nadir Shah captured much of the Empire's wealth and returned home with gold, jewels and the Peacock throne from Delhi.
+  > • Aurangzeb often showed intolerance to non-Muslims. He introduced a tax on non-Muslims called the Jizya. During Aurangzeb's reign, some Hindu temples were destroyed and some limits were placed on Hindu practices. Taxation was high as because of the costs of military campaigns such as the Deccan Wars and building luxurious palaces. Because of these he became an unpopular ruler.
+  > • Maratha guerrilla fighters defeated a Mughal army in 1737 and took control of Delhi and eastwards towards Bengal. By 1760 they were the most powerful group in India and the Mughals were unable to limit their expansion.
+  > • The British expansion into the subcontinent was rapid, overwhelming the Mughal forces and equipment.
+  >
+  > Level 2: Identifies/describes the in-fighting AND/OR other reasons [3–6]
+  > Identifies/describes one reason for in-fighting AND/OR other reason for 3 marks. Additional identification/description(s) up to a maximum of 6 marks.
+  > e.g.
+  > • Self-interest and disunity.
+  > • Risk of invasion.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • They were always fighting each other.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Reproduced in Cambridge's newer tabular mark scheme format. Source anomaly preserved verbatim: "Paniplat" (elsewhere in this bank spelled "Panipat") — not corrected. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

@@ -266,3 +266,34 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2017-V1-Q4A
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What were the Basic Democracies?
+- **Official Mark Scheme (Verbatim):**
+  > [4]
+  > e.g.
+  > • In 1959 local committees were named Basic Democrats (BD).
+  > • 80 000 BD's.
+  > • No political parties to take place in the elections held December 1959 to January 1960.
+  > • Newly elected BD's able to vote in referendum on Ayub Khan remaining President, 95% voted yes.
+  > Note: Allow a second mark for a developed statement.
+  > 1–4
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Features, Political, Reforms
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01 — near-identical content to the Oct/Nov 2011 entry already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** —

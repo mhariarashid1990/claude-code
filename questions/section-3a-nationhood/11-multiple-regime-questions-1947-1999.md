@@ -143,3 +143,67 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md`, `section-3a-nationhood/02-liaquat-ali-khan.md` (single-leader topics touched on, not used as primary)
+
+### UQID: PK2059-MJ-2017-V1-Q4C
+
+- **Year:** 2017
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Which of the following contributed the most to Pakistan's domestic policies between 1948 and 1958?
+  > (i) Khwaja Nazimuddin
+  > (ii) Malik Ghulam Muhammad
+  > (iii) Iskander Mirza
+  > Explain your answer with reference to all three of the above.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 – also produces a judgement or evaluation.
+  >
+  > Level 4: Explains two or more contributions [9–13]
+  > Explains one contribution made by Nazimuddin/Muhammad/Mirza AND another individual for 9 marks. Additional explanation(s) of the contributions made by the same individuals up to a maximum of 12 marks. Explains one or more contribution(s) of ALL three individuals for 13 marks.
+  >
+  > Level 3: Explains one of the above individuals' contributions [7–10]
+  > Explains one contribution made by Nazimuddin/Muhammad/Mirza for 7 marks. Additional explanation(s) of contributions made by the same individual up to a maximum of 10 marks.
+  > e.g.
+  > Khwaja Nazimuddin
+  > • 1948 made 2nd Governor General, appointed Liaquat Ali Khan Prime Minister.
+  > • Made Objectives Resolution in 1949. It focussed on the principles of Islam and human rights. Designed to deflect criticism from religious leaders who wanted the new state to be more Islamic.
+  > • Drafted a constitution, which attracted much criticism as it was seen by many as being insufficiently Islamic.
+  > • Kept the economy going and produced surplus budgets for the new state.
+  > Malik Ghulam Muhammad
+  > • As 3rd Governor General responsible for the Six Year Plan for agriculture, power, industry and transport. It was important to the economic development of Pakistan.
+  > • Severe problems hampered development such as food shortages and drought. Rioting followed and the government found it challenging to overcome these issues, leading to many personnel changes. Little constitutional development could take place because of these challenges.
+  > • He resigned in 1955 due to ill health.
+  > Iskander Mirza
+  > • Became acting Governor General in 1955.
+  > • Introduced the One Unit policy in 1955, which he claimed would bring about greater efficiency and development in West Pakistan. The policy meant that East Pakistan could not gain a majority in the Assembly.
+  > • Introduced the new Constitution in 1956, under which he was able to become President.
+  > • He suspended the Constitution in 1958 and declared Martial Law.
+  > • His rule became unpopular and lost the support of many leading politicians.
+  > • He declared Martial Law but was forced to resign by Ayub Khan in 1958.
+  >
+  > Level 2: Identifies contributions/describes their work [3–6]
+  > Identifies/describes one contribution made by Nazimuddin/Muhammad/Mirza for 3 marks. Additional identification/description(s) of contributions made by the same individual up to a maximum of 6 marks.
+  > e.g.
+  > • Khwaja Nazimuddin was Governor General in 1948.
+  > • Malik Ghulam Muhammad introduced the One Unit policy.
+  > • Iskander Mirza was responsible for the 1956 Constitution.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • They were always fighting each other.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Comparison, Constitution, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2017 sitting of 2059/01. Compares three leaders (Khwaja Nazimuddin, Malik Ghulam Muhammad, Iskander Mirza) equally — the same question type already filed in this topic for the May/June 2013 Liaquat Ali Khan/Malik Ghulam Muhammad/Iskander Mirza comparison, this time substituting Nazimuddin for Liaquat Ali Khan. Reproduced in Cambridge's newer tabular mark scheme format. Note: MS credits Khwaja Nazimuddin, not Liaquat Ali Khan, with appointing him Prime Minister in 1948 — reproduced exactly as printed. Topic chosen by user from clickable options.
+- **Version Number:** 19
+- **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/03-malik-ghulam-muhammad.md`, `section-3a-nationhood/04-iskander-mirza.md` (single-leader topics considered, not used)
