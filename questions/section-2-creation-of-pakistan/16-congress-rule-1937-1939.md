@@ -154,3 +154,54 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q3C
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the introduction of the Wardha Scheme the main reason why Congress rule (1937–1939) was disliked by Muslim community? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement or evaluation
+  >
+  > Level 4: Explains WHY the Wardha Scheme AND other reasons meant Congress rule was disliked by the Muslim community [9–13]
+  > e.g.
+  > Wardha Scheme
+  > • The Wardha Scheme was imposed on the Muslim community. Under this scheme, students learned vocational skills and were taught in Hindi, This was resented by the Muslim community who saw it as an attempt to move them away from Islam.
+  > Other reasons
+  > • They felt that it threatened Muslim culture and identity.
+  > • Hindi was enforced as the official language as a consequence the Muslim community felt oppressed
+  > • There were violent incidents where Muslims and their property were attacked by Hindus leaving the community feeling unsafe
+  > • Azaan was forbidden and mosques attacked. Muslims felt persecuted
+  > • The Bande Matram, a song adopted in the provincial assemblies sung at the beginning of each day was contained challenging content for Muslims.
+  >
+  > Level 3: Explains WHY the Wardha Scheme OR other reasons meant Congress rule was disliked by the Muslim community [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Muslims had to observe the Wardha Scheme
+  > • Muslims were made to sing the Bande Matram
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • Their complaints were ignored
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — near-identical content to the May/June 2012 and Oct/Nov 2013 entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: "were taught in Hindi, This was resented" (comma followed by a capitalised "This" mid-sentence, likely a printing error for a full stop) — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

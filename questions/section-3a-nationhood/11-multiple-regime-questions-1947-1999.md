@@ -207,3 +207,44 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/03-malik-ghulam-muhammad.md`, `section-3a-nationhood/04-iskander-mirza.md` (single-leader topics considered, not used)
+
+### UQID: PK2059-ON-2018-V1-Q4B
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did educational reform become such an important issue between 1947 and 1999?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • A large proportion of the population was illiterate and many children did not go to school at all. Improving literacy through education will ultimately be of benefit to the economy / nation, e.g. higher GDP, higher growth, less unemployment, reduced poverty
+  > • One challenge was the amount of government investment. Successive governments prioritised defence over education. Therefore there was less money available for spending on education.
+  > • Spending on education takes years to prove effective. Many saw Pakistan's problems as being immediate and in need of solution then rather than in years' time.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Many children did not go to school
+  > • There were high levels of illiteracy
+  > • Some people argued more money should be spent on schools
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Education is beneficial for people
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — near-identical content to the May/June 2013 (2059/41) Q4(b) entry already in this file on Pakistan's education problems, reproduced separately and verbatim as its own distinct instance. Spans the entire 1947–1999 period without naming a specific leader or regime. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

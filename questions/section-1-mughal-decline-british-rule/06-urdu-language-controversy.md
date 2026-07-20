@@ -237,3 +237,45 @@
 - **Version Number:** 15
 - **Allocation History:** Allocated on extraction, Version 15, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q5B
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Urdu was chosen as the national language of Pakistan in 1947.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Historic importance as it was the language associated with the Pakistani Movement throughout its struggle with the British and the Hindu community
+  > • Closely linked to Islamic writings therefore it united the Muslim community
+  > • After Independence it was felt that the language was the uniting force behind the nation so the government committed to using it at all levels in society.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Understood by most Pakistanis
+  > • Had a historic significance
+  > • Brought people together
+  > • A link language
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • It is popular
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Causes, Cultural
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — near-identical content to the Oct/Nov 2011 and May/June 2015 entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

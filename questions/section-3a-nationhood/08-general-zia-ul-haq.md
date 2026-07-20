@@ -316,6 +316,37 @@
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
 
+### UQID: PK2059-ON-2018-V1-Q5A
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > What was the Eighth Amendment?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • 1985
+  > • Introduced by Zia, after lifting of martial law
+  > • It confirmed all previous acts of the martial law period with no right of appeal
+  > • President could appoint Prime Minister, Governors of Provinces and other officials
+  > • President could dismiss Prime Minister and National Assembly
+  > • Firmly established Presidential rule.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Constitution, Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. MS directly credits Zia with introducing it; the Eighth Amendment (1985) was already referenced within this file's May/June 2010 and Oct/Nov 2012 entries as background, but this is its first entry as the sole subject of a question. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —
+
 ### UQID: PK2059-MJ-2018-V1-Q1D
 
 - **Year:** 2018

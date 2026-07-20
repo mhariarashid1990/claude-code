@@ -157,3 +157,45 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q1C
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why was India not granted self-rule by Britain in 1919?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Britain was severely weakened after WW1, especially economically. All colonial nations were facing demands from their colonies for independence in one form or another, and Britain viewed India as the jewel of the Empire.
+  > • Britain's standing as a world power would be weakened if it gave in to Indian demands.
+  > • Strategically, India was important for the British navy and British influence in the region. Therefore the British were reluctant to give in to Indian demands
+  > • There were many thousands of British people living in India who could not be abandoned. The British government did not want to lose these businessmen, missionaries and civil servants.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • The British would not give in to Indian demands
+  > • Britain did not want to lose trade links with India
+  > • Many British people lived there
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for each identification)
+  > e.g.
+  > • India was too valuable to Britain
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. Source anomaly preserved verbatim: the Level 1 descriptor reads "(One mark for each identification)" — apparently duplicated from the Level 2 descriptor rather than the usual "(One mark for any simple statement)" pattern used elsewhere in this bank — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

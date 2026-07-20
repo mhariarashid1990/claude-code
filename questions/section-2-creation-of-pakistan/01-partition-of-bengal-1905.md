@@ -180,3 +180,45 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q3B
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how the British reacted to Hindu-led protests against the Partition of Bengal between 1906 and 1908.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains ways the British dealt with Hindu-led protests [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > • Newspapers and public meetings had restrictions placed upon them and editors of newspapers / journalists were prosecuted and imprisoned
+  > • The Press Act of 1908 placed further restrictions on newspapers and gave the government greater control over them.
+  > • One organiser of Hindu-led demonstrations, Tilak of Poona was sentenced to 6 years imprisonment. Others were deported or left the country of their own accord rather than face imprisonment
+  > • Another approach intended to win support of the more moderate Hindus by making reforms. Lord Minto the Viceroy worked with John Morley, the Secretary of State for India, on reforms that became the Morley-Minto reforms in 1909.
+  >
+  > Level 2: Identifies ways British dealt with Hindu protests [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Demonstrations broken up
+  > • Organisers imprisoned / deported
+  > • Restrictions on newspapers
+  > • Discussion/negotiation (with moderate Hindus)
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Hindu groups felt angry
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

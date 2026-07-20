@@ -148,3 +148,50 @@
 - **Version Number:** 12
 - **Allocation History:** Allocated on extraction, Version 12, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md`, `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` (single-topic files touched on, not used as primary)
+
+### UQID: PK2059-ON-2018-V1-Q1D
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Which of the following had the most important effect on the Pakistan Movement between 1909 and 1919?
+  > (i) the Morley-Minto reforms, 1909
+  > (ii) the reversal of the partition of Bengal, 1911
+  > (iii) the Lucknow Pact, 1916
+  > Explain your answer with reference to all three above.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains and makes judgement / evaluation [10]
+  > (As top of Level 4 plus judgement / evaluation)
+  >
+  > Level 4: Explains IMPACT of two or more events [6–9]
+  > (Two explanations are worth 6 or 7 marks. Additional explanations on the same two events cannot be awarded more than 8 marks. Explanation of all events is worth 9 marks)
+  > • Morley-Minto Reforms became law in 1909 as the Indian Councils Act. The importance of the Councils, which were enlarged, was to ensure that Indian legislators were given a chance to express their opinions. The British also accepted the right of the Muslim community to have a separate electorate
+  > • The Hindu community reacted to the Partition of Bengal with protests. The decision by the British to reverse the partition was seen as a victory by the Hindu community, but as betrayal by the Muslim community who now realised how important it was to ensure the success of the Muslim League for the Muslim community to prosper in India. They felt they could no longer rely on either Congress or the British to protect their interests.
+  > • The Lucknow Pact of 1916 was an agreement between the Muslim and Hindu communities, which presented a number of political demands to the British government to show a united front and produce common aims. For the first time, the Hindu community acknowledged that the Muslim community had the right to a separate electorate and the Lucknow Pact was seen as a promise of hope for the future.
+  >
+  > Level 3: Explains ONE event [5–7]
+  > See exemplars in L4
+  >
+  > Level 2: Identifies aspects of/describes events [3–4]
+  > e.g.
+  > • Morley-Minto Reforms later became the Indian Council Act
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > Unsupported judgement(s)/assertion(s)
+  > e.g.
+  > • The Morley-Minto reforms had the biggest impact
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Multiple Topic Questions (1905–1926)
+- **Secondary Tags:** Comparison, Political, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Compares three distinct named-topic events (Morley-Minto Reforms, Reversal of the Partition of Bengal, Lucknow Pact) equally, filed in the multi-topic bucket per this bank's established precedent for this content type (set in the Oct/Nov 2011 Q3(c) entry already in this file). Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md`, `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` (single-topic files touched on, not used as primary)

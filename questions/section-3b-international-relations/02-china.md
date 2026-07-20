@@ -81,3 +81,64 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q5C
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > How successful was Pakistan in its relationship with China between 1947 and 1999? Give reasons for your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top of Level 4 plus judgement or evaluation
+  >
+  > Level 4: Explains impact of success AND lack of success in relationship [9–13]
+  > (Two explanations are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Success
+  > • Support for China joining the UN in 1952 following China's support of Pakistan's Kashmir policy showed the two countries were willing to work together
+  > • Boundary issues settled in the 1963 agreement showed the two countries were looking to the future rather than the past
+  > • Trade developed in 1960s – a $60 million long term interest free loan regarding import of machinery
+  > • China permitted Pakistan International Airlines to use any Chinese airport in 1963 increasing movement and trade between the countries
+  > • Increased numbers of visitors from China – journalists, engineers, scientists etc.
+  > • China gave Pakistan full support during the 1965 war with India, including military aid which indicated strong relationships (money, weapons)
+  > • In 1978, Karakoram Highway provided the first road link and opened 2 countries up to trade and tourism
+  > • In 1986, a nuclear power treaty was signed, indicating the wish of the two countries to be allies and work together.
+  > Less Success
+  > • In 1958/9 Pakistan was developing closer relations with USA and voted against China's admission to UN and condemned China's military involvement in Tibet
+  > • During the 1971 war, China could offer less support to Pakistan due to pressure from the USSR on China
+  > • There were differences of opinion over Kashmir
+  > • China cooled relations due to concerns that dissent/instability might be caused amongst Muslims living in China.
+  >
+  > Level 3: Explains success OR lack of success in relationship [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars on L4
+  >
+  > Level 2: Identifies / describes the relationship [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • A narrative account relating to trade
+  > • Wars with India
+  > • Attitudes of USA
+  > • Attitude of USSR
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • Good / bad most of the time
+  > • Uneven / up and down
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** China
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — near-identical content to the Oct/Nov 2010 entry already in this file (the first entry in this topic file), reproduced separately and verbatim as its own distinct instance, this version adding several detailed bullets (specific figures for the 1965 war support, 1958/9 phrasing for the UN vote) and restructured under Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

@@ -286,3 +286,36 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/26-3rd-june-plan.md` (recommended topic, not used)
+
+### UQID: PK2059-ON-2018-V1-Q4A
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the refugee crisis of 1947.
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Summer (1947) saw rioting and violence between Muslim and non-Muslim communities across India
+  > • After the Boundary Award, millions of people found themselves in the 'wrong' country and vulnerable to attacks
+  > • Migration then took place with Muslims moving into Pakistan and non-Muslims moving into India
+  > • Over 10 million people were involved in this migration
+  > • Communal violence lead to many deaths
+  > • Up to 1 million people may have been killed as a result of the migration or attacks
+  > • 20 million people were made homeless
+  > • Karachi received 2 million refugees.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Features, Consequences, Social
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01 — near-identical content to several refugee-problem entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: "Communal violence lead to many deaths" (likely a printing error for "led") — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

@@ -283,3 +283,58 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q2C
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was British expansion in India the most important reason for the decline of the Mughal Empire? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains WHY British expansion AND other reasons led to the decline of the Mughal Empire [9–13]
+  > e.g.
+  > • British expansion into the subcontinent was rapid. They were experienced in warfare and had many weapons and other resources, so they were difficult to defeat.
+  > •
+  > Other reasons
+  > • The Emperors were suspected of spending money with little thought to the effect it had on the economy of the Empire. This led to inefficiencies in the running of the Empire
+  > • The absence of a definite line of succession led to a significant amount of in-fighting amongst his successors, which also led to instability
+  > • Aurangzeb introduced a tax on non-Muslims, called the Jizya. He destroyed Hindu temples and tried to ban Hindu practices. As a result he faced insurgencies throughout his reign
+  > • Taxation was high as Aurangzeb had to pay for the cost of military campaigns such as the Deccan Wars. He also spent highly on luxurious palaces. Because of this he became an unpopular ruler and enabling opposition to his rule and the Empire to grow.
+  > • The expense of fighting the Deccan Wars meant there was little money for the upkeep of the Empire
+  > • The military lacked investment, which meant they were reliant on outdated weaponry and were easily overpowered
+  > • Financial inefficiencies meant that money that could have been used to support the Empire, had been wasted
+  > • The size of the Empire meant that it was very difficult to defend from multiple invasions; the Empire's armies became exhausted in trying to repel them.
+  > • The Marathas were skilful Hindu guerrilla fighters who defeated a Mughal army in 1737 and took control of Delhi and eastwards towards Bengal. By 1760, they were the most powerful people in India and the Mughals could do nothing to stop it.
+  >
+  > Level 3: Explains WHY British expansion OR other reasons led to the decline of the Mughal Empire [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Aurangzeb introduced Jizya
+  > • The size of the Empire
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • The Mughal Empire was weak
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. Source anomaly preserved verbatim: a stray empty bullet point ("•") appears between the British-expansion bullet and the "Other reasons" subheading in the printed MS — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

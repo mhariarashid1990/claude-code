@@ -384,3 +384,45 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q2B
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Why did Syed Ahmad Barelvi call for Jihad to overthrow Sikh rule in the early nineteenth century?
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • To restore the Muslim faith and, by doing so, achieve religious and spiritual freedom for the Muslim community
+  > • With Punjab under Sikh rule, Punjabi Muslims found it difficult to practise their religion
+  > • Syed Ahmad Barelvi believed that there was a need to end the difficulties facing Islamic society and having identified Sikh rule as the dominant force in the Punjab targeted them at first.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Punjabi Muslims found Sikh rule oppressive
+  > • He wanted to restore the Muslim faith
+  > • He wanted to end the difficulties facing Islamic society
+  > • He wanted to liberate the Punjab and NWFP from Sikh rule.
+  >
+  > Level 1: Simple statement(s) [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • Punjab was under Sikh rule
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. Syed Ahmad Barelvi (elsewhere in this file "Syed Ahmad Shaheed Barailvi"/"Syed Ahmad Barelvi") and his Jihad Movement against Sikh rule are already established content in this topic file. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —

@@ -729,3 +729,63 @@ batch). Total: 263 questions across 18 papers. Remaining in this batch: 2018
 Oct/Nov, plus 2019–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-20
+
+## Version 22 — 2026-07-20
+
+**Questions added:** 14 (PK2059-ON-2018-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4 process.
+`questions/INDEX.md` updated (total 263 → 277). `01_PAPERS_TRACKER.md` — 2018
+row updated to "May/June, V1 + Oct/Nov, V1" with status "Complete."
+**Reason:** Nineteenth paper processed — Cambridge O Level 2059/01, Paper 1,
+October/November 2018, single variant, presented in Cambridge's newer
+tabular Question/Answer/Marks mark scheme format (plus an initial "Generic
+Marking Principles" boilerplate page correctly recognised as non-content
+and skipped). Every one of the 14 parts required under the 2015–2025
+extraction pattern (Section A/B split; Q1(a)/(b) source-based and excluded;
+Q1(d) capped at 10 marks) was presented with clickable topic options and
+allocated strictly per the user's picks. Notable decisions: Q1(c) ("Why was
+India not granted self-rule by Britain in 1919?") went to Montagu–Chelmsford
+Reforms & Other Events of 1919, matching this topic's established scope for
+the 1919-cluster events; Q1(d) (comparing the Morley-Minto Reforms, the
+reversal of the Partition of Bengal, and the Lucknow Pact) went to Multiple
+Topic Questions (1905–1926), following the precedent set in the Oct/Nov 2011
+Q3(c) entry already in that file; Q3(a) ("What was the Communal Award?")
+went to Round Table Conferences, since the MS ties it directly to the
+Second RTC's outcome — first entry in this file naming the Communal Award
+specifically; Q4(b) ("Why did educational reform become such an important
+issue between 1947 and 1999?") went to Multiple Regime Questions
+(1947–1999), matching the precedent set by the May/June 2013 (2059/41)
+education-policy entry already in that file, since no dedicated "education"
+topic exists in the 57-topic taxonomy and the question spans the whole
+period rather than one leader; Q4(c) (comparing Zulfikar Ali Bhutto's own
+armed-forces, constitutional, and education/health reforms) went to
+Zulfiqar Ali Bhutto rather than the Multiple Regime bucket, since all three
+compared factors are his own reforms, not a cross-leader comparison; Q5(a)
+("What was the Eighth Amendment?") went to General Zia-ul-Haq, its first
+entry as the sole subject of a question in that file (the Amendment had
+only been referenced as background in earlier entries there). Several
+entries in this paper are substantively near-duplicate content of earlier
+entries already in this bank, each reproduced separately and verbatim as
+its own distinct instance: Q3(c) (Wardha Scheme/Congress rule), Q4(a)
+(1947 refugee crisis), Q5(b) (Urdu as national language), and Q5(c)
+(Pakistan-China relationship, which parallels this bank's very first China
+entry from Oct/Nov 2010) all parallel earlier entries in their respective
+topic files. Minor source anomalies preserved verbatim: Q1(c)'s Level 1
+descriptor reads "(One mark for each identification)" rather than the usual
+"(One mark for any simple statement)" pattern; Q2(c)'s MS contains a stray
+empty bullet point between the British-expansion exemplar and the "Other
+reasons" subheading; Q3(a) spells "Ramsey MacDonald" (commonly "Ramsay
+MacDonald"); Q3(c) reads "were taught in Hindi, This was resented" (a
+comma followed by a capitalised "This," likely a printing error for a full
+stop); Q4(a) reads "Communal violence lead to many deaths" (likely a
+printing error for "led"). None corrected. All 14 parts were present and
+extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2018** (both May/June
+and Oct/Nov). Total: 277 questions across 19 papers. Remaining in this
+batch: 2019–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
+still to come.
+**Date:** 2026-07-20

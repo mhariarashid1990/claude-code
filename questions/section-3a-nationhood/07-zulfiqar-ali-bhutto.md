@@ -247,3 +247,53 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2018-V1-Q4C
+
+- **Year:** 2018
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > In which of the following did Zulfikar Ali Bhutto have most success?
+  > (i) reform and control of the armed forces
+  > (ii) constitutional reform
+  > (iii) education and health reforms
+  > Explain your answer with reference to all three of the above.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > As top Level 4 plus judgement or evaluation.
+  >
+  > Level 4: Explains IMPACT of two or more reforms [9–13]
+  > (Two explanations are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > • Bhutto was concerned about the army and decided that he should assert his control. He made the army and air-force chiefs resign. This made his position more secure.
+  > • A new constitution in 1973 established a Senate giving the opportunity for professionals, academics and specialists to work together. It also safeguarded the interests of minority provinces, which now had an equal status in the Senate. It marked the return to a form of parliamentary democracy, the basis upon which Pakistan has been governed to the end of the twentieth century, apart from when it was suspended due to martial law. One of the main weaknesses of the new constitution was that the focal point of political power lay with the party leadership and Bhutto in particular. When things went wrong he was blamed, which made him vulnerable
+  > • His education reforms, introduced free primary education. New schools were planned and all private sector schools were nationalised. The aim was to increase the literacy rate and raise academic standards. The changes in education led to overcrowding in existing schools whilst new ones could be built. The reforms had limitations since the building of new schools and the recruitment of new teachers could not be achieved quickly and was also very expensive.
+  > • His health reforms attempted to improve infant mortality and age expectancy rates by introducing Rural Health Centres and Basic Health Units. Pharmaceutical companies were banned from charging for a particular medical brand name and so medicines became cheaper. However, this did see the profits of chemists fall drastically and many international drug companies closed down their operations in Pakistan, meaning that Pakistan lost income.
+  >
+  > Level 3: Explains one reform [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars on L4
+  >
+  > Level 2: Identifies / describes reforms/their successes [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Bhutto introduced free primary education
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • The armed forces reforms were the most important
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Domestic Policy, Successes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2018 sitting of 2059/01. All three compared factors are Bhutto's own reforms, so filed under his single-leader topic rather than Multiple Regime Questions (1947–1999), unlike this bank's cross-leader comparisons. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 22
+- **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
+- **Cross References:** —
