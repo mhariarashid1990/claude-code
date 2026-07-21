@@ -445,3 +445,36 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q4A
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the achievements of Benazir Bhutto's foreign policy between 1988 and 1990.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Pakistan rejoined the Commonwealth [1] in 1989 [1]
+  > • Pakistan hosted the 4th South Asian Association for Regional Cooperation (SAARC) summit conference [1] in December 1988 [1]
+  > • Pakistan and India signed three separate peace agreements [1] as a result of improved relations at the SAARC conference [1]
+  > • Benazir Bhutto made an official visit to the USA [1] in June 1989 [1] and met President George H.W. Bush [1]
+  > • the visit restored good relations between the USA and Pakistan
+  > • Benazir Bhutto visited China [1] and The Reciprocal Encouragement and and Protection of Investments agreement was signed [1]
+  > • the visit improved relations between China and Pakistan
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Source anomaly preserved verbatim: MS repeats the word "and" ("The Reciprocal Encouragement and and Protection of Investments agreement") — likely a printing error — not corrected. Direct match — her own foreign-policy record during her first government. Topic chosen by user from clickable options, over the alternative United Nations & Other World Organisations.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` (alternate topic considered, not used)

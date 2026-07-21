@@ -708,3 +708,43 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q2C
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The main reason the War of Independence ended was because it was not supported by all Indian rulers.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the main reason the War of Independence ended was because it was not supported by all Indian rulers:
+  > • some princes were fearful of losing British support
+  > • some rulers supported the British, supplying them with the weapons and men
+  > • Kashmir was uninterested in helping the rebellion
+  > • different Indian groups found it difficult to put aside their differences
+  > • there was an absence of a common aim/ the aim of the War was unclear
+  >
+  > counter-arguments might include:
+  > • British troops were well-trained and disciplined
+  > • British troops had modern weapons
+  > • the British army were experienced
+  > • British army leaders were skilled strategists/diplomats
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "lack of unity"/"different aims" entries already in this file (May/June 2010, Oct/Nov 2020), reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

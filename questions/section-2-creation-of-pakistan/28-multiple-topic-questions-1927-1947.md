@@ -291,3 +291,47 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md` (recommended single-topic option, not used), `section-2-creation-of-pakistan/18-lahore-resolution-1940.md`, `section-2-creation-of-pakistan/23-elections-of-1945-46.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, not used as primary)
+
+### UQID: PK2059-ON-2023-V1-Q3C
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The Second World War and its aftermath meant the British had little interest in agreeing the future of the subcontinent before 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that World War Two and its aftermath meant the British had little interest in agreeing the future of the subcontinent before 1947:
+  > • Britain focused more on Germany and was less concerned with the subcontinent
+  > • post-war recovery and the internal stability of Britain became the priority after 1945
+  > • Indian independence was put off until after 1945
+  > • the Muslim League gave limited cooperation to the British Government in the war effort
+  > • Congress boycotted the war effort
+  >
+  > counter-arguments might include:
+  > • The Cripps Mission of 1942 offered independence although after the War
+  > • Britain encouraged the discussion of partition (e.g. Gandhi-Jinnah talks)
+  > • the Simla Conference was held in 1945 to discuss the future of the subcontinent
+  > • British Prime Minister Clement Attlee ordered elections in 1946, the results of which showed the Muslim League could no longer be ignored
+  > • in 1946 the British Cabinet Mission Plan founded an interim government in India
+  > • Direct Action Day in 1946 led to a British change of mind over partition
+  > • the June 3 Plan 1947 stated that Britain would leave the subcontinent no later than 1948
+  > • the day after the June 3 Plan 1947 was published, Lord Mountbatten announced that Britain would leave in 1947
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Political, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Content spans the Cripps Mission, Gandhi-Jinnah Talks, the Simla Conference, the Cabinet Mission Plan, Direct Action Day, and the 3rd June Plan — six distinct named topics — so filed in the multi-topic bucket rather than any single one, consistent with this file's established pattern. Topic chosen by user from clickable options, over the alternative Cripps Mission.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/19-cripps-mission.md`, `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md`, `section-2-creation-of-pakistan/22-simla-conference.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, Cripps Mission also considered as alternate primary, none used as primary)

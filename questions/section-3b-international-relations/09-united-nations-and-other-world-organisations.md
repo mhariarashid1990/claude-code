@@ -337,3 +337,37 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q4B
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the benefits to Pakistan of being a member of the United Nations.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Pakistan became a spokesperson on behalf of Muslim countries
+  > • allowed Pakistan's international standing to grow
+  > • Pakistan received loans from the World Bank
+  > • it has assisted with international disagreements
+  > • it helped to address the Canal Water Dispute
+  > • it has helped Pakistan's case over Jammu and Kashmir
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2010, May/June 2014, and Oct/Nov 2019 "why did Pakistan join/seek membership of the UN" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version framed around ongoing membership benefits rather than the original 1947 motivation. Topic chosen by user from clickable options, over the alternative Gulf Countries.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/08-gulf-countries.md` (alternate topic considered, not used)

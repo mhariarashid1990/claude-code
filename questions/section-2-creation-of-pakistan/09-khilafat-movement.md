@@ -561,3 +561,95 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q1C
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the impact of the Khilafat Movement on the Muslim community in the years after 1924.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Indian people were no longer prepared to accept British rule
+  > • the Khilafat Movement made the Muslim community realise they had political power
+  > • the Muslim community began to realise they no longer had to rely on the Hindu community to advance their cause
+  > • the Muslim community learned the importance of leadership and political organisation
+  > • it was seen as an important step towards an independent state
+  > • socially this started to create a schism between the Muslim and Hindu communities
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Consequences, Religious, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. This paper introduces a new "annotation stamps" legend page (Tick, ^/Omission, Cross, DEV, Highlighter, IRRL, L1–L5, NAQ, REP, SEEN, EVAL) as front matter — correctly recognised as examiner-annotation guidance, not question content, and skipped rather than extracted. Section A Q1(c), companion to this paper's Q1(d) also filed in this topic. Topic chosen by user from clickable options.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q1D
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent was the breakdown of Muslim–Hindu collaboration the main reason for the Khilafat Movement ending? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/ judgement
+  > Explanation at the top of Level 4 with an evaluation/ judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that the breakdown of Muslim–Hindu collaboration was the main reason for the Khilafat Movement ending:
+  > • the Muslim community lost a large amount of support from the Hindu community
+  > • Gandhi called off Hindu participation in the Khilafat Movement
+  > • the Moplah violence against Hindus divided Muslim and Hindu communities
+  >
+  > counter-arguments might include:
+  > • the Muslim community was demoralised
+  > • the Ali brothers and other leaders were imprisoned in 1921
+  > • there were 30 000 political prisoners by 1921
+  > • Muslim groups unsuccessfully migrated to Afghanistan in 1920
+  > • Kemal Ataturk abolished the Caliph in 1924
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Near-identical content to several prior "why did the Khilafat Movement end/fail" entries already in this file. Topic chosen by user from clickable options.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** —

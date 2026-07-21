@@ -119,3 +119,41 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q3A
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the Lucknow Pact of 1916.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Congress agreed to concessions with the Muslim League
+  > • Muslims had the right to separate electorates
+  > • Muslims should be given one third of seats in Councils
+  > • both parties wanted more seats in Councils
+  > • the protection of minorities
+  > • the provinces to have autonomy
+  > • the proposals to be binding on the British
+  > • the executive should be separated from the judiciary
+  > • no Act affecting a community could be agreed if ¾ of the representatives of that community opposed it
+  > • motions passed by large majorities in the Councils should be accepted as binding by the British government
+  >
+  > Note: answers should refer to the terms of the pact only.
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Lucknow Pact & First World War
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2012 Q2(a) and Oct/Nov 2016 Q3(a) entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Creation of the All-India Muslim League.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)

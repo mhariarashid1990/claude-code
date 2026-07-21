@@ -477,3 +477,80 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q5B
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zulfikar Ali Bhutto's government ended in 1977.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • as Prime Minister, when things went wrong Zulfikar Ali Bhutto was blamed
+  > • many families resisted and resented the education reforms as they feared a loss of household earnings
+  > • Martial law was imposed in Karachi, Lahore and Hyderabad during the election campaign in March 1977
+  > • the Pakistan National Alliance accused the government of rigging the election in March 1977 and demanded new elections
+  > • there were anti-government protests
+  > • Zulfikar Ali Bhutto was arrested and charged
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2012 Q5(a) and May/June 2017 Q4(b) "why did Bhutto's rule end in 1977" entries already in this file, reproduced separately and verbatim as its own distinct instance. Direct match — his own downfall. Topic chosen by user from clickable options, over the alternative General Zia-ul-Haq.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/08-general-zia-ul-haq.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2023-V1-Q5C
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan had successfully implemented a new constitution by 1973.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that a new constitution was successfully implemented by 1973:
+  > • 1949 Objectives Resolution planned Islamic principles in a constitution
+  > • 1952 Basic Principles Committee wanted an Islamic constitution
+  > • 1956 Constitution declared that Pakistan was to be an Islamic Republic
+  > • 1959 Basic Democracies allowed elections at various levels
+  > • 1973 Constitution revived the power of the National Assembly
+  >
+  > counter-arguments might include:
+  > • 1949 Objectives Resolution was criticised by East Pakistan
+  > • the death of Liaquat Ali Khan meant that constitutional change had to wait
+  > • 1952 Basic Principles Committee didn't settle the official language issue
+  > • 1956 Constitution didn't solve political issues
+  > • 1962 Constitution increased the powers of the ruling elite
+  > • 1973 National Assembly reduced the powers of the president in favour of the prime minister
+  > • 1973 Constitution devolved powers to provincial assemblies meaning that the party in power in the national government had less influence in the regions where they do not have a majority
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Constitution, Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Content spans constitutional developments from 1949 to 1973 (Objectives Resolution, Basic Principles Committee, 1956 and 1962 Constitutions, Basic Democracies) culminating in Bhutto's 1973 Constitution — filed under Zulfiqar Ali Bhutto rather than Multiple Regime Questions, consistent with this file's existing entries on the 1973 Constitution's terms and features. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

@@ -182,3 +182,55 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2023-V1-Q4C
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were economic factors the main cause of increased tension between East and West Pakistan by 1971? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that economic factors were the main cause of increased tension between East and West Pakistan by 1971:
+  > • East Pakistan felt wealth creation was concentrated in West Pakistan
+  > • East Pakistan felt that West Pakistan benefited more from foreign aid and capital investment
+  > • The Bengali people believed that earnings from trade in jute produced in East Pakistan were used in West Pakistan
+  > • people in West Pakistan had higher earnings than people in East Pakistan, and the gap was growing
+  > • East Pakistan felt that money earned there was being used to finance industrial development in the west
+  > • since 1947 trade with West Bengal had been cut off
+  > • poverty in East Pakistan was a growing problem
+  >
+  > counter-arguments might include:
+  > • East Pakistan was a long way from West Pakistan
+  > • some people in East Pakistan resented the capital being in West Pakistan
+  > • many people in East Pakistan didn't believe they were being taken seriously in the creation of the nation
+  > • famines and floods led to discontent and hardship in East Pakistan
+  > • East Pakistan felt deserted by West Pakistan after the 1970 cyclone
+  > • Bengali wasn't recognised as an official language at the time
+  > • East Pakistan felt Bengali should be the national language
+  > • there was a different culture in East Pakistan to West Pakistan
+  > • there were fewer children in primary school in East Pakistan
+  > • there were fewer medical professionals in East Pakistan
+  > • The Awami League won a majority in East Pakistan in 1970
+  > • The League presented its Six Points which effectively meant separation
+  > • Ayub Khan dismissed the Six Points which led to further discontent
+  > • people in East Pakistan felt that they were underrepresented in government and the military
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Political, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2011 and May/June 2014 "political vs economic factors in the creation of Bangladesh" entries already in this file, reproduced separately and verbatim as its own distinct instance. User chose Yahya Khan over the recommended Bangladesh topic, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (recommended alternate topic, not used)

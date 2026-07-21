@@ -618,3 +618,36 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q2B
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the impact of Aurangzeb's domestic policies on the stability of the Mughal Empire.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Aurangzeb introduced a tax called Jizya on non-Muslims alongside existing taxes on Muslims
+  > • taxation was kept high
+  > • the fighting of the Deccan Wars was expensive
+  > • the military lacked investment
+  > • some measures ensured that people lived their lives according to Islamic traditions
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Religious, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Aurangzeb's domestic policies (Jizya, Deccan Wars, taxation) are already referenced throughout this file's existing entries as background causes of decline; this is the first entry with his domestic policies as the sole subject of a question. Topic chosen by user from clickable options.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** —

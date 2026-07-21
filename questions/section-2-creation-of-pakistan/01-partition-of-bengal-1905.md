@@ -346,3 +346,35 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q3B
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how the Hindu community opposed the partition of Bengal between 1905 and 1911.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • an assassination attempt upon the Viceroy, Lord Minto
+  > • the Hindu community boycotted British goods
+  > • the Hindu community started the Swadeshi Movement
+  > • Indian workers, especially in Calcutta, began a series of strikes
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. MS content overlaps with the Swadeshi Movement and assassination-attempt/strikes material already covered in this file's existing entries. Topic chosen by user from clickable options, over the alternative Reversal of the Partition of Bengal (1911), since the question centres on opposition to the original 1905 partition itself.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md` (alternate topic considered, not used)

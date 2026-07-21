@@ -236,3 +236,31 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/04-ussr-russia.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2023-V1-Q5A
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the impact on Pakistan in 1990 of its inability to meet the terms of the Pressler Amendment.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • President Bush [1] suspended aid to Pakistan [1] because he could not provide the necessary guarantee [1] that Pakistan did not have a nuclear capability [1]
+  > • most economic aid was stopped [1] and all military aid was stopped [1]
+  > • deliveries of major military equipment were suspended
+  > • there were some exceptions [1] of $3–5 million each year [1] which was allocated for drug control, withdrawal and rehabilitation programmes [1]
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Foreign Policy, Failures, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. The Pressler Amendment's impact on US aid is already referenced within this file's May/June 2017 Q5(b) entry as one factor complicating US-Pakistan relations in the 1980s/90s; this is the first entry with the Amendment's 1990 impact as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Nawaz Sharif.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/10-nawaz-sharif.md` (alternate topic considered, not used)

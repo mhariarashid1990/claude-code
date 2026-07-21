@@ -565,3 +565,35 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2023-V1-Q2A
+
+- **Year:** 2023
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the 'Hindi–Urdu Controversy'.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it took place in 1867
+  > • Hindus demanded Hindi be the official language [1] not Urdu [1]
+  > • Sir Syed Ahmad Khan and members of the Muslim community saw this as an attack on their rights [1] as it had a special meaning to them [1]
+  > • Hindu members of Sir Syed's Scientific Society [1] wanted their journal published in Hindi [1]
+  > • there was a growing belief that interests of Hindus clashed with those of Muslims
+  > • this led to Sir Syed's Two Nation Theory
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Features, Religious, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2012 Q1(a) entry already in this file, reproduced separately and verbatim as its own distinct instance, consistent with established precedent for Hindi–Urdu Controversy questions filed under Sir Syed Ahmad Khan. Topic chosen by user from clickable options.
+- **Version Number:** 32
+- **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` (alternate topic considered, not used)

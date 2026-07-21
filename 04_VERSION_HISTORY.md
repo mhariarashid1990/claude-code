@@ -1379,3 +1379,77 @@ batch). Total: 403 questions across 28 papers. Remaining in this batch:
 2023 Oct/Nov, then 2024–2025 May/June and Oct/Nov papers for 2059/01
 (14-part pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 32 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2023-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 403 → 417, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2023 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Twenty-ninth paper processed — Cambridge O Level 2059/01,
+Paper 1, Oct/Nov 2023, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format used since
+Oct/Nov 2020. This paper introduces a new front-matter page not seen in
+earlier sittings: an "annotation stamps" legend table (Tick, ^/Omission,
+Cross, DEV, Highlighter, IRRL, L1–L5, NAQ, REP, SEEN, EVAL) explaining how
+examiners annotate scripts in RM Assessor — correctly recognised as
+examiner-annotation guidance, not question content, and skipped rather
+than extracted, consistent with how the existing "Generic Marking
+Principles" front-matter pages are handled.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across rounds. The user confirmed the recommended (primary) option
+in most cases, but explicitly overrode the recommendation once: Q4(c)
+("economic factors and increased tension between East and West Pakistan
+by 1971") went to **Yahya Khan** rather than the recommended Bangladesh —
+consistent with the established precedent in this bank of filing
+Bangladesh-creation questions from the perspective of Yahya Khan's regime
+(e.g. the May/June 2011, May/June 2013, May/June 2014, Oct/Nov 2015, and
+May/June 2016 entries in that topic file).
+
+Final allocations this version: Q1(c) (impact of the Khilafat Movement on
+the Muslim community after 1924); Q1(d) (breakdown of Muslim–Hindu
+collaboration and the Khilafat Movement's ending); Q2(a) (Hindi–Urdu
+Controversy, under Sir Syed Ahmad Khan); Q2(b) (Aurangzeb's domestic
+policies, under Decline of the Mughal Empire); Q2(c) (lack of support from
+Indian rulers as the main reason the War of Independence ended); Q3(a)
+(terms of the Lucknow Pact of 1916); Q3(b) (Hindu community's opposition
+to the partition of Bengal, 1905–1911); Q3(c) (WWII and its aftermath
+meaning Britain had little interest in the subcontinent's future before
+1947 — filed under Multiple Topic Questions (1927–1947) since the MS spans
+six distinct named topics: the Cripps Mission, Gandhi-Jinnah Talks, the
+Simla Conference, the Cabinet Mission Plan, Direct Action Day, and the 3rd
+June Plan); Q4(a) (Benazir Bhutto's foreign policy achievements,
+1988–1990); Q4(b) (benefits to Pakistan of UN membership); Q4(c) (economic
+factors and East-West Pakistan tension by 1971, under Yahya Khan, per user
+override); Q5(a) (impact of the Pressler Amendment on Pakistan in 1990,
+under United States of America — first entry with the Amendment's 1990
+impact as the sole subject of a question); Q5(b) (why Zulfikar Ali
+Bhutto's government ended in 1977); and Q5(c) (whether Pakistan
+successfully implemented a new constitution by 1973, under Zulfiqar Ali
+Bhutto).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(c)/Q1(d) (Khilafat Movement
+ending), Q2(a) (Hindi–Urdu Controversy), Q2(b) (Aurangzeb's policies),
+Q3(a) (Lucknow Pact terms), Q4(a) (Benazir's foreign policy), Q4(b) (UN
+membership benefits), Q5(a) (Pressler Amendment), Q5(b) (Bhutto's 1977
+downfall), and Q5(c) (1973 Constitution) all parallel earlier entries in
+their respective topic files. No source anomalies of note this version;
+question and mark-scheme text reproduced exactly as printed. All 14 parts
+were present and extracted; none skipped.
+
+**2023 is now Complete** (May/June and Oct/Nov both done). Total: 417
+questions across 29 papers. Remaining in this batch: 2024 May/June and
+Oct/Nov, then 2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-21
