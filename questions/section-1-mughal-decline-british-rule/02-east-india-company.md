@@ -1294,3 +1294,69 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q1D
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent were Indian rulers able to limit British expansion across the subcontinent between 1760 and 1840? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that several rulers were able to limit British expansion:
+  > • Haidar Ali was undefeated against the British army (defeated the British Bombay army in 1767, broke the siege of Bangalore in 1768, captured Arcot in 1780)
+  > • Haidar Ali signed a treaty with the British to end the war in 1769
+  > • Tipu Sultan defeated a British army at Kollidam in 1782
+  > • in 1784 Tipu Sultan made peace with the British and became the Sultan of Mysore
+  > • Tipu Sultan invaded Travancore in 1789 which was a British ally
+  > • Ranjit Singh signed agreements with the British in 1806 and 1838
+  > • Titu Mir recruited 500 local militiamen to harass the zamindars and the British forces supporting them
+  > • Titu Mir built a fort at Narkelbaria to protect himself and his forces against British reprisals
+  >
+  > Counter-arguments might include:
+  > • Tipu Sultan was defeated by the British at Seringapatam in 1799
+  > • resistance to the British from the Marathas disappeared after 1818
+  > • Titu Mir was killed in battle in 1831 when his forces were attacked
+  > • Titu Mir's fort was destroyed by British cannons
+  > • the British had a strong and well-trained army
+  > • the British had a good administrative system
+  > • the British conquests had seized vast resources, especially in Bengal, battle of Buxar etc.
+  > • the death of Ranjit Singh marked the end of effective resistance
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Comparison, Political, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Spans Haidar Ali, Tipu Sultan, Ranjit Singh, and Titu Mir as regional figures resisting British expansion, alongside British military/administrative strengths as counter-arguments; filed under East India Company as the file already covering British expansion in this exact period. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md`, `section-1-mughal-decline-british-rule/03-religious-reformers.md` (alternate/related topics touched on, not used as primary)

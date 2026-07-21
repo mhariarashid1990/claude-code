@@ -204,3 +204,35 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md`, `section-3a-nationhood/10-nawaz-sharif.md` (alternate topics considered, not used)
+
+### UQID: PK2059-MJ-2023-V1-Q4A
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the U-2 incident.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it happened in 1960 [1] at the height of the Cold War [1]
+  > • it was a spy flight [1] over USSR [1]
+  > • this particular U-2 plane was flown from the US base [1] at Peshawar/in Pakistan [1]
+  > • the pilot Gary Powers [1] was shot down [1] and imprisoned [1]
+  > • the USSR was angry with Pakistan, threatening military action [1] and the relationship between the two countries deteriorated [1]
+  > • the USA could no longer use the airbase unless destination of the aircraft was known
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Features, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011 entry already in this file on the same incident, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative USSR/Russia.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/04-ussr-russia.md` (alternate topic considered, not used)

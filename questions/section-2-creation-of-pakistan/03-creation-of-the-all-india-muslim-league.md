@@ -344,3 +344,33 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q2A
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the aims of the All-India Muslim League.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • to protect the political rights and interests of Muslims in India
+  > • to advance the political rights and interests of Muslims in India [1] to counter the growing influence of Congress [1]
+  > • to represent Muslim needs and aspirations to the government of India
+  > • to prevent the rise of hostility in Muslims towards other communities in India
+  > • to promote feelings of loyalty to the British government
+  > • to remove any misunderstandings among Muslims as to the intentions of any government measure
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file describing the League's founding aims directly rather than the causes of its 1906 establishment. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

@@ -73,3 +73,38 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection, consistent with established precedent — no prior moves
 - **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` (recommended topic, not used)
+
+### UQID: PK2059-MJ-2023-V1-Q5B
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Pakistan decided to support the Palestinian cause.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • as part of the Ummah (worldwide Muslim community), Pakistan wanted to demonstrate solidarity with Palestinians
+  > • Pakistan felt that it was their religious obligation to help the oppressed people around the world
+  > • Pakistan promotes harmony and co-operation between Muslim nations
+  > • support was offered as a result of the Israeli attack on the Al-Aqsa Mosque in Jerusalem in 1969
+  > • Pakistan condemned Israeli occupation of Palestinian lands
+  > • Pakistan, as chair of the Lahore Organisation of the Islamic Conference (OIC) summit in 1974, reinforced Muslim support for the cause following the Arab-Israeli War in 1973
+  > • Pakistan's involvement in the cause to demonstrate their influential position and status within the Islamic world
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Gulf Countries
+- **Secondary Tags:** Foreign Policy, Religious, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2015 and May/June 2018 entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the recommended United Nations & Other World Organisations, consistent with established precedent for this recurring question.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection, consistent with established precedent — no prior moves
+- **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` (recommended topic, not used)

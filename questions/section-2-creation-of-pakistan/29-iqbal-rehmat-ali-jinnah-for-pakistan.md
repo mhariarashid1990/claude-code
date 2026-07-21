@@ -450,3 +450,37 @@ other named Section 2 topics._
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q3B
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Allama Iqbal was described as the 'Architect of Pakistan'.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Allama Iqbal was the first Muslim leader to advocate for the creation of a separate Muslim state
+  > • as a result of his Allahabad address in 1930 when he put forward this view, many Muslims seriously considered separatism during the 1930s
+  > • he was also opposed to the British control of India
+  > • he believed the Muslim League had to build an effective political party to challenge the domination of the Congress Party
+  > • his poetry awakened a sense of nationhood among Muslims
+  > • he recognised the talent in Jinnah as the natural leader of the Muslim community in their demands for a separate homeland
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Importance, Leadership, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior Iqbal-importance entries already in this file, reproduced separately and verbatim as its own distinct instance, this version framed around the "Architect of Pakistan" epithet specifically. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1927–1947).
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

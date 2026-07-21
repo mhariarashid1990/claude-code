@@ -324,3 +324,44 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q5C
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was the 'Co-operative Societies scandal' the main reason for the dismissal of Nawaz Sharif's government in 1993? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the 'Cooperative Societies scandal' was the main reason:
+  > • the Cooperative Societies scandal broke in 1991
+  > • there was alleged mismanagement of the Cooperative Societies
+  > • the role of government in the scandal was questioned by some
+  > • two million Pakistanis lost their savings; in Punjab 700 000 people lost all their savings
+  >
+  > Counter-arguments might include:
+  > • the BCCI collapsed in 1991
+  > • investors lost huge sums of money under the BCCI scheme
+  > • some people questioned the role of the government in the BCCI collapse
+  > • the USA ended economic support when the Soviet-Afghan war ended
+  > • US aid ended during the dispute over Pakistan's nuclear programme
+  > • there were problems associated with refugees from the Soviet-Afghan war
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Failures, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2016 and May/June 2020 entries already in this file on the same downfall, reproduced separately and verbatim as its own distinct instance, this version giving specific savings-loss figures (two million Pakistanis overall, 700,000 in Punjab). Topic chosen by user from clickable options, over the alternative Multiple Regime Questions bucket.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

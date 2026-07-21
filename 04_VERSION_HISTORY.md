@@ -1312,3 +1312,70 @@ and Oct/Nov). Total: 389 questions across 27 papers. Remaining in this
 batch: 2023–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 31 — 2026-07-21
+
+**Questions added:** 14 (PK2059-MJ-2023-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 389 → 403, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2023 row updated to "May/June, V1" with status "In
+progress" (Oct/Nov 2023 still outstanding).
+**Reason:** Twenty-eighth paper processed — Cambridge O Level 2059/01,
+Paper 1, May/June 2023, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format used since
+Oct/Nov 2020.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across four rounds (4+4+4+2 questions). The user confirmed the
+recommended (primary) option in most cases, but explicitly overrode the
+recommendation twice: Q4(c) ("the referral of the Kashmir issue to the
+United Nations") went to **India and the Kashmir Issue** rather than the
+recommended United Nations & Other World Organisations; Q5(b) ("why
+Pakistan decided to support the Palestinian cause") went to **Gulf
+Countries** rather than the recommended United Nations & Other World
+Organisations — consistent with this exact same override already
+established as precedent in this file's Oct/Nov 2015 and May/June 2018
+entries.
+
+Final allocations this version: Q1(c) (Titu Mir, under Religious
+Reformers); Q1(d) (Indian rulers limiting British expansion 1760–1840,
+under East India Company); Q2(a) (aims of the All-India Muslim League);
+Q2(b) (why the Round Table Conferences were considered a failure); Q2(c)
+(Bengal's partition, "too large"); Q3(a) (Delhi Proposals of 1927 — first
+entry naming the Proposals themselves as sole subject); Q3(b) (Iqbal as
+"Architect of Pakistan"); Q3(c) (1937 election outcomes benefiting the
+Muslim League); Q4(a) (U-2 incident, under United States of America);
+Q4(b) (Zia-ul-Haq's Islamisation programme); Q4(c) (Kashmir's UN referral,
+under India and the Kashmir Issue, per user override); Q5(a) (1973
+Constitution's features, under Zulfiqar Ali Bhutto — first entry
+describing its terms directly); Q5(b) (Palestinian cause, under Gulf
+Countries, per user override matching established precedent); and Q5(c)
+(Co-operative Societies scandal and Nawaz Sharif's 1993 dismissal).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(c) (Titu Mir), Q2(b) (RTC
+failure), Q3(b) (Iqbal's importance), Q3(c) (1937 election outcomes),
+Q4(a) (U-2 incident), Q4(b) (Zia's Islamisation), Q5(b) (Palestinian
+cause), and Q5(c) (Nawaz Sharif's 1993 downfall) all parallel earlier
+entries in their respective topic files. Minor source anomalies preserved
+verbatim, none corrected: Q1(c)'s MS reads "Titu Mir gave Muslim farmers a
+cause the fight back" (likely intended "to fight back"); Q2(c)'s MS gives
+"85 million" as the combined population of West Bengal, East Bengal and
+Assam, differing from this bank's other Partition-of-Bengal entries which
+give "54 million" for Bengal alone (not reconciled, since the 85 million
+figure includes Assam and reflects the full partitioned territory). All 14
+parts were present and extracted; none skipped.
+
+**2023 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 403 questions across 28 papers. Remaining in this batch:
+2023 Oct/Nov, then 2024–2025 May/June and Oct/Nov papers for 2059/01
+(14-part pattern), still to come.
+**Date:** 2026-07-21

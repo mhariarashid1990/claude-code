@@ -183,3 +183,44 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q3C
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The outcomes of the 1937 elections brought more benefits for the Muslim League than for the Congress Party.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the outcomes of the 1937 elections in the subcontinent benefited the Muslim League more than the Congress Party:
+  > • it was the first major election fought which helped to unify the Muslim League
+  > • it demonstrated to the Muslim League that improvements in its organisation and planning were needed
+  > • the Muslim League discovered that their support lay in areas where Muslims were a minority rather than a majority
+  > • the Muslim League recognised that their image needed to be improved in order to attract more Muslims
+  > • the Muslim League learned the lessons of the 1937 election by the time of the 1945 election where they were more successful
+  >
+  > Counter-arguments might include:
+  > • the Congress Party gained an overall victory by winning majorities in five provinces
+  > • the Congress Party was the largest single party in four other provinces
+  > • this victory confirmed their view as being the sole party representing Indian people
+  > • led to formation of cabinets in eight provinces which confirmed this victory
+  > • Congress could now freely impose their own schemes (Wardha etc) in the provinces
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Elections of 1937
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2016 and Oct/Nov 2019 "how successful were the 1937 elections" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the detail that the League "learned the lessons" by the more successful 1945 election. Topic chosen by user from clickable options, over the alternative Congress Rule (1937–1939).
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

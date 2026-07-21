@@ -438,3 +438,42 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q5A
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the main features of the 1973 Constitution.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it was introduced by Zulfikar Ali Bhutto
+  > • there were to be two houses, the Senate [1] and Assembly [1]
+  > • the Assembly to be elected for five years
+  > • members of the Senate to be elected from each of the four provinces
+  > • Pakistan to be a federal republic [1] with a parliamentary system of government [1]
+  > • the Prime Minister to be head of government
+  > • Pakistan to be an Islamic Republic with Islam as the state religion
+  > • the Prime Minister and President to be Muslim
+  > • fundamental human rights to be recognised [1], with the Supreme and High Courts to enforce these [1]
+  > • the President became largely a figurehead [1] whose orders had to be signed by the Prime Minister [1]
+  > • the Upper House (Senate) to be elected [1] and must not be dissolved [1]
+  > • emergency powers are available for the government
+  > • Urdu was re-confirmed as the national language
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Constitution, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file describing the 1973 Constitution's own terms/features directly, complementing this file's existing entries that reference it as background to his domestic reforms. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions bucket.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

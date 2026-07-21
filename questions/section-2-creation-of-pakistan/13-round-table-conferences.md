@@ -460,3 +460,44 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q2B
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why most people considered the three Round Table Conferences to be a failure.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > 1st
+  > • Congress boycotted the talks
+  > • there was deadlock on a federal system
+  > • the Minorities Subcommittee could not reach a conclusion
+  >
+  > 2nd
+  > • Gandhi took a hard line in the talks
+  > • Gandhi did not recognise the problems of the minorities
+  > • Gandhi said he spoke for all Indians which Jinnah disagreed with
+  >
+  > 3rd
+  > • Congress boycotted the talks
+  > • the princes and Jinnah boycotted the talks
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Failures, Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "how successful were the RTCs" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version organised by conference number (1st/2nd/3rd) rather than a successes/failures split. Topic chosen by user from clickable options, over the alternative Delhi Proposals & Simon Commission.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

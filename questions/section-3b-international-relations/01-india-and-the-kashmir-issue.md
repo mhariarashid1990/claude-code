@@ -257,3 +257,48 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/08-general-zia-ul-haq.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2023-V1-Q4C
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was the referral of the Kashmir issue to the United Nations important for the new state of Pakistan? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the referral of the Kashmir issue to the United Nations was important for the new state of Pakistan:
+  > • Pakistan joined the United Nations to draw their attention to Kashmir
+  > • the UN ordered a plebiscite to be held for all Kashmiris in 1948
+  > • a ceasefire was arranged in 1949 and a ceasefire line was agreed (now called the Line of Control (LoC))
+  > • the ceasefire line (Line of Control (LoC)) has been supervised by the UN since 1949
+  >
+  > Counter-argument might include:
+  > • the Kashmir issue remained unresolved despite its referral
+  > • the plebiscite was never enforced
+  > • there have been further conflicts between Pakistan and India over the Kashmir issue
+  > • there have been disputes over the ceasefire line (Line of Control (LoC))
+  >
+  > Other important issues:
+  > • Quaid-i-Azam Relief Fund created to help refugees
+  > • in July 1948 the new State Bank of Pakistan was set up
+  > • the new Pakistan Civil Service took control of the assets due to them
+  > • the Canal Water Dispute was temporarily agreed in 1948, and resolved in 1959
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Importance, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file evaluating the significance of the UN referral itself, complementing this file's existing "how successfully did India and Pakistan handle the Kashmir issue" entries. MS also lists several other Partition-era achievements (Quaid-i-Azam Relief Fund, State Bank of Pakistan, Canal Water Dispute) as "other important issues" beyond the Kashmir/UN focus, per the question's core theme. Topic chosen by user from clickable options, over the recommended United Nations & Other World Organisations.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md`, `section-3a-nationhood/01-initial-problems-quaid-e-azam.md` (alternate topics considered, not used)

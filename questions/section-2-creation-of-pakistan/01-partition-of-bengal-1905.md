@@ -307,3 +307,42 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q2C
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Bengal was partitioned in 1905 because it was too large.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that Bengal was partitioned in 1905 because it was too large:
+  > • 85 million people lived in West and East Bengal and Assam
+  > • Britain felt that the province would be easier to administer
+  > • the British wanted a separate government for East Bengal and Assam
+  >
+  > Counter-arguments might include:
+  > • the British wanted to divide up the province on religious grounds
+  > • the Muslim community believed partition would bring an end to Hindu oppression
+  > • The Hindu community believed partition was part of the British 'divide and rule' policy
+  > • Britain felt it would be easier to manage the growth of Hindu nationalism
+  > • there was a sense of deprivation in eastern Bengal in the Muslim community
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Causes, Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Source figure "85 million" for the combined population of West Bengal, East Bengal and Assam differs from this file's other entries, which variously give "54 million" (Bengal alone, with differing Hindu/Muslim breakdowns); reproduced exactly as printed, not reconciled, since the 85 million figure includes Assam and reflects the total partitioned territory rather than Bengal alone. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

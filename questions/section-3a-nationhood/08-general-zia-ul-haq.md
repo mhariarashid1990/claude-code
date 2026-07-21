@@ -536,3 +536,36 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q4B
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zia-ul-Haq introduced a programme of Islamisation.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Zia-ul-Haq wanted a strong and stable government with Islamic values
+  > • he wanted to punish people for showing disrespect towards the Holy Prophet (pbuh)
+  > • he wanted an Islamic education to raise Islamic awareness amongst students
+  > • he also wanted to distribute some wealth to the poor through tax
+  > • he felt that previously little attention had been paid to Islamic laws
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Causes, Religious, Domestic Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why Zia introduced Islamisation reforms" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions bucket.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

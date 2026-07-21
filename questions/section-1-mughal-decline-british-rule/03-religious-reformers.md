@@ -622,3 +622,37 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q1C
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how Titu Mir protected the interests of Muslim farmers in the subcontinent in the early nineteenth century.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Titu Mir advocated jihad against 'non-Islamic actions'
+  > • Titu Mir raised awareness of the sufferings of Muslim farmers in West Bengal during 1830s
+  > • Titu Mir gave Muslim farmers a cause the fight back at the sufferings they encountered
+  > • Titu Mir organised a rebellion against zamindars
+  > • Titu Mir advised Muslim farmers to not pay the tax on beards
+  > • Titu Mir set up his own fort/commune near Calcutta with a small army
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Leadership, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011 and May/June 2018 Titu Mir entries already in this file, reproduced separately and verbatim as its own distinct instance, this version framed around his protection of Muslim farmers specifically. Source anomaly preserved verbatim: "Titu Mir gave Muslim farmers a cause the fight back" (grammatical slip, likely intended "to fight back") — not corrected. Topic chosen by user from clickable options, over the alternative East India Company.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —

@@ -62,3 +62,35 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2023-V1-Q3A
+
+- **Year:** 2023
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Delhi Proposals of 1927.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • the Proposals were the work of Jinnah
+  > • Sindh should be separated from Bombay [1] and should be an independent province [1]
+  > • reforms introduced in the North-West Frontier Province and Balochistan should be the same as in any other province of India
+  > • willing to accept joint electorates at the expense of separate electorates
+  > • reservation of seats according to the population for different communities in the Punjab and Bengal
+  > • Muslims should be given one-third representation in the Central Legislature
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Delhi Proposals & Simon Commission
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2023 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the Delhi Proposals themselves as the sole subject of a question (the file's existing Oct/Nov 2015 entry concerns the Simon Report instead). Topic chosen by user from clickable options, over the alternative Jinnah's Fourteen Points.
+- **Version Number:** 31
+- **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
+- **Cross References:** —
