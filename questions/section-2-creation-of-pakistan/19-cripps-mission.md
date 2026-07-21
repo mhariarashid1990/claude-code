@@ -129,3 +129,35 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q4B
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Congress and the Muslim League opposed the Cripps Mission of 1942.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • the Muslim League wanted reference to the establishment of Pakistan
+  > • Congress wanted immediate control over India
+  > • Congress was unsure that the British would deliver the proposals in the plan
+  > • Congress wanted to exploit Britain's weak position at this time
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Cripps Mission
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2012, Oct/Nov 2015, and Oct/Nov 2019 "why did the Cripps Mission fail/opposed" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

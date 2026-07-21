@@ -85,3 +85,37 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q1C
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the importance of the Lucknow Pact of 1916.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, one explanation [5], two explanations or one developed explanation [6], additional explanation(s) and/or developed explanation(s) [7], supported by relevant and accurate contextual knowledge, 5–7; Level 2: Identification/description, 1 mark per identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • a pact was made between the Muslim League and Congress
+  > • Muslim League and Congress hoped that self-government was possible
+  > • the Muslim League saw the benefit of working with Congress
+  > • the Muslim League and Congress were working together for the first time
+  > • they never co-operated again
+  > • Congress accepted the principle of separate electorates for the Muslim community
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Lucknow Pact & First World War
+- **Secondary Tags:** Importance, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Same generic Table 1/Table 2 mark scheme format introduced in the Oct/Nov 2020 paper. Direct match — this file's core topic. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

@@ -279,3 +279,36 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q2B
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Muhammad Ali Jinnah chose Urdu as the national language of Pakistan.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Urdu was widely spoken and understood
+  > • He viewed it as a unifying force
+  > • it was associated with the Pakistan Movement
+  > • it has a rich literary heritage
+  > • it has important links to Islam
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Urdu Language Controversy (Languages)
+- **Secondary Tags:** Causes, Cultural
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011, May/June 2015, and Oct/Nov 2018 "why was Urdu chosen" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version explicitly naming Jinnah as the decision-maker. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

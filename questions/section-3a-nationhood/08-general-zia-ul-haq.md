@@ -465,3 +465,34 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q5A
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the main events of Muhammad Khan Junejo's political career.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Zia-ul-Haq [1] chose him as Prime Minister [1] in 1985 [1]
+  > • Muhammad Khan Junejo worked to develop the new Muslim League party
+  > • he called an all-Party Conference [1] in 1988 [1] to discuss the Afghan situation [1]
+  > • he announced an inquiry into an explosion at the army weapons dump/Ojhri Camp [1] in 1988 [1] promising justice [1]
+  > • he was dismissed from office [1] by Zia-ul-Haq [1] on 29 May 1988 [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Political, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated Muhammad Khan Junejo topic exists in the taxonomy; user chose General Zia-ul-Haq over Multiple Regime Questions (1947–1999), since Junejo was Zia's own appointee and was ultimately dismissed by Zia — the whole of his career as described in the MS is bookended by Zia's decisions. First entry in this file naming Junejo as the sole subject of a question (he was previously referenced only in passing within this file's May/June 2010, Oct/Nov 2012, and May/June 2016 entries on Zia's late-1980s governing difficulties).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

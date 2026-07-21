@@ -420,3 +420,33 @@ other named Section 2 topics._
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q3A
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe what happened at Allahabad in 1930.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Allama Iqbal chaired a meeting of the Muslim League in Allahabad
+  > • in his presidential address [1] he called for all Muslims to work towards achieving a separate homeland [1]
+  > • he argued that Islam united Muslims into one nation [1] and there could be no peace unless they were recognised as such [1]
+  > • he wanted some areas to be amalgamated into a separate state (Punjab, NWFP and Balochistan) (any one named [1])
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Features, Political, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Consistent with established precedent (this file's Oct/Nov 2017 Q1(c) entry) filing Iqbal's 1930 Allahabad Address under this topic. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

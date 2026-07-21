@@ -1045,3 +1045,67 @@ V1 — normal series). Total: 333 questions across 23 papers. Remaining in
 this batch: 2021–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 27 — 2026-07-21
+
+**Questions added:** 14 (PK2059-MJ-2021-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files, though two
+entries (Ranjit Singh under Decline of the Mughal Empire; Muhammad Khan
+Junejo under General Zia-ul-Haq) are the first in their files to name that
+particular historical figure as the sole subject of a question.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 333 → 347, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2021 row updated to "May/June, V1" with status "In
+progress" (Oct/Nov 2021 still outstanding).
+**Reason:** Twenty-fourth paper processed — Cambridge O Level 2059/01,
+Paper 1, May/June 2021, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format introduced in
+the Oct/Nov 2020 paper.
+
+Every one of the 14 parts required under the 2015–2025 extraction pattern
+(Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d) capped at
+10 marks) was extracted. Twelve of the 14 parts had only one plausible
+allocation with no genuine alternative topic, so per the AskUserQuestion
+tool's own constraint, those allocations were stated directly to the user:
+Q1(c) (Lucknow Pact of 1916), Q1(d) (India's benefit from WWI support by
+the early 1920s, under Montagu–Chelmsford Reforms & Other Events of 1919),
+Q2(a) (Ranjit Singh's achievements, under Decline of the Mughal Empire — no
+dedicated Sikh Empire topic exists), Q2(b) (Jinnah's choice of Urdu),
+Q2(c) (Shah Waliullah, spread of Islam 1700–1850), Q3(a) (Allahabad
+1930/Iqbal's address), Q3(b) (formation of the Muslim League in 1906),
+Q3(c) (outcomes of the War of Independence), Q4(a) (Simla Agreement,
+under Zulfiqar Ali Bhutto), Q4(b) (opposition to the Cripps Mission 1942),
+Q4(c) (Ayub Khan's agricultural policies), and Q5(c) (Pakistan–USA
+relations since 1947).
+
+Two parts had genuine alternative topics and were presented via
+AskUserQuestion: Q5(a) ("Describe the main events of Muhammad Khan
+Junejo's political career") — no dedicated Junejo topic exists; the user
+chose **General Zia-ul-Haq** (Recommended) over Multiple Regime Questions
+(1947–1999), since Junejo was Zia's own appointee and was ultimately
+dismissed by Zia. Q5(b) ("Explain why there were changes of government
+between 1951 and 1958") — spans multiple short-lived governments rather
+than one leader's story; the user chose **Multiple Regime Questions
+(1947–1999)** (Recommended) over Iskander Mirza.
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(b) (why Urdu was chosen), Q2(c)
+(Shah Waliullah's importance), Q3(b) (why the Muslim League formed), Q4(b)
+(Cripps Mission opposition), Q4(c) (Ayub Khan's most effective domestic
+policy), Q5(b) (why there were changes of government 1951–1958), and
+Q5(c) (Pakistan–USA relations) all parallel earlier entries in their
+respective topic files. Minor source anomaly preserved verbatim, not
+corrected: Q2(c)'s MS reads "he promoted Islam through this writings and
+education" (a grammar slip, likely intended "his writings"). All 14 parts
+were present and extracted; none skipped.
+
+**2021 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 347 questions across 24 papers. Remaining in this batch:
+2021 Oct/Nov, then 2022–2025 May/June and Oct/Nov papers for 2059/01
+(14-part pattern), still to come.
+**Date:** 2026-07-21

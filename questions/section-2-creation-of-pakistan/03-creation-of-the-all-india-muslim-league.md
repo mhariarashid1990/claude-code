@@ -271,3 +271,37 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/02-simla-deputation-1906.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2021-V1-Q3B
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Muslim League was formed in 1906.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • to unite the Muslim community
+  > • Hindu groups had their own party
+  > • Hindu groups wanted their own language
+  > • there was a view that Hindu groups would dominate the Muslim community
+  > • the Muslim community were successful in the Simla Deputation
+  > • the growth of some Hindu groups concerned the Muslim community
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why was the Muslim League formed" entries already in this file, reproduced separately and verbatim as its own distinct instance. MS names "Simla Deputation" here, consistent with this file's Oct/Nov 2019 entry rather than the "Simla Declaration"/"Simla Agreement" wording used in earlier papers. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

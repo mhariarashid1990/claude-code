@@ -122,3 +122,49 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q5C
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has had good relations with the United States of America since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that Pakistan has had good relations with the United States of America since 1947:
+  > • Pakistan signed the Mutual Defence Assistance Agreement in 1954
+  > • Pakistan joined SEATO in 1955
+  > • Ayub Khan allowed USA to build air bases in Pakistan
+  > • USA gave aid packages of $1.6 billion spread over five years in 1981 and $4.2 billion in 1986
+  > • President Clinton restored sales of aircraft to Pakistan in 1993
+  > • First Lady of the USA visited Pakistan in 1996
+  > • Benazir Bhutto visited USA in 1996
+  > • USA reimbursed Pakistan for the F-16 payments and provided military equipment worth $388 million in 1996
+  >
+  > counter-arguments might include:
+  > • USA provided military equipment to India during its war with China in 1962
+  > • Pakistan turned away from USA to China for friendship in 1962
+  > • USA placed an arms embargo on India and Pakistan in 1965
+  > • USA aid was suspended in 1977 and 1979 during Zia-ul-Haq's rule
+  > • at the end of the Afghan conflict USA would not declare Pakistan nuclear free and blocked aid
+  > • In 1992 the USA placed economic sanctions on Pakistan
+  > • USA objected to Pakistan's nuclear tests in 1998
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2015 "how successful has Pakistan's relationship with the USA been" entry already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the $388 million 1996 F-16 reimbursement figure and specific 1981/1986 aid-package figures. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

@@ -330,3 +330,33 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q4A
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the Simla Agreement.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • an agreement signed in July 1972 [1] between Bhutto [1] and Gandhi [1]
+  > • India agreed to return imprisoned soldiers [1]
+  > • Both countries promised to discuss the Kashmir issue [1]
+  > • and not with organisations such as the United Nations [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Applies the same precedent as this file's May/June 2013 and Oct/Nov 2010 entries: Simla Agreement (1972) filed under Zulfiqar Ali Bhutto, distinct from "Simla Conference" (1945) and "Simla Deputation" (1906). MS names the Indian signatory simply "Gandhi" (Indira Gandhi), consistent with the informal naming pattern in this file's other Simla Agreement entries. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md` (alternate topic considered, not used)

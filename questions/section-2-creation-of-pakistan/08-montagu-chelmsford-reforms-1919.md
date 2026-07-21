@@ -259,3 +259,59 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q1D
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent had India benefitted by the early 1920s from supporting the British in the First World War? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that India had benefitted by the early 1920s from supporting the British in the First World War because:
+  > • in 1917 India was told it would be given a greater say in government
+  > • a report in 1918 suggested that India might have self-government
+  > • the Government of India Act 1919 announced separate electorates
+  >
+  > counter-arguments might include:
+  > • the 1919 Act retained most of the power in India in British hands
+  > • minority groups were not given separate electorates
+  > • the Rowlatt Act of 1919 was very restrictive on Indian peoples lives
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Comparison, Successes, Failures, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern; MS content spans the 1917 declaration, the 1918 report, the Government of India Act 1919, and the Rowlatt Act — all clustered within this topic's established scope. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

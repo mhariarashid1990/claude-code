@@ -519,3 +519,42 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q2C
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The work of Shah Waliullah was the main factor contributing to the spread of Islam between 1700 and 1850.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the work of Shah Waliullah was the main factor contributing to the spread of Islam in the subcontinent between 1700 and 1850 because:
+  > • Shah Waliullah wanted to stop the decline of Islam
+  > • he promoted Islam through this writings and education
+  > • he translated the Quran into Persian
+  > • he tried to unite different Muslim sects
+  >
+  > counter-arguments might include:
+  > • the founding of the Jihad Movement by Syed Ahmad Barelvi to help unite Muslims
+  > • he also created an army (the Mujahideen - fighters for the faith)
+  > • the establishment of the Faraizi Movement by Haji Shariatullah
+  > • he wanted all Muslims to give up non-Muslim practices
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior three-way reformer-comparison entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: MS reads "he promoted Islam through this writings and education" (grammatical slip, likely intended "his writings") — not corrected. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

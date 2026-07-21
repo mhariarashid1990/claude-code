@@ -593,3 +593,43 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q3C
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were the outcomes of the War of Independence beneficial for India? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one-side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the outcomes of the War of Independence were beneficial for India:
+  > • the Doctrine of Lapse was abolished
+  > • the East India Company came to an end
+  > • irrigation schemes were begun
+  > • Indian farmers benefitted from new farming methods
+  > • the railway network was extended
+  >
+  > counter-arguments might include:
+  > • the British carried out reprisals
+  > • the Mughal Emperor was banished
+  > • the Princes lost power
+  > • disruption to trade and business
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Consequences, Comparison, Successes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file evaluating the War's outcomes/consequences for India rather than its causes or failure. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

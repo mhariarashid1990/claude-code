@@ -496,3 +496,33 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2021-V1-Q2A
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the achievements of Ranjit Singh.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Ranjit Singh annexed Punjab [1], Kashmir [1] and most of Afghanistan [1]
+  > • he was a founder of Sikh rule in the Punjab
+  > • he signed a treaty with Britain in 1809 [1] in Sindh [1]
+  > • his expansion into Afghanistan worried Britain
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Features, Successes
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming Ranjit Singh directly. No dedicated Sikh Empire topic exists in the taxonomy; filed here since his rise (like the Marathas' rise, already covered in this file) is one of the regional powers that emerged as the Mughal Empire declined. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, no prior moves
+- **Cross References:** —

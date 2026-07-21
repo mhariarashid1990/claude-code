@@ -346,3 +346,36 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md` (single-leader topic touched on, not used as primary)
+
+### UQID: PK2059-MJ-2021-V1-Q5B
+
+- **Year:** 2021
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there were changes of government between 1951 and 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Muhammad Ali Jinnah and Liaquat Ali Khan had died
+  > • the remaining politicians were inexperienced
+  > • In 1953 there was a severe drought causing food shortages
+  > • there was some discontent amongst the people who were suffering hardship leading to riots
+  > • East Pakistan had faced severe floods causing food shortages in 1955
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2014 and May/June 2019 "why were there many governments between 1951 and 1958" entries already in this file, reproduced separately and verbatim as its own distinct instance. Spans the general political instability across several unnamed governments (Nazimuddin, Bogra, Chundrigar, etc.) rather than one leader's story; user chose the Multiple Regime Questions bucket over Iskander Mirza, consistent with the established precedent for this recurring question type in this bank.
+- **Version Number:** 27
+- **Allocation History:** Allocated on extraction, Version 27, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)
