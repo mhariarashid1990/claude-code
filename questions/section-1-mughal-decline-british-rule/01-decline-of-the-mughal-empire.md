@@ -526,3 +526,95 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q1C
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Hindu community objected to the Jizya tax.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • the charge was levied on able-bodied non-Muslim adult men
+  > • only non-Muslim men who chose to join the Mughal army were exempted from the charge
+  > • it created an incentive amongst non-Muslims to convert to Islam to avoid the charge
+  > • the jizya charge was sometimes more than the zakat charge paid by Muslim men
+  > • some of the charge was used for the Deccan Wars
+  > • some of the charge was used to support Islamic religious activities
+  > • some of the charge was used for funding the royal court
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Companion question to this file's Oct/Nov 2020 Q2(a) entry describing the Jizya tax itself; this entry instead explains the Hindu community's objections to it. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q1D
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > 'The Marathan rebellions were the main reason for the decline of the Mughal Empire after the death of Aurangzeb.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that the Marathan rebellions were the main reason for the decline of the Mughal Empire after the death of Aurangzeb:
+  > • the Marathans were guerrilla fighters
+  > • they defeated a Mughal army in 1737
+  > • they occupied Delhi in 1760
+  >
+  > counterarguments may include:
+  > • the Empire was very large (making it difficult to manage)
+  > • the Persian and Afghan armies invaded
+  > • there was no line of succession
+  > • the British had a powerful army
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern; near-identical content to several prior "decline of the Mughal Empire" entries already in this file. Source spells "Marathan" (elsewhere in this bank spelled "Maratha"/"Marathas") — reproduced exactly as printed, not corrected. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

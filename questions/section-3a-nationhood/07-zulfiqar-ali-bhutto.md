@@ -360,3 +360,38 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2021-V1-Q5B
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zulfikar Ali Bhutto reformed education between 1971 and 1977.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • to increase literacy levels in Pakistan
+  > • to increase the numbers of children in school (approximately half of all children attended school in 1970)
+  > • to provide education for all, including women
+  > • to redress historic underinvestment in education and on schools
+  > • to raise aspirations through education
+  > • to create a 'Pakistani' culture and identity
+  > • to develop a common school curriculum that was 'fit for purpose'
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Causes, Domestic Policy
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — his own education reforms, previously referenced only in passing within this file's Oct/Nov 2011, May/June 2015, and Oct/Nov 2018 entries on his broader domestic policies; this is the first entry with his education reforms as the sole subject. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

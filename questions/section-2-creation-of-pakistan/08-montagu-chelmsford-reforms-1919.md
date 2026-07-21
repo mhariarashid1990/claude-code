@@ -315,3 +315,35 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q3A
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the events that took place at Jallianwalla Bagh in 1919.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • a peaceful demonstration [1] was being held by Indian people [1]
+  > • Jallianwalla Bagh/the park [1] was reached by a narrow entrance with high walls [1]
+  > • British troops fired on a crowd [1] of (20000) Indian people [1]
+  > • General Dyer commanded the British troops
+  > • many (400) people were killed [1] and many (1200) people wounded [1]
+  > • the crowd panicked [1] and tried to escape out of the park [1] through the narrow entrances [1] leading to a crush [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's May/June 2020 Q3(a) entry on General Dyer, reproduced separately and verbatim as its own distinct instance, this version framed around the Jallianwalla Bagh location itself rather than Dyer as a person. Source spells "Jallianwalla Bagh" (elsewhere in this bank usually "Jallianwala Bagh") — reproduced exactly as printed, not corrected. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

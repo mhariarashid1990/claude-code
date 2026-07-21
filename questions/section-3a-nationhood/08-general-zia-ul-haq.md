@@ -496,3 +496,43 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2021-V1-Q5C
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was the Islamisation programme the most significant domestic policy introduced by the government of Zia-ul-Haq between 1977 and 1988? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the Islamisation policy was the most significant domestic policy introduced by the government of Zia-ul-Haq between 1977 and 1988:
+  > • Zia introduced Islamic laws to commit people to Islamic values
+  > • the introduction of Hudood, Zina, and Zakat Ordinances was intended to embed Islamic principles in the everyday running of Pakistan
+  > • this policy would enable Zia-ul-Haq to win support from religious groups such as Jamaat-i-Islami
+  > • the Islamisation programme would help to establish a strong and stable government
+  >
+  > counterarguments may include:
+  > • Zia-ul-Haq passed the Eighth Amendment which gave him greater power
+  > • private sector investment in denationalised industries was encouraged
+  > • economic policies increased GDP and the economic growth rate
+  > • changes to the governance of the civil service
+  > • he increased the visibility of women in society by increasing their representation in the National Assembly in 1985
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Religious, Domestic Policy, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "was Islamic policy the most important of Zia's domestic policies" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version naming Jamaat-i-Islami specifically and adding the 1985 National Assembly women's representation detail among the counterarguments. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

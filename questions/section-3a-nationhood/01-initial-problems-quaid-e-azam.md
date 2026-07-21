@@ -319,3 +319,44 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q3C
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'By 1948 Pakistan had solved the challenges created by Partition.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that by 1948 Pakistan had solved the challenges created by Partition:
+  > • refugees were accommodated
+  > • Quaid-e-Azam toured the provinces to promote unity
+  > • in July 1948, the new State Bank of Pakistan was set up
+  > • in 1948 the new Pakistan Civil Service was founded
+  > • Canal Water dispute was partially solved in 1948
+  >
+  > Counterarguments may include:
+  > • the Princely States of Hyderabad and Junagadh took longer to choose between India and Pakistan
+  > • the Kashmir issue remained
+  > • British officers were still running the armed forces
+  > • East and West Pakistan remained physically distanced
+  > • the Canal Water dispute was ongoing
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "how successful was Pakistan in solving the problems of Partition" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the Junagadh Princely State and the Pakistan Civil Service's founding date as new detail. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

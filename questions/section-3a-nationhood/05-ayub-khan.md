@@ -467,3 +467,36 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q4B
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why martial law was implemented in 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • There were multiple Prime Ministers from 1956 to 1958 which had caused uncertainty
+  > • the country lost confidence in its leaders
+  > • many of the politicians at the time were inexperienced
+  > • the army wanted to stabilise the country
+  > • to manage the aftermath of the floods and famine in East Pakistan
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2012, Oct/Nov 2013, May/June 2016, and Oct/Nov 2020 "why Ayub Khan came to power/martial law 1958" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

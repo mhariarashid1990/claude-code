@@ -455,3 +455,36 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q2B
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Sir Syed Ahmad Khan wanted to improve relations between the Muslim community and the British after the War of Independence.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Sir Syed Ahmad Khan foresaw the potential power of the Hindu community in India
+  > • he believed that the Muslim community was not responsible for the War
+  > • he wanted to prevent any future suffering of the Muslim community
+  > • he wanted to improve the social and economic conditions of the Muslim community/the Muslim community to prosper
+  > • he wanted the Muslim community to have improved educational opportunities
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2014 and May/June 2018 "why Sir Syed Ahmad Khan tried to improve relations" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

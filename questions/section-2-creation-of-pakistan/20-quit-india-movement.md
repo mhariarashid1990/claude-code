@@ -30,3 +30,35 @@
 - **Version Number:** 13
 - **Allocation History:** Allocated on extraction, Version 13, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q4A
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Quit India Resolution.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • the decision by Congress [1] that Gandhi should lead a non-violent mass movement [1] demanding the immediate withdrawal of the British from India [1] was passed as the Quit India Resolution in 1942 [1]
+  > • Gandhi argued if Britain left India, Japan would no longer be a threat
+  > • that night Gandhi and other Congress members were arrested [1] and Congress was banned [1]
+  > • there were riots [1] and a loss of British control in some areas, [1] after violent crackdowns on rioters by the British restored power [1]
+  > • the Muslim League opposed the campaign [1] but sheltered activists [1] and gave financial support [1]
+  > • it gave momentum to independence
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Quit India Movement
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2013 entry on the same event, reproduced separately and verbatim as its own distinct instance, this version adding new detail on the Muslim League sheltering activists and giving financial support despite opposing the campaign. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

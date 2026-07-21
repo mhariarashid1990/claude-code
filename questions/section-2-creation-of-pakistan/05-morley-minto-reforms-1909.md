@@ -57,3 +57,35 @@
 - **Version Number:** 17
 - **Allocation History:** Allocated on extraction, Version 17, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q3B
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Congress Party opposed the Morley-Minto reforms of 1909.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • the British would not give more political responsibility to India
+  > • Congress opposed the principle of separate electorates
+  > • self-rule was not given or promised
+  > • Congress raised objection to Muslim representation in the Councils
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Morley–Minto Reforms (1909)
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — third entry in this topic file, near-identical in theme to this file's May/June 2013 (2059/41) entry on the same reforms. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

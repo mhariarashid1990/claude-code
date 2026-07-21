@@ -1109,3 +1109,74 @@ batch). Total: 347 questions across 24 papers. Remaining in this batch:
 2021 Oct/Nov, then 2022–2025 May/June and Oct/Nov papers for 2059/01
 (14-part pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 28 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2021-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 347 → 361, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2021 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Twenty-fifth paper processed — Cambridge O Level 2059/01,
+Paper 1, October/November 2021, single variant. This mark scheme carries
+no COVID-19 cancellation notice — a normal series, extracted normally,
+using the same generic Table 1/Table 2 levels-of-response format
+introduced in the Oct/Nov 2020 paper.
+
+Every one of the 14 parts required under the 2015–2025 extraction pattern
+(Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d) capped at
+10 marks) was extracted. Thirteen of the 14 parts had only one plausible
+allocation with no genuine alternative topic, so per the AskUserQuestion
+tool's own constraint, those allocations were stated directly to the user:
+Q1(c) (Hindu objections to the Jizya tax) and Q1(d) (Marathan rebellions
+and Mughal decline), both under Decline of the Mughal Empire; Q2(a)
+(battle of Buxar, under East India Company — first entry naming this
+battle directly); Q2(b) (Sir Syed Ahmad Khan's post-1857 reconciliation
+efforts); Q2(c) (imprisonment of leaders ending the Khilafat Movement);
+Q3(a) (Jallianwalla Bagh 1919, under Montagu–Chelmsford Reforms & Other
+Events of 1919); Q3(b) (Congress opposition to the Morley-Minto reforms
+of 1909); Q3(c) (Pakistan's success solving Partition's challenges by
+1948, under Initial Problems of Pakistan & Quaid-e-Azam as
+Governor-General); Q4(a) (Quit India Resolution); Q4(b) (martial law
+1958, under Ayub Khan); Q4(c) (Pakistan's effectiveness in world
+organisations); Q5(b) (Zulfikar Ali Bhutto's education reforms
+1971–1977); and Q5(c) (Zia-ul-Haq's Islamisation programme).
+
+One part had a genuine alternative topic and was presented via
+AskUserQuestion: Q5(a) ("Describe the 'cricket diplomacy' of 1987" —
+Zia-ul-Haq attending a Pakistan–India test match in Jaipur and meeting
+Rajiv Gandhi to ease tensions over Indian army exercises). The user
+explicitly overrode the recommended option (General Zia-ul-Haq) and
+directed this into **India and the Kashmir Issue** instead, since the
+substance of the event is bilateral India–Pakistan diplomacy rather than
+a domestic Zia policy — the first entry in that topic file to name the
+1987 cricket-diplomacy meeting directly.
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(d) (Mughal decline after
+Aurangzeb), Q2(b) (Sir Syed Ahmad Khan's reconciliation efforts), Q2(c)
+(Khilafat Movement's end), Q3(a) (Jallianwalla Bagh/Amritsar, complementing
+this bank's existing General Dyer entry), Q3(c) (Pakistan's post-Partition
+challenges), Q4(a) (Quit India Resolution), Q4(b) (Ayub Khan's rise to
+power), Q4(c) (Pakistan's world-organisation memberships), and Q5(c)
+(Zia's most significant domestic policy) all parallel earlier entries in
+their respective topic files. Minor source anomalies preserved verbatim,
+none corrected: Q1(d)'s MS spells "Marathan" (elsewhere in this bank
+"Maratha"/"Marathas"); Q2(a)'s MS dates the "Treaty of Allahabad" to 1768
+(historically 1765); Q2(c)'s MS names "Mohammed Ali and Shaukat Ali-Maulana
+Azad" as the Khilafat Movement's leaders, apparently running together
+three distinct names without clear separation, and including Maulana Azad
+who was a Congress rather than Khilafat Movement figure; Q3(a) spells
+"Jallianwalla Bagh" (elsewhere in this bank usually "Jallianwala Bagh").
+All 14 parts were present and extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2021** (both May/June
+and Oct/Nov). Total: 361 questions across 25 papers. Remaining in this
+batch: 2022–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-21

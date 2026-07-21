@@ -228,3 +228,32 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q5A
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the 'cricket diplomacy' of 1987.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Zia-ul-Haq [1] attended a test match between Pakistan and India [1] in Jaipur, [1] where he met with Rajiv Gandhi [1]
+  > • to discuss Indian army exercises in the Rajasthan desert, [1] which were of concern to Pakistan [1]
+  > • the meeting helped to lessen frictions between Pakistan and India at the time [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the 1987 'cricket diplomacy' meeting directly. Although the meeting was Zia-ul-Haq's own initiative, the user directed this into India and the Kashmir Issue rather than General Zia-ul-Haq, since the substance of the event is bilateral India–Pakistan tension-easing diplomacy rather than a domestic Zia policy.
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/08-general-zia-ul-haq.md` (alternate topic considered, not used)

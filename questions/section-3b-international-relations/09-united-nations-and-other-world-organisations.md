@@ -297,3 +297,43 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q4C
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent has Pakistan been an effective member of world organisations since 1947? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that Pakistan has been an effective member of world organisations since 1947:
+  > • joined the United Nations (UN) in 1947 becoming a large contributor of troops to the UN peacekeeping forces
+  > • joined SEATO in 1954 showing solidarity with a USA sponsored defence agreement for Southeast Asia against the USSR
+  > • joined CENTO in 1955 becoming a key member looking towards allying with western democracies against the USSR in the Middle East
+  > • joined the OIC in 1969 to show solidarity and co-operation with other member states from Muslim countries
+  > • re-joined the Commonwealth community in 1989
+  >
+  > Counterarguments may include:
+  > • left the Commonwealth in 1971 when British recognised Bangladesh
+  > • left SEATO in 1972 as it was not providing Pakistan with adequate support
+  > • left CENTO in 1979 because Pakistan felt that CENTO was no longer meeting its security requirements
+  > • the Kashmir issue
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "how effective/successful has Pakistan been in world organisations" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version explicitly naming the OIC's 1969 joining alongside the UN/SEATO/CENTO/Commonwealth memberships. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

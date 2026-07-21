@@ -1224,3 +1224,36 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q2A
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe what happened at the battle of Buxar.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • in 1764 [1] British forces/Hector Munro [1] fought the Indian army at Buxar/Baksar [1]
+  > • the Nawab of Bengal/Mir Qasim [1] Shah Alam II [1] Nawab of Oudh [1] were on the Indian side
+  > • there were (1000) British casualties [1] and (6000) Indian casualties [1]
+  > • the battle confirmed British authority over Bengal
+  > • the war was ended by the Treaty of Allahabad [1] in 1768 [1]
+  > • the East India Company took control of Bengal/Bihar/Oudh/Orissa (1)
+  > • Robert Clive was reappointed as Governor of Bengal
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the battle of Buxar as the sole subject of a question (Mir Qasim, one of its combatants, was already covered in this file's May/June 2020 Q2(a) entry). Source anomaly preserved verbatim: MS gives the Treaty ending the war as "Treaty of Allahabad" dated "1768" — the historically-dated Treaty of Allahabad is 1765, not 1768 — reproduced exactly as printed, not corrected. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —

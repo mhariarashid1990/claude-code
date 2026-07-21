@@ -488,3 +488,43 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2021-V1-Q2C
+
+- **Year:** 2021
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The imprisonment of its leaders was the main reason for the Khilafat Movement ending.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the imprisonment of its leaders was the main reason for the Khilafat Movement ending:
+  > • Mohammed Ali and Shaukat Ali-Maulana Azad were the leaders
+  > • the Ali brothers and other leaders were imprisoned in 1921
+  > • the Khilafat Movement lost direction as a result of their imprisonment
+  >
+  > counterarguments may include:
+  > • Muslim groups migrated to Afghanistan in 1920
+  > • the Moplah uprising took place in 1921
+  > • Gandhi withdrew his support in 1922
+  > • Kemal Ataturk abolished the Caliph in 1924
+  > • the strength of the British response to events
+  > • Muhammad Ali Jinnah did not actively support the Movement
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2021 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why did the Khilafat Movement fail/end" entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: MS lists "Mohammed Ali and Shaukat Ali-Maulana Azad" as "the leaders" — this appears to run together three separate names (Mohammed Ali, Shaukat Ali, and Maulana Azad) without a clear separator, and Maulana Azad was a Congress rather than Khilafat Movement leader — not corrected, per verbatim rule. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 28
+- **Allocation History:** Allocated on extraction, Version 28, no prior moves
+- **Cross References:** —
