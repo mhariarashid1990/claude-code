@@ -371,3 +371,40 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/08-gulf-countries.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q4C
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has been an effective member of world organisations since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > may agree that Pakistan has been an effective member of world organisations since 1947:
+  > • joined the United Nations (UN) in 1947 becoming a large contributor of troops to the UN peacekeeping forces
+  > • joined SEATO in 1954 showing solidarity with a USA sponsored defence agreement for Southeast Asia against the USSR
+  > • joined CENTO in 1955 becoming a key member looking towards allying with western democracies against the USSR in the Middle East
+  > • joined the OIC in 1969 to show solidarity and cooperation with other member states from Muslim countries
+  > • rejoined the Commonwealth community in 1989
+  >
+  > counter-arguments might include:
+  > • left the Commonwealth in 1971 over British recognition of Bangladesh
+  > • left SEATO in 1972 due to lack of assistance/support
+  > • left CENTO in 1979 because Pakistan felt that CENTO was no longer meeting its security requirements
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2021 "has Pakistan been an effective member of world organisations" entry, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative United Kingdom & the Commonwealth.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/10-united-kingdom-and-the-commonwealth.md` (alternate topic considered, not used)

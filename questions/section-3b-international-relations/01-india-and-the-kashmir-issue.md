@@ -302,3 +302,33 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md`, `section-3a-nationhood/01-initial-problems-quaid-e-azam.md` (alternate topics considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q5A
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the meeting between President Zia-ul-Haq and Prime Minister Rajiv Gandhi in February 1987.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • they met during a cricket match (1) between Pakistan and India (1) in Jaipur (1)
+  > • they discussed matters which were of concern to Pakistan (1) such as the Siachen glacier (1)
+  > • the meeting helped to moderate relations between Pakistan and India at the time
+  > • the media named the meeting 'cricket diplomacy'
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** India and the Kashmir Issue
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2021 "'cricket diplomacy' of 1987" entry, reproduced separately and verbatim as its own distinct instance — this version names the Siachen glacier specifically rather than "Indian army exercises in the Rajasthan desert." Consistent with the explicit user instruction establishing this precedent: cricket diplomacy is filed under India and the Kashmir Issue, per the bilateral India–Pakistan tension-easing framing of the event, over the alternative General Zia-ul-Haq.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/08-general-zia-ul-haq.md` (alternate topic considered, not used)

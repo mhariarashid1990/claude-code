@@ -727,3 +727,33 @@
 - **Version Number:** 35
 - **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/02-east-india-company.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q2B
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Syed Ahmad Barelvi set up the Jihad movement.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • Syed Ahmad Barelvi was concerned about the spread of un-Islamic practices
+  > • he was opposed to foreign and non-Muslim forces dominating
+  > • he believed strongly in Jihad and had a military background
+  > • he opposed Sikh dominance led by Ranjit Singh
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Causes, Religious, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior Syed Ahmad Barelvi/Jihad Movement entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

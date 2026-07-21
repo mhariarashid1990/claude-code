@@ -224,3 +224,33 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2025-V1-Q3B
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the lessons learnt from the 1937 elections were of long-term benefit to the Muslim League.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • it was the first major election fought which helped to unify the Muslim League
+  > • it meant that improvements in organisation, planning and campaigning were needed/identified
+  > • they identified areas of Muslim support and targeted campaign resources appropriately
+  > • the Muslim League recognised that their image needed to be improved in order to attract more Muslims
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Elections of 1937
+- **Secondary Tags:** Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "how successful were the 1937 elections" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version framed specifically around the long-term lessons learnt. Topic chosen by user from clickable options, over the alternative Congress Rule (1937–1939).
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/16-congress-rule-1937-1939.md` (alternate topic considered, not used)

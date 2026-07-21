@@ -24,7 +24,7 @@ assumed in advance (Golden Rule 5).
 | 2022 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2023 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2024 | May/June, V1 + Oct/Nov, V1 | Complete |
-| 2025 | May/June, V1 | In progress |
+| 2025 | May/June, V1 + Oct/Nov, V1 | Complete |
 
 ## Cambridge IGCSE — Pakistan Studies History & Culture (0448/01)
 

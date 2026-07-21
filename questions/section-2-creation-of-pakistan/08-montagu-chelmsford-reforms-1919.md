@@ -438,3 +438,46 @@
 - **Version Number:** 34
 - **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q3C
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The Montagu–Chelmsford Reforms were unsuccessful in achieving political reform in the subcontinent.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > may agree that the Montagu–Chelmsford reforms were unsuccessful:
+  > • the Montagu-Chelmsford reforms gave few concessions
+  > • in effect only 5.5 million Indians from a population of 250 million could vote
+  > • Gandhi and Jinnah criticised the proposals
+  > • a Council of Princes had little power
+  > • overall power was in the hands of the Viceroy who could still pass any law he chose
+  > • people expected more concessions from the British after the War
+  >
+  > counter-arguments might include:
+  > • it is the first mention of self-rule for Indians
+  > • a national parliament was set up with two houses, the Legislative Assembly and the Council of State
+  > • the Legislative Assembly to have 145 members
+  > • the Council of State to have 60 members
+  > • there should be separate electorates for Muslims and Sikhs
+  > • the British believed more Indians were able to vote
+  > • a Council of Princes was set up
+  > • a system of diarchy was introduced in the provinces
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Comparison, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the specific composition of the Legislative Assembly (145 members) and Council of State (60 members) directly. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)

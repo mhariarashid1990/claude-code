@@ -410,3 +410,33 @@
 - **Version Number:** 34
 - **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q4B
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why educational reforms became so important to Pakistan during the 1960s and 1970s.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • politicians wanted to improve literacy rates in Pakistan
+  > • a lot of money was spent on reforms other than education
+  > • people argued similar amounts should be spent on schools
+  > • politicians wanted to raise aspirations through education
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Multiple Regime Questions (1947–1999)
+- **Secondary Tags:** Causes, Educational, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No exact-name taxonomy topic exists for general education policy spanning both decades; the question covers both Ayub Khan's 1960s reforms and Zulfiqar Ali Bhutto's 1970s reforms without naming either leader, consistent with the established precedent of filing general cross-decade education-reform questions (May/June 2013 (2059/41), Oct/Nov 2018) in this bucket. Topic chosen by user from clickable options, over the alternative Zulfiqar Ali Bhutto.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/07-zulfiqar-ali-bhutto.md` (alternate topic considered, not used)

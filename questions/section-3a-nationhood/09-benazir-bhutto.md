@@ -478,3 +478,41 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/09-united-nations-and-other-world-organisations.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q5C
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were differences between Prime Minister Benazir Bhutto and President Ghulam Ishaq Khan the main reason why she left office in 1990? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > may agree that the differences between Benazir Bhutto and President Ishaq Khan was the main reason why she left office in 1990:
+  > • both had differences of opinions over the appointment of political and military personnel
+  > • the President was reluctant to give Benazir Bhutto full details of Pakistan's nuclear programme
+  > • the President used the Eighth Amendment to dismiss her from office
+  >
+  > counter-arguments might include:
+  > • in Sindh, areas of growing opposition to PPP and support for MQM
+  > • riots and unrest in Karachi
+  > • conflict with Nawaz Sharif who controlled provincial government in Punjab
+  > • a no-confidence motion in the government in 1989 was defeated
+  > • inflation and unemployment
+  > • events in Kashmir
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "why was Benazir Bhutto dismissed in 1990" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version naming the Eighth Amendment specifically as the constitutional mechanism used and giving her nuclear-programme dispute with the President as a new detail. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

@@ -155,3 +155,47 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q4A
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the 1956 Constitution.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it gave the title Islamic Republic of Pakistan
+  > • all citizens shall be equal
+  > • the independence of the judiciary was to be guaranteed
+  > • the President to be a Muslim (1) and over 40 (1)
+  > • the President was to be elected by the central and provincial legislatures
+  > • the President had the right to dissolve the assembly on the Prime Minister's advice
+  > • the President cannot serve more than two terms
+  > • the President to appoint the Prime Minister and the Cabinet
+  > • only members of the National Assembly can be Ministers
+  > • the National Assembly to have equal number of seats from East and West Pakistan
+  > • if bill passed by the Assembly, President to give consent within 90 days (1) if refused, two thirds majority needed to force the President to sign (1)
+  > • the President to have power to pass laws when the Assembly was not in session
+  > • the provinces to have their own assemblies
+  > • governor to be appointed by the President
+  > • provincial autonomy to be recognised in most areas
+  > • it can only be amended by a two-thirds majority in the Assembly
+  > • Pakistan to remain a member of the Commonwealth
+  > • Urdu (1) and Bengali (1) to be the official languages of Pakistan
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Iskander Mirza
+- **Secondary Tags:** Constitution, Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2013 and May/June 2022 entries on the same constitution, reproduced separately and verbatim as its own distinct instance, this version giving the fullest single list of the Constitution's terms in this bank (presidential term limits, 90-day assent period, provincial autonomy details, Commonwealth membership, official-language provisions). Consistent with the established precedent of filing the 1956 Constitution under Iskander Mirza, since it installed him as President. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

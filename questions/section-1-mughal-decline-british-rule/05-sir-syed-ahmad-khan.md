@@ -661,3 +661,101 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q1C
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why many Muslims rejected western education in the nineteenth century.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • Muslims believed British education to be un-Islamic
+  > • British funding was withdrawn from Muslim schools
+  > • people in the subcontinent believed that their religions were under threat
+  > • Christian missionaries in schools were disliked
+  > • many people believed that they were under threat from conversion to Christianity
+  > • resentment against the British (as rulers)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Causes, Religious, Educational
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(c). This paper's Q1(a), Q1(b), and Q1(d) are also about Sir Syed Ahmad Khan; this part frames the resistance he had to overcome in advocating for western education among Muslims. Topic chosen by user from clickable options, over the alternative Religious Reformers.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/03-religious-reformers.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q1D
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Assess the significance of Sir Syed Ahmad Khan's work in improving the status of the Muslim community in the subcontinent in relation to the following:
+  > • his 'Two-Nation' Theory
+  > • his contribution to education
+  > • changing relations with the British
+  > Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/ judgement
+  > Explanation at the top of Level 4 with an evaluation/ judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7-9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4-6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2-3 marks) Identification/ description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/ description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > may agree that the Two-Nation Theory was the most significant of Sir Syed Ahmad Khan's work:
+  > • Sir Syed Ahmad Khan wanted the British to treat Muslim and Hindu groups separately
+  > • he believed that Muslim and Hindu communities were different
+  > • he was worried about Hindu groups dominating the Muslim community
+  >
+  > counter-arguments might include:
+  > his contribution to education:
+  > • he founded Aligarh College
+  > • he founded the scientific society at Ghazipur in 1863
+  > • he opened a school in Ghazipur in 1864
+  > • he travelled to England to study the university system
+  >
+  > changing relations with the British:
+  > • he wrote an essay on the causes of the Indian Revolt in 1857 and 'The Loyal Muhammadans of India' aimed at the British
+  > • he wrote Tabyin-ul-Kalam to point out the similarities between Islam and Christianity
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Comparison, Importance, Educational
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Near-identical content to several prior "most important contribution" entries already in this file (May/June 2013, Oct/Nov 2010, May/June 2015, Oct/Nov 2016, May/June 2019, Oct/Nov 2020), reproduced separately and verbatim as its own distinct instance, this version explicitly structured around three named strands. Topic chosen by user from clickable options, over the alternative Religious Reformers.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/03-religious-reformers.md` (alternate topic considered, not used)

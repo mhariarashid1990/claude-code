@@ -396,3 +396,35 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/09-benazir-bhutto.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q5B
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why General Pervez Musharraf came to power in 1999.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • there were many economic, social and political problems facing Pakistan
+  > • the support of the army was lost because Jehangir Karamat had to resign as army chief of staff
+  > • the government also lost the support of the army because of events in Kashmir
+  > • the government tried to remove Musharraf (who had replaced Jehangir Karamat) as army chief of staff
+  > • Musharraf decided army control was needed
+  > • as Musharraf was the army chief of staff, he was able to come to power
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Failures, Political, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Pervez Musharraf" topic exists in the taxonomy, since the syllabus's named-leader scope for Section 3A ends at 1999; the MS content describes the breakdown of army support for Nawaz Sharif's government (Jehangir Karamat's resignation, the attempted removal of Musharraf as army chief) as the direct cause of the 1999 coup, so filed under Nawaz Sharif. First entry in this file naming Musharraf's 1999 rise directly. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

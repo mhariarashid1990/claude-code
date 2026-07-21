@@ -1430,3 +1430,74 @@
 - **Version Number:** 35
 - **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` (recommended alternate topic, not used)
+
+### UQID: PK2059-ON-2025-V1-Q2A
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe what happened at the Battle of Plassey in 1757.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Robert Clive fought with a force of EIC soldiers (1) and defeated Siraj-ud-Daulah's (the Nawab of Bengal) troops (1)
+  > • Clive persuaded Mir Jafar (1) the commander-in-chief (1) of Siraj-ud-Daulah's army (1) to change sides (1) which was a major reason for Clive's success (1) as large numbers of soldiers defected to Clive's army (1)
+  > • Clive covered his cannons in the rain (1) which the Nawab didn't (1)
+  > • 27 soldiers were killed in Clive's army (1) whereas the Nawab's army had over 500 casualties (1)
+  > • the Nawab's body was found in a river after the battle
+  > • Bengal became under British rule
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file describing the Battle of Plassey directly. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2025-V1-Q2C
+
+- **Year:** 2025
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent did laws introduced by the British between 1784 and 1850 extend their rule in the subcontinent? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > may agree that laws introduced by the British between 1784 and 1850 extended their rule:
+  > • Pitt's India Act of 1784 introduced the position of Governor General
+  > • the British had direct control over Bengal rather than the EIC
+  > • the Permanent Settlement in 1793 made the Zamindars of Bengal owners of the land
+  > • they had to pay a fixed sum of money to the British
+  > • in 1798 Lord Wellesley persuaded local rulers to sign subsidiary alliances
+  > • the introduction of the Doctrine of Lapse in 1848
+  >
+  > counter-arguments might include:
+  > • the British had a strong and well-trained army
+  > • the British conquests had seized vast resources/land especially in Bengal
+  > • the development of railways
+  > • the decline of the Mughal Empire
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming Pitt's India Act (1784), the Permanent Settlement (1793), and Lord Wellesley's subsidiary alliances (1798) directly as legislative/administrative milestones of British expansion; the Doctrine of Lapse is already referenced elsewhere in this bank's War of Independence (1857) file. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 36
+- **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

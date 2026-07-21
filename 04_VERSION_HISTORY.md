@@ -1676,3 +1676,93 @@ version; question and mark-scheme text reproduced exactly as printed. All
 batch). Total: 459 questions across 32 papers. Remaining in this batch:
 2025 Oct/Nov, the final paper in the 2059/01 2010–2025 upload job.
 **Date:** 2026-07-21
+
+## Version 36 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2025-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0 new files, but this version filled the first-ever
+entry for one existing empty topic file: Simla Conference (Q3a) — this
+topic (#22) had been declared in the taxonomy since early in the project
+but had never yet received a question.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 459 → 473, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2025 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Thirty-third paper processed — Cambridge O Level 2059/01,
+Paper 1, October/November 2025, single variant. This is the final paper
+in the originally scoped 2010–2025 upload job for 2059/01. This mark
+scheme carries no COVID-19 cancellation notice — a normal series,
+extracted normally, using the same generic Table 1/Table 2
+levels-of-response format and "Annotations guidance for centres" front
+matter used since May/June 2025 — correctly recognised as non-content
+front matter and skipped rather than extracted.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across four rounds (4+4+4+2 questions). The user confirmed the
+recommended (primary) option in every case.
+
+Two parts required allocation to a topic without an exact taxonomy match:
+Q4(b) ("why educational reforms became so important...during the 1960s
+and 1970s") was filed under **Multiple Regime Questions (1947–1999)**,
+since it spans both Ayub Khan's and Bhutto's eras without naming either
+leader, consistent with this bank's established precedent for general
+cross-decade education-policy questions; Q5(b) ("why General Pervez
+Musharraf came to power in 1999") was filed under **Nawaz Sharif**, since
+no dedicated Musharraf topic exists in the taxonomy (the syllabus's
+named-leader scope for Section 3A ends at 1999) and the MS content
+describes the breakdown of army support for Sharif's government as the
+direct cause of the coup. Q5(a) ("the meeting between President
+Zia-ul-Haq and Prime Minister Rajiv Gandhi in February 1987") repeats the
+'cricket diplomacy' event already covered by this bank's Oct/Nov 2021
+entry in the India and the Kashmir Issue file — filed there again,
+consistent with the user's earlier explicit instruction establishing this
+event's allocation precedent, over the alternative General Zia-ul-Haq.
+
+Final allocations this version: Q1(c) (why Muslims rejected western
+education, under Sir Syed Ahmad Khan); Q1(d) (significance of Sir Syed's
+Two-Nation Theory, education work, and British relations); Q2(a) (Battle
+of Plassey 1757, under East India Company — first entry on this event in
+this file); Q2(b) (why Syed Ahmad Barelvi set up the Jihad Movement);
+Q2(c) (British laws 1784–1850 extending their rule, under East India
+Company); Q3(a) (outcomes of the Simla Conference 1945 — this topic
+file's first-ever entry); Q3(b) (long-term benefit of the 1937 elections'
+lessons to the Muslim League); Q3(c) (success of the Montagu–Chelmsford
+Reforms); Q4(a) (terms of the 1956 Constitution, under Iskander Mirza);
+Q4(b) (importance of educational reforms in the 1960s/70s, under Multiple
+Regime Questions, no exact-match topic); Q4(c) (Pakistan's effectiveness
+in world organisations since 1947); Q5(a) ('cricket diplomacy' of
+February 1987, under India and the Kashmir Issue); Q5(b) (why Musharraf
+came to power in 1999, under Nawaz Sharif, no exact-match topic); and
+Q5(c) (Benazir Bhutto vs Ghulam Ishaq Khan as the main reason for her
+1990 dismissal).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(d) (Sir Syed's contributions),
+Q3(b) (1937 elections), Q4(a) (1956 Constitution), Q4(c) (world
+organisations effectiveness), Q5(a) (cricket diplomacy), and Q5(c)
+(Benazir Bhutto's 1990 dismissal) all parallel earlier entries in their
+respective topic files. No source anomalies of note this version;
+question and mark-scheme text reproduced exactly as printed. All 14 parts
+were present and extracted; none skipped.
+
+**2025 is now Complete** (May/June and Oct/Nov both done). Total: 473
+questions across 33 papers.
+
+**This completes the full 2010–2025 upload job for Cambridge O Level
+2059/01 (History & Culture of Pakistan).** Every May/June and Oct/Nov
+session from 2010 through 2025 has now been read, its extractable parts
+identified per the era-appropriate pattern, allocated to the 57-topic
+taxonomy (via user-confirmed clickable-option prompts since Version 30),
+written verbatim into the relevant topic files, and reconciled against
+`questions/INDEX.md`. Per the original master prompt's remaining scope,
+the next phase — not yet started, not yet uploaded — is Cambridge IGCSE
+0448/01, 2010–2025, following the identical extraction and allocation
+methodology once papers are supplied. The six-layer audit
+(`02_AUDITS/*.md`) and the export/publication step remain deferred until
+that full job (2059/01 + 0448/01) is complete.
+**Date:** 2026-07-21
