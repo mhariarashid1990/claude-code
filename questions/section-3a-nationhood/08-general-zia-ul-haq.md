@@ -427,3 +427,41 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q5B
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why it became more challenging for Zia-ul-Haq to govern Pakistan effectively during the late 1980s.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • the provinces became more difficult to administer
+  > • there was increasing violence in Sindh
+  > • NWFP became critical of the government
+  > • there was a surge in arms smuggling
+  > • it became harder to maintain law and order
+  > • the drug trade grew
+  > • greater challenge from Muhammad Khan Junejo
+  > • pressure from the MRD
+  > • opposition from Benazir Bhutto
+  > • an explosion at a weapons dump at Ojhri Camp
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2013 (2059/41) and May/June 2016 "difficulty ruling Pakistan in the late 1980s" entries already in this file, reproduced separately and verbatim as its own distinct instance. MS spells the camp "Ojhri Camp" here, versus "Camp Ojhri" used in this file's other entries — reproduced exactly as printed, not reconciled. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

@@ -386,3 +386,36 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q4B
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Ayub Khan came to power in 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • there were many prime ministers between 1956–1958
+  > • there was a famine/floods
+  > • East Pakistan's politicians wanted more participation in government
+  > • the country needed greater stability at that time
+  > • Iskander Mirza had lost the support of many of the leading politicians
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2012, Oct/Nov 2013, and May/June 2016 "why Ayub Khan came to power" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

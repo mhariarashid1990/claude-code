@@ -533,3 +533,63 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q1D
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent were the different aims of Indian groups in 1857 the main reason why the War of Independence was short-lived? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that the different aims of Indian groups in 1857 was the main reason for the War of Independence being short lived:
+  > • different Indian groups found it difficult to put aside their differences
+  > • there was disunity/absence of a common aim amongst Indian groups/the aims of Indian groups were sometimes unclear
+  > • some Indian groups wanted to restore their old rulers and customs
+  > • some princes were fearful of losing British support
+  >
+  > Counter-arguments might include:
+  > • some Indian groups did not have a battle plan or strategy
+  > • some Indian groups had limited leadership and experience in battle
+  > • the British army was experienced in battles
+  > • British troops were well trained and disciplined
+  > • British troops had modern weapons
+  > • the British army were experienced strategists/administrators/negotiators/leaders
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison, Failures
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. This paper's Section A Q1(d) uses a bespoke "Level 5/4/3/2/1/0" descriptor set specific to this question (capped at 10 marks), rather than pointing to the generic Table 2 grid used by Section B's part (c) questions — reproduced exactly as printed. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

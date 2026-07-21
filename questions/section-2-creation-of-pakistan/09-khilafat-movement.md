@@ -454,3 +454,37 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q3A
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Hijrat Movement.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it was a religious protest [1] against the British government [1]
+  > • Islamic leaders told their followers to leave dar-ul-harb [1] and move to an Islamic state [1]
+  > • it took place in (August) 1920 [1] during the Khilafat Movement [1]
+  > • it involved 18000–20000 people [1] migrating to Afghanistan
+  > • Muslim people sold their homes/farms and packed up their possessions
+  > • Muslim emigrants were told that the Afghan government would welcome them [1] but the Afghan government was not welcoming [1]
+  > • the migrants were refused entry [1] and were forcibly sent back by the Afghan government [1]
+  > • many migrants died on the return journey
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Features, Failures, Religious
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Consistent with established precedent (Oct/Nov 2011 entry already in this file) filing the Hijrat Movement under Khilafat Movement. This entry's MS gives a range "18000–20000 people," compared with the vaguer "thousands" used elsewhere in this file and the specific "18 000" figure in the May/June 2019 entry — reproduced exactly as printed, not reconciled. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

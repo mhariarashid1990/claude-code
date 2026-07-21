@@ -971,3 +971,77 @@ papers for 2059/01 (14-part pattern) — Oct/Nov 2020's mark scheme should
 also be checked for any COVID-era anomalies before assuming normal
 extraction applies.
 **Date:** 2026-07-21
+
+## Version 26 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2020-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 319 → 333, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2020 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Twenty-third paper processed — Cambridge O Level 2059/01,
+Paper 1, October/November 2020, single variant. This mark scheme carries
+no COVID-19 cancellation notice — a normal series, extracted normally like
+any pre-2020 paper.
+
+This paper also marks a **mark scheme format change**: rather than
+printing bespoke Level 1–5 descriptors under each part (c)/(b) question as
+in every prior paper in this bank, the MS now references two reusable
+generic grids ("Table 1" for Section A part (c) and Section B part (b)
+questions targeting 7 marks; "Table 2" for Section B part (c) questions
+targeting 14 marks) printed once at the front of the document, with each
+question's own row simply saying "Mark according to the level of response
+descriptors in Table 1/2" followed by indicative content. Each entry this
+version reproduces the referenced generic table's descriptors inline
+(quoted from the front-matter tables) alongside that question's own
+indicative content, to keep the mark scheme text usable standalone
+per-question, consistent with the verbatim-preservation goal of this
+project. Section A Q1(d) is the one exception, still carrying a
+bespoke Level 5–0 descriptor set specific to that question (capped at 10
+marks), matching the established 2015+ pattern for that part.
+
+Every one of the 14 parts required under the 2015–2025 extraction pattern
+(Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d) capped at
+10 marks) was extracted. All 14 parts this paper had only one plausible
+allocation with no genuine alternative topic, so per the AskUserQuestion
+tool's own constraint (rejecting single-option question batches), every
+allocation was stated directly to the user rather than offered as
+clickable options: Q1(c) (impact of railways, filed under East India
+Company — no dedicated "Railways" topic exists in the taxonomy), Q1(d)
+(War of Independence 1857), Q2(a) (Jizya tax, under Decline of the Mughal
+Empire), Q2(b) (Shah Waliullah, under Religious Reformers), Q2(c) (Sir
+Syed Ahmad Khan's Two-Nation Theory), Q3(a) (Hijrat Movement, under
+Khilafat Movement per established precedent), Q3(b) (Round Table
+Conferences), Q3(c) (Direct Action Day), Q4(a) (OIC, under United Nations
+& Other World Organisations), Q4(b) (Ayub Khan's rise to power in 1958),
+Q4(c) (UK & Commonwealth relations), Q5(a) (Security of Tenure scheme,
+under Zulfiqar Ali Bhutto), Q5(b) (Zia-ul-Haq's late-1980s governing
+challenges), and Q5(c) (Benazir Bhutto's privatisation policy and 1996
+downfall).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(b) (Shah Waliullah's importance),
+Q3(a) (Hijrat Movement), Q3(b) (why three RTCs were held), Q4(b) (Ayub
+Khan's rise to power), Q4(c) (UK/Commonwealth relations), and Q5(b)
+(Zia-ul-Haq's late-1980s difficulties) all parallel earlier entries in
+their respective topic files. Minor source anomalies preserved verbatim,
+none corrected: Q3(a)'s MS gives a range "18000–20000 people" for the
+Hijrat migrants, differing from the vaguer "thousands" and the specific
+"18 000" figure used elsewhere in the Khilafat Movement file; Q4(a)'s MS
+names the OIC "Organisation of Islamic Countries" in one bullet and
+"Organisation of Islamic Conference" (the historically correct pre-2011
+name) in another, within the same mark scheme; Q5(b)'s MS spells "Ojhri
+Camp" here versus "Camp Ojhri" used in this bank's other Zia-ul-Haq
+entries. All 14 parts were present and extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2020** (both May/June,
+V1 — COVID-cancelled series, flagged per user instruction — and Oct/Nov,
+V1 — normal series). Total: 333 questions across 23 papers. Remaining in
+this batch: 2021–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-21

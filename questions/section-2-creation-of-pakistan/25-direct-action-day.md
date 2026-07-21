@@ -58,3 +58,48 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q3C
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was Direct Action Day more significant in the creation of Pakistan than other key events of the 1940s? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that Direct Action Day was more significant in the creation of Pakistan than other key events of the 1940s:
+  > • it was organised by the Muslim League in 1946
+  > • the Muslim League was concerned about the British leaving India leaving Congress in charge
+  > • it aimed to show solidarity of the Muslim community and indicate Muslim strength to the British and Congress
+  > • there were large-scale riots and nearly 4000 people killed
+  > • the British became worried about the possibility of a civil war
+  > • it led to a gradual change of mind over partition
+  >
+  > Counter-arguments might include:
+  > • the Lahore Resolution 1940
+  > • the Cripps Mission 1942 promised independence for India after WW2
+  > • the Quit India Resolution 1942
+  > • the Gandhi-Jinnah talks in 1944
+  > • Congress and the Muslim League did not reach an agreement at the Simla Conference in 1945
+  > • the elections of 1946 gave huge gains to the Muslim League
+  > • the Cabinet Mission Plan in 1946 resulted in an interim government
+  > • the 3 June Plan of 1947 announcing the partition of the subcontinent and transfer of power
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Direct Action Day
+- **Secondary Tags:** Importance, Comparison, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. This is the first entry in this file weighing Direct Action Day's significance against other 1940s milestones rather than describing the event itself. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

@@ -1185,3 +1185,42 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q1C
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the impact of railways on the lives of Indian people in the nineteenth century.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, one explanation [5], two explanations or one developed explanation [6], additional explanation(s) and/or developed explanation(s) [7], supported by relevant and accurate contextual knowledge, 5–7; Level 2: Identification/description, identifies and/or describes using relevant and accurate contextual knowledge, 1 mark per identification/description, 2–4; Level 1: General answer, valid general comment lacking specific knowledge, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • railways transformed India
+  > • railways extended trade in India
+  > • food could be transported around India
+  > • troops could be transported around India
+  > • people could travel by train
+  > • better communication between cities
+  > • railways made travel easier
+  > • more people could travel
+  > • goods could be carried
+  > • trains were noisy and smoky/accidents happened/people lost farmland
+  > • railways consolidated British control in India
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Economic, Consequences, Social
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice on this mark scheme. This paper introduces a new generic levels-of-response format ("Table 1"/"Table 2" grids referenced by each question rather than question-specific Level bands printed in full) — reproduced faithfully, with the referenced generic table's descriptors quoted inline since this question's own row only points to "Table 1." No dedicated "Railways" topic exists in the taxonomy; filed under East India Company since railways there are already referenced as part of British economic/infrastructure expansion in the subcontinent (see this file's May/June 2020 Q2(b) entry). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

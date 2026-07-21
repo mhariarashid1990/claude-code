@@ -385,3 +385,39 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q3B
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there were three Round Table Conferences between 1930 and 1932.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • to decide the future of the subcontinent
+  > • to review the Simon Commission's report
+  > • Congress did not attend the first conference
+  > • Gandhi and Lord Irwin held talks
+  > • there was stalemate in the second conference
+  > • Gandhi was stubborn
+  > • Gandhi refused to recognise the rights of minority groups
+  > • Gandhi refused to accept Jinnah's 14 Points
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Causes, Failures
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2014, Oct/Nov 2011, and Oct/Nov 2019 "why were there three RTCs" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

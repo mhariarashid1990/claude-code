@@ -117,3 +117,48 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q4C
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has had good relations with the United Kingdom and the Commonwealth since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that Pakistan has had good relations with the United Kingdom (UK) and the Commonwealth since 1947:
+  > • Post-partition Britain facilitated Pakistan to function independently
+  > • UK backed Pakistan in the Afghanistan-Russia conflict
+  > • UK gave £30 million aid to help Afghan refugees in Pakistan
+  > • the British Prime Minister was the first Western leader to visit in 1981
+  > • there have been good trade links between Pakistan and the UK
+  > • UK gave £16 million to help refugees in Balochistan and the NWFP
+  > • Pakistan was a Commonwealth member until 1971
+  > • political and economic support received from the Commonwealth
+  > • the 'Colombo Plan' was established in 1950 to provide aid
+  > • Pakistan re-joined the Commonwealth in 1989
+  >
+  > Counter arguments might include:
+  > • The Commonwealth did not always give political support
+  > • The Commonwealth did not support the policy of military rule
+  > • Pakistan questioned British involvement in the Suez conflict
+  > • Lack of UK support in the 1965 conflict
+  > • UK recognition of Bangladesh in 1971
+  > • Pakistan left the Commonwealth in protest
+- **Suggested Primary Topic:** United Kingdom & the Commonwealth
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2013 and Oct/Nov 2016 "how successful has Pakistan's relationship with the UK/Commonwealth been" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the £30m/£16m Afghan and Balochistan/NWFP refugee-aid figures and the 1950 "Colombo Plan" detail. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

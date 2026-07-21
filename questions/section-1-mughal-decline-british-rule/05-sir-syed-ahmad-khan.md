@@ -416,3 +416,42 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q2C
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The "Two-Nation" Theory was Sir Syed Ahmad Khan's main contribution to the development of the Pakistan Movement during the nineteenth century.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the 'Two-Nation' Theory was Sir Syed Ahmad Khan's main contribution to the development of the Pakistan Movement:
+  > • Sir Syed Ahmad Khan wanted the British to treat Muslim and Hindu groups separately
+  > • he believed that Muslim and Hindu communities were different
+  > • he was worried about Hindu groups dominating the Muslim community
+  >
+  > Counter-arguments might include:
+  > • Sir Syed Ahmad Khan wrote pamphlets and books about the future of the Muslim community
+  > • he opened a school and a university
+  > • he founded the scientific society at Ghazipore
+  > • he founded the Aligarh Movement
+  > • he wanted to enhance the status of the Muslim community
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Comparison, Importance, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "most important contribution" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

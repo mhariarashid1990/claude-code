@@ -367,3 +367,47 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q5C
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent did Benazir Bhutto's privatisation policy contribute to the government being replaced in 1996? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the privatisation policy was the main contributory factor:
+  > • Benazir Bhutto wanted to extend the privatisation of industries
+  > • planned privatisations included banks, power and telecommunications
+  > • she was criticised for doing this by wealthy industrialists and politicians from all sides
+  > • government officials made it harder to privatise nationalised industries
+  >
+  > Counter-arguments might include:
+  > • Benazir Bhutto did not introduce the PPP's social policies
+  > • multiple economic problems including unemployment and inflation
+  > • strikes and protests were organised by the opposition in 1994
+  > • GDP and manufacturing growth rates slowed
+  > • the strict economic policies imposed on Pakistan by the International Monetary Fund (IMF) in return for a loan
+  > • the rupee was devalued
+  > • the USA's financial and military embargo began to affect the economy
+  > • the government was inefficient
+  > • a lack of unity within the government
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — her own second-term downfall in 1996, this time evaluated specifically through the lens of her privatisation policy rather than the broader Sindh/family/corruption factors emphasised in this file's other 1996-downfall entries. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

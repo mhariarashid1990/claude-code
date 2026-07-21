@@ -484,3 +484,38 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q2B
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Shah Waliullah was an important figure for the Muslim community during the eighteenth century.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, one explanation [5], two explanations or one developed explanation [6], additional explanation(s) and/or developed explanation(s) [7], supported by relevant and accurate contextual knowledge, 5–7; Level 2: Identification/description, 1 mark per identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Shah Waliullah wanted to stop the declining position of Muslims
+  > • he encouraged spiritual and moral regeneration
+  > • he translated the Holy Quran into Persian/wrote 51 books
+  > • he tried to build bridges between different Muslim sects
+  > • he organised opposition to the Marathas
+  > • he emphasised the importance of Jihad against a common army
+  > • he was a unifying figure /influenced Islamic revival
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Importance, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2010 Q1(b) and Oct/Nov 2015 Q2(b) entries already in this file, reproduced separately and verbatim as its own distinct instance. Source spells "Shah Waliullah" (one word), consistent with the Oct/Nov 2015/May/June 2016 spelling rather than the multi-word "Shah Wali Ullah" used in earlier papers — reproduced exactly as printed, not reconciled. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

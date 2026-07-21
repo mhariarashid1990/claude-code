@@ -262,3 +262,38 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q4A
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the OIC.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • named the Organisation of Islamic Countries
+  > • the first summit was held in Morocco [1] and OIC formed in 1969 [1]
+  > • 24 Muslim nations attended [1] including Pakistan [1]
+  > • name of any one of the other 23 member countries [1]
+  > • the Organisation of Islamic Conference charter adopted [1] in 1972 [1]
+  > • the Conference was held in Lahore [1] in 1974 [1]
+  > • attended by Yasser Arafat [1] with 35 leaders of other Islamic states [1]
+  > • emphasising Pakistan's importance in the Islamic world [1]
+  > • the name and emblem were changed to Organisation of Islamic Cooperation [1] in 2011 [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United Nations & Other World Organisations
+- **Secondary Tags:** Features, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the OIC as the sole subject of a question, though it was already referenced within this file's May/June 2013 (2059/41) entry as one of Pakistan's world-organisation memberships. Source anomaly preserved verbatim: MS gives the organisation's name as "Organisation of Islamic Countries" in its first bullet, but "Organisation of Islamic Conference" (the historically correct pre-2011 name) in a later bullet — not reconciled. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —

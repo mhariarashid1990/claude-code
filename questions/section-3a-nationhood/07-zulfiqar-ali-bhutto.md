@@ -297,3 +297,36 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2020-V1-Q5A
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Security of Tenure scheme.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Zulfikar Ali Bhutto introduced this scheme
+  > • he wanted tenant farmers to have security of tenure
+  > • he gave tenant farmers the first right of purchase of the land they worked
+  > • landowners could not sell the land to a third party [1] who might then evict the tenant farmers [1]
+  > • tenant farmers were encouraged to make improvements on their land [1] as they knew they would not be evicted [1]
+  > • many landowners circumvented the scheme [1] to evict their tenant farmers [1]
+  > • landowners had too much power and influence to make the scheme work
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Domestic Policy, Features, Failures
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — Bhutto's own land-reform policy initiative, first entry in this file naming the Security of Tenure scheme as the sole subject of a question. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 26
+- **Allocation History:** Allocated on extraction, Version 26, no prior moves
+- **Cross References:** —
