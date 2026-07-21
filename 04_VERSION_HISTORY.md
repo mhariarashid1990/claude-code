@@ -1180,3 +1180,70 @@ and Oct/Nov). Total: 361 questions across 25 papers. Remaining in this
 batch: 2022–2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 29 — 2026-07-21
+
+**Questions added:** 14 (PK2059-MJ-2022-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 361 → 375, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2022 row updated to "May/June, V1" with status "In
+progress" (Oct/Nov 2022 still outstanding).
+**Reason:** Twenty-sixth paper processed — Cambridge O Level 2059/01,
+Paper 1, May/June 2022, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format used since
+Oct/Nov 2020.
+
+Every one of the 14 parts required under the 2015–2025 extraction pattern
+(Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d) capped at
+10 marks) was extracted. Thirteen of the 14 parts had only one plausible
+allocation with no genuine alternative topic, so per the AskUserQuestion
+tool's own constraint, those allocations were stated directly to the user:
+Q1(c) (Cripps Mission's limited success); Q1(d) (Gandhi–Jinnah talks
+breakdown 1944); Q2(a) (battle of Balakot, under Religious Reformers) and
+Q2(b) (Haji Shariatullah), both under Religious Reformers; Q2(c) (military
+factors and the War of Independence 1857); Q3(a) (Mohammedan
+Anglo-Oriental College, under Sir Syed Ahmad Khan); Q3(b) (Jinnah's 14
+Points); Q3(c) (establishment of the All-India Muslim League 1906); Q4(a)
+(Rowlatt Act terms, under Montagu–Chelmsford Reforms & Other Events of
+1919); Q4(c) (Zulfikar Ali Bhutto's domestic policies 1971–1977); Q5(a)
+(1956 Constitution, under Iskander Mirza — established precedent); and
+Q5(c) (Pakistan–Bangladesh relations since 1971).
+
+Two parts were presented via AskUserQuestion this version. Q4(b) ("Explain
+why Pakistan becoming a nuclear power was significant") had no single
+obvious home — its indicative content spans India-relations, US-relations,
+and national pride without naming a specific leader or dated event. The
+user explicitly overrode the recommended option (India and the Kashmir
+Issue) and chose **United States of America (USA)** instead, since a
+substantial share of the content concerns the effect on Pakistan's
+relationship with Washington and its aid. Q5(b) ("circumstances that
+brought General Pervez Musharraf into power in 1999") was allocated to
+**Nawaz Sharif**, consistent with the strong established precedent in this
+bank (every prior Musharraf's-rise question filed under Nawaz Sharif,
+since no dedicated Musharraf topic exists) — this one was treated as
+single-option given that precedent, and stated directly rather than
+re-asked.
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(d) (Gandhi-Jinnah Talks
+breakdown), Q3(a) (Aligarh college's purpose), Q3(b) (Jinnah's 14 Points),
+Q3(c) (Muslim League's formation), Q4(c) (Bhutto's domestic policies —
+this version adding specific inflation-rate figures), Q5(a) (1956
+Constitution), and Q5(c) (Pakistan-Bangladesh relations) all parallel
+earlier entries in their respective topic files. Minor source anomaly
+preserved verbatim, not corrected: Q2(c)'s MS states "the East India
+Company banned the export of cotton goods from India in 1800," an
+unusually specific and early-dated claim not seen elsewhere in this bank.
+All 14 parts were present and extracted; none skipped.
+
+**2022 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 375 questions across 26 papers. Remaining in this batch:
+2022 Oct/Nov, then 2023–2025 May/June and Oct/Nov papers for 2059/01
+(14-part pattern), still to come.
+**Date:** 2026-07-21

@@ -347,3 +347,36 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q4A
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the Rowlatt Act.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • people could be tried in private [1] by 3 High Court Judges [1]
+  > • there was no right of appeal
+  > • people could be ordered where to live
+  > • people were stopped from holding meetings
+  > • detention without bail
+  > • people could be arrested without warrant [1] and kept in prison without trial [1]
+  > • it was enacted in 1919
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Features, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — the Rowlatt Act is already well established in this file's existing entries. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

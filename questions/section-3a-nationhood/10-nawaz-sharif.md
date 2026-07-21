@@ -292,3 +292,35 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q5B
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the circumstances that brought General Pervez Musharraf into power in 1999.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • the government was severely weakened by economic, social and political problems
+  > • Nawaz Sharif lost the support of the army because of his treatment of Jehangir Karamat
+  > • the government lost the support of the army because of events in Kashmir
+  > • on General Pervez Musharraf's return from a visit to Sri Lanka he announced that the army was taking control of the government of Pakistan.
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Political, Failures
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Consistent with established precedent (every prior Musharraf's-rise question in this bank filed under Nawaz Sharif, since no dedicated Musharraf topic exists in the taxonomy). First entry in this file naming Jehangir Karamat specifically as a factor in Sharif's loss of army support. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

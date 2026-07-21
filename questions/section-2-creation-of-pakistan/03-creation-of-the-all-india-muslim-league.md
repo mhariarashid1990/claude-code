@@ -305,3 +305,42 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q3C
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was the need for a political party to represent the Muslim community the main reason for the establishment of the All-India Muslim League in 1906? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > May agree that the need for a political party to represent the Muslim community was the main reason for the establishment of the All-India Muslim League in 1906:
+  > • Muslim community could not rely on Congress to further their interests e.g. education and economic well-being
+  > • to take advantage of the support given by the British Liberal government to the Muslim community
+  > • to promote the political rights and identity of the Muslim community
+  > • Simla Deputation achieved the promise of separate electorates propelling the Muslim community towards the formation of the All-India Muslim League
+  > • the promise of other political reforms created a 'window of Muslim opportunity' to establish its own political party
+  >
+  > counter-arguments might include:
+  > • the partition of Bengal was a problem for Congress
+  > • there had been a growth in Hindu activism
+  > • Hindi-Urdu controversy/'Two-Nation' Theory
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why was the Muslim League formed" entries already in this file, reproduced separately and verbatim as its own distinct instance. MS names "Simla Deputation," consistent with this file's Oct/Nov 2019 and May/June 2021 entries. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

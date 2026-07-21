@@ -558,3 +558,67 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q2A
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe what happened at the battle of Balakot.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it took place in 1831
+  > • Syed Ahmad Barelvi was killed [1] along with Shah Ismail, his commander [1]
+  > • Syed Ahmad had hoped to liberate Kashmir and Hazara
+  > • Balakot was thought to be safe [1] as it was protected on three sides by mountains [1]
+  > • Syed Ahmad was betrayed by local leaders [1] who told the Sikhs a way through the mountains to Balakot [1]
+  > • the Sikhs led by Ranjit Singh [1] launched a surprise attack [1] who outnumbered Syed Ahmad's forces [1]
+  > • 600 of Syed Ahmad's forces were killed
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Features, Failures, Religious
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the battle of Balakot directly (Syed Ahmad Barelvi's Jihad Movement, which this battle ended, is already covered by several entries in this file). Names Ranjit Singh as the Sikh leader at Balakot — this file does not otherwise reference him, though he is covered in this bank's Decline of the Mughal Empire file (May/June 2021 Q2(a)). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (Ranjit Singh's own entry, not used as primary)
+
+### UQID: PK2059-MJ-2022-V1-Q2B
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Haji Shariatullah was an important figure in the revival of Islam during the eighteenth century.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • he founded the Faraizi Movement
+  > • he felt that the Muslim community were treated badly by Hindu groups
+  > • he felt that the Muslim community were demoralised
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Importance, Founding
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Direct match — Haji Shariatullah's Faraizi Movement is already well established in this file. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

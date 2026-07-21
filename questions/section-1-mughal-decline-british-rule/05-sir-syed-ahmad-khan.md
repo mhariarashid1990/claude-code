@@ -488,3 +488,35 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q3A
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the purpose of the Mohammedan Anglo-Oriental College.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • to replicate the pattern of the English public school/university system
+  > • to form the basis of a Muslim university
+  > • to offer western [1], Islamic [1] and Indian education [1] and modern scientific developments [1]
+  > • to offer the Muslim community an education [1] comparable to that of Hindus [1] because Hindus were advancing/give Muslims the opportunities of/ in society/status [1] and employment [1] to improve their relations with the British [1]
+  > • to become a symbol of Muslim unity
+  > • to educate future leaders of Pakistan [1] e.g. Liaquat Ali Khan/Muhammad Ayub Khan [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Educational, Founding, Features
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2013 "Mohammaden Anglo-Oriental School" entry, reproduced separately and verbatim as its own distinct instance. Source spells "Mohammedan Anglo-Oriental College" here, versus "Mohammaden Anglo-Oriental School" used in this file's earlier entry — reproduced exactly as printed, not reconciled. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

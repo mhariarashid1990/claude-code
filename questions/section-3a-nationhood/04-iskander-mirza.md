@@ -95,3 +95,33 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/05-ayub-khan.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2022-V1-Q5A
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the provisions of the 1956 Constitution.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it gave the title Islamic Republic of Pakistan
+  > • the President had to be 40 [1], could choose the Prime Minister [1], declare a state of emergency [1] and select the judges in the Supreme Court [1]
+  > • it appointed a President [1] who had to be a Muslim [1], from the National Assembly [1], over 40 [1], had emergency powers [1] and could dissolve the National Assembly [1]
+  > • there was a cabinet (advisory only) [1] and a National and Provincial Assembly [1 each]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Iskander Mirza
+- **Secondary Tags:** Constitution, Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's Oct/Nov 2013 entry on the same constitution, reproduced separately and verbatim as its own distinct instance; consistent with the established precedent of filing the 1956 Constitution under Iskander Mirza, since it installed him as President. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

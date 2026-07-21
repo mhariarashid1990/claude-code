@@ -395,3 +395,46 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q4C
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Assess the effectiveness of the domestic policies introduced by Zulfikar Ali Bhutto between 1971 and 1977. Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > May agree that Zulfikar Ali Bhutto's domestic policies between 1971 and 1977 were effective:
+  > • the new constitution in 1973 safeguarded minority interests
+  > • health policy aimed to improve infant mortality and life expectancy rates
+  > • education policy introduced free primary education for all children
+  > • profits from nationalised companies were used to improve public services such as hospitals and schools
+  > • industrial reform led to inflation falling from 25% (1972) to 6% (1976)
+  > • introduction of security of tenure for agricultural tenants and a ceiling on land ownership
+  >
+  > counter-arguments might include:
+  > • the new constitution placed all political power with Zulfikar Ali Bhutto
+  > • the reform of the armed forces was opposed
+  > • health policy inadvertently led to chemists' profits falling
+  > • education reforms led to overcrowding in schools
+  > • many of these policies would take decades to become fully effective
+  > • the newly nationalised industries became overly bureaucratic
+  > • landowners were often able to circumvent the land reforms
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Domestic Policy, Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011, May/June 2015, and Oct/Nov 2018 "how successful were Zulfiqar Ali Bhutto's domestic policies" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the specific inflation-rate figures (25% in 1972 to 6% in 1976). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —

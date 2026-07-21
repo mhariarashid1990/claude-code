@@ -168,3 +168,39 @@
 - **Version Number:** 27
 - **Allocation History:** Allocated on extraction, Version 27, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q4B
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Pakistan becoming a nuclear power was significant.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • a response to India developing nuclear weapons
+  > • recognition of the military threat posed by India
+  > • political will to modernise Pakistan, encourage industrial development and develop nuclear energy
+  > • to project Pakistan on the world stage
+  > • it enhanced national pride
+  > • it affected Pakistan's relationship with the USA with a subsequent impact on the economy
+  > • it encouraged co-operation between Pakistan and India in the 1990s over the nuclear threat
+  > • some people feared it may make the region/world less stable
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Foreign Policy, Consequences, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. MS content spans India-relations, US-relations, and national pride without naming a specific leader or dated event; user chose United States of America over India and the Kashmir Issue and Nawaz Sharif, since a substantial part of the indicative content concerns the effect on Pakistan's relationship with the USA and its aid.
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md`, `section-3a-nationhood/10-nawaz-sharif.md` (alternate topics considered, not used)

@@ -81,3 +81,58 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2022-V1-Q1D
+
+- **Year:** 2022
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > 'Disagreement over the future role of central government in the subcontinent was the main reason for the breakdown of the Gandhi–Jinnah talks in 1944.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that the disagreement over the future role of central government in the subcontinent was the main reason for the breakdown of the Gandhi–Jinnah talks in 1944:
+  > • Gandhi wanted central government to have control over defence and foreign policy
+  > • Jinnah thought such matters should be in the hands of local government and/or provinces
+  >
+  > counter-arguments might include:
+  > • Gandhi felt that partition should not be discussed until after the British left India. Jinnah wanted partition before the British left as Congress were unlikely to agree to it once the British had gone.
+  > • Gandhi considered himself to be speaking for all of India. Jinnah reminded him that, as a Hindu, Gandhi was only the spokesman of Congress.
+  > • Gandhi and Jinnah disagreed over the 'Two-Nation' Theory which had become official Muslim League policy.
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Gandhi–Jinnah Talks
+- **Secondary Tags:** Causes, Comparison, Political
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern; near-identical content to the May/June 2011 and Oct/Nov 2017 "why did the Gandhi-Jinnah Talks fail" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 29
+- **Allocation History:** Allocated on extraction, Version 29, no prior moves
+- **Cross References:** —
