@@ -1766,3 +1766,22 @@ methodology once papers are supplied. The six-layer audit
 (`02_AUDITS/*.md`) and the export/publication step remain deferred until
 that full job (2059/01 + 0448/01) is complete.
 **Date:** 2026-07-21
+
+## Version 37 — 2026-07-21
+
+**Questions added:** 0
+**Questions moved:** 1 — PK2059-ON-2020-V1-Q2A ("Describe the Jizya tax.")
+moved from Decline of the Mughal Empire to East India Company.
+**Topics created:** 0
+**Audit updates:** `questions/INDEX.md` updated (Decline of the Mughal
+Empire 19 → 18; East India Company 42 → 43; total unchanged at 473,
+reconciled against the actual UQID count).
+**Reason:** User-requested correction following a post-completion review
+of every question allocated before the AskUserQuestion-for-every-question
+workflow began (Oct/Nov 2022 onward). The user asked to see the full list
+of pre-Oct/Nov-2022 single-option allocations with verbatim question text
+and identified this one as misfiled. Moved per explicit instruction — no
+independent re-judgement applied. This is the first of what may be
+several corrections arising from that review; further moves will be
+logged here as the user confirms them.
+**Date:** 2026-07-21

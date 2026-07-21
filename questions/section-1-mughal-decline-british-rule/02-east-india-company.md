@@ -1501,3 +1501,38 @@
 - **Version Number:** 36
 - **Allocation History:** Allocated on extraction, Version 36, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2020-V1-Q2A
+
+- **Year:** 2020
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Jizya tax.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • introduced in 1679 [1] by the Mughals [1]
+  > • a tax on non-Muslims
+  > • an alternative to joining the Muslim army
+  > • used as a tax for protection or defence
+  > • Akbar abolished the tax
+  > • Aurangzeb re-introduced the tax
+  > • people protested against the tax
+  > • Aurangzeb ignored the protests and persevered with the tax
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Religious
+- **Confidence Level:** N/A — moved by explicit user correction, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Originally filed under Decline of the Mughal Empire (Version 26, stated directly to user — this paper predates the AskUserQuestion-for-every-question workflow adopted from Oct/Nov 2022 onward). Moved to East India Company at Version 37 per explicit user correction during the post-completion review of all pre-Oct/Nov-2022 single-option allocations.
+- **Version Number:** 37
+- **Allocation History:** Allocated on extraction, Version 26 (Decline of the Mughal Empire, no prior moves); moved to East India Company, Version 37, per explicit user correction
+- **Cross References:** —
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

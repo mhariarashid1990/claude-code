@@ -9,8 +9,8 @@ Live map of every topic file and its current question count. Updated on every
 
 | # | Topic | File | Count |
 |---|-------|------|-------|
-| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 19 |
-| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 42 |
+| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 18 |
+| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 43 |
 | 3 | Religious Reformers | `section-1-mughal-decline-british-rule/03-religious-reformers.md` | 22 |
 | 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 22 |
 | 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 21 |
