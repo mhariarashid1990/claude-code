@@ -500,3 +500,114 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q1C
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why General Muhammad Ayub Khan came to power in 1958.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • by 1958 General Muhammad Ayub Khan thought it necessary to take over the country to settle Pakistan
+  > • there were many Prime Ministers between 1956 and 1958 causing instability/uncertainty
+  > • there were food shortages and flooding in 1955 in East Pakistan
+  > • East Pakistan wanted more involvement in central government
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why Ayub Khan came to power" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Iskander Mirza.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/04-iskander-mirza.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2022-V1-Q1D
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent were the years 1958 to 1968 'A Decade of Development'? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > may agree that the years 1958 to 1968 were 'A Decade of Development' as:
+  > • there was a new constitution in 1962
+  > • an oil refinery was established in Karachi
+  > • a Mineral Development Corporation was set up
+  > • an export bonus scheme was set up
+  > • an economic union developing trade and commerce with Iran and Turkey formed in 1964
+  > • factory owners were required to provide accommodation for workers at a reasonable rent
+  > • a new school curriculum was introduced promoting literacy
+  > • there was a housing programme for refugees
+  > • university courses now lasted three years
+  > • the Family Planning Programme was set up
+  > • medical/nursing schools set up to increase the number of trained staff
+  > • new capital city built
+  > • crop outputs were at record levels
+  > • increased mechanisation of farms/the Green Revolution
+  > • dams built to help irrigation
+  > • farmers accessed irrigation loans
+  > • economic growth and productivity increased
+  > • employment increased and unemployment decreased
+  >
+  > counter-arguments might include:
+  > • smaller farms, farmers found their land was redistributed
+  > • increased agricultural productivity was limited to large landowners
+  > • the new wealth did not spread to everyone
+  > • the number of people living in severe poverty increased
+  > • university students opposed the government's education reforms
+  > • the Family Planning Programme was not particularly successful
+  > • banking and insurance companies were controlled by a small proportion of the population
+  > • it was perceived by some that West Pakistan benefitted more than East Pakistan
+  > • food prices increased
+  > • there was an increasing dependence on foreign aid
+  > • the benefits of development did not always reach the people which led to discontent
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Successes, Failures, Comparison, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Direct match — his own "Decade of Development"/"Decade of Progress" rule, echoing this file's several existing entries on this theme (e.g. the May/June 2010 "Decade of Progress" entry). This entry gives the fullest single list of specific policies in this file (Iran-Turkey economic union 1964, three-year university courses, factory-worker housing requirements, among others). Topic chosen by user from clickable options, over the alternative Multiple Regime Questions bucket.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

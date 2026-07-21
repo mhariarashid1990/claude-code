@@ -28,3 +28,37 @@
 - **Version Number:** 16
 - **Allocation History:** Allocated on extraction, Version 16, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q3B
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Simon Commission of 1927 was unpopular.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • Sir John Simon/Conservative government felt the pace of reform should be slow
+  > • the committee had a non-Indian/all-British perspective
+  > • Indian groups felt the composition of the committee was an insult
+  > • views of Indian nationalists were not represented/considered
+  > • it was seen by Indian groups as a stalling tactic by Britain to put off self-government
+  > • the Labour party favoured a more sympathetic approach to Indian nationalism
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Delhi Proposals & Simon Commission
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Second entry in this topic file, complementing the Oct/Nov 2015 "What was the Simon Report?" entry with the reasons for its unpopularity. Topic chosen by user from clickable options, over the alternative Round Table Conferences.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

@@ -195,3 +195,45 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md`, `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` (single-topic files touched on, not used as primary)
+
+### UQID: PK2059-ON-2022-V1-Q3C
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were the Morley-Minto reforms the most important political development in India between 1909 and 1919? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > may agree that the Morley-Minto reforms were the most important political development in India between 1909 and 1919:
+  > • the Morley-Minto Reforms became the Indian Councils Act 1909
+  > • the reforms increased the number of Indians sitting on the Councils
+  > • Indian members of the Councils could now have their views/opinions heard and formally recorded
+  > • separate electorates were granted
+  > • the Indian Councils were only advisory bodies
+  >
+  > counter-arguments might include:
+  > • the partition of Bengal in 1911 was reversed following Hindu protests
+  > • in 1913 the Muslim League called for Indian self-government
+  > • Indian groups/people were frustrated that political reform was slow after the First World War ended
+  > • the Lucknow Pact of 1916 saw Congress and the Muslim League working together
+  > • the Montagu-Chelmsford reforms/the Government of India Act 1919 gave few concessions to the Indian people
+  > • the Rowlatt Act 1919 and its impact including Jallianwala Bagh
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Multiple Topic Questions (1905–1926)
+- **Secondary Tags:** Comparison, Political, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Spans the Morley-Minto Reforms, Reversal of the Partition of Bengal, the Muslim League's 1913 self-government call, the Lucknow Pact, the Montagu-Chelmsford Reforms/Government of India Act 1919, and the Rowlatt Act/Jallianwala Bagh — consistent with the established precedent (this file's May/June 2014, Oct/Nov 2011, Oct/Nov 2012, and Oct/Nov 2018 entries) for filing broad 1909–1919 comparison questions in this multi-topic bucket rather than any single named-reform topic. User confirmed this allocation after an initial ambiguous response required clarification.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md`, `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` (single-topic files touched on, not used as primary)

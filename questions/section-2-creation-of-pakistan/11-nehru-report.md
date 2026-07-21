@@ -89,3 +89,42 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q4A
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the Nehru Report.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > It called for:
+  > • the constitutional guarantee of fundamental rights [1] including freedom of conscience and liberty [1]
+  > • central government was to be responsible for peace and order
+  > • immediate Dominion status for India [1] whilst remaining a member of the Commonwealth [1] accepting the British monarch as Head of State [1]
+  > • India to become a federation with a 2-chamber parliament
+  > • no separate electorates
+  > • the protection of minorities [1] through a system of reserving seats in central parliament [1]
+  > • the vote for all men and women
+  > • men and women should have equal rights as citizens
+  > • no state religion
+  > • Hindi to be made the official language of India
+  > • Sindh should be separated from Bombay [1] provided it proves to be financially self-sufficient [1]
+  > • reforms should be introduced in North-West Frontier Province
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Nehru Report
+- **Secondary Tags:** Features, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2011 and Oct/Nov 2014 entries already in this file, reproduced separately and verbatim as its own distinct instance, this version giving the fullest list of provisions (adding "no separate electorates," "no state religion," "Hindi as official language," and the Sindh/NWFP details not present in the earlier entries). Topic chosen by user from clickable options, over the alternative Jinnah's Fourteen Points.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

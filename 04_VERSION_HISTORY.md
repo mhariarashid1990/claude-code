@@ -1247,3 +1247,68 @@ batch). Total: 375 questions across 26 papers. Remaining in this batch:
 2022 Oct/Nov, then 2023–2025 May/June and Oct/Nov papers for 2059/01
 (14-part pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 30 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2022-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 375 → 389, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2022 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Twenty-seventh paper processed — Cambridge O Level 2059/01,
+Paper 1, October/November 2022, single variant. This mark scheme carries
+no COVID-19 cancellation notice — a normal series, extracted normally,
+using the same generic Table 1/Table 2 levels-of-response format used
+since Oct/Nov 2020.
+
+**Procedural change this version, per explicit user instruction:** rather
+than stating single-option allocations directly to the user (the pattern
+used for Papers 23–26), every one of this paper's 14 parts was presented
+via AskUserQuestion with a recommended primary option plus at least one
+plausible secondary option, batched across five rounds (4+4+1
+clarification+4+2 questions). The user confirmed the recommended
+(primary) option in the great majority of cases; the process is now
+expected to continue this way for all remaining papers through 2025.
+
+One round required a clarification sub-question: the user's answer for
+Q3(c) ("To what extent were the Morley-Minto reforms the most important
+political development in India between 1909 and 1919?") came back as an
+unrecognised value ("1905-26") that matched neither offered option. A
+follow-up question was asked, adding a third option (Multiple Topic
+Questions (1905–1926)) explicitly, and the user confirmed that was the
+intended choice.
+
+Final allocations this version: Q1(c) and Q1(d) (Ayub Khan's rise to
+power and his "Decade of Development," both under Ayub Khan); Q2(a) (Nana
+Sahib's military actions, under War of Independence (1857)); Q2(b)
+(British expansion 1756–1856, under East India Company); Q2(c) (Sir Syed
+Ahmad Khan's educational contribution); Q3(a) (Lord Curzon's impact,
+under Partition of Bengal (1905) — first entry naming Curzon directly);
+Q3(b) (Simon Commission's unpopularity, under Delhi Proposals & Simon
+Commission); Q3(c) (Morley-Minto reforms 1909–1919, under Multiple Topic
+Questions (1905–1926), per the clarification round above); Q4(a) (Nehru
+Report terms); Q4(b) (why people joined the Khilafat Movement); Q4(c)
+(Round Table Conferences); Q5(a) (Canal Water Dispute, under Initial
+Problems of Pakistan & Quaid-e-Azam as Governor-General — established
+precedent); Q5(b) (Benazir Bhutto's 1990 dismissal); and Q5(c)
+(Pakistan–USSR relations, under USSR/Russia).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q1(c) (Ayub Khan's rise), Q1(d)
+(Decade of Development/Progress), Q2(a) (Nana Sahib), Q2(b) (British
+expansion), Q2(c) (Sir Syed's contributions), Q4(a) (Nehru Report), Q4(c)
+(Round Table Conferences), Q5(a) (Canal Water Dispute), Q5(b) (Benazir
+Bhutto's dismissal), and Q5(c) (USSR relations) all parallel earlier
+entries in their respective topic files. All 14 parts were present and
+extracted; none skipped.
+
+**This completes all sessions/variants uploaded for 2022** (both May/June
+and Oct/Nov). Total: 389 questions across 27 papers. Remaining in this
+batch: 2023–2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-21

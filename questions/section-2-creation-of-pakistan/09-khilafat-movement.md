@@ -528,3 +528,36 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q4B
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why people joined the Khilafat Movement.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • people wanted to protect the Caliphate/Ottoman Empire/holy places
+  > • it provided a vehicle for different groups of people to protest against the British
+  > • the Muslim community resented fighting fellow Muslims in the First World War
+  > • Gandhi saw it as an opportunity to unite Muslim and Hindu communities against the British
+  > • to protest against the policy of British repression in 1921
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Religious, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Companion question to this file's several "why was the Khilafat Movement founded" entries, framed here from the perspective of individual motivations to join rather than the Movement's founding causes. Topic chosen by user from clickable options, over the alternative Montagu–Chelmsford Reforms & Other Events of 1919.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

@@ -421,3 +421,42 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q4C
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent did the Round Table Conferences (1930–1932) provide a solution to the government of India? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > may agree that the Round Table Conferences (1930–1932) provided a solution to the government of India at that time as:
+  > • a federal system for India was agreed
+  > • a representative government would be introduced at provincial government
+  > • the North-West Frontier Province and Sindh were to be made provinces with their own governors
+  > • the Princely States declared they would join a future federation of India if their rights were recognised
+  >
+  > counter-arguments might include:
+  > • Congress boycotted the talks in the First Round Table Conference
+  > • little progress was made
+  > • Gandhi refused to recognise the problems of minorities
+  > • Gandhi believed that he represented all Indians at the talks
+  > • the British coalition government showed little interest in reaching an agreement
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "how successful were the RTCs" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Delhi Proposals & Simon Commission.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

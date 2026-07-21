@@ -677,3 +677,34 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q2A
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the military actions of Nana Sahib in 1857.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • during War of Independence [1] at Kanpur [1] he led the revolt that killed British officers [1] and Europeans [1]
+  > • a British force surrendered to him and his force, [1] having been given a promise of a safe passage out of the area [1]
+  > • Nana Sahib fired on the British [1] who were on barges [1] and killed 300 women and children [1] as well as all the soldiers [1]
+  > • survivors were kept as prisoners who were killed [1] when British reinforcements arrived [1]
+  > • he was never captured [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Leadership, Consequences
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2011, May/June 2016, and Oct/Nov 2016 Nana Sahib entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative East India Company.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

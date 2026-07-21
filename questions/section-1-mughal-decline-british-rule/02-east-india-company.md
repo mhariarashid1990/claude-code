@@ -1257,3 +1257,40 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q2B
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how Britain extended its control across the subcontinent between 1756 and 1856.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Table 1 (Level 3: Explanation, 5–7; Level 2: Identification/description, 2–4; Level 1: General answer, 1; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > • by having a strong army
+  > • the British army took Bengal in the battles of Plassey and Buxar
+  > • they took control of vast resources especially in Bengal
+  > • they had a well-developed administrative system e.g. Governor-Generals from 1782 onwards
+  > • they built railways
+  > • troops, administrators and goods were transported around the country
+  > • they passed laws: The Regulating Act 1773, The India Act 1784, etc.
+  > • the Doctrine of Lapse 1852
+  > • land annexed in: Sindh, North-West Frontier, Punjab, Mysore
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Political, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "why Britain was able to expand" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version naming the Regulating Act 1773 and India Act 1784 specifically. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

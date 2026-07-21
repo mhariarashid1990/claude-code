@@ -122,3 +122,48 @@
 - **Version Number:** 20
 - **Allocation History:** Allocated on extraction, Version 20, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q5C
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has had good relations with the USSR (Russia) since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > may agree that Pakistan has had good relations with the USSR (Russia) since 1947:
+  > • Pakistan hosted the oil exploration in Pakistan conducted by USSR
+  > • Pakistan negotiated £11m in economic assistance from the USSR in 1963
+  > • Pakistan's leaders visited the USSR on several occasions
+  > • in 1963 the USSR took a more neutral stance on the Kashmir issue
+  > • the USSR hosted a Peace Conference in 1965 between Pakistan and India
+  > • Pakistan-Soviet links flourished when the USA closed their airbase at Peshawar in 1968
+  > • Pakistan attracted support from the USSR to build a steel mill in 1972
+  > • Zia-ul-Haq attended President Andropov's funeral in 1984
+  >
+  > counter-arguments might include:
+  > • the USSR supported India in 1955 on the Kashmir issue
+  > • Pakistan received aid from the USA instead of the USSR in 1956
+  > • Pakistan stated they had no knowledge of the USA 'spy plane' flights
+  > • Pakistan involvement in USA-Chinese diplomacy led to Soviet support for India
+  > • relations with the USSR became hostile following the Soviet invasion of Afghanistan in 1979
+  > • the USSR disapproved of Pakistan's nuclear programme
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** USSR / Russia
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2012 and Oct/Nov 2017 entries already in this file, reproduced separately and verbatim as its own distinct instance, this version adding the 1968 Peshawar airbase closure and Zia-ul-Haq's 1984 Andropov funeral visit as new detail. Topic chosen by user from clickable options, over the alternative Afghanistan.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/06-afghanistan.md` (alternate topic considered, not used)

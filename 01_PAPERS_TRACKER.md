@@ -21,7 +21,7 @@ assumed in advance (Golden Rule 5).
 | 2019 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2020 | May/June, V1 (⚠️ COVID-cancelled series — students did not sit this exam; MS extracted and flagged per user instruction) + Oct/Nov, V1 | Complete |
 | 2021 | May/June, V1 + Oct/Nov, V1 | Complete |
-| 2022 | May/June, V1 | In progress |
+| 2022 | May/June, V1 + Oct/Nov, V1 | Complete |
 | 2023 | — | Not started |
 | 2024 | — | Not started |
 | 2025 | — | Not started |

@@ -273,3 +273,37 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q3A
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the impact of Lord Curzon on India.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • he became Viceroy of India [1] in 1898 [1]
+  > • in 1905 [1] he decided to partition Bengal [1]
+  > • it was partitioned into West Bengal and East Bengal
+  > • protests took place in Bengal because of his decision
+  > • the Muslim community supported his decision
+  > • Hindu groups boycotted British goods because of his decision
+  > • long-term, partition was reversed in 1911
+  > • long-term, it weakened the position of Muslims [1] and strengthened the position of Hindus [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Consequences, Political, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming Lord Curzon directly as the decision-maker behind the Partition; MS content is centred entirely on his 1905 decision and its consequences. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

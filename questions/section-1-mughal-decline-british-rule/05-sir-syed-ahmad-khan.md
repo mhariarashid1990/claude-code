@@ -520,3 +520,48 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q2C
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Introducing a new approach to education was the main contribution of Sir Syed Ahmad Khan to improving the lives of Muslim people during the nineteenth century.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Table 2 (Level 5: Explanation with evaluation/judgement, 13–14; Level 4: Explanation of both sides of the issue, 10–12; Level 3: Explanation of one side of the issue, 7–9; Level 2: Identification/description of the issue, 3–6; Level 1: General answer, 1–2; Level 0: No creditable response, 0)
+  >
+  > Indicative content
+  > may agree that a new approach to education was the main contribution of Sir Syed Ahmad Khan to improving the lives of Muslim people during the nineteenth century:
+  > • Sir Syed Ahmad Khan sought views about education from influential Muslims
+  > • he set up the Mohammedan Educational Conference
+  > • he opened a school which became a college and then a university which taught a mix of Muslim and western content
+  > • it used western educational ideas including new subjects such as science
+  > • it promoted self-esteem and confidence within Muslims and a pathway to achieving employment and leadership
+  > • he founded the Scientific Society at Ghazipur
+  >
+  > counter-arguments might include:
+  > • he believed in the 'Two-Nation' Theory
+  > • he was opposed to Hindi replacing Urdu as the official language
+  > • he improved Muslim understanding of Christianity
+  > • he promoted more positive relationships by working with the Muslim community and the British
+  > • he promoted a greater understanding between the British and Muslim communities of each other
+  > • he wrote several influential texts
+  > • he gave explanation of the word 'Nadarath'
+  > • he formed the United Patriotic Alliance
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Educational, Comparison, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "most important contribution" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version naming the Mohammedan Educational Conference specifically. Topic chosen by user from clickable options, over the alternative Urdu Language Controversy.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** —

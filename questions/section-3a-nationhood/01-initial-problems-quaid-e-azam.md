@@ -360,3 +360,34 @@
 - **Version Number:** 28
 - **Allocation History:** Allocated on extraction, Version 28, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2022-V1-Q5A
+
+- **Year:** 2022
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Canal Water Dispute.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • after partition, the Indian government promised not to interfere with the supply of water to Pakistan [1], but India and Pakistan were soon in dispute especially over the waters from the Bari-Doab canal [1]
+  > • in April 1948 [1] India shut off waters flowing into Pakistan [1] from Ferozepur headworks [1], threatening millions of acres of agricultural land in the Punjab/Pakistan [1] as the irrigation system depended on 6 rivers and 30 canals [1]
+  > • the Pakistan government called for the matter to be settled by the International Court of Justice [1]
+  > • in May 1948 [1], a temporary agreement was reached [1] when India agreed to allow water from east Punjab to flow into west Punjab [1], but only if Pakistan agreed to try to find alternative water supplies [1]
+  > • the dispute was resolved in 1959 [1] when the Indus Water Treaty was signed [1]
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Economic, Consequences
+- **Confidence Level:** High (overlapped with "India and the Kashmir Issue"; resolved by user decision, consistent with this file's May/June 2010 Q4(a) precedent)
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2022 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to this file's May/June 2010 Q4(a) entry on the same dispute, reproduced separately and verbatim as its own distinct instance, this version adding the specific "Bari-Doab canal" and "International Court of Justice" details. Topic chosen by user from clickable options, over the alternative India and the Kashmir Issue, consistent with the established precedent for this dispute.
+- **Version Number:** 30
+- **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md` (alternate topic considered, not used)
