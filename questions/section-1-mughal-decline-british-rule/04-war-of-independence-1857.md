@@ -807,3 +807,33 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2024-V1-Q2A
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe what happened at the Battle of Kanpur.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • in 1857, (1) Indian troops led by Nana Sahib (1) rose up against the British (1)
+  > • British troops were trapped for three weeks (1) and surrendered (1) after being promised safe passage from the city (1)
+  > • Nana Sahib's forces then attacked (1) the British troops (1) killed 300 women and children (1) keeping the survivors as prisoners (1)
+  > • British reinforcements arrived, (1) recaptured the city (1) and carried out multiple acts of revenge (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Features, Consequences, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2011, May/June 2016, Oct/Nov 2016, and Oct/Nov 2022 Nana Sahib/Kanpur entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

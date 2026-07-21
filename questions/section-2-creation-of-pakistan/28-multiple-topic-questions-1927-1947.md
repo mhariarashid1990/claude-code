@@ -335,3 +335,43 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/19-cripps-mission.md`, `section-2-creation-of-pakistan/21-gandhi-jinnah-talks.md`, `section-2-creation-of-pakistan/22-simla-conference.md`, `section-2-creation-of-pakistan/24-cabinet-mission-plan.md`, `section-2-creation-of-pakistan/25-direct-action-day.md`, `section-2-creation-of-pakistan/26-3rd-june-plan.md` (single-event topics touched on, Cripps Mission also considered as alternate primary, none used as primary)
+
+### UQID: PK2059-ON-2024-V1-Q4C
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were Muhammad Ali Jinnah's 14 Points the most important attempt at achieving constitutional reform in the subcontinent between 1928 and 1935? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that Muhammad Ali Jinnah's 14 Points were the most important attempt at achieving constitutional reform in the subcontinent between 1928 and 1935:
+  > • the 14 Points were in response to the Nehru Report
+  > • the 14 Points should form the basis of any future discussions with Congress and Britain on the future of India
+  > • the 14 Points demanded adequate representation of minorities
+  > • Muslims should have one-third of the seats in the Central Assembly
+  > • elections should be by separate electorates
+  > • Muslim culture, education, language, religion and charities should be protected by the constitution
+  >
+  > counter-arguments might include:
+  > • Simon Commission – no agreements reached
+  > • Round Table Conferences
+  > • the contents of the Nehru Report
+  > • Allama Iqbal's Allahabad address in 1930
+  > • The Government of India Act of 1935 introduced a federal (two-tier) system of government
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Multiple Topic Questions (1927–1947)
+- **Secondary Tags:** Comparison, Political, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Content spans Jinnah's Fourteen Points, the Nehru Report, the Simon Commission, the Round Table Conferences, Iqbal's Allahabad Address, and the Government of India Act 1935 — six distinct named topics — so filed in the multi-topic bucket, matching the same question type already filed here for the May/June 2013 (2059/41) and Oct/Nov 2017 entries (there comparing the Simon Commission/Nehru Report against Jinnah's Fourteen Points and the GoI Act 1935). Topic chosen by user from clickable options, over the alternative Jinnah's Fourteen Points.
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md`, `section-2-creation-of-pakistan/11-nehru-report.md`, `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md`, `section-2-creation-of-pakistan/13-round-table-conferences.md`, `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` (single-event topics touched on, Jinnah's Fourteen Points also considered as alternate primary, none used as primary)

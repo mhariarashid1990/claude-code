@@ -656,3 +656,41 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2024-V1-Q2C
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Assess the contributions of religious thinkers to the spread of Islam across the subcontinent between 1700 and 1850. Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree with the contribution of one of the religious thinkers to the spread of Islam across the subcontinent between 1700 and 1850:
+  > • Shah Waliullah wanted to stop the decline of Islam
+  > • he translated the Quran into Persian
+  > • he tried to unite different Muslim groups
+  >
+  > counter-arguments might include:
+  > Syed Ahmad Barelvi:
+  > • founded the Jihad Movement
+  > • founded the Mujahideen
+  > Haji Shariatullah:
+  > • established the Faraizi Movement
+  > • wanted all Muslims to relinquish non-Muslim practices
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Comparison, Religious, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior three-way reformer-comparison entries already in this file (May/June 2013, Oct/Nov 2011, May/June 2016, Oct/Nov 2017, May/June 2019, May/June 2021), reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

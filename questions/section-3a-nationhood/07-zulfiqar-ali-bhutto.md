@@ -554,3 +554,92 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2024-V1-Q1C
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zulfikar Ali Bhutto came to power in 1971.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • Zulfikar Ali Bhutto's proposed policy of 'food, clothes and shelter' was popular with the Pakistan people
+  > • his party, the PPP, won a majority in West Pakistan in the 1970 elections
+  > • Yahya Khan could not resolve the constitutional differences with the Awami League leading to his resignation.
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(c), direct match — his own rise to power. Topic chosen by user from clickable options, over the alternative Yahya Khan.
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/06-yahya-khan.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2024-V1-Q1D
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > 'Zulfikar Ali Bhutto's health reforms were more significant than his constitutional reforms for the people of Pakistan between 1971 and 1977.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that health reforms were more significant than his constitutional reforms between 1971 and 1977:
+  > • Zulfikar Ali Bhutto worked to improve infant mortality and life expectancy rates
+  > • profits from nationalised companies were used to improve public services
+  > • Rural Health Centres were introduced
+  > • training colleges for doctors and nurses were introduced
+  > • doctors had to work their first year wherever they were placed
+  > • sale of medicines under brand names was banned
+  >
+  > counter-arguments might include:
+  > • there was a new Islamic constitution drawn up in 1973
+  > • the new constitution safeguarded the interests of minorities
+  > • the country was made an Islamic Republic
+  > • the new constitution placed all political power with Zulfikar Ali Bhutto
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Zulfiqar Ali Bhutto
+- **Secondary Tags:** Domestic Policy, Comparison, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Near-identical content to several prior "how successful were Bhutto's domestic policies" entries already in this file. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

@@ -380,3 +380,61 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2024-V1-Q3A
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the work of the Hunter Committee.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • the British (1) appointed a committee (1) to investigate the actions of General Dyer (1) in Amritsar (1) in 1919 (1)
+  > • as a result, Dyer was removed from active service (1), but he received no further punishment (1) which the people found insulting (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Features, Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Hunter Committee" topic exists in the taxonomy; the Committee's investigation of General Dyer at Amritsar is already referenced in this file's May/June 2013 (2059/41) Amritsar Massacre entry and Oct/Nov 2020's "Who was General Dyer?" entry — this is its first entry as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2024-V1-Q4B
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Britain would not grant self-rule to the subcontinent in 1919.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • the subcontinent was geographically strategic
+  > • the subcontinent was too valuable in terms of power, prestige and trade
+  > • Britain's image as a world power would be severely damaged
+  > • the large British population in the subcontinent would have felt abandoned
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content and near-identical question stem to the Oct/Nov 2018 "Why was India not granted self-rule by Britain in 1919?" entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)

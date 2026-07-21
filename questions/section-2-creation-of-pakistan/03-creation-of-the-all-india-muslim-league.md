@@ -374,3 +374,39 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2024-V1-Q3C
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The partition of Bengal in 1905 was the main reason for the formation of the Muslim League in 1906.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the partition of Bengal in 1905 was the main reason for the formation of the Muslim League in 1906:
+  > • Hindu groups protested against the partition of Bengal
+  > • the Muslim community's concern about the influence of Hindu groups on the British
+  > • Hindus started the Swadeshi Movement
+  >
+  > counter-arguments might include:
+  > • Simla Deputation achieved the promise of separate electorates
+  > • the British government promised political reform in the subcontinent
+  > • the Muslim community could no longer rely on Congress to further their interests e.g. education and economic well-being
+  > • Urdu-Hindi controversy
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Creation of the All-India Muslim League
+- **Secondary Tags:** Causes, Political, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2016 "Was the partition of Bengal the main reason for the formation of the Muslim League" entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Partition of Bengal (1905).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/01-partition-of-bengal-1905.md` (alternate topic considered, not used)

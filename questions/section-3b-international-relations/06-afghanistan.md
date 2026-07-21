@@ -135,3 +135,45 @@
 - **Version Number:** 19
 - **Allocation History:** Allocated on extraction, Version 19, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2024-V1-Q5C
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has experienced good relations with Afghanistan since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that Pakistan has experienced good relations with Afghanistan:
+  > • Quaid-e-Azam removed old British military posts along the border as a move of friendship and trust towards Afghanistan
+  > • Zahir Shah (King of Afghanistan 1933–73) wanted friendly relations
+  > • Zulfikar Ali Bhutto visited Kabul shortly after taking office in 1971
+  > • access to India through Pakistan was granted to Afghan traders
+  > • when Zia-ul Haq pursued friendly relations in 1977
+  > • Pakistan provided aid to the Mujahideen forces in Afghanistan
+  > • the Pakistan military intelligence service helped the Afghans to plan operations against Soviet forces
+  >
+  > counter-arguments might include:
+  > • The Afghans lay claim to parts of the North West Frontier following 1947
+  > • Afghanistan was the only state to vote against Pakistan joining the UN
+  > • Afghanistan claimed the 'Pakhtoons' living in Pakistan wanted to join with them to form Pakhtoonistan
+  > • Afghanistan broke trade agreements on several occasions
+  > • in March 1955 Afghans attacked the Pakistan embassy in Kabul
+  > • during the Soviet-Afghan War, Afghanistan entered Pakistan airspace bombing some areas of Pakistan
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Afghanistan
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2010, Oct/Nov 2014, and May/June 2017 "how successful/to what extent has Pakistan-Afghanistan relations been" entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: MS reads "when Zia-ul Haq pursued friendly relations in 1977" — a sentence fragment lacking a main verb — not corrected. Topic chosen by user from clickable options, over the alternative General Zia-ul-Haq.
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/08-general-zia-ul-haq.md` (alternate topic considered, not used)

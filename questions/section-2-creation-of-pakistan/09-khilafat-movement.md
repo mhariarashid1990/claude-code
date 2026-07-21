@@ -653,3 +653,65 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-ON-2024-V1-Q3B
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Hijrat could not support the Khilafat Movement.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • following Hijrat there was disillusionment with the Khilafat Movement's leaders
+  > • the difficulties in travelling to Afghanistan and back were too much for many people
+  > • the immediate priority for most returnees was economic survival and protection of their families
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Failures, Causes, Religious
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. The Hijrat is already well established in this file's existing entries as a factor in the Movement's failure; this entry frames it from the specific angle of why the Hijrat itself could not sustain the Movement's momentum. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)
+
+### UQID: PK2059-ON-2024-V1-Q4A
+
+- **Year:** 2024
+- **Session:** Oct/Nov
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Non-Cooperation Movement of the 1920s.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • people joined the Non-Cooperation Movement founded by Gandhi (1)
+  > • British cloth was burned (1) and production of hand-spun and hand-woven Indian textiles encouraged (1)
+  > • teachers and students left English colleges and schools (1) and set up their own institutions (1)
+  > • lawyers gave up their practices (1) boycotting the English legal system (1)
+  > • elections for the reformed Councils in 1920 were ignored (1) and Congress refused to field candidates (1)
+  > • the British imprisoned 30000 (1) political prisoners (1)
+  > • Gandhi ended the campaign in 1922
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Non-Cooperation Movement" topic exists in the taxonomy; Gandhi's Non-Cooperation campaign ran alongside and became entangled with the Khilafat Movement in this era (both ended together in 1922), so filed here per user selection. First entry in this file naming the Non-Cooperation Movement as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1905–1926).
+- **Version Number:** 34
+- **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/27-multiple-topic-questions-1905-1926.md` (alternate topic considered, not used)

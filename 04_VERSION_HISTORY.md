@@ -1531,3 +1531,78 @@ batch). Total: 431 questions across 30 papers. Remaining in this batch:
 2024 Oct/Nov, then 2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 34 — 2026-07-21
+
+**Questions added:** 14 (PK2059-ON-2024-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 431 → 445, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2024 row updated to "May/June, V1 + Oct/Nov, V1"
+with status "Complete."
+**Reason:** Thirty-first paper processed — Cambridge O Level 2059/01,
+Paper 1, Oct/Nov 2024, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format and
+"annotation stamps"/"Assessment Objectives" front-matter pages used since
+Oct/Nov 2023 — both correctly skipped as non-content front matter.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across four rounds (4+4+4+2 questions). The user confirmed the
+recommended (primary) option in every case this version — no overrides.
+
+One part required allocation to a topic without an exact taxonomy match:
+Q3(a) ("Describe the work of the Hunter Committee") was filed under
+**Montagu–Chelmsford Reforms & Other Events of 1919**, since the Committee
+investigated General Dyer's actions at Amritsar within this file's
+established 1919-cluster scope, over the alternative Multiple Topic
+Questions (1905–1926). Q4(a) ("Describe the Non-Cooperation Movement of
+the 1920s") was filed under **Khilafat Movement**, since Gandhi's
+Non-Cooperation campaign ran alongside and ended together with the
+Khilafat Movement in 1922, over the same alternative. Q5(a) ("Describe
+the Objectives Resolution") was filed under **Liaquat Ali Khan**, since it
+was passed in March 1949 during his premiership, over the alternative
+Initial Problems of Pakistan & Quaid-e-Azam as Governor-General — first
+entry in this topic file since its sole prior entry (Oct/Nov 2011).
+
+Final allocations this version: Q1(c) (why Zulfikar Ali Bhutto came to
+power in 1971); Q1(d) (health reforms vs constitutional reforms,
+1971–1977, under Zulfiqar Ali Bhutto); Q2(a) (Battle of Kanpur, under War
+of Independence); Q2(b) (why Urdu was chosen as the national language in
+1947); Q2(c) (contributions of religious thinkers to the spread of Islam,
+1700–1850); Q3(a) (Hunter Committee, under Montagu–Chelmsford Reforms, no
+exact-match topic); Q3(b) (why the Hijrat could not support the Khilafat
+Movement); Q3(c) (partition of Bengal as the main reason for the Muslim
+League's 1906 formation); Q4(a) (Non-Cooperation Movement, under Khilafat
+Movement, no exact-match topic); Q4(b) (why Britain would not grant
+self-rule in 1919); Q4(c) (Jinnah's 14 Points as the most important
+constitutional-reform attempt, 1928–1935, under Multiple Topic Questions);
+Q5(a) (Objectives Resolution, under Liaquat Ali Khan, no exact-match
+topic); Q5(b) (why there were many different governments in the 1950s,
+under Multiple Regime Questions); and Q5(c) (Pakistan-Afghanistan
+relations since 1947).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(a) (Kanpur), Q2(b) (Urdu
+national-language choice), Q2(c) (religious-reformers comparison), Q3(c)
+(Muslim League formation), Q4(b) (Britain and self-rule in 1919), Q5(b)
+(many governments in the 1950s), and Q5(c) (Pakistan-Afghanistan
+relations) all parallel earlier entries in their respective topic files.
+Source anomaly preserved verbatim: Q5(a)'s MS states the Objectives
+Resolution was "passed by the Basic Principles Committee" in 1949, though
+it was in fact passed by the Constituent Assembly (the Basic Principles
+Committee produced its own separate report the following year, 1950) —
+not corrected. Q5(c)'s MS also reads "when Zia-ul Haq pursued friendly
+relations in 1977," a sentence fragment lacking a main verb — not
+corrected. All 14 parts were present and extracted; none skipped.
+
+**2024 is now Complete** (May/June and Oct/Nov both done). Total: 445
+questions across 31 papers. Remaining in this batch: 2025 May/June and
+Oct/Nov papers for 2059/01 (14-part pattern), still to come.
+**Date:** 2026-07-21
