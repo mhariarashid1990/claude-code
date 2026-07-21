@@ -597,3 +597,67 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2024-V1-Q2A
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the publication 'The Loyal Muhammadans of India'.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • written by Sir Syed Ahmad Khan (1) in 1860 (1)
+  > • it was aimed at making better relations between British and Muslims
+  > • it told the British that Muslims were not opposed to them
+  > • it stated the British shouldn't discriminate against Muslims (1) as Muslims were wrongly blamed for the violence during the war (1)
+  > • it wanted the British to understand and respect Muslim beliefs (1) and consult with Indians (1)
+  > • it gave an account of the loyal service Muslims had given (1) and named various Muslims who had shown loyalty to the British (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011 and Oct/Nov 2019 entries already in this file on the same publication, reproduced separately and verbatim as its own distinct instance. Source spells "The Loyal Muhammadans of India" here, versus "The Loyal Mohammedans of India" (Oct/Nov 2011) and "The Loyal Mohammadens of India" (May/June 2018) elsewhere in this file — reproduced exactly as printed, not reconciled. This MS additionally dates the publication to 1860, a detail not given in this file's earlier entries on the same work. Topic chosen by user from clickable options, over the alternative East India Company.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/02-east-india-company.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2024-V1-Q2B
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Indian National Congress was formed in 1885.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • to create a national identity
+  > • to promote national unity
+  > • to unify all regional, provincial and sub-national organisations
+  > • to create an all-India political organisation
+  > • to educate and organise the masses under an umbrella of a representative political organisation
+  > • to prepare and put forward the views of all Indians to the British government
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Sir Syed Ahmad Khan
+- **Secondary Tags:** Political, Causes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Indian National Congress" topic exists in the taxonomy; the MS content itself names no leader or Muslim-specific angle, describing only Congress's own founding purpose. User chose Sir Syed Ahmad Khan, the dominant Muslim political figure of this era whose approach is frequently contrasted with Congress's formation, over the alternative Creation of the All-India Muslim League. First entry in this file concerning the Indian National Congress's own founding rather than Sir Syed's direct activities.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)

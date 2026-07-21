@@ -569,3 +569,52 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q5C
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The main impact of the "Afghan Miracle" in Pakistan during Zia-ul-Haq's presidency was on its economy.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the main impact of the 'Afghan Miracle' in Pakistan during Zia-ul-Haq's presidency was on its economy:
+  > • $1.6 billion aid package over five years provided by the USA
+  > • In 1986 a further $4.2 billion worth of aid was agreed
+  > • some of this money was used to develop Pakistan's economy and undertake economic reform
+  > • the economic growth rate of Pakistan increased, between 1977-1986 average GNP growth was 6.2%
+  > • inflationary pressures grew
+  >
+  > counter-arguments might include:
+  > Political impacts:
+  > • stronger relationship with the USA
+  > • deteriorating relationship with the USSR
+  > • established Pakistan as a leading country on the global political stage
+  >
+  > Social impacts:
+  > • increasing refugee crisis
+  > • funding for the rehabilitation of refugees
+  > • impacts on law and order
+  >
+  > Military impacts:
+  > • $1.5 billion in funding from USA to develop the Pakistan army to become a leading military nation in the region
+  > • Pakistan built up an effective military force with modern weapons
+  > • Karachi became the leading naval base in the region
+  > • Pakistan sold military assistance to other Muslim countries
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Economic, Political, Comparison, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the "Afghan Miracle" directly and organising its impact by political/social/military/economic strands; the $1.6 billion and $4.2 billion USA aid-package figures are already referenced elsewhere in this bank's United States of America file. Topic chosen by user from clickable options, over the alternative United States of America (USA).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)

@@ -264,3 +264,35 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-3a-nationhood/10-nawaz-sharif.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2024-V1-Q5B
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why relations between Pakistan and the USA improved during the 1990s.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • there was a will from both countries to restore relations following a change in US administration in 1992
+  > • the USA accepted the Pressler Amendment was a mistake
+  > • Benazir Bhutto visited the United States in 1996 to further develop relations culminating in the Brown Amendment
+  > • the F-16 fighter jets issue was resolved
+  > • the USA provided $388 million in military supplies to Pakistan
+  > • the First Lady Hillary Clinton visited Pakistan in 1996 further strengthening the relationship
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United States of America (USA)
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the Brown Amendment specifically, alongside the already-referenced $388 million military-supplies figure and Hillary Clinton's 1996 visit (both previously noted in this file's May/June 2015 and May/June 2021 entries). Topic chosen by user from clickable options, over the alternative Benazir Bhutto.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/09-benazir-bhutto.md` (alternate topic considered, not used)

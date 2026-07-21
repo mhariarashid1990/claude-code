@@ -125,3 +125,33 @@
 - **Version Number:** 29
 - **Allocation History:** Allocated on extraction, Version 29, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q4A
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the 'One Unit' Scheme.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • in 1954 (1) Muhammad Ali Bogra (1) had proposed that the four provinces and ten princely states within Pakistan should be joined together (1) to form West Pakistan (1)
+  > • in 1955 (1) Iskander Mirza (1) passed an order unifying all West Pakistan in what became known as the 'One Unit' Scheme (1)
+  > • Pakistan was divided into two wings, West and East Pakistan
+  > • Mirza claimed that the unification would bring about greater efficiency (1) and a united country (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Iskander Mirza
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "One Unit Scheme" topic exists in the taxonomy; although Muhammad Ali Bogra first proposed the underlying concept in 1954, the MS credits Iskander Mirza with actually passing the unifying order in 1955, so filed under his topic. First entry in this file describing the One Unit Scheme as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

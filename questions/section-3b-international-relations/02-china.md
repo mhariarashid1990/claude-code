@@ -171,3 +171,46 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q4C
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has had good relations with China since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that Pakistan has had good relations with China since 1947:
+  > • Pakistan gave support for China joining UN in 1952
+  > • boundary issues between the two countries were settled in 1963
+  > • trade developed in 1960s particularly Pakistani cotton – a $60 million long term interest free loan regarding import of machinery
+  > • China permitted PIA to use any airport in 1963, despite opposition from USA
+  > • increased numbers of visitors from China – journalists, engineers, scientists etc.
+  > • China gave Pakistan full support during the 1965 war and military aid
+  > • Post war in 1972 Bhutto visited China and supportive relations were reestablished
+  > • in 1978 Karakoram Highway provided the first road link and opened the two countries up to trade and tourism
+  > • Zia's visit to China in 1986 and the signature of nuclear cooperation treaty emphasised the strength of the relationship
+  >
+  > Counter-arguments might include:
+  > • the 1950s saw a cooling off when Pakistan supported pro-USA policies
+  > • there was a border dispute in 1950s
+  > • in 1958/9 Pakistan voted against China's admission to UN and condemned military action in Tibet
+  > • during the 1971 war, China was unable to offer as much support to Pakistan
+  > • during 1990s China developed relations with other countries
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** China
+- **Secondary Tags:** Successes, Failures, Foreign Policy, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. The Karakoram Highway (already the sole subject of this file's Oct/Nov 2019 entry) and Zia's 1986 nuclear cooperation visit are both referenced here as part of the broader relationship narrative. Topic chosen by user from clickable options, over the alternative United States of America (USA).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)

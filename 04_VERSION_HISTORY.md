@@ -1453,3 +1453,81 @@ questions across 29 papers. Remaining in this batch: 2024 May/June and
 Oct/Nov, then 2025 May/June and Oct/Nov papers for 2059/01 (14-part
 pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 33 — 2026-07-21
+
+**Questions added:** 14 (PK2059-MJ-2024-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 417 → 431, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2024 row updated to "May/June, V1" with status
+"In progress" (Oct/Nov 2024 still outstanding).
+**Reason:** Thirtieth paper processed — Cambridge O Level 2059/01, Paper
+1, May/June 2024, single variant. This mark scheme carries no COVID-19
+cancellation notice — a normal series, extracted normally, using the same
+generic Table 1/Table 2 levels-of-response format used since Oct/Nov
+2020, including the "annotation stamps" legend page (unchanged from the
+Oct/Nov 2023 paper) and a new "Assessment Objectives" table mapping each
+question part to its AO codes — both correctly recognised as
+non-content front matter and skipped rather than extracted.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across four rounds (4+4+4+2 questions). The user confirmed the
+recommended (primary) option in every case this version — no overrides.
+
+Two parts required allocation to a topic without an exact taxonomy match,
+since no dedicated file exists for the specific event named in the
+question: Q2(b) ("why the Indian National Congress was formed in 1885")
+was filed under **Sir Syed Ahmad Khan**, the era's dominant Muslim
+political figure, over the alternative Creation of the All-India Muslim
+League; Q3(a) ("Describe the Communal Award") was filed under **Round
+Table Conferences**, since the MS explicitly frames the Award as the
+direct outcome of the second RTC's failure, over the alternative Multiple
+Topic Questions (1927–1947); Q4(a) ("Describe the 'One Unit' Scheme") was
+filed under **Iskander Mirza**, since the MS credits him with passing the
+unifying 1955 order (despite Muhammad Ali Bogra's earlier 1954 proposal),
+over the alternative Multiple Regime Questions (1947–1999); and Q5(a)
+("Describe Sajjad Ali Shah's role in the Pakistan governments of the
+1990s") was filed under **Nawaz Sharif**, since the bulk of the MS content
+concerns his 1997 judicial clash with and dismissal under Sharif's
+government, over the alternative Benazir Bhutto (who appointed him Chief
+Justice in 1994).
+
+Final allocations this version: Q1(c) (East India Company's motives for
+involvement in the subcontinent); Q1(d) (Doctrine of Lapse and political
+vs economic causes of 1857, under War of Independence); Q2(a) ('The Loyal
+Muhammadans of India', under Sir Syed Ahmad Khan); Q2(b) (Indian National
+Congress's 1885 formation, under Sir Syed Ahmad Khan, no exact-match
+topic); Q2(c) (military decline as the main reason the Mughal Empire
+ended); Q3(a) (Communal Award, under Round Table Conferences, no
+exact-match topic); Q3(b) (importance of the Simla Deputation of 1906);
+Q3(c) (Bande Mataram and Congress Rule's unpopularity, 1937–1939); Q4(a)
+('One Unit' Scheme, under Iskander Mirza, no exact-match topic); Q4(b)
+(why East Pakistan sought independence in 1971, under Yahya Khan); Q4(c)
+(Pakistan-China relations since 1947); Q5(a) (Sajjad Ali Shah's role in
+the 1990s, under Nawaz Sharif, no exact-match topic); Q5(b) (why
+Pakistan-USA relations improved in the 1990s); and Q5(c) (the "Afghan
+Miracle"'s economic impact under Zia-ul-Haq).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(a) ('The Loyal Muhammadans of
+India'), Q3(b) (Simla Deputation), and Q5(b) (US relations improving in
+the 1990s, adding the Brown Amendment by name) all parallel earlier
+entries in their respective topic files. Source spelling variant "The
+Loyal Muhammadans of India" (Q2(a)) differs from "The Loyal Mohammedans of
+India" and "The Loyal Mohammadens of India" used elsewhere in the Sir Syed
+Ahmad Khan file — reproduced exactly as printed, not reconciled. No other
+source anomalies of note this version. All 14 parts were present and
+extracted; none skipped.
+
+**2024 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 431 questions across 30 papers. Remaining in this batch:
+2024 Oct/Nov, then 2025 May/June and Oct/Nov papers for 2059/01 (14-part
+pattern), still to come.
+**Date:** 2026-07-21

@@ -651,3 +651,44 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q2C
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'The Mughal Empire ended because its military power declined.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the Mughal Empire ended because its military power declined:
+  > • continual fighting against rebels in multiple locations meant military strength grew weaker over time
+  > • the cost of putting down rebellions and fighting invaders meant that there were fewer resources available to modernise the army
+  > • military expertise declined during the latter stages of Mughal rule leaving the Empire more vulnerable to attack
+  >
+  > counter-arguments might include:
+  > • the size of the empire made it difficult to administer
+  > • local leaders increasingly challenged Mughal power
+  > • previously loyal princes rebelled against Mughal authority
+  > • uprisings by Marathas and Sikhs
+  > • the absence of a definite line of succession led to succession disputes
+  > • money was wasted when Emperors died and there was a succession dispute
+  > • disputes between wealthy Mughal nobility
+  > • the Empire came under almost constant attack from Persia and Afghanistan
+  > • the arrival of the British with their military strength
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming Sikh uprisings alongside Maratha uprisings as a counter-argument reason for decline (Ranjit Singh's rise is already covered in this file's May/June 2021 entry, but not previously framed as a direct cause of Mughal military decline). Topic chosen by user from clickable options, over the alternative War of Independence (1857).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` (alternate topic considered, not used)

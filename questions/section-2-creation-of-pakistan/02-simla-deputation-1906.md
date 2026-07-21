@@ -58,3 +58,34 @@
 - **Version Number:** 10
 - **Allocation History:** Allocated on extraction, Version 10, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q3B
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain the importance of the Simla Deputation of 1906.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • it established good relations between the Muslim community and the British, which was important for future Muslim prosperity
+  > • it reinforced the good relations that had been established in the partition of Bengal
+  > • it acted as a counter to Hindu opposition to the British
+  > • it gave the Muslim community the encouragement to set up their own political party
+  > • it was the first time separate representation for the Muslim community was accepted
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Simla Deputation (1906)
+- **Secondary Tags:** Importance, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content and near-identical question stem to the Oct/Nov 2010 entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Creation of the All-India Muslim League.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)

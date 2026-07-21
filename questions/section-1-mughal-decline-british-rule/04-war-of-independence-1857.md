@@ -748,3 +748,62 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2024-V1-Q1D
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > 'Political factors, such as the Doctrine of Lapse, were more significant than economic factors in causing the War of Independence in 1857.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/ judgement
+  > Explanation at the top of Level 4 with an evaluation/ judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/ description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/ description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that political measures such as the Doctrine of Lapse were the most significant cause of the War:
+  > • the Doctrine of Lapse meant local kingdoms were administered by the British
+  > • the taking of Oudh under British control in 1856 was unpopular with Indian people
+  > • there was frustration at the lack of opportunities in the civil service
+  > • the Mughal Emperor Bahadur Shah and his family were mistreated
+  > • the British replaced Persian with English as the official language of the administration/the language in which education would be given
+  >
+  > counter-arguments might include:
+  > • the British kept the salary of sepoys low, was unpopular among the troops
+  > • the British imposed high taxation that many Indians could not afford
+  > • the East India Company banned the export of cotton goods from India in 1800
+  > • poverty spread amongst the Indian people causing unrest
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Source anomaly preserved verbatim: MS states "the East India Company banned the export of cotton goods from India in 1800," repeating the same unusually specific and early-dated claim already noted in this file's May/June 2022 entry — not corrected. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

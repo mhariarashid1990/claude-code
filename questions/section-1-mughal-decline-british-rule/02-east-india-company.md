@@ -1360,3 +1360,37 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md`, `section-1-mughal-decline-british-rule/03-religious-reformers.md` (alternate/related topics touched on, not used as primary)
+
+### UQID: PK2059-MJ-2024-V1-Q1C
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the East India Company became involved in the subcontinent.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • because of the wealth in the subcontinent
+  > • because other European countries were there
+  > • Britain wanted a strategic port/base
+  > • to set up trading posts
+  > • to gain profits
+  > • to access raw materials such as spices, indigo, cotton
+  > • as an alternative to the spice trade in the East Indies dominated by the Dutch
+  > • to set up a transit point for trade in China
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Foreign Policy, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(c), the Company's own motives for involvement in the subcontinent. Topic chosen by user from clickable options, over the alternative Decline of the Mughal Empire.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)

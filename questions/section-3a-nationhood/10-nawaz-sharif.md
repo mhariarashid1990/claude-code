@@ -365,3 +365,34 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q5A
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe Sajjad Ali Shah's role in the Pakistan governments of the 1990s.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Sajjad Ali Shah appointed Chief Justice of the Supreme Court (1) by Benazir Bhutto (1) in 1994 (1)
+  > • During 1997 he became a critic of the new Prime Minister (1)
+  > • In November 1997, (1) demonstrations forced the Chief Justice to adjourn a case against the Prime Minister (1) and flee the courthouse
+  > • he was dismissed as Chief Justice of Pakistan (1) in December 1997 (1), having lost President Leghari's support (1)
+  > • he was replaced by Ajmal Mian (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Political, Failures, Features
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Sajjad Ali Shah" topic exists in the taxonomy; although Benazir Bhutto appointed him Chief Justice in 1994, the bulk of the MS content concerns his 1997 clash with and dismissal under Nawaz Sharif's government, so filed under Nawaz Sharif. First entry in this file naming Sajjad Ali Shah directly. Topic chosen by user from clickable options, over the alternative Benazir Bhutto.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/09-benazir-bhutto.md` (alternate topic considered, not used)

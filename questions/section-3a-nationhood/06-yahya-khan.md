@@ -234,3 +234,40 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (recommended alternate topic, not used)
+
+### UQID: PK2059-MJ-2024-V1-Q4B
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why East Pakistan sought independence from West Pakistan in 1971.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > East Pakistan felt that:
+  > • the long distance from West Pakistan meant it was not treated as an equal part of Pakistan
+  > • the government introduced schemes such as the 'One Unit policy' to deny East Pakistan fair representation in the Assembly
+  > • cultural and linguistic differences were not fully recognised
+  > • it was under-represented in the Civil Service and the military
+  > • government measures to boost the economy had favoured West Pakistan
+  > • it did not benefit from the wealth created by the growing of jute
+  > • the wealth gap and differences in health and education were growing
+  > • it received insufficient relief following the 1970 cyclone
+  > • the demands of the Awami League were not fully considered
+  > • the results of the 1971 election were not accepted
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Causes, Political, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "why East Pakistan sought independence" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version naming the 'One Unit policy' as a specific representation grievance. User chose Yahya Khan over the recommended Bangladesh topic, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (recommended alternate topic, not used)

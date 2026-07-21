@@ -3,17 +3,17 @@
 Live map of every topic file and its current question count. Updated on every
 `Allocate`, `Move`, or restructuring event.
 
-**Total questions allocated: 417**
+**Total questions allocated: 431**
 
 ## Section 1 — The Decline of the Mughal Empire & the Establishment of British Rule
 
 | # | Topic | File | Count |
 |---|-------|------|-------|
-| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 17 |
-| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 38 |
+| 1 | Decline of the Mughal Empire | `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` | 18 |
+| 2 | East India Company | `section-1-mughal-decline-british-rule/02-east-india-company.md` | 39 |
 | 3 | Religious Reformers | `section-1-mughal-decline-british-rule/03-religious-reformers.md` | 19 |
-| 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 20 |
-| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 17 |
+| 4 | War of Independence (1857) | `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` | 21 |
+| 5 | Sir Syed Ahmad Khan | `section-1-mughal-decline-british-rule/05-sir-syed-ahmad-khan.md` | 19 |
 | 6 | Urdu Language Controversy (Languages) | `section-1-mughal-decline-british-rule/06-urdu-language-controversy.md` | 10 |
 
 ## Section 2 — The Creation of Pakistan (1905–1947)
@@ -21,7 +21,7 @@ Live map of every topic file and its current question count. Updated on every
 | # | Topic | File | Count |
 |---|-------|------|-------|
 | 1 | Partition of Bengal (1905) | `section-2-creation-of-pakistan/01-partition-of-bengal-1905.md` | 11 |
-| 2 | Simla Deputation (1906) | `section-2-creation-of-pakistan/02-simla-deputation-1906.md` | 2 |
+| 2 | Simla Deputation (1906) | `section-2-creation-of-pakistan/02-simla-deputation-1906.md` | 3 |
 | 3 | Creation of the All-India Muslim League | `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` | 10 |
 | 4 | Muslim League (1906–1908) | `section-2-creation-of-pakistan/04-muslim-league-1906-1908.md` | 0 |
 | 5 | Morley–Minto Reforms (1909) | `section-2-creation-of-pakistan/05-morley-minto-reforms-1909.md` | 3 |
@@ -32,10 +32,10 @@ Live map of every topic file and its current question count. Updated on every
 | 10 | Delhi Proposals & Simon Commission | `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md` | 3 |
 | 11 | Nehru Report | `section-2-creation-of-pakistan/11-nehru-report.md` | 4 |
 | 12 | Jinnah's Fourteen Points | `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md` | 3 |
-| 13 | Round Table Conferences | `section-2-creation-of-pakistan/13-round-table-conferences.md` | 12 |
+| 13 | Round Table Conferences | `section-2-creation-of-pakistan/13-round-table-conferences.md` | 13 |
 | 14 | Government of India Act (1935) | `section-2-creation-of-pakistan/14-government-of-india-act-1935.md` | 4 |
 | 15 | Elections of 1937 | `section-2-creation-of-pakistan/15-elections-of-1937.md` | 5 |
-| 16 | Congress Rule (1937–1939) | `section-2-creation-of-pakistan/16-congress-rule-1937-1939.md` | 7 |
+| 16 | Congress Rule (1937–1939) | `section-2-creation-of-pakistan/16-congress-rule-1937-1939.md` | 8 |
 | 17 | Day of Deliverance | `section-2-creation-of-pakistan/17-day-of-deliverance.md` | 1 |
 | 18 | Lahore Resolution (1940) | `section-2-creation-of-pakistan/18-lahore-resolution-1940.md` | 0 |
 | 19 | Cripps Mission | `section-2-creation-of-pakistan/19-cripps-mission.md` | 6 |
@@ -57,13 +57,13 @@ Live map of every topic file and its current question count. Updated on every
 | 1 | Initial Problems of Pakistan & Quaid-e-Azam as Governor-General | `section-3a-nationhood/01-initial-problems-quaid-e-azam.md` | 11 |
 | 2 | Liaquat Ali Khan | `section-3a-nationhood/02-liaquat-ali-khan.md` | 1 |
 | 3 | Malik Ghulam Muhammad | `section-3a-nationhood/03-malik-ghulam-muhammad.md` | 2 |
-| 4 | Iskander Mirza | `section-3a-nationhood/04-iskander-mirza.md` | 4 |
+| 4 | Iskander Mirza | `section-3a-nationhood/04-iskander-mirza.md` | 5 |
 | 5 | Ayub Khan | `section-3a-nationhood/05-ayub-khan.md` | 17 |
-| 6 | Yahya Khan | `section-3a-nationhood/06-yahya-khan.md` | 7 |
+| 6 | Yahya Khan | `section-3a-nationhood/06-yahya-khan.md` | 8 |
 | 7 | Zulfiqar Ali Bhutto | `section-3a-nationhood/07-zulfiqar-ali-bhutto.md` | 16 |
-| 8 | General Zia-ul-Haq | `section-3a-nationhood/08-general-zia-ul-haq.md` | 17 |
+| 8 | General Zia-ul-Haq | `section-3a-nationhood/08-general-zia-ul-haq.md` | 18 |
 | 9 | Benazir Bhutto | `section-3a-nationhood/09-benazir-bhutto.md` | 13 |
-| 10 | Nawaz Sharif | `section-3a-nationhood/10-nawaz-sharif.md` | 11 |
+| 10 | Nawaz Sharif | `section-3a-nationhood/10-nawaz-sharif.md` | 12 |
 | 11 | Multiple Regime Questions (1947–1999) | `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` | 9 |
 
 ## Section 3B — International Relations
@@ -71,8 +71,8 @@ Live map of every topic file and its current question count. Updated on every
 | # | Topic | File | Count |
 |---|-------|------|-------|
 | 1 | India and the Kashmir Issue | `section-3b-international-relations/01-india-and-the-kashmir-issue.md` | 9 |
-| 2 | China | `section-3b-international-relations/02-china.md` | 4 |
-| 3 | United States of America (USA) | `section-3b-international-relations/03-united-states-of-america.md` | 7 |
+| 2 | China | `section-3b-international-relations/02-china.md` | 5 |
+| 3 | United States of America (USA) | `section-3b-international-relations/03-united-states-of-america.md` | 8 |
 | 4 | USSR / Russia | `section-3b-international-relations/04-ussr-russia.md` | 3 |
 | 5 | Iran and Turkey | `section-3b-international-relations/05-iran-and-turkey.md` | 0 |
 | 6 | Afghanistan | `section-3b-international-relations/06-afghanistan.md` | 3 |

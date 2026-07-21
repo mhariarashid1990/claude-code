@@ -247,3 +247,40 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q3C
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent was the introduction of Bande Mataram the main reason why Congress Rule (1937–1939) was unpopular with the Muslim community? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the introduction of Bande Mataram was the main reason why Congress rule (1937–1939) was unpopular with the Muslim community:
+  > • Bande Mataram was a nationalist Hindu song
+  > • singing of the song was made compulsory before the start of business in provincial assemblies
+  > • these actions worried and offended the Muslim community as the song contained anti-Muslim messages
+  >
+  > counter-arguments might include:
+  > • the introduction of the Wardha scheme/Basic Education scheme into Congress education ministries with teaching in Hindi
+  > • Hindu culture was promoted in the curriculum
+  > • Muslims viewed these measures as an attempt to remove their identity and convert their children to Hinduism
+  > • Muslims living under Congress rule felt threatened as in some areas mosques were targeted and Muslim worship disrupted
+  > • Hindu groups won more government business which harmed the income and trade of Muslim businesses
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Congress Rule (1937–1939)
+- **Secondary Tags:** Causes, Religious, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "why Muslims were unhappy with Congress rule" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version's MS spelling the Wardha equivalent scheme only as "Wardha scheme/Basic Education scheme" without the "Widdia Mandar"/"Widdia Mander" variant names used in this file's May/June 2019 and May/June 2013 (2059/41) entries — reproduced exactly as printed, not reconciled. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1927–1947).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` (alternate topic considered, not used)

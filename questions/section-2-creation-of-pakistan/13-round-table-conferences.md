@@ -501,3 +501,39 @@
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2024-V1-Q3A
+
+- **Year:** 2024
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the Communal Award.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • it was introduced in 1932
+  > • it was announced by British Prime Minister (1) Ramsey MacDonald (1) after the failure of the second Round Table Conference (1)
+  > • it recognised the right of separate electorates for all minority communities in the country
+  > • it was not popular with Muslims as it reduced their majority in Punjab and Bengal
+  > • Muslims were to be given weightage wherever they were a minority
+  > • Sindh was removed from the Bombay Presidency and made into a separate province
+  > • The Marathas were to be given seven seats in the province of Bombay.
+  > • 3% of seats were to be reserved for women in all provinces except in the NWFP
+  > • Seats were allocated for labourers, landlords, traders, and industrialists.
+  > • It distributed the seats in the provincial legislatures on a communal basis and doubled the existing seats of the provincial legislatures
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Features, Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2024 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Communal Award" topic exists in the taxonomy; the MS explicitly frames it as the direct outcome of the second Round Table Conference's failure, so filed under that topic. First entry in this file describing the Communal Award as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1927–1947).
+- **Version Number:** 33
+- **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` (alternate topic considered, not used)
