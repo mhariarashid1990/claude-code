@@ -138,3 +138,38 @@
 - **Version Number:** 25
 - **Allocation History:** Allocated on extraction, Version 25, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2025-V1-Q3A
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the terms of the Government of India Act, 1935.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • India to become a federation
+  > • the Governor-General/Viceroy was head of the Federation and could exert special powers in the reserved subjects
+  > • create two houses of parliament at central government level
+  > • the upper house (Council of State) (1) to have 156 members from British India (1) and 104 from the Princely States (1)
+  > • the lower house (Assembly) (1) to have 250 members from British India (1) and 125 members from the Princely States (1)
+  > • diarchy introduced at central government level (defence, foreign affairs, ecclesiastical affairs and the tribal areas) (1) to be administered by the Governor-General/Viceroy (1)
+  > • diarchy replaced at provincial level – provinces given some autonomy (1) with the appointment of Provincial Governors (1)
+  > • number of provinces increased to 11 (1) two new provinces created - Orissa and Sindh (1) and the NWF to become a full province (1)
+  > • Sindh separated from Bombay (1), Bihar and Orissa separated into separate provinces (1) Burma completely separated from India (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Government of India Act (1935)
+- **Secondary Tags:** Features, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file describing the Act's own detailed terms directly (upper/lower house composition, diarchy at both central and provincial level, provincial reorganisation), rather than its importance or the reasons for opposition to it covered in this file's existing entries. Topic chosen by user from clickable options, over the alternative Multiple Topic Questions (1927–1947).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` (alternate topic considered, not used)

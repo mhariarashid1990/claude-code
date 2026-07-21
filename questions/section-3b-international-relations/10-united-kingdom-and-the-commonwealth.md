@@ -162,3 +162,42 @@
 - **Version Number:** 26
 - **Allocation History:** Allocated on extraction, Version 26, no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2025-V1-Q4C
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Pakistan has had good relations with the UK since 1947.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that Pakistan has had good relations with the UK since 1947:
+  > • British personnel remained in Pakistan after partition to assist with the transition to an independent state
+  > • Pakistan was a Commonwealth member until 1971
+  > • Britain gave support to Pakistan in the Afghanistan-Russia conflict
+  > • Britain gave £30 million aid to help Afghan refugees in Pakistan
+  > • the British Prime Minister was the first western leader to visit in 1981
+  > • trade links between Pakistan and Britain are strong
+  > • Britain gave £16 million to help refugees in Balochistan and the NWFP
+  >
+  > counter-arguments might include:
+  > • Pakistan questioned British involvement in the Suez Canal in 1956
+  > • Britain has not provided support during disputes with India
+  > • Pakistan did not agree with the position taken by Britain over Bangladesh in 1971
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** United Kingdom & the Commonwealth
+- **Secondary Tags:** Successes, Failures, Foreign Policy
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2020 "how far do you agree Pakistan has had good relations with the UK/Commonwealth" entry already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative United States of America (USA).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)

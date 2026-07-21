@@ -611,3 +611,52 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2025-V1-Q5C
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent were Muhammad Ayub Khan's economic reforms the most successful of his domestic policies between 1958 and 1969? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that Muhammad Ayub Khan's economic reforms were the most successful of his domestic policies between 1958 and 1969:
+  > • an oil refinery was established in Karachi
+  > • a Mineral Development Corporation was set up
+  > • the Export Bonus scheme set up
+  > • dams built to help irrigation
+  > • farmers accessed irrigation loans
+  > • crop outputs were at record levels
+  > • increased mechanisation of farms/the Green Revolution
+  > • factory owners were required to provide accommodation for workers at a reasonable rent
+  > • economic growth and productivity increased
+  > • employment increased and unemployment decreased
+  >
+  > counter-arguments might include:
+  > • there was a new constitution in 1962
+  > • a new school curriculum was introduced promoting literacy
+  > • housing programme for refugees
+  > • university degrees made into three year courses
+  > • the Family Planning Programme was set up
+  > • medical/nursing schools set up to increase the number of trained staff
+  > • new capital city built
+  > • food prices increased
+  > • increases in agricultural productivity were limited to large landowners
+  > • there was some discontent as the benefits of economic development did not always reach the people
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Economic, Domestic Policy, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2012, May/June 2014, May/June 2019, and Oct/Nov 2022 "which of Ayub Khan's domestic policies was most important" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

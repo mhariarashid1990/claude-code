@@ -1394,3 +1394,39 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q2C
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > 'Educational changes rather than economic policies led to Indian opposition to the British during the late eighteenth and early nineteenth centuries.' How far do you agree with this statement? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the introduction of educational changes resulted in Indian opposition to the British:
+  > • Indians had to send their children to co-educational schools
+  > • Christian missionaries taught Christianity in schools
+  > • English became the official language and was taught in schools
+  >
+  > counter-arguments might include:
+  > • the British imposed high taxation especially on peasants and small landowners
+  > • sepoy salaries were very low in comparison with British soldiers
+  > • the East India Company banned the export of cotton from India in 1800
+  > • the British encouraged cheap, mass-produced goods to be sold in India
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Comparison, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. MS content spans educational reforms, taxation, sepoy pay, the 1800 cotton-export ban, and British trade policy — general causes of Indian opposition to British administration rather than the 1857 War specifically. Topic chosen by user from clickable options, over the recommended War of Independence (1857).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` (recommended alternate topic, not used)

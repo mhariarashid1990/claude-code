@@ -537,3 +537,41 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/28-multiple-topic-questions-1927-1947.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q3C
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > To what extent could the Round Table Conferences of 1930–32 be considered a success? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 2.
+  >
+  > Indicative content
+  > May agree that the Round Table Conferences between 1930 and 1932 were successful:
+  > • a federal system for India was agreed
+  > • a representative government to be introduced at provincial government
+  > • the NWFP and Sindh to be made provinces with their own governors
+  > • the Princely States declared they would join a future federation of India if their rights were recognised
+  >
+  > counter-arguments might include:
+  > • Congress boycotted the talks in the first Conference
+  > • little progress was made
+  > • Gandhi did not recognise the problems of minorities
+  > • Gandhi believed that he represented all Indians at the talks
+  > • the British government showed little interest in reaching an agreement
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Round Table Conferences
+- **Secondary Tags:** Successes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several "how successful were the RTCs" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative Delhi Proposals & Simon Commission.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md` (alternate topic considered, not used)

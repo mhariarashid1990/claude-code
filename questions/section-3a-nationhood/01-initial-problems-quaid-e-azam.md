@@ -391,3 +391,36 @@
 - **Version Number:** 30
 - **Allocation History:** Allocated on extraction, Version 30, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/01-india-and-the-kashmir-issue.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q1C
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain Muhammad Ali Jinnah's successes as Governor-General of Pakistan between 1947 and 1948.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • Muhammad Ali Jinnah worked to establish Pakistan as a united country
+  > • he called himself Protector-General of religious minorities
+  > • he set up a Relief Fund to rehabilitate refugees
+  > • he secured membership of the UN in 1947
+  > • he established a stable government with Liaquat Ali Khan as Prime Minister
+  > • he established Karachi as the capital of Pakistan
+  > • he established the State Bank of Pakistan in 1948
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Initial Problems of Pakistan & Quaid-e-Azam as Governor-General
+- **Secondary Tags:** Successes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(c). Near-identical content to several "how successful was the government of Pakistan in solving the problems of Partition" entries already in this file, reproduced separately and verbatim as its own distinct instance, this version framed specifically around Jinnah's successes rather than a successes/failures split. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

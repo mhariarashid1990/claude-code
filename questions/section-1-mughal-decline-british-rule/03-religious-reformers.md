@@ -694,3 +694,36 @@
 - **Version Number:** 34
 - **Allocation History:** Allocated on extraction, Version 34, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q2A
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the military achievements of Titu Mir.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • Titu Mir led the people against the zamindars (1) and the British/colonial system (1)
+  > • he had success in freeing Bengal from un-Islamic practices
+  > • he raised an army of 15 000 followers (1)
+  > • he built a bamboo fort at Narkelbaria (1) in October 1831 (1) and defeated British forces sent to destroy it (1)
+  > • Titu Mir's forces held off the British army for five days of fighting
+  > • he trained his followers in fighting skills
+  > • his army fought successfully without modern weapons
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Religious Reformers
+- **Secondary Tags:** Religious, Leadership, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the Oct/Nov 2011, May/June 2018, and May/June 2023 Titu Mir entries already in this file, reproduced separately and verbatim as its own distinct instance, this version specifically detailing his military achievements (the 15,000-strong army, the bamboo fort's five-day defence). Topic chosen by user from clickable options, over the alternative East India Company.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/02-east-india-company.md` (alternate topic considered, not used)

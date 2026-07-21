@@ -271,3 +271,36 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (recommended alternate topic, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q4A
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the main features of Sheikh Mujib's Six Points.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • there should be a directly elected government
+  > • central government to control defence and foreign policy (1), all other decisions to be made at provincial level (1)
+  > • there should be separate currencies and/or financial policies for East and West Pakistan
+  > • the provinces should tax their people (1) and send a share to the federal government (1)
+  > • the federal government should not tax people
+  > • each province should set up its own trade agreements with other countries (1) and control the money spent/made through this trade (1)
+  > • each province should have its own troops
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Yahya Khan
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Six Points" topic exists in the taxonomy; the Six Points are already referenced as background within this file's May/June 2013 (2059/41) entry naming Sheikh Mujib-ur-Rahman as their author — this is the first entry describing their terms directly. Topic chosen by user from clickable options, over the alternative Bangladesh, consistent with all prior decisions on equivalent Bangladesh-creation questions across this bank.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/07-bangladesh.md` (alternate topic considered, not used)

@@ -214,3 +214,36 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q5B
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Pakistan and China formed successful relations in the 1960s and 1970s.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • a border dispute between China and India in 1962 led to friendly relations between China and Pakistan
+  > • a trade agreement was signed between China and Pakistan in 1963
+  > • China gave Pakistan a $60 million loan
+  > • China became the largest purchaser of Pakistan cotton
+  > • in 1972 Bhutto visited China
+  > • China agreed to supply military aircraft and tanks to Pakistan
+  > • the Karakoram Highway opened in 1978 between China and Pakistan
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** China
+- **Secondary Tags:** Foreign Policy, Successes
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the $60 million loan, 1963 trade agreement, and Karakoram Highway details already established in this file's existing entries, reproduced here as a consolidated "why relations were successful" question. Topic chosen by user from clickable options, over the alternative United States of America (USA).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)

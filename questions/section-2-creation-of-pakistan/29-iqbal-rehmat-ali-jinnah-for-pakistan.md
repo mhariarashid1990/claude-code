@@ -484,3 +484,62 @@ other named Section 2 topics._
 - **Version Number:** 31
 - **Allocation History:** Allocated on extraction, Version 31, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2025-V1-Q1D
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > Assess the significance of the following to the creation of Pakistan in 1947:
+  > • the 14 Points, 1929
+  > • the Allahabad address, 1930
+  > • 'Now or Never', 1933
+  > Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5 (10 marks) Explains with evaluation/judgement
+  > Explanation at the top of Level 4 with an evaluation/judgement supported by relevant and accurate contextual knowledge
+  >
+  > Level 4 (7–9 marks) Explanation of both sides of the issue
+  > • one explanation of each side of the issue [7]
+  > • two explanations or one developed explanation of one-side of the issue and an explanation of the other side of the issue [8]
+  > • additional explanation(s) and/or developed explanation(s) from either side of the issue [9]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 3 (4–6 marks) Explanation of one-side of the issue
+  > • one explanation [4]
+  > • two explanations or one developed explanation [5]
+  > • additional explanation(s) and/or developed explanation(s) [6]
+  > Supported by relevant and accurate contextual knowledge
+  >
+  > Level 2 (2–3 marks) Identification/description of the issue
+  > Identifies and/or describes the issue using relevant and accurate contextual knowledge (1 mark per identification/description)
+  >
+  > Level 1 (1 mark) General answer
+  > Valid general comment lacking specific subject knowledge
+  >
+  > Level 0 (0 marks) No creditable response
+  >
+  > Indicative content
+  > May agree that one factor was the most significant to the creation of Pakistan in 1947:
+  > • the 14 Points were produced in response to the Nehru report
+  > • the 14 Points aimed to safeguard the rights and interests of all Muslims
+  > • these demands should form the basis of future negotiations with the British and/or Congress
+  >
+  > counter-arguments might include:
+  > • in the Allahabad Address Allama Iqbal considered the future of the subcontinent and the creation of a separate Muslim state in north western India and opposed British control of the subcontinent
+  > • in Rahmat Ali's pamphlet called 'Now or Never' in 1933 he came up with the name Pakistan for the new Muslim state
+  >
+  > Other relevant responses should be credited.
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Comparison, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Directly compares Jinnah's 14 Points, Iqbal's Allahabad Address, and Rahmat Ali's "Now or Never" pamphlet — an exact match for this topic's three-figure comparison scope, near-identical in structure to the Oct/Nov 2019 and May/June 2020 entries already in this file. Topic chosen by user from clickable options, over the alternative Jinnah's Fourteen Points.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md` (alternate topic considered, not used)

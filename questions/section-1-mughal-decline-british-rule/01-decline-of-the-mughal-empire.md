@@ -692,3 +692,35 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-1-mughal-decline-british-rule/04-war-of-independence-1857.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q2B
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Aurangzeb's successors faced challenges as rulers.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • internal rebellions exposed weaknesses in the governance of the Empire
+  > • in-fighting between wealthy Mughal royal families
+  > • the absence of a definite line of succession
+  > • succession disputes wasted money/eroded the Empire
+  > • foreign attacks by the Persians/Marathas/Afghans were difficult to stop
+  > • the size of the Empire made it difficult to administer and incurred huge military costs
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to several prior "why did the Mughal Empire decline after Aurangzeb" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options, over the alternative East India Company.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-1-mughal-decline-british-rule/02-east-india-company.md` (alternate topic considered, not used)

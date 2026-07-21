@@ -618,3 +618,63 @@
 - **Version Number:** 33
 - **Allocation History:** Allocated on extraction, Version 33, per user selection — no prior moves
 - **Cross References:** See also `section-3b-international-relations/03-united-states-of-america.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q4B
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Zia-ul-Haq faced challenges during the 1980s.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • it became harder to maintain law and order
+  > • the provinces became more difficult to administer
+  > • there was increasing discontent in Sindh
+  > • there was an explosion at the Ojhri Camp arms depot
+  > • Islamisation was opposed by some
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. First entry in this file naming the Ojhri Camp arms-depot explosion directly. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999).
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q5A
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Describe the main features of the Eighth Amendment.
+- **Official Mark Scheme (Verbatim):**
+  > One mark for each relevant point. Additional mark for supporting detail.
+  >
+  > Indicative content
+  > • the Eighth Amendment confirmed all previous acts of martial law period (1) with no right of appeal (1)
+  > • the President could appoint the Prime Minister (1), Governors of Provinces (1) supreme/high court judges (1) and armed force chiefs (1)
+  > • the President could dismiss the Prime Minister (1) and National Assembly (1)
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** General Zia-ul-Haq
+- **Secondary Tags:** Constitution, Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. No dedicated "Eighth Amendment" topic exists in the taxonomy; it was introduced under Zia-ul-Haq's presidency in 1985 to entrench his powers, so filed under his topic. First entry in this file describing the Eighth Amendment as the sole subject of a question. Topic chosen by user from clickable options, over the alternative Multiple Regime Questions (1947–1999) — its provisions later affected the dismissals of both Benazir Bhutto's and Nawaz Sharif's governments.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-3a-nationhood/11-multiple-regime-questions-1947-1999.md` (alternate topic considered, not used)

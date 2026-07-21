@@ -1606,3 +1606,73 @@ corrected. All 14 parts were present and extracted; none skipped.
 questions across 31 papers. Remaining in this batch: 2025 May/June and
 Oct/Nov papers for 2059/01 (14-part pattern), still to come.
 **Date:** 2026-07-21
+
+## Version 35 — 2026-07-21
+
+**Questions added:** 14 (PK2059-MJ-2025-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. No topic file received its first-ever entry this
+version — all 14 parts landed in already-populated topic files.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 445 → 459, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2025 row updated to "May/June, V1" with status
+"In progress" (Oct/Nov 2025 still outstanding).
+**Reason:** Thirty-second paper processed — Cambridge O Level 2059/01,
+Paper 1, May/June 2025, single variant. This mark scheme carries no
+COVID-19 cancellation notice — a normal series, extracted normally, using
+the same generic Table 1/Table 2 levels-of-response format used since
+Oct/Nov 2020. Front matter in this paper is retitled "Annotations
+guidance for centres" (replacing the "Stamp in RMA3" table format used in
+2023–2024 papers) but serves the identical function of explaining
+examiner-annotation shorthand — correctly recognised as non-content front
+matter and skipped rather than extracted.
+
+Continuing the procedural change begun in Version 30, every one of this
+paper's 14 parts was again presented via AskUserQuestion with a
+recommended primary option plus at least one plausible secondary option,
+batched across four rounds (4+4+4+2 questions). The user confirmed the
+recommended (primary) option in every case except one: Q2(c) ("educational
+changes rather than economic policies led to Indian opposition to the
+British") went to **East India Company** rather than the recommended War
+of Independence (1857), since the MS content concerns general causes of
+opposition to British administration rather than the 1857 War
+specifically.
+
+Three parts required allocation to a topic without an exact taxonomy
+match: Q4(a) ("Describe the main features of Sheikh Mujib's Six Points")
+was filed under **Yahya Khan**, consistent with all prior Bangladesh-
+creation allocations in this bank, over the alternative Bangladesh; Q5(a)
+("Describe the main features of the Eighth Amendment") was filed under
+**General Zia-ul-Haq**, since it was introduced during his presidency in
+1985, over the alternative Multiple Regime Questions (1947–1999).
+
+Final allocations this version: Q1(c) (Jinnah's successes as
+Governor-General, 1947–1948); Q1(d) (significance of the 14 Points, the
+Allahabad Address, and 'Now or Never' to Pakistan's creation, under Iqbal,
+Rehmat Ali & Jinnah for Pakistan); Q2(a) (Titu Mir's military
+achievements, under Religious Reformers); Q2(b) (why Aurangzeb's
+successors faced challenges); Q2(c) (educational changes vs economic
+policies as causes of Indian opposition to the British, under East India
+Company); Q3(a) (terms of the Government of India Act 1935); Q3(b) (Lucknow
+Pact's effect on Hindu-Muslim relations); Q3(c) (success of the Round Table
+Conferences, 1930–32); Q4(a) (Sheikh Mujib's Six Points, under Yahya Khan,
+no exact-match topic); Q4(b) (Zia-ul-Haq's challenges in the 1980s); Q4(c)
+(Pakistan-UK relations since 1947); Q5(a) (Eighth Amendment, under General
+Zia-ul-Haq, no exact-match topic); Q5(b) (Pakistan-China relations in the
+1960s/70s); and Q5(c) (Ayub Khan's economic reforms as the most successful
+of his domestic policies).
+
+Several entries in this paper are substantively near-duplicate content of
+earlier entries already in this bank, each reproduced separately and
+verbatim as its own distinct instance: Q2(a) (Titu Mir), Q2(b) (Aurangzeb's
+successors), Q3(c) (Round Table Conferences success), Q4(c) (UK/Commonwealth
+relations), and Q5(c) (Ayub Khan's economic reforms) all parallel earlier
+entries in their respective topic files. No source anomalies of note this
+version; question and mark-scheme text reproduced exactly as printed. All
+14 parts were present and extracted; none skipped.
+
+**2025 is now in progress** (May/June done, Oct/Nov still pending in this
+batch). Total: 459 questions across 32 papers. Remaining in this batch:
+2025 Oct/Nov, the final paper in the 2059/01 2010–2025 upload job.
+**Date:** 2026-07-21

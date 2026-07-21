@@ -157,3 +157,34 @@
 - **Version Number:** 32
 - **Allocation History:** Allocated on extraction, Version 32, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)
+
+### UQID: PK2059-MJ-2025-V1-Q3B
+
+- **Year:** 2025
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain how the Lucknow Pact of 1916 affected relations between Hindu and Muslim communities.
+- **Official Mark Scheme (Verbatim):**
+  > Mark according to the level of response descriptors in Table 1.
+  >
+  > Indicative content
+  > • a pact was made between the Muslim League and Congress
+  > • Muslim League and Congress hoped that self-government was possible
+  > • the Muslim League saw the benefit of working with Congress
+  > • the Muslim League and Congress were working together for the first time
+  > • Congress accepted the principles of separate electorates for the Muslim community
+  >
+  > Other relevant responses should also be credited.
+- **Suggested Primary Topic:** Lucknow Pact & First World War
+- **Secondary Tags:** Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the May/June 2025 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Near-identical content to the May/June 2021 "importance of the Lucknow Pact" entry already in this file, reproduced separately and verbatim as its own distinct instance, this version framed around effects on Hindu-Muslim relations specifically. Topic chosen by user from clickable options, over the alternative Creation of the All-India Muslim League.
+- **Version Number:** 35
+- **Allocation History:** Allocated on extraction, Version 35, per user selection — no prior moves
+- **Cross References:** See also `section-2-creation-of-pakistan/03-creation-of-the-all-india-muslim-league.md` (alternate topic considered, not used)
