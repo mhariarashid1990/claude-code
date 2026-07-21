@@ -904,3 +904,70 @@ and Oct/Nov). Total: 305 questions across 21 papers. Remaining in this
 batch: 2020–2025 May/June and Oct/Nov papers for 2059/01 (14-part pattern),
 still to come.
 **Date:** 2026-07-20
+
+## Version 25 — 2026-07-20
+
+**Questions added:** 14 (PK2059-MJ-2020-V1-Q1C through Q5C)
+**Questions moved:** 0
+**Topics created:** 0. However, this version supplied the **first-ever
+entry** in `section-2-creation-of-pakistan/17-day-of-deliverance.md`
+(Q4(a), "What was the 'Day of Deliverance'?") — that topic file had existed
+in the taxonomy since it was scaffolded but had never previously received a
+question.
+**Audit updates:** None — held for the full-job audit per the Version 4
+process. `questions/INDEX.md` updated (total 305 → 319, verified against
+the actual UQID count across every topic file, which reconciles exactly).
+`01_PAPERS_TRACKER.md` — 2020 row updated to "May/June, V1" with status "In
+progress" (Oct/Nov 2020 still outstanding).
+**Reason:** Twenty-second paper processed — Cambridge O Level 2059/01,
+Paper 1, May/June 2020, single variant.
+
+⚠️ **COVID-19 cancelled series.** This mark scheme carries the following
+notice, reproduced verbatim: "Students did not sit exam papers in the June
+2020 series due to the Covid-19 global pandemic. This mark scheme is
+published to support teachers and students for future examination series...
+In the June series, Examiners were unable to consider the acceptability of
+alternative responses, as there were no student responses to consider."
+Because no candidates actually sat this paper, the mark scheme was never
+validated against real student answers. The user was asked explicitly how
+to handle this (extract normally and flag prominently, vs. skip the paper
+entirely) and chose to **extract normally, flag prominently**. Every one of
+this paper's 14 entries therefore carries a prominent COVID-cancellation
+flag at the start of its Audit Status field, cross-referencing the fuller
+explanation given in Q1(c) of
+`section-1-mughal-decline-british-rule/02-east-india-company.md`.
+
+Every one of the 14 parts required under the 2015–2025 extraction pattern
+(Section A/B split; Q1(a)/(b) source-based and excluded; Q1(d) capped at 10
+marks) was extracted. Several parts had only one plausible topic and no
+genuine alternative, so per the AskUserQuestion tool's own constraint
+(rejecting single-option question batches), those allocations were stated
+directly rather than offered as clickable options: Q1(d) (War of
+Independence 1857 economic-reforms question), Q2(c) (Aurangzeb's policies
+and Mughal decline), Q3(b) (why the Khilafat Movement ended in 1924), Q4(a)
+(Day of Deliverance — first entry in that file), Q4(b) (opposition to the
+Government of India Act 1935), Q4(c) (Iqbal and Rahmat Ali's contributions),
+and Q5(a) (Fatima Jinnah, filed under Ayub Khan) and Q5(c) (BCCI collapse,
+filed under Nawaz Sharif) were also single-option, consistent with
+established precedent from earlier papers in this bank (no dedicated
+Fatima Jinnah or Musharraf topics exist in the taxonomy). Remaining parts
+(Q1(c), Q2(a), Q2(b), Q3(a), Q3(c), Q5(b)) were presented with clickable
+options and allocated per the user's picks.
+
+Notable source anomalies preserved verbatim, none corrected: Q2(c)'s MS
+repeatedly spells "polices" for "policies" in its Level 3/Level 4 headings;
+Q3(c)'s MS states "Bengal was the largest province in India. 54 million
+people were Hindu, out of a population of 84 million," differing from this
+same topic file's prior entries which state "Of the 54 million people in
+Bengal 42 million were Hindus" (a different population total and a
+different Hindu-population figure against the same 54 million base),
+reproduced separately and not reconciled; Q5(b)'s MS reads "which reducing
+the government's efficiency," a grammar slip left uncorrected. All 14 parts
+were present and extracted; none skipped.
+
+**This begins the 2020 papers.** Total: 319 questions across 22 papers.
+Remaining in this batch: 2020 Oct/Nov, then 2021–2025 May/June and Oct/Nov
+papers for 2059/01 (14-part pattern) — Oct/Nov 2020's mark scheme should
+also be checked for any COVID-era anomalies before assuming normal
+extraction applies.
+**Date:** 2026-07-21

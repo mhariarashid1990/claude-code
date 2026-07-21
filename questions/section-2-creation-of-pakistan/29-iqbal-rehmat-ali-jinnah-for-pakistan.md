@@ -367,3 +367,56 @@ other named Section 2 topics._
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** See also `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md`, `section-2-creation-of-pakistan/14-government-of-india-act-1935.md`, `section-2-creation-of-pakistan/18-lahore-resolution-1940.md` (single-topic files touched on, not used as primary)
+
+### UQID: PK2059-MJ-2020-V1-Q4C
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Assess the significance of the contributions of Allama Iqbal and Rahmat Ali to the Pakistan Movement. Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains Allama Iqbal's AND Rahmat Ali's contributions [9–13]
+  > (Two explanations, one on each figure, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > Allama Iqbal
+  > • He was the first important Muslim leader to advocate the partition of India and the creation of a separate Muslim state, put forward in his Allahabad address of 1930.
+  > • His opposition to British control of India strengthened his view that Muslims should have a separate homeland, independent of the British.
+  > • He persuaded many Muslims that the Muslim League had to build an effective mass political party to challenge the domination of the Congress, an argument later adopted by Jinnah.
+  > • His poetry awakened a sense of nationhood among Muslims and urged them to make progress along a distinctive Islamic path.
+  > Rahmat Ali
+  > • In 1933 he and some fellow students produced a pamphlet called 'Now or Never' in which he argued in favour of partition and gave the name Pakistan to the proposed new Muslim state.
+  > • This became popular amongst most Muslims during the 1930s.
+  > • His vision differed from Iqbal's, as he wanted a fully separate independent state.
+  > • He attracted criticism, especially from Jinnah, who refused to meet him, but his ideas were nevertheless eventually adopted.
+  >
+  > Level 3: Explains Allama Iqbal's OR Rahmat Ali's contributions [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes contributions [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Iqbal made the Allahabad address in 1930
+  > • Rahmat Ali named Pakistan in his 'Now or Never' pamphlet
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • They both contributed to the Pakistan Movement
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Iqbal, Rehmat Ali & Jinnah for Pakistan
+- **Secondary Tags:** Comparison, Leadership, Importance
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Near-identical content and structure to the May/June 2011 Q4(c) and Oct/Nov 2016 Q4(c) entries already in this file, reproduced separately and verbatim as its own distinct instance. MS spells him "Rahmat Ali," consistent with several other entries in this file, versus "Rehmat Ali" used in this topic's own title — reproduced exactly as printed, not reconciled. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

@@ -410,3 +410,55 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q2C
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Were the policies of Aurangzeb the main reason for the decline of the Mughal Empire? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains Aurangzeb's polices AND other reasons [9–13]
+  > (Two explanations, one on Aurangzeb's polices and one on another reason, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Aurangzeb's polices
+  > • Aurangzeb had an intolerant attitude to non-Muslims. He introduced a tax on non-Muslims called the Jizya. He destroyed Hindu temples and tried to ban Hindu practices.
+  > • Taxation was high as he had to pay for the cost of military campaigns such as the Deccan Wars and he spent highly on luxurious palaces. Because of these he became an unpopular ruler.
+  > Other reasons
+  > • After his death Mughal Emperors were renowned for living an extravagant lifestyle and spending money with little thought to the effect it had on the economy of the Empire. This led to inefficiencies and a lack of interest in the running of the Empire.
+  > • The absence of a definite line of succession led to a significant amount of in-fighting amongst his successors, which also led to instability and the downfall of the Empire.
+  > • The Marathas were skilful Hindu guerrilla fighters who defeated a Mughal army in 1737 and took control of Delhi and eastwards towards Bengal. By 1760 they were the most powerful people in India and nothing could the Mughals do to stop it.
+  > • The British expansion into the sub-continent was rapid and their forces and equipment were no match for the Mughals, who fell into rapid decline as a result.
+  >
+  > Level 3: Explains Aurangzeb's polices OR other reasons [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Aurangzeb introduced the Jizya
+  > • The Marathas took control of Delhi
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • The Mughal Empire declined
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Decline of the Mughal Empire
+- **Secondary Tags:** Causes, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Source anomaly preserved verbatim: MS repeatedly spells "polices" for "policies" in the Level 3/Level 4 headings ("Explains Aurangzeb's polices...") — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

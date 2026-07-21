@@ -324,3 +324,46 @@
 - **Version Number:** 21
 - **Allocation History:** Allocated on extraction, Version 21, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q5B
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Benazir Bhutto's government ended in 1996.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Her brother Mir Murtaza Bhutto was killed in a police ambush in 1996, which raised suspicions of government involvement and damaged her standing.
+  > • Her husband Asif Ali Zardari was accused of corruption and involvement in political murders, which reduced the government's efficiency and tarnished its reputation, even though the allegations were never proven.
+  > • Nawaz Sharif and the opposition organised demonstrations and strikes against her government.
+  > • The government refused to implement a Supreme Court ruling on the appointment of judges, causing a political crisis with President Farooq Leghari.
+  > • Economic problems, including inflation and a worsening balance of payments, led to IMF pressure and criticism of her handling of the economy.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Her brother was killed
+  > • Her husband was accused of corruption
+  > • There were economic problems
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • She was dismissed
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Benazir Bhutto
+- **Secondary Tags:** Causes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Near-identical content to the Oct/Nov 2012 Q5(b) and Oct/Nov 2015 Q5(b) entries already in this file, reproduced separately and verbatim as its own distinct instance. Source anomaly preserved verbatim: MS reads "which reducing the government's efficiency" (a grammar slip, likely intended "reducing" or "which reduced") — not corrected. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —

@@ -356,3 +356,33 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q5A
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Fatima Jinnah?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • Sister of Muhammad Ali Jinnah, known as 'Madar-e-Millat' (Mother of the Nation).
+  > • A dentist by profession who devoted herself to the Pakistan Movement and later to public life.
+  > • Stood as the combined opposition candidate against Ayub Khan in the 1965 presidential election.
+  > • Campaigned on restoring democracy and opposing the Basic Democracies system.
+  > • Lost the election, which was widely believed to have been rigged in Ayub Khan's favour, particularly in East Pakistan.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Ayub Khan
+- **Secondary Tags:** Political, Leadership
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). No dedicated "Fatima Jinnah" topic exists in the taxonomy; MS content centres entirely on her 1965 presidential run against Ayub Khan, so filed here per established precedent. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

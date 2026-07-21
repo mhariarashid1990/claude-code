@@ -96,3 +96,45 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q4B
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 4
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why there was opposition to the Government of India Act of 1935.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Key decisions relating to external relations and defence were retained by the British, which was seen as a drawback by Indians.
+  > • The Governor-General remained head of the Federation and retained special powers in external relations and defence.
+  > • Although it appeared to give Indians a say in running their country, the property qualification for voting meant that only around 25% of the population could vote.
+  > • All sides in India opposed it: the princes resented the loss of power, the Hindus likened it to a form of continued subjugation given the many safeguards retained by Britain, and the Muslims thought it was totally unacceptable, especially due to the retention of special powers by the British.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • The British kept most of the power
+  > • Only a small proportion of the population could vote
+  > • The princes opposed it
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • It governed India
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Government of India Act (1935)
+- **Secondary Tags:** Causes, Constitution
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Near-identical content to the Oct/Nov 2012 Q3(b) entry already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

@@ -240,3 +240,55 @@
 - **Version Number:** 18
 - **Allocation History:** Allocated on extraction, Version 18, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q5C
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 5
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > Was the collapse of the Bank of Credit and Commerce International (BCCI) the main reason for the government ending in 1993? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains the BCCI collapse AND other reasons [9–13]
+  > (Two explanations, one on the BCCI collapse and one on another reason, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > BCCI collapse
+  > • The collapse of the Bank of Credit and Commerce International in 1991 was due to concerns about the bank's lending practices, and investors lost huge sums of money, damaging confidence in the government.
+  > Other reasons
+  > • The reduction of Soviet-Afghan war-related aid from the USA left Pakistan's economy under strain, as US assistance ceased once the war ended.
+  > • The mismanagement of the Cooperative Societies led to millions of Pakistanis losing their savings, with loans found to have been made to Nawaz Sharif's own family business, which damaged his reputation.
+  > • There was some opposition to the increased role of religion in government following the introduction of the Shariat Bill.
+  > • Nawaz Sharif disagreed with the President over the appointment of a new army chief of staff and the use of the Eighth Amendment.
+  >
+  > Level 3: Explains the BCCI collapse OR other reasons [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • BCCI collapsed in 1991
+  > • The Cooperative Societies scandal
+  > • Reduced US aid
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • There were financial problems
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Nawaz Sharif
+- **Secondary Tags:** Causes, Failures, Economic, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice, not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). MS content (BCCI collapse, reduced Soviet-Afghan aid, Cooperative Societies scandal, Shariat Bill) is entirely about Nawaz Sharif's first government (1990–1993), consistent with the May/June 2016 Q5(c) entry already in this file on the same downfall; filed under Nawaz Sharif rather than Benazir Bhutto or Multiple Regime Questions. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

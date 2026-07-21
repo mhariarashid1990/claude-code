@@ -222,3 +222,54 @@
 - **Version Number:** 22
 - **Allocation History:** Allocated on extraction, Version 22, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q3C
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (c)
+- **Marks:** 14
+- **Question (Verbatim):**
+  > How successful was the 1905 Partition of Bengal? Explain your answer.
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [14]
+  > (As top of Level 4 plus judgement or evaluation)
+  >
+  > Level 4: Explains successes AND failures [9–13]
+  > (Two explanations, one on successes and one on failures, are worth 9 marks. Additional explanations awarded up to 13 marks)
+  > e.g.
+  > Successes
+  > • Bengal was the largest province in India. 54 million people were Hindu, out of a population of 84 million. It seemed sensible to divide up the province on religious grounds and also because it was becoming very large and producing significant administrative problems.
+  > • By doing this the British felt that the province would be easier to administer, especially at the time of a new British government in power.
+  > • The Muslims believed that partition would bring an end to Hindu oppression and that they would enjoy true recognition in a province in which they were in a majority.
+  > Failures
+  > • The Hindus believed that the partition would come about as part of the British 'divide and rule' policy which would weaken Hindu unity and its influence in the new East Bengal.
+  > • The Hindus' objection to Partition was so great that it caused the British to reconsider it. They opposed it by holding meetings and mass rallies which put pressure on the British government, and started their boycott of British goods under the Swadeshi Movement. There was also an outbreak of terrorist activities.
+  >
+  > Level 3: Explains successes OR failures [7–10]
+  > (One explanation is worth 7 marks. Additional explanations awarded up to 10 marks)
+  > See exemplars in L4
+  >
+  > Level 2: Identifies / describes reasons [3–6]
+  > (One identification / description is worth 3 marks. Extra marks are awarded for additional identification / descriptions up to 6 marks)
+  > e.g.
+  > • Bengal was too large to govern
+  > • Hindus opposed the Partition
+  >
+  > Level 1: Simple statement [1–2]
+  > (One simple statement is worth 1 mark. An answer with additional simple statements is worth 2 marks)
+  > e.g.
+  > • Bengal wanted freedom
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Partition of Bengal (1905)
+- **Secondary Tags:** Successes, Failures, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Source-figure discrepancy preserved verbatim: this MS states "Bengal was the largest province in India. 54 million people were Hindu, out of a population of 84 million" — differing from this file's prior entries (Oct/Nov 2012, May/June 2016, Oct/Nov 2015), which state "Of the 54 million people in Bengal 42 million were Hindus" (i.e. a different total population figure and a different Hindu-population figure against the same 54 million base). Not reconciled — reproduced exactly as printed in each respective source. Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —

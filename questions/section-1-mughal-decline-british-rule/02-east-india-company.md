@@ -1075,3 +1075,113 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q1C
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (c)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the East India Company was interested in the subcontinent in the years before 1750.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • The British wanted to establish their influence in the subcontinent and to oust the Dutch and Portuguese;
+  > • The British wanted to establish a strategic port in the subcontinent that would protect its trading interests there and in the Far East;
+  > • Reports of immense wealth in the subcontinent meant the British wanted to establish a trading base there as they saw a profitable future.
+  >
+  > Level 2: Identifies reason(s) [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Because of the raw materials they could develop wealth from;
+  > • Because other European countries were there;
+  > • The British already had some trading interests in the region.
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The British wanted to trade there.
+  >
+  > No evidence submitted or response does not address the question 0
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ This is the **May/June 2020 sitting of 2059/01 — a series in which students did not sit exam papers due to the Covid-19 global pandemic** (per the mark scheme's own published notice). The MS was published to support teachers but was never validated against real student responses ("Examiners were unable to consider the acceptability of alternative responses, as there were no student responses to consider"). Extracted normally per user instruction, with this context flagged prominently. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Near-identical content to several prior "why did the EIC become involved" entries already in this file, reproduced separately and verbatim as its own distinct instance. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q2A
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was Mir Qasim?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement. [1–4]
+  > e.g.
+  > • Nawab of Bengal [1] in 1760 [1], succeeding Mir Jafar [1];
+  > • With the support of EIC, he confiscated lands and wealth of people in Bengal to give to the British;
+  > • Eventually he tried to stop British influence in Bengal;
+  > • 1764 Mir Qasim fought Clive at Buxar [1], but was defeated [1].
+  >
+  > No evidence submitted or response does not address the question 0
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Features, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note above (students did not sit this May/June 2020 series; MS published unvalidated). Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). First entry in this file naming Mir Qasim directly, complementing the existing Mir Jafar/Clive/Buxar content elsewhere in this bank. Topic chosen by user from clickable options.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q2B
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 2
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why Britain was able to expand into the subcontinent between 1750 and 1850.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reason(s) 5–7
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • The building of railways meant that soldiers could be transported more easily around the country to establish control. Trade also benefitted from good communications;
+  > • The battles of Plassey and Buxar gave the British Bengal and favourable trading rights with the local nawabs. This provided new resources, which the British used to consolidate control;
+  > • The British also introduced Governor-Generals into the provinces who administered their province on British lines, providing more control. This enabled further expansion.
+  >
+  > Level 2: Identifies reason(s) 2–4
+  > (One mark for each identification)
+  > e.g.
+  > • Railway construction allowed expansion;
+  > • The battles of Plassey and Buxar extended British influence.
+  >
+  > Level 1: Simple statement 1
+  > (One mark for any simple statement)
+  > e.g.
+  > • The British had control.
+  >
+  > No evidence submitted or response does not address the question 0
+- **Suggested Primary Topic:** East India Company
+- **Secondary Tags:** Causes, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note above. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Near-identical content to several prior "why was Britain successful in expanding" entries already in this file, reproduced separately and verbatim as its own distinct instance. Topic chosen by user from clickable options.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —

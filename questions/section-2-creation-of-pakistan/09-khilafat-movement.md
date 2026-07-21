@@ -411,3 +411,46 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q3B
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (b)
+- **Marks:** 7
+- **Question (Verbatim):**
+  > Explain why the Khilafat Movement ended in 1924.
+- **Official Mark Scheme (Verbatim):**
+  > Level 3: Explains reasons [5–7]
+  > (Five marks for one explanation, six marks for two explanations, seven marks for three explanations)
+  > e.g.
+  > • Gandhi decided that the Swaraj Movement was becoming too violent following the Chauri Chaura incident and so withdrew his support, which was a massive blow to the Movement.
+  > • Thousands of Muslims migrated to Afghanistan (hijrat) in a religious protest against the British government, but the Afghan government was hostile to the migrants and refused to allow all the refugees to settle, dispiriting the Muslims.
+  > • Some of the leaders including Maulana Muhammad Ali were imprisoned in 1921 which made the organisation less effective.
+  > • The new Turkish government under Kemal Ataturk abolished the institution of the Caliph in 1924, so ending the Movement.
+  >
+  > Level 2: Identifies reasons [2–4]
+  > (One mark for each identification)
+  > e.g.
+  > • Gandhi withdrew his support
+  > • The hijrat failed
+  > • Leaders were imprisoned
+  > • Ataturk abolished the Caliphate
+  >
+  > Level 1: Simple statement [1]
+  > (One mark for any simple statement)
+  > e.g.
+  > • The Movement collapsed
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Khilafat Movement
+- **Secondary Tags:** Causes, Failures, Comparison
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen — no plausible alternate topic existed (stated directly to user rather than as a clickable-options round, per the tool's single-option guidance).
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, no prior moves
+- **Cross References:** —

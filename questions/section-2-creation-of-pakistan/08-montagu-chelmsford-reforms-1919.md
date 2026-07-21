@@ -229,3 +229,33 @@
 - **Version Number:** 24
 - **Allocation History:** Allocated on extraction, Version 24, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q3A
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 3
+- **Part:** (a)
+- **Marks:** 4
+- **Question (Verbatim):**
+  > Who was General Dyer?
+- **Official Mark Scheme (Verbatim):**
+  > Level 1: One mark for each relevant point, two marks for a developed statement [1–4]
+  > e.g.
+  > • British Brigadier-General in command of troops in Amritsar in 1919.
+  > • Ordered his troops to open fire on a crowd of unarmed Indians at Jallianwala Bagh on 13 April 1919 without warning, killing several hundred and wounding over a thousand.
+  > • His action became known as the Amritsar Massacre.
+  > • He was removed from active service following the Hunter Committee's inquiry into the massacre.
+  > • Some in Britain regarded him as a hero who had saved India from a repeat of 1857.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** Montagu–Chelmsford Reforms & Other Events of 1919
+- **Secondary Tags:** Features, Consequences, Political
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ COVID-cancelled series — see Q1(c) note in `section-1-mughal-decline-british-rule/02-east-india-company.md` (students did not sit this May/June 2020 series; MS published unvalidated). Reproduced in Cambridge's newer tabular mark scheme format. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). Topic chosen by user from clickable options, consistent with the established precedent filing Amritsar Massacre/Rowlatt Act-cluster questions under this topic.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —

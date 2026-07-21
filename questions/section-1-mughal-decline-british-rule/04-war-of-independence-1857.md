@@ -483,3 +483,53 @@
 - **Version Number:** 23
 - **Allocation History:** Allocated on extraction, Version 23, per user selection — no prior moves
 - **Cross References:** —
+
+### UQID: PK2059-MJ-2020-V1-Q1D
+
+- **Year:** 2020
+- **Session:** May/June
+- **Variant:** 1
+- **Paper:** 2059/01
+- **Question Number:** 1
+- **Part:** (d)
+- **Marks:** 10
+- **Question (Verbatim):**
+  > To what extent were economic reforms the main cause of the War of Independence in 1857? Explain your answer. [10]
+- **Official Mark Scheme (Verbatim):**
+  > Level 5: Explains with evaluation [10]
+  > As top of Level 4 – also produces a judgement or evaluation.
+  >
+  > Level 4: Explains economic reforms AND other reasons [6–9]
+  > Explains one reason for economic reforms AND one other reason for 6 marks. Additional explanation(s) up to a maximum of 9 marks.
+  >
+  > Level 3: Explains economic reforms OR other reasons [5–7]
+  > Explains one reason for economic reforms OR other reason for 5 marks. Additional explanation(s) for the same line of reasoning up to a maximum of 7 marks.
+  > e.g.
+  > Economic reforms
+  > • The Doctrine of Lapse, under which any local kingdom not having a direct heir was to be taken over by the British, had been introduced without any consultation or care for local feeling and caused great unrest.
+  > • Taxation was high and levied without consideration of local custom, which caused resentment.
+  > Other reasons
+  > • The replacement of Persian and Sanskrit by English as the official language in 1832 deeply upset both the Muslims and Hindus who were concerned about the loss of their culture through a change of language.
+  > • A number of social reforms had been imposed without consultation or care for local feeling which also caused unrest. Indians had to send their children to co-educational schools and were forced to abandon purdah, which again was seen as a threat to their culture.
+  > • The British introduced a new cartridge, which was coated in both cow and pig fat. Because the soldiers had to chew the fat it caused great resentment since the Muslims forbade pig fat and the cow was a sacred animal in the eyes of the Hindus.
+  > • There was a lack of unity and common cause amongst the Indian population.
+  >
+  > Level 2: Identifies/describes economic reforms AND/OR other reason(s) [3–4]
+  > Identifies/describes one reason for economic reforms AND/OR other reason for 3 marks. Additional identification/description(s) up to a maximum of 4 marks.
+  > e.g.
+  > • The Doctrine of Lapse caused unrest.
+  >
+  > Level 1: Simple statement(s) [1–2]
+  > A general answer lacking specific knowledge.
+  > e.g.
+  > • The British took land.
+  >
+  > No evidence submitted or response does not address the question [0]
+- **Suggested Primary Topic:** War of Independence (1857)
+- **Secondary Tags:** Causes, Comparison, Economic
+- **Confidence Level:** N/A — allocated by direct user choice (clickable options), not auto-classified
+- **Allocation Status:** Allocated
+- **Audit Status:** ⚠️ This is the **May/June 2020 sitting of 2059/01 — a series in which students did not sit exam papers due to the Covid-19 global pandemic**. The official mark scheme states verbatim: "Students did not sit exam papers in the June 2020 series due to the Covid-19 global pandemic. This mark scheme is published to support teachers and students... In the June series, Examiners were unable to consider the acceptability of alternative responses, as there were no student responses to consider." Per explicit user instruction, this paper was extracted normally with this context flagged prominently rather than skipped. Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is Section A Q1(d), capped at 10 marks per the established 2015+ pattern. Reproduced in Cambridge's newer tabular mark scheme format. Topic chosen by user from clickable options — no plausible alternate topic existed.
+- **Version Number:** 25
+- **Allocation History:** Allocated on extraction, Version 25, per user selection — no prior moves
+- **Cross References:** —
