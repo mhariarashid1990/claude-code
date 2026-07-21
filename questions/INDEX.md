@@ -28,7 +28,7 @@ Live map of every topic file and its current question count. Updated on every
 | 6 | Reversal of the Partition of Bengal (1911) | `section-2-creation-of-pakistan/06-reversal-of-partition-of-bengal-1911.md` | 1 |
 | 7 | Lucknow Pact & First World War | `section-2-creation-of-pakistan/07-lucknow-pact-first-world-war.md` | 6 |
 | 8 | Montagu–Chelmsford Reforms & Other Events of 1919 | `section-2-creation-of-pakistan/08-montagu-chelmsford-reforms-1919.md` | 14 |
-| 9 | Khilafat Movement | `section-2-creation-of-pakistan/09-khilafat-movement.md` | 19 |
+| 9 | Khilafat Movement | `section-2-creation-of-pakistan/09-khilafat-movement.md` | 20 |
 | 10 | Delhi Proposals & Simon Commission | `section-2-creation-of-pakistan/10-delhi-proposals-simon-commission.md` | 3 |
 | 11 | Nehru Report | `section-2-creation-of-pakistan/11-nehru-report.md` | 4 |
 | 12 | Jinnah's Fourteen Points | `section-2-creation-of-pakistan/12-jinnahs-fourteen-points.md` | 3 |

@@ -7,7 +7,7 @@ _Last updated: Version 37 (full job pass — 473 questions, 33 papers, 2010–20
 
 | Metric | Status |
 |---|---|
-| Questions per topic | See `questions/INDEX.md` — 51 of 56 topics populated, 5 topics at 0 |
+| Questions per topic | See `questions/INDEX.md` — 52 of 57 topics populated, 5 topics at 0 |
 | Zero-coverage topics | 5 (listed below) |
 | Weak coverage topics (1–2 questions) | 8 (listed below) |
 | Heavy coverage topics (≥15 questions) | 9 (listed below) |
@@ -48,8 +48,8 @@ and is treated as expected — not a defect of extraction or allocation.
 | War of Independence (1857) | 22 |
 | Religious Reformers | 22 |
 | Sir Syed Ahmad Khan | 21 |
+| Khilafat Movement | 20 |
 | General Zia-ul-Haq | 20 |
-| Khilafat Movement | 19 |
 | Zulfiqar Ali Bhutto | 18 |
 | Decline of the Mughal Empire | 18 |
 | Ayub Khan | 18 |
@@ -57,7 +57,7 @@ and is treated as expected — not a defect of extraction or allocation.
 ## Full topic frequency ranking (highest to lowest)
 
 43 East India Company · 22 War of Independence (1857) · 22 Religious Reformers ·
-21 Sir Syed Ahmad Khan · 20 General Zia-ul-Haq · 19 Khilafat Movement ·
+21 Sir Syed Ahmad Khan · 20 Khilafat Movement · 20 General Zia-ul-Haq ·
 18 Zulfiqar Ali Bhutto · 18 Decline of the Mughal Empire · 18 Ayub Khan ·
 14 Round Table Conferences · 14 Montagu–Chelmsford Reforms & Other Events of 1919 ·
 14 Iqbal, Rehmat Ali & Jinnah for Pakistan · 14 Benazir Bhutto · 13 Nawaz Sharif ·

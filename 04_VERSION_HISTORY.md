@@ -1845,3 +1845,26 @@ confirmation that it shares the same underlying papers as 2059/01, no
 further extraction pass is planned unless the user later supplies an
 0448/01 paper whose content diverges from its 2059/01 counterpart.
 **Date:** 2026-07-21
+
+## Version 39 — 2026-07-21 — Khilafat Movement count correction
+
+**Questions added:** 0
+**Questions moved:** 0
+**Topics created:** 0
+**Reason:** While parsing the full corpus to build a print PDF export, a
+per-topic bookkeeping error was found: `questions/INDEX.md` listed
+Khilafat Movement at 19 questions, but the topic file itself
+(`section-2-creation-of-pakistan/09-khilafat-movement.md`) has always
+held 20 distinct, non-duplicate UQIDs. The overall bank total of 473 was
+never wrong (it was already reconciled directly against the live UQID
+count rather than against the sum of the per-topic table), so no
+question was missing or duplicated, only this one row's displayed count
+was stale.
+**Audit updates:** `questions/INDEX.md` Khilafat Movement row corrected
+19 → 20 (Section 2 and bank-wide totals unaffected — still 473).
+`02_AUDITS/05_coverage_audit.md` and `02_AUDITS/06_final_qa_audit.md`
+corrected to match (Khilafat Movement moved into the heavy-coverage
+list at 20; populated-topic count corrected from the erroneous "51 of
+56" to the correct **52 of 57**, matching the taxonomy's actual 57
+topics).
+**Date:** 2026-07-21

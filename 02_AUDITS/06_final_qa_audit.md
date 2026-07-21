@@ -18,7 +18,7 @@ _Last updated: Version 37 (full job pass)_
   stray duplicate `Cross References` line (an Edit-anchor-collision artifact from
   the Version 37 move) was found and fixed during this audit pass; see
   `04_metadata_audit.md`.
-- [x] Coverage reviewed — 51/56 topics populated; the 5 zero-coverage topics were
+- [x] Coverage reviewed — 52/57 topics populated; the 5 zero-coverage topics were
   confirmed with the user as expected (no matching Cambridge question exists for
   them across 2010–2025); see `05_coverage_audit.md`.
 - [x] `questions/INDEX.md`, `01_PAPERS_TRACKER.md`, and `04_VERSION_HISTORY.md`
