@@ -1785,3 +1785,63 @@ independent re-judgement applied. This is the first of what may be
 several corrections arising from that review; further moves will be
 logged here as the user confirms them.
 **Date:** 2026-07-21
+
+## Version 38 — 2026-07-21 — Final six-layer audit + Export
+
+**Questions added:** 0
+**Questions moved:** 0
+**Topics created:** 0
+**Trigger:** User confirmed (2026-07-21) that Cambridge IGCSE 0448/01 and
+Cambridge O Level 2059/01 "have same papers despite their different
+codes," and instructed that the final post-completion protocol be run
+now, treating the full master-prompt job (both syllabuses, 2010–2025) as
+complete for audit/export purposes.
+
+**Audit updates — all six layers in `02_AUDITS/*.md` brought current for
+the first time since Version 3 (previously frozen at 1 paper / 15
+questions), now reflecting the full corpus of 473 questions across 33
+papers:**
+- `01_extraction_audit.md` — full per-paper table for all 33 2059/01
+  papers (2010–2025), arithmetic check confirming 165 parts
+  (2010–2014, 15-part rule, 11 papers incl. the 2059/41 resit) + 308
+  parts (2015–2025, 14-part rule, 22 papers) = 473, matching
+  `questions/INDEX.md` exactly.
+- `02_allocation_audit.md` — 473/473 Allocated, 0 pending/rejected;
+  moves log and overlap-resolution log brought current (adds the
+  Version 37 Jizya-tax move and the Canal Water Dispute overlap
+  precedent from Oct/Nov 2022).
+- `03_duplicate_audit.md` — 0 duplicate UQIDs, 0 duplicate mark
+  schemes; 1 genuine question-text recurrence identified (Round Table
+  Conferences, Oct/Nov 2019 and Oct/Nov 2020 — same question set twice
+  by Cambridge, not a bank error) and logged as such.
+- `04_metadata_audit.md` — all 16 template fields present on all 473
+  entries. One defect found and fixed during this pass: a stray
+  duplicate `Cross References` line on the moved Jizya-tax entry in
+  `section-1-mughal-decline-british-rule/02-east-india-company.md`,
+  left over from the Version 37 Edit anchor-collision fix. Removed;
+  the file's field count now reconciles (43 = 43).
+- `05_coverage_audit.md` — full topic frequency ranking across all 56
+  taxonomy topics; confirms the 5 zero-coverage topics already
+  reported to the user (Muslim League 1906–1908; Lahore Resolution
+  1940; Elections of 1945–46; Iran and Turkey; Multiple Topic
+  Questions (International Relations)) and flags 9 heavy-coverage and
+  9 weak-coverage topics for visibility.
+- `06_final_qa_audit.md` — all checklist items pass; overall status
+  changed from "NOT READY" to **READY**.
+
+**Export:** Per `00_SYSTEM/COMMANDS.md`, Export generates "the current
+topical collection while preserving verbatim wording and metadata." The
+`questions/` directory — 31 topic files across 4 sections, organized per
+the fixed 57-topic taxonomy, every entry verbatim with full metadata —
+already **is** that topical collection; per the project's standing rule
+that no generated export artifacts or temporary files are stored in the
+repo, no separate export file has been created. The collection in
+`questions/` is now marked publication-ready. If a specific delivery
+format (single consolidated document, PDF, DOCX, etc.) is wanted, that is
+a distinct request to be scoped separately.
+
+**0448/01 (IGCSE):** Not separately extracted. Per the user's explicit
+confirmation that it shares the same underlying papers as 2059/01, no
+further extraction pass is planned unless the user later supplies an
+0448/01 paper whose content diverges from its 2059/01 counterpart.
+**Date:** 2026-07-21

@@ -1534,5 +1534,4 @@
 - **Audit Status:** Extracted from official mark scheme (MS only; source QP not separately supplied — question text taken verbatim as reprinted in MS). This is the Oct/Nov 2020 sitting of 2059/01 — a normal series, no COVID-cancellation notice. Originally filed under Decline of the Mughal Empire (Version 26, stated directly to user — this paper predates the AskUserQuestion-for-every-question workflow adopted from Oct/Nov 2022 onward). Moved to East India Company at Version 37 per explicit user correction during the post-completion review of all pre-Oct/Nov-2022 single-option allocations.
 - **Version Number:** 37
 - **Allocation History:** Allocated on extraction, Version 26 (Decline of the Mughal Empire, no prior moves); moved to East India Company, Version 37, per explicit user correction
-- **Cross References:** —
-- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (alternate topic considered, not used)
+- **Cross References:** See also `section-1-mughal-decline-british-rule/01-decline-of-the-mughal-empire.md` (original topic prior to Version 37 move)

@@ -47,6 +47,16 @@ assumed in advance (Golden Rule 5).
 | 2024 | — | Not started |
 | 2025 | — | Not started |
 
+**Note (2026-07-21):** User has confirmed that 0448/01 (IGCSE) and 2059/01
+(O Level) share the same underlying papers despite their different codes. No
+0448/01 paper has been separately uploaded or extracted under its own code; the
+rows above are left as "Not started" to reflect that literally, but per the
+user's confirmation the 2059/01 corpus is treated as satisfying this syllabus
+too for the purposes of the six-layer audit and the master-prompt completion
+protocol (see `04_VERSION_HISTORY.md` Version 38). If a 0448/01 paper is
+supplied later with content diverging from its 2059/01 counterpart, it will be
+extracted and tracked here separately at that time.
+
 ## Status legend
 
 - **Not started** — no paper uploaded for this year/paper code
