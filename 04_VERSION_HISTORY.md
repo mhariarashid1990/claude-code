@@ -201,3 +201,12 @@ pattern were present and extracted; none skipped.
 2059/01 2015–2025 (the reduced Q1(c)/(d) + Q2–5(a/b/c) pattern), and all of
 0448/01 (IGCSE) 2010–2025.
 **Date:** 2026-07-19
+
+## Version 10 — 2026-10-18
+
+**Questions added:** 0
+**Questions moved:** 0
+**Topics created:** 0
+**Audit updates:** `questions/INDEX.md` — one-row correction (not a full audit pass; the deferred six-layer audit still waits for 100% job completion per the Version 4 rule). `03_ERROR_LOG.md` — first entry logged (E001).
+**Reason:** User requested a consolidated, student-facing topical compilation of all 90 questions with their official mark schemes in verbatim format, as a single PDF, independently counter-checked. While mechanically parsing every topic file to build that compilation (a full recount of `### UQID:` entries per file, cross-checked against INDEX.md's declared per-row counts), discovered that the "Khilafat Movement" row (Section 2, #9) still declared `2` questions when the file actually contained `3` — the third entry (`PK2059-MJ-2014-V1-Q3C`, added at Version 9) was correctly extracted and allocated the whole time; only the INDEX.md summary row itself was never incremented. The document-level total ("Total questions allocated: 90") was already correct and required no change. Corrected the row from `2` to `3`. No question/mark-scheme content was altered. This is the first real-world case of the kind of discrepancy the deferred full audit (Audit 4: Metadata Audit) is designed to catch — logged here and in `03_ERROR_LOG.md` as E001.
+**Date:** 2026-10-18
